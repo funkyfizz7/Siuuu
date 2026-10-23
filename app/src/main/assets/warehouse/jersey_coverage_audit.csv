@@ -1,0 +1,464 @@
+player_id,player_name,country,jersey_number,jersey_found,source,first_match_date,last_match_date,status
+1,Aaron James Finch,Australia,5,TRUE,Cricket Australia,,,ACTIVE
+345,Abdul Malik,Afghanistan,23,TRUE,ACB,,,ACTIVE
+346,Abdul Wasi,Afghanistan,77,TRUE,ACB,,,ACTIVE
+2,Abdur Razzak,Bangladesh,,FALSE,None,,,ACTIVE
+3,Abhinav Mukund,India,,FALSE,None,,,ACTIVE
+4,Abid Ali,Pakistan,60,TRUE,PCB,,,ACTIVE
+5,Abraham Benjamin de Villiers,South Africa,17,TRUE,CSA,,,HISTORIC
+347,Abu Jayed,Bangladesh,91,TRUE,BCB,,,ACTIVE
+6,Abu Jayed Chowdhury,Bangladesh,91,TRUE,BCB,,,ACTIVE
+7,Adil Usman Rashid,England,,FALSE,None,,,ACTIVE
+348,Afsar Zazai,Afghanistan,20,TRUE,ACB,,,ACTIVE
+8,Ahmed Shehzad,Pakistan,,FALSE,None,,,ACTIVE
+9,Aiden Kyle Markram,South Africa,4,TRUE,CSA,,,ACTIVE
+10,Ainsley Ndlovu,Zimbabwe,,FALSE,None,,,ACTIVE
+11,Ajaz Yunus Patel,New Zealand,24,TRUE,NZC,,,ACTIVE
+12,Ajinkya Madhukar Rahane,India,3,TRUE,BCCI,,,ACTIVE
+349,Akila Dananjaya,Sri Lanka,32,TRUE,SLC,,,ACTIVE
+13,Al-Amin Hossain,Bangladesh,,FALSE,None,,,ACTIVE
+14,Alastair Nathan Cook,England,26,TRUE,ECB,,,HISTORIC
+15,Alexander Graeme Cremer,Zimbabwe,2,TRUE,ZC,,,ACTIVE
+16,Alzarri Shaheim Joseph,West Indies,8,TRUE,CWI,,,ACTIVE
+350,Amir Hamza,Afghanistan,27,TRUE,ACB,,,ACTIVE
+17,Andile Lucky Phehlukwayo,South Africa,,FALSE,None,,,ACTIVE
+18,Andrew Balbirnie,Ireland,63,TRUE,Cricket Ireland,,,ACTIVE
+19,Andrew Robert McBrine,Ireland,35,TRUE,Cricket Ireland,,,ACTIVE
+20,Angelo Davis Mathews,Sri Lanka,69,TRUE,SLC,,,ACTIVE
+21,Anrich Arno Nortje,South Africa,20,TRUE,CSA,,,ACTIVE
+22,Ariful Haque,Bangladesh,,FALSE,None,,,ACTIVE
+23,Asad Shafiq,Pakistan,28,TRUE,PCB,,,ACTIVE
+351,Asela Gunaratne,Sri Lanka,14,TRUE,SLC,,,HISTORIC
+352,Asghar Afghan,Afghanistan,44,TRUE,ACB,,,ACTIVE
+24,Ashton Charles Agar,Australia,46,TRUE,Cricket Australia,,,ACTIVE
+25,Asitha Madusanka Fernando,Sri Lanka,78,TRUE,SLC,,,ACTIVE
+26,Athege Roshen Shivanka Silva,Sri Lanka,,FALSE,None,,,ACTIVE
+27,Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,65,TRUE,SLC,,,ACTIVE
+28,Axar Rajeshbhai Patel,India,20,TRUE,BCCI,,,ACTIVE
+29,Azhar Ali,Pakistan,79,TRUE,PCB,,,ACTIVE
+353,BJ Watling,New Zealand,47,TRUE,NZC,,,ACTIVE
+354,Babar Azam,Pakistan,56,TRUE,PCB,,,ACTIVE
+30,Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,2,TRUE,SLC,,,ACTIVE
+31,Benjamin Andrew Stokes,England,55,TRUE,ECB,,,ACTIVE
+32,Benjamin Thomas Foakes,England,50,TRUE,ECB,,,ACTIVE
+33,Beuran Eric Hendricks,South Africa,14,TRUE,CSA,,,ACTIVE
+355,Bhuvneshwar Kumar,India,15,TRUE,BCCI,,,ACTIVE
+34,Bhuvneshwar Kumar Singh,India,15,TRUE,BCCI,,,ACTIVE
+356,Bilal Asif,Pakistan,33,TRUE,PCB,,,HISTORIC
+35,Blessing Muzarabani,Zimbabwe,40,TRUE,ZC,,,ACTIVE
+36,Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,,FALSE,None,,,ACTIVE
+357,Boyd Rankin,Ireland,33,TRUE,Cricket Ireland,,,ACTIVE
+37,Bradley-John Watling,New Zealand,47,TRUE,NZC,,,ACTIVE
+38,Brandon Anesu Mavuta,Zimbabwe,65,TRUE,ZC,,,ACTIVE
+39,Brendan Ross Murray Taylor,Zimbabwe,1,TRUE,ZC,,,ACTIVE
+40,Brian Bara Chari,Zimbabwe,7,TRUE,ZC,,,ACTIVE
+41,Brian Simbarashe Mudzinganyama,Zimbabwe,,FALSE,None,,,ACTIVE
+42,Cameron Donald Green,Australia,42,TRUE,Cricket Australia,,,ACTIVE
+43,Cameron Timothy Bancroft,Australia,6,TRUE,Cricket Australia,,,ACTIVE
+44,Carl Tapfuma Mumba,Zimbabwe,55,TRUE,ZC,,,ACTIVE
+45,Chadd James Sayers,Australia,16,TRUE,Cricket Australia,,,ACTIVE
+46,Chamika Karunaratne,Sri Lanka,,FALSE,None,,,ACTIVE
+358,Chamu Chibhabha,Zimbabwe,88,TRUE,ZC,,,ACTIVE
+47,Chamunorwa Justice Chibhabha,Zimbabwe,88,TRUE,ZC,,,ACTIVE
+48,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,63,TRUE,SLC,,,ACTIVE
+49,Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,26,TRUE,SLC,,,ACTIVE
+50,Charlton Kirsh Tshuma,Zimbabwe,,FALSE,None,,,ACTIVE
+51,Chemar Keron Holder,West Indies,,FALSE,None,,,ACTIVE
+52,Cheteshwar Arvind Pujara,India,25,TRUE,BCCI,,,ACTIVE
+53,Christopher Bobby Mpofu,Zimbabwe,28,TRUE,ZC,,,ACTIVE
+54,Christopher Henry Morris,South Africa,,FALSE,None,,,ACTIVE
+55,Christopher Roger Woakes,England,19,TRUE,ECB,,,ACTIVE
+359,Colin Stuart,West Indies,42,TRUE,CWI,,,HISTORIC
+56,Colin de Grandhomme,New Zealand,77,TRUE,NZC,,,ACTIVE
+57,Confidence Tinotenda Mutombodzi,Zimbabwe,53,TRUE,ZC,,,ACTIVE
+58,Craig Overton,England,99,TRUE,ECB,,,ACTIVE
+59,Craig Richard Ervine,Zimbabwe,77,TRUE,ZC,,,ACTIVE
+60,Dale Willem Steyn,South Africa,8,TRUE,CSA,,,ACTIVE
+61,Dane Leeroy Piedt,South Africa,,FALSE,None,,,ACTIVE
+62,Dane Paterson,South Africa,23,TRUE,CSA,,,ACTIVE
+63,Daniel William Lawrence,England,34,TRUE,ECB,,,ACTIVE
+360,Danushka Gunathilaka,Sri Lanka,38,TRUE,SLC,,,ACTIVE
+64,Darren Michael Bravo,West Indies,46,TRUE,CWI,,,ACTIVE
+65,Daryl Joseph Mitchell,New Zealand,75,TRUE,NZC,,,ACTIVE
+361,Dasun Shanaka,Sri Lanka,7,TRUE,SLC,,,ACTIVE
+66,David Andrew Warner,Australia,31,TRUE,Cricket Australia,,,ACTIVE
+67,Dawid Johannes Malan,England,29,TRUE,ECB,,,ACTIVE
+68,Dean Elgar,South Africa,64,TRUE,CSA,,,ACTIVE
+69,Devendra Bishoo,West Indies,70,TRUE,CWI,,,HISTORIC
+70,Devon Sheldon Smith,West Indies,,FALSE,None,,,ACTIVE
+71,Dhananjaya Maduranga de Silva,Sri Lanka,75,TRUE,SLC,,,ACTIVE
+72,Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,48,TRUE,SLC,,,ACTIVE
+362,Dilruwan Perera,Sri Lanka,57,TRUE,SLC,,,ACTIVE
+363,Dimuth Karunaratne,Sri Lanka,21,TRUE,SLC,,,ACTIVE
+364,Dinesh Chandimal,Sri Lanka,36,TRUE,SLC,,,ACTIVE
+365,Dinesh Karthik,India,19,TRUE,BCCI,,,ACTIVE
+366,Dom Bess,England,70,TRUE,ECB,,,ACTIVE
+367,Dom Sibley,England,52,TRUE,ECB,,,ACTIVE
+73,Dominic Mark Bess,England,70,TRUE,ECB,,,ACTIVE
+74,Dominic Peter Sibley,England,52,TRUE,ECB,,,ACTIVE
+75,Donald Tatenda Tiripano,Zimbabwe,33,TRUE,ZC,,,ACTIVE
+76,Downdegedara Asela Sampath Gunaratne,Sri Lanka,,FALSE,None,,,ACTIVE
+77,Duanne Olivier,South Africa,31,TRUE,CSA,,,ACTIVE
+368,Dushmantha Chameera,Sri Lanka,5,TRUE,SLC,,,ACTIVE
+78,Dwaine Pretorius,South Africa,,FALSE,None,,,ACTIVE
+369,Ebadot Hossain,Bangladesh,58,TRUE,BCB,,,ACTIVE
+79,Ebadot Hossain Chowdhury,Bangladesh,58,TRUE,BCB,,,ACTIVE
+370,Ed Joyce,Ireland,4,TRUE,Cricket Ireland,,,HISTORIC
+80,Edmund Christopher Joyce,Ireland,,FALSE,None,,,ACTIVE
+371,Faf du Plessis,South Africa,18,TRUE,CSA,,,ACTIVE
+81,Faheem Ashraf,Pakistan,41,TRUE,PCB,,,ACTIVE
+82,Fakhar Zaman,Pakistan,,FALSE,None,,,ACTIVE
+83,Fawad Alam,Pakistan,25,TRUE,PCB,,,ACTIVE
+84,Francois du Plessis,South Africa,18,TRUE,CSA,,,ACTIVE
+85,Frank Dimuth Madushanka Karunaratne,Sri Lanka,,FALSE,None,,,ACTIVE
+86,Gade Hanuma Vihari,India,44,TRUE,BCCI,,,ACTIVE
+87,Gary Craig Wilson,Ireland,14,TRUE,Cricket Ireland,,,ACTIVE
+88,Gary Simon Ballance,Zimbabwe,42,TRUE,ECB,,,ACTIVE
+372,George Dockrell,Ireland,50,TRUE,Cricket Ireland,,,ACTIVE
+89,George Fredrik Linde,South Africa,28,TRUE,CSA,,,ACTIVE
+90,Glenn Dominic Phillips,New Zealand,23,TRUE,NZC,,,ACTIVE
+91,Glenn James Maxwell,Australia,32,TRUE,Cricket Australia,,,ACTIVE
+373,Graeme Cremer,Zimbabwe,2,TRUE,ZC,,,ACTIVE
+92,Hamilton Masakadza,Zimbabwe,3,TRUE,ZC,,,ACTIVE
+374,Hanuma Vihari,India,44,TRUE,BCCI,,,ACTIVE
+93,Hardik Himanshu Pandya,India,33,TRUE,BCCI,,,ACTIVE
+94,Haris Sohail,Pakistan,89,TRUE,PCB,,,ACTIVE
+95,Hasan Ali,Pakistan,32,TRUE,PCB,,,ACTIVE
+96,Hashim Mahomed Amla,South Africa,1,TRUE,CSA,,,ACTIVE
+375,Hashmatullah Shahidi,Afghanistan,50,TRUE,ACB,,,ACTIVE
+97,Heino Gunther Kuhn,South Africa,,FALSE,None,,,ACTIVE
+98,Heinrich Klaasen,South Africa,,FALSE,None,,,ACTIVE
+99,Hendrik Erasmus van der Dussen,South Africa,72,TRUE,CSA,,,ACTIVE
+100,Henry Michael Nicholls,New Zealand,86,TRUE,NZC,,,ACTIVE
+101,Herath Mudiyanselage Rangana Keerthi Bandara Herath,Sri Lanka,19,TRUE,SLC,,,HISTORIC
+102,Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,66,TRUE,SLC,,,ACTIVE
+103,Hilton William Raymond Cartwright,Australia,25,TRUE,Cricket Australia,,,ACTIVE
+376,Ibrahim Zadran,Afghanistan,18,TRUE,ACB,,,ACTIVE
+104,Iftikhar Ahmed,Pakistan,,FALSE,None,,,ACTIVE
+377,Ihsanullah,Afghanistan,65,TRUE,ACB,,,ACTIVE
+378,Ikram Alikhil,Afghanistan,46,TRUE,ACB,,,ACTIVE
+105,Imam-ul-Haq,Pakistan,26,TRUE,PCB,,,ACTIVE
+106,Imran Butt,Pakistan,,FALSE,None,,,ACTIVE
+379,Imran Khan,Pakistan,27,TRUE,PCB,,,HISTORIC
+107,Imrul Kayes,Bangladesh,45,TRUE,BCB,,,ACTIVE
+108,Inderbir Singh Sodhi,New Zealand,,FALSE,None,,,ACTIVE
+380,Ish Sodhi,New Zealand,61,TRUE,NZC,,,ACTIVE
+109,Ishant Sharma,India,97,TRUE,BCCI,,,ACTIVE
+381,Jack Leach,England,77,TRUE,ECB,,,ACTIVE
+110,Jackson Munro Bird,Australia,47,TRUE,Cricket Australia,,,ACTIVE
+111,Jacob Timothy Ball,England,,FALSE,None,,,ACTIVE
+112,Jahmar Neville Hamilton,West Indies,41,TRUE,CWI,,,ACTIVE
+382,Jake Ball,England,28,TRUE,ECB,,,ACTIVE
+113,James Alexander McCollum,Ireland,7,TRUE,Cricket Ireland,,,ACTIVE
+383,James Cameron-Dow,Ireland,28,TRUE,Cricket Ireland,,,ACTIVE
+114,James Douglas Sheahan Neesham,New Zealand,,FALSE,None,,,ACTIVE
+115,James Lee Pattinson,Australia,19,TRUE,Cricket Australia,,,ACTIVE
+116,James Michael Anderson,England,9,TRUE,ECB,,,ACTIVE
+117,James Michael Vince,England,14,TRUE,ECB,,,ACTIVE
+118,Jason Jonathan Roy,England,20,TRUE,ECB,,,ACTIVE
+119,Jason Omar Holder,West Indies,98,TRUE,CWI,,,ACTIVE
+120,Jasprit Jasbirsingh Bumrah,India,93,TRUE,BCCI,,,ACTIVE
+384,Javed Ahmadi,Afghanistan,16,TRUE,ACB,,,ACTIVE
+121,Jayan Kaushal Silva,Sri Lanka,28,TRUE,SLC,,,ACTIVE
+122,Jayant Yadav,India,15,TRUE,BCCI,,,ACTIVE
+123,Jean-Paul Duminy,South Africa,,FALSE,None,,,ACTIVE
+124,Jeet Ashok Raval,New Zealand,1,TRUE,NZC,,,ACTIVE
+125,Jeetan Shashi Patel,New Zealand,,FALSE,None,,,ACTIVE
+126,Jermaine Blackwood,West Indies,27,TRUE,CWI,,,ACTIVE
+127,Jhye Avon Richardson,Australia,60,TRUE,Cricket Australia,,,ACTIVE
+128,Jofra Chioke Archer,England,22,TRUE,ECB,,,ACTIVE
+129,John Dillon Campbell,West Indies,32,TRUE,CWI,,,ACTIVE
+130,Jomel Andrel Warrican,West Indies,65,TRUE,CWI,,,ACTIVE
+131,Jonathan Marc Bairstow,England,51,TRUE,ECB,,,ACTIVE
+132,Jonathan Mark Holland,Australia,,FALSE,None,,,ACTIVE
+385,Jonny Bairstow,England,51,TRUE,ECB,,,ACTIVE
+386,Jos Buttler,England,63,TRUE,ECB,,,ACTIVE
+133,Joseph Anthony Burns,Italy,15,TRUE,Cricket Australia,,,ACTIVE
+134,Joseph Charles Buttler,England,63,TRUE,ECB,,,ACTIVE
+135,Joseph Edward Root,England,66,TRUE,ECB,,,ACTIVE
+136,Joseph Liam Denly,England,24,TRUE,ECB,,,ACTIVE
+137,Josh Reginald Hazlewood,Australia,38,TRUE,Cricket Australia,,,ACTIVE
+138,Joshua Da Silva,West Indies,35,TRUE,CWI,,,ACTIVE
+139,Kagiso Rabada,South Africa,25,TRUE,CSA,,,ACTIVE
+387,Kamrul Islam,Bangladesh,21,TRUE,BCB,,,HISTORIC
+140,Kamrul Islam Rabbi,Bangladesh,21,TRUE,BCB,,,ACTIVE
+141,Kane Stuart Williamson,New Zealand,22,TRUE,NZC,,,ACTIVE
+142,Kannaur Lokesh Rahul,India,1,TRUE,BCCI,,,ACTIVE
+143,Karun Nair,India,69,TRUE,BCCI,,,ACTIVE
+388,Kasun Rajitha,Sri Lanka,26,TRUE,SLC,,,ACTIVE
+389,Kaushal Silva,Sri Lanka,28,TRUE,SLC,,,HISTORIC
+144,Keaton Kent Jennings,England,65,TRUE,ECB,,,ACTIVE
+145,Keemo Mandela Angus Paul,West Indies,84,TRUE,CWI,,,ACTIVE
+146,Kemar Andre Jamal Roach,West Indies,24,TRUE,CWI,,,ACTIVE
+147,Keshav Athmanand Maharaj,South Africa,16,TRUE,CSA,,,ACTIVE
+148,Kevin Joseph O'Brien,Ireland,22,TRUE,Cricket Ireland,,,ACTIVE
+149,Kevin Tatenda Kasuza,Zimbabwe,17,TRUE,ZC,,,ACTIVE
+390,Khaled Ahmed,Bangladesh,14,TRUE,BCB,,,ACTIVE
+150,Kieran Omar Akeem Powell,West Indies,53,TRUE,CWI,,,ACTIVE
+151,Kraigg Clairmonte Brathwaite,West Indies,11,TRUE,CWI,,,ACTIVE
+152,Krishnakumar Dinesh Karthik,India,19,TRUE,BCCI,,,ACTIVE
+153,Kuldeep Yadav,India,23,TRUE,BCCI,,,ACTIVE
+154,Kurtis Robert Patterson,Australia,17,TRUE,Cricket Australia,,,ACTIVE
+391,Kusal Mendis,Sri Lanka,2,TRUE,SLC,,,ACTIVE
+392,Kusal Perera,Sri Lanka,55,TRUE,SLC,,,ACTIVE
+155,Kyle Alex Jamieson,New Zealand,12,TRUE,NZC,,,ACTIVE
+156,Kyle Antonio Hope,West Indies,,FALSE,None,,,ACTIVE
+157,Kyle John Abbott,South Africa,,FALSE,None,,,ACTIVE
+158,Kyle Malcolm Jarvis,Zimbabwe,84,TRUE,ZC,,,ACTIVE
+159,Kyle Rico Mayers,West Indies,71,TRUE,CWI,,,ACTIVE
+160,Lachlan Hammond Ferguson,New Zealand,,FALSE,None,,,ACTIVE
+393,Lahiru Gamage,Sri Lanka,91,TRUE,SLC,,,HISTORIC
+394,Lahiru Kumara,Sri Lanka,63,TRUE,SLC,,,ACTIVE
+395,Lahiru Thirimanne,Sri Lanka,66,TRUE,SLC,,,ACTIVE
+396,Lakshan Sandakan,Sri Lanka,88,TRUE,SLC,,,ACTIVE
+161,Lasith Embuldeniya,Sri Lanka,4,TRUE,SLC,,,ACTIVE
+162,Liam Andrew Dawson,England,83,TRUE,ECB,,,ACTIVE
+397,Liton Das,Bangladesh,16,TRUE,BCB,,,ACTIVE
+163,Litton Kumer Das,Bangladesh,16,TRUE,BCB,,,ACTIVE
+398,Lockie Ferguson,New Zealand,69,TRUE,NZC,,,ACTIVE
+164,Lokuge Dinesh Chandimal,Sri Lanka,36,TRUE,SLC,,,ACTIVE
+165,Lubabalo Lutho Sipamla,South Africa,67,TRUE,CSA,,,ACTIVE
+399,Lungi Ngidi,South Africa,22,TRUE,CSA,,,ACTIVE
+166,Lungisani True-man Ngidi,South Africa,22,TRUE,CSA,,,ACTIVE
+167,Luteru Ross Poutoa Lote Taylor,New Zealand,3,TRUE,NZC,,,ACTIVE
+400,Lutho Sipamla,South Africa,67,TRUE,CSA,,,ACTIVE
+168,Madagamagamage Dasun Shanaka,Sri Lanka,7,TRUE,SLC,,,ACTIVE
+169,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Sri Lanka,32,TRUE,SLC,,,ACTIVE
+170,Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,57,TRUE,SLC,,,ACTIVE
+171,Mahela Lakmal Udawatte,Sri Lanka,,FALSE,None,,,ACTIVE
+401,Mahmudullah,Bangladesh,30,TRUE,BCB,,,ACTIVE
+172,Malcolm Noel Waller,Zimbabwe,,FALSE,None,,,ACTIVE
+402,Malinda Pushpakumara,Sri Lanka,67,TRUE,SLC,,,HISTORIC
+173,Marcus Sinclair Harris,Australia,14,TRUE,Cricket Australia,,,ACTIVE
+174,Mark Andrew Wood,England,33,TRUE,ECB,,,ACTIVE
+175,Mark Daniel Stoneman,England,36,TRUE,ECB,,,ACTIVE
+176,Mark Richard Adair,Ireland,32,TRUE,Cricket Ireland,,,ACTIVE
+177,Marnus Labuschagne,Australia,33,TRUE,Cricket Australia,,,ACTIVE
+178,Mashtayage Danushka Gunathilaka,Sri Lanka,38,TRUE,SLC,,,ACTIVE
+179,Mason Sidney Crane,England,32,TRUE,ECB,,,ACTIVE
+180,Mathurage Don Kusal Janith Perera,Sri Lanka,55,TRUE,SLC,,,ACTIVE
+181,Matthew Jack Leach,England,77,TRUE,ECB,,,ACTIVE
+182,Matthew James Henry,New Zealand,21,TRUE,NZC,,,ACTIVE
+183,Matthew Scott Wade,Australia,13,TRUE,Cricket Australia,,,ACTIVE
+184,Matthew Thomas Renshaw,Australia,26,TRUE,Cricket Australia,,,ACTIVE
+403,Mayank Agarwal,India,16,TRUE,BCCI,,,ACTIVE
+185,Mayank Anurag Agarawal,India,16,TRUE,BCCI,,,ACTIVE
+186,Mehidy Hasan Miraz,Bangladesh,53,TRUE,BCB,,,ACTIVE
+187,Miguel Lamar Cummins,West Indies,38,TRUE,CWI,,,ACTIVE
+404,Minod Bhanuka,Sri Lanka,53,TRUE,SLC,,,ACTIVE
+188,Mir Hamza,Pakistan,31,TRUE,PCB,,,ACTIVE
+405,Misbah-ul-Haq,Pakistan,22,TRUE,PCB,,,HISTORIC
+189,Misbah-ul-Haq Khan Niazi,Pakistan,22,TRUE,PCB,,,HISTORIC
+190,Mitchell Aaron Starc,Australia,56,TRUE,Cricket Australia,,,ACTIVE
+191,Mitchell Josef Santner,New Zealand,74,TRUE,NZC,,,ACTIVE
+192,Mitchell Ross Marsh,Australia,8,TRUE,Cricket Australia,,,ACTIVE
+193,Moeen Munir Ali,England,18,TRUE,ECB,,,ACTIVE
+194,Mohammad Abbas,Pakistan,5,TRUE,PCB,,,ACTIVE
+195,Mohammad Amir,Pakistan,5,TRUE,PCB,,,ACTIVE
+196,Mohammad Babar Azam,Pakistan,56,TRUE,PCB,,,ACTIVE
+197,Mohammad Bilal Asif,Pakistan,33,TRUE,PCB,,,HISTORIC
+198,Mohammad Hafeez,Pakistan,8,TRUE,PCB,,,ACTIVE
+199,Mohammad Imran Khan,Pakistan,27,TRUE,PCB,,,ACTIVE
+200,Mohammad Mahmudullah,Bangladesh,30,TRUE,BCB,,,ACTIVE
+201,Mohammad Mithun,Bangladesh,,FALSE,None,,,ACTIVE
+202,Mohammad Mushfiqur Rahim,Bangladesh,15,TRUE,BCB,,,ACTIVE
+406,Mohammad Nabi,Afghanistan,7,TRUE,ACB,,,ACTIVE
+203,Mohammad Nasir Hossain,Bangladesh,55,TRUE,BCB,,,HISTORIC
+204,Mohammad Nayeem Hasan,Bangladesh,63,TRUE,BCB,,,ACTIVE
+205,Mohammad Nazmul Islam,Bangladesh,43,TRUE,BCB,,,HISTORIC
+206,Mohammad Rizwan,Pakistan,16,TRUE,PCB,,,ACTIVE
+207,Mohammad Rubel Hossain,Bangladesh,34,TRUE,BCB,,,ACTIVE
+208,Mohammad Sabbir Rahman,Bangladesh,1,TRUE,BCB,,,HISTORIC
+209,Mohammad Saif Hassan,Bangladesh,8,TRUE,BCB,,,ACTIVE
+407,Mohammad Shahzad,Afghanistan,77,TRUE,ACB,,,ACTIVE
+210,Mohammad Younis Khan,Pakistan,75,TRUE,PCB,,,HISTORIC
+408,Mohammed Shami,India,11,TRUE,BCCI,,,ACTIVE
+211,Mohammed Shami Ahmed,India,11,TRUE,BCCI,,,ACTIVE
+212,Mohammed Siraj,India,73,TRUE,BCCI,,,ACTIVE
+213,Mominul Haque,Bangladesh,68,TRUE,BCB,,,ACTIVE
+214,Morne Morkel,South Africa,65,TRUE,CSA,,,HISTORIC
+409,Mosaddek Hossain,Bangladesh,17,TRUE,BCB,,,ACTIVE
+215,Mosaddek Hossain Saikat,Bangladesh,17,TRUE,BCB,,,ACTIVE
+410,Muhammad Musa,Pakistan,91,TRUE,PCB,,,ACTIVE
+216,Muhammad Musa Khan,Pakistan,91,TRUE,PCB,,,ACTIVE
+411,Mujeeb Ur Rahman,Afghanistan,88,TRUE,ACB,,,ACTIVE
+412,Munir Ahmad,Afghanistan,52,TRUE,ACB,,,ACTIVE
+217,Murali Vijay,India,8,TRUE,BCCI,,,ACTIVE
+413,Mushfiqur Rahim,Bangladesh,15,TRUE,BCB,,,ACTIVE
+218,Mustafizur Rahman,Bangladesh,90,TRUE,BCB,,,ACTIVE
+219,Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,68,TRUE,SLC,,,ACTIVE
+220,Najmul Hossain Shanto,Bangladesh,99,TRUE,BCB,,,ACTIVE
+221,Naseem Shah,Pakistan,71,TRUE,PCB,,,ACTIVE
+414,Nasir Hossain,Bangladesh,55,TRUE,BCB,,,HISTORIC
+415,Nasir Jamal,Afghanistan,29,TRUE,ACB,,,ACTIVE
+222,Nathan Michael Lyon,Australia,67,TRUE,Cricket Australia,,,ACTIVE
+416,Nauman Ali,Pakistan,61,TRUE,PCB,,,ACTIVE
+223,Navdeep Amarjeet Saini,India,96,TRUE,BCCI,,,ACTIVE
+417,Nayeem Hasan,Bangladesh,63,TRUE,BCB,,,ACTIVE
+418,Nazmul Islam,Bangladesh,43,TRUE,BCB,,,HISTORIC
+224,Neil Trevor Broom,New Zealand,28,TRUE,NZC,,,ACTIVE
+225,Neil Wagner,New Zealand,10,TRUE,NZC,,,ACTIVE
+226,Niall John O'Brien,Ireland,,FALSE,None,,,ACTIVE
+419,Niroshan Dickwella,Sri Lanka,48,TRUE,SLC,,,ACTIVE
+227,Nkrumah Eljego Bonner,West Indies,14,TRUE,CWI,,,ACTIVE
+228,Noman Ali,Pakistan,61,TRUE,PCB,,,ACTIVE
+420,Nurul Hasan,Bangladesh,81,TRUE,BCB,,,ACTIVE
+421,Nuwan Pradeep,Sri Lanka,65,TRUE,SLC,,,HISTORIC
+229,Oliver John Douglas Pope,England,80,TRUE,ECB,,,ACTIVE
+230,Oliver Peter Stone,England,26,TRUE,ECB,,,ACTIVE
+422,Ollie Pope,England,80,TRUE,ECB,,,ACTIVE
+423,Olly Stone,England,26,TRUE,ECB,,,ACTIVE
+424,Oshada Fernando,Sri Lanka,80,TRUE,SLC,,,ACTIVE
+231,Panagamuwa Lahiru Sampath Gamage,Sri Lanka,,FALSE,None,,,ACTIVE
+232,Parthiv Ajay Patel,India,9,TRUE,BCCI,,,ACTIVE
+425,Pat Cummins,Australia,30,TRUE,Cricket Australia,,,ACTIVE
+233,Pathira Vasan Dushmantha Chameera,Sri Lanka,5,TRUE,SLC,,,ACTIVE
+234,Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,88,TRUE,SLC,,,ACTIVE
+426,Pathum Nissanka,Sri Lanka,18,TRUE,SLC,,,ACTIVE
+235,Pathum Nissanka Silva,Sri Lanka,18,TRUE,SLC,,,ACTIVE
+236,Patrick James Cummins,Australia,30,TRUE,Cricket Australia,,,ACTIVE
+237,Paul Robert Stirling,Ireland,1,TRUE,Cricket Ireland,,,ACTIVE
+238,Pawuluge Malinda Pushpakumara,Sri Lanka,67,TRUE,SLC,,,ACTIVE
+239,Peter Joseph Moor,Ireland,10,TRUE,Cricket Ireland,,,ACTIVE
+240,Peter Matthew Siddle,Australia,10,TRUE,Cricket Australia,,,ACTIVE
+241,Peter Stephen Patrick Handscomb,Australia,54,TRUE,Cricket Australia,,,ACTIVE
+242,Pieter Jacobus Malan,South Africa,26,TRUE,CSA,,,ACTIVE
+243,Pieter Willem Adriaan Mulder,South Africa,13,TRUE,CSA,,,ACTIVE
+244,Pinnaduwage Wanindu Hasaranga de Silva,Sri Lanka,49,TRUE,SLC,,,ACTIVE
+245,Prince Spencer Masvaure,Zimbabwe,9,TRUE,ZC,,,ACTIVE
+246,Prithvi Pankaj Shaw,India,100,TRUE,BCCI,,,ACTIVE
+427,Qais Ahmad,Afghanistan,32,TRUE,ACB,,,ACTIVE
+247,Quazi Nurul Hasan,Bangladesh,81,TRUE,BCB,,,ACTIVE
+248,Quinton de Kock,South Africa,12,TRUE,CSA,,,ACTIVE
+249,Rahat Ali,Pakistan,21,TRUE,PCB,,,HISTORIC
+250,Rahkeem Rashawn Shane Cornwall,West Indies,93,TRUE,CWI,,,ACTIVE
+428,Rahmat Shah,Afghanistan,8,TRUE,ACB,,,ACTIVE
+429,Ramesh Mendis,Sri Lanka,25,TRUE,SLC,,,ACTIVE
+251,Ranasinghe Arachchige Minod Bhanuka Ranasinghe,Sri Lanka,53,TRUE,SLC,,,ACTIVE
+252,Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,82,TRUE,SLC,,,ACTIVE
+430,Rangana Herath,Sri Lanka,19,TRUE,SLC,,,HISTORIC
+431,Rashid Khan,Afghanistan,19,TRUE,ACB,,,ACTIVE
+432,Rassie van der Dussen,South Africa,72,TRUE,CSA,,,ACTIVE
+253,Ravichandran Ashwin,India,99,TRUE,BCCI,,,ACTIVE
+433,Ravindra Jadeja,India,8,TRUE,BCCI,,,ACTIVE
+254,Ravindrasinh Anirudhsinh Jadeja,India,8,TRUE,BCCI,,,ACTIVE
+255,Raymon Anton Reifer,West Indies,87,TRUE,CWI,,,ACTIVE
+256,Regis Wiriranai Chakabva,Zimbabwe,5,TRUE,ZC,,,ACTIVE
+257,Rishabh Rajendra Pant,India,17,TRUE,BCCI,,,ACTIVE
+258,Rohit Gurunath Sharma,India,45,TRUE,BCCI,,,ACTIVE
+259,Rory Joseph Burns,England,27,TRUE,ECB,,,ACTIVE
+434,Roshen Silva,Sri Lanka,17,TRUE,SLC,,,ACTIVE
+435,Ross Taylor,New Zealand,3,TRUE,NZC,,,ACTIVE
+260,Roston Lamar Chase,West Indies,10,TRUE,CWI,,,ACTIVE
+436,Rubel Hossain,Bangladesh,34,TRUE,BCB,,,ACTIVE
+261,Ryan Ponsonby Burl,Zimbabwe,,FALSE,None,,,ACTIVE
+437,Sabbir Rahman,Bangladesh,1,TRUE,BCB,,,HISTORIC
+438,Sadeera Samarawickrama,Sri Lanka,23,TRUE,SLC,,,ACTIVE
+439,Saif Hassan,Bangladesh,8,TRUE,BCB,,,ACTIVE
+440,Sam Curran,England,58,TRUE,ECB,,,ACTIVE
+262,Sami Aslam,Pakistan,12,TRUE,PCB,,,HISTORIC
+263,Samuel Matthew Curran,England,58,TRUE,ECB,,,ACTIVE
+264,Sarfaraz Ahmed,Pakistan,54,TRUE,PCB,,,ACTIVE
+441,Sayed Shirzad,Afghanistan,35,TRUE,ACB,,,ACTIVE
+265,Sean Colin Williams,Zimbabwe,14,TRUE,ZC,,,ACTIVE
+266,Senuran Muthusamy,South Africa,69,TRUE,CSA,,,ACTIVE
+267,Shadab Khan,Pakistan,7,TRUE,PCB,,,ACTIVE
+442,Shadman Islam,Bangladesh,30,TRUE,BCB,,,ACTIVE
+268,Shadman Islam Anik,Bangladesh,30,TRUE,BCB,,,ACTIVE
+269,Shafiul Islam,Bangladesh,89,TRUE,BCB,,,HISTORIC
+270,Shahbaz Nadeem,India,88,TRUE,BCCI,,,ACTIVE
+271,Shaheen Shah Afridi,Pakistan,10,TRUE,PCB,,,ACTIVE
+443,Shahidullah,Afghanistan,84,TRUE,ACB,,,ACTIVE
+272,Shai Diego Hope,West Indies,4,TRUE,CWI,,,ACTIVE
+273,Shakib Al Hasan,Bangladesh,75,TRUE,BCB,,,ACTIVE
+274,Shamarh Shaqad Joshua Brooks,West Indies,13,TRUE,CWI,,,ACTIVE
+444,Shan Masood,Pakistan,94,TRUE,PCB,,,ACTIVE
+275,Shan Masood Khan,Pakistan,94,TRUE,PCB,,,ACTIVE
+276,Shane Omari Dowrich,West Indies,68,TRUE,CWI,,,ACTIVE
+277,Shannon Terry Gabriel,West Indies,85,TRUE,CWI,,,ACTIVE
+278,Shardul Narendra Thakur,India,54,TRUE,BCCI,,,ACTIVE
+279,Sharjeel Khan,Pakistan,98,TRUE,PCB,,,HISTORIC
+280,Shaun Edward Marsh,Australia,9,TRUE,Cricket Australia,,,ACTIVE
+281,Shayne Akeel Richard Moseley,West Indies,31,TRUE,CWI,,,ACTIVE
+282,Shermon Hakim Lewis,West Indies,16,TRUE,CWI,,,ACTIVE
+283,Shikhar Dhawan,India,25,TRUE,BCCI,,,ACTIVE
+284,Shimron Odilon Hetmyer,West Indies,2,TRUE,CWI,,,ACTIVE
+285,Shubman Gill,India,77,TRUE,BCCI,,,ACTIVE
+445,Sikandar Raza,Zimbabwe,24,TRUE,ZC,,,ACTIVE
+286,Sikandar Raza Butt,Zimbabwe,24,TRUE,ZC,,,ACTIVE
+446,Sir Alastair Cook,England,26,TRUE,ECB,,,HISTORIC
+287,Solomon Farai Mire,Zimbabwe,,FALSE,None,,,ACTIVE
+288,Soumya Sarkar,Bangladesh,59,TRUE,BCB,,,ACTIVE
+289,Stephen Craig Cook,South Africa,32,TRUE,CSA,,,ACTIVE
+290,Stephen Norman John O'Keefe,Australia,70,TRUE,Cricket Australia,,,HISTORIC
+447,Steve O'Keefe,Australia,70,TRUE,Cricket Australia,,,HISTORIC
+291,Steven Peter Devereux Smith,Australia,49,TRUE,Cricket Australia,,,ACTIVE
+292,Stuart Christopher John Broad,England,8,TRUE,ECB,,,ACTIVE
+448,Stuart Poynter,Ireland,18,TRUE,Cricket Ireland,,,ACTIVE
+293,Stuart Robert Thompson,Ireland,24,TRUE,Cricket Ireland,,,ACTIVE
+294,Subashis Roy,Bangladesh,,FALSE,None,,,ACTIVE
+295,Sunil Walford Ambris,West Indies,26,TRUE,CWI,,,ACTIVE
+296,Sunzamul Islam,Bangladesh,64,TRUE,BCB,,,HISTORIC
+449,Suranga Lakmal,Sri Lanka,82,TRUE,SLC,,,ACTIVE
+297,Syed Khaled Ahmed,Bangladesh,14,TRUE,BCB,,,ACTIVE
+298,Tabraiz Shamsi,South Africa,68,TRUE,CSA,,,ACTIVE
+299,Taijul Islam,Bangladesh,12,TRUE,BCB,,,ACTIVE
+450,Tamim Iqbal,Bangladesh,28,TRUE,BCB,,,ACTIVE
+300,Tamim Iqbal Khan,Bangladesh,28,TRUE,BCB,,,ACTIVE
+301,Tarisai Kenneth Musakanda,Zimbabwe,16,TRUE,ZC,,,ACTIVE
+302,Taskin Ahmed,Bangladesh,3,TRUE,BCB,,,ACTIVE
+303,Temba Bavuma,South Africa,11,TRUE,CSA,,,ACTIVE
+304,Tendai Larry Chatara,Zimbabwe,13,TRUE,ZC,,,ACTIVE
+305,Tendai Sam Chisoro,Zimbabwe,35,TRUE,ZC,,,ACTIVE
+306,Thangarasu Natarajan,India,4,TRUE,BCCI,,,ACTIVE
+307,Theunis Booysen de Bruyn,South Africa,29,TRUE,CSA,,,ACTIVE
+308,Thomas Ackland Blundell,New Zealand,52,TRUE,NZC,,,ACTIVE
+309,Thomas Kevin Curran,England,59,TRUE,ECB,,,ACTIVE
+310,Thomas Westley,England,21,TRUE,ECB,,,ACTIVE
+311,Thomas William Maxwell Latham,New Zealand,48,TRUE,NZC,,,ACTIVE
+312,Timothy David Paine,Australia,7,TRUE,Cricket Australia,,,ACTIVE
+313,Timothy Grant Southee,New Zealand,38,TRUE,NZC,,,ACTIVE
+314,Timothy James Murtagh,Ireland,77,TRUE,Cricket Ireland,,,ACTIVE
+315,Timycen Hlahla Maruma,Zimbabwe,,FALSE,None,,,ACTIVE
+451,Tinotenda Mutombodzi,Zimbabwe,53,TRUE,ZC,,,ACTIVE
+316,Tobias Skelton Roland-Jones,England,39,TRUE,ECB,,,HISTORIC
+452,Toby Roland-Jones,England,39,TRUE,ECB,,,HISTORIC
+317,Todd Duncan Astle,New Zealand,44,TRUE,NZC,,,ACTIVE
+318,Travis Michael Head,Australia,62,TRUE,Cricket Australia,,,ACTIVE
+319,Trent Alexander Boult,New Zealand,18,TRUE,NZC,,,ACTIVE
+320,Tyrone Edward Kane,Ireland,8,TRUE,Cricket Ireland,,,ACTIVE
+453,Umesh Yadav,India,19,TRUE,BCCI,,,ACTIVE
+321,Umeshkumar Tilak Yadav,India,19,TRUE,BCCI,,,ACTIVE
+454,Upul Tharanga,Sri Lanka,44,TRUE,SLC,,,HISTORIC
+322,Usman Salahuddin,Pakistan,17,TRUE,PCB,,,HISTORIC
+323,Usman Tariq Khawaja,Australia,1,TRUE,Cricket Australia,,,ACTIVE
+324,Vernon Darryl Philander,South Africa,24,TRUE,CSA,,,ACTIVE
+325,Victor Munyaradzi Nyauchi,Zimbabwe,61,TRUE,ZC,,,ACTIVE
+326,Virat Kohli,India,18,TRUE,BCCI,,,ACTIVE
+327,Vishaul Anthony Singh,West Indies,23,TRUE,CWI,,,ACTIVE
+455,Vishwa Fernando,Sri Lanka,68,TRUE,SLC,,,ACTIVE
+456,Wafadar Momand,Afghanistan,99,TRUE,ACB,,,ACTIVE
+328,Wahab Riaz,Pakistan,47,TRUE,PCB,,,ACTIVE
+329,Wanigamuni Ramesh Tarinda Mendis,Sri Lanka,,FALSE,None,,,ACTIVE
+457,Waqar Salamkheil,Afghanistan,63,TRUE,ACB,,,ACTIVE
+330,Warushavithana Upul Tharanga,Sri Lanka,44,TRUE,SLC,,,ACTIVE
+331,Washington Sundar,India,5,TRUE,BCCI,,,ACTIVE
+332,Wayne Dillon Parnell,South Africa,7,TRUE,CSA,,,ACTIVE
+333,Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,23,TRUE,SLC,,,ACTIVE
+334,Wellington Pedzisai Masakadza,Zimbabwe,11,TRUE,ZC,,,ACTIVE
+458,Wesley Madhevere,Zimbabwe,8,TRUE,ZC,,,ACTIVE
+459,Wiaan Mulder,South Africa,13,TRUE,CSA,,,ACTIVE
+335,William Alexander Young,New Zealand,32,TRUE,NZC,,,ACTIVE
+336,William Boyd Rankin,Ireland,33,TRUE,Cricket Ireland,,,ACTIVE
+337,William Edgar Richard Somerville,New Zealand,27,TRUE,NZC,,,ACTIVE
+338,William Jan Pucovski,Australia,24,TRUE,Cricket Australia,,,ACTIVE
+339,William Thomas Stuart Porterfield,Ireland,6,TRUE,Cricket Ireland,,,ACTIVE
+340,Wriddhiman Prasanta Saha,India,6,TRUE,BCCI,,,ACTIVE
+460,Yamin Ahmadzai,Afghanistan,90,TRUE,ACB,,,ACTIVE
+341,Yasir Shah,Pakistan,86,TRUE,PCB,,,ACTIVE
+461,Younis Khan,Pakistan,75,TRUE,PCB,,,HISTORIC
+462,Zafar Gohar,Pakistan,35,TRUE,PCB,,,ACTIVE
+342,Zafar Gohar Khan,Pakistan,35,TRUE,PCB,,,ACTIVE
+463,Zahir Khan,Afghanistan,75,TRUE,ACB,,,ACTIVE
+343,Zak Crawley,England,40,TRUE,ECB,,,ACTIVE
+344,Zubayr Hamza,South Africa,30,TRUE,CSA,,,ACTIVE

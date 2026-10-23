@@ -1,0 +1,1662 @@
+[
+    {
+        "match_id": 936149,
+        "season": "2016/17",
+        "start_date": "2017-01-02",
+        "venue": "Newlands",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 936151,
+        "season": "2016/17",
+        "start_date": "2017-01-12",
+        "venue": "New Wanderers Stadium",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1000885,
+        "season": "2016/17",
+        "start_date": "2017-01-03",
+        "venue": "Sydney Cricket Ground",
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1019985,
+        "season": "2016/17",
+        "start_date": "2017-01-12",
+        "venue": "Basin Reserve",
+        "team1": "Bangladesh",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1019987,
+        "season": "2016/17",
+        "start_date": "2017-01-20",
+        "venue": "Hagley Oval",
+        "team1": "Bangladesh",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1020041,
+        "season": "2016/17",
+        "start_date": "2017-03-08",
+        "venue": "University Oval",
+        "team1": "New Zealand",
+        "team2": "South Africa",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1020043,
+        "season": "2016/17",
+        "start_date": "2017-03-16",
+        "venue": "Basin Reserve",
+        "team1": "New Zealand",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1020045,
+        "season": "2016/17",
+        "start_date": "2017-03-25",
+        "venue": "Seddon Park",
+        "team1": "New Zealand",
+        "team2": "South Africa",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1031437,
+        "season": "2017",
+        "start_date": "2017-07-06",
+        "venue": "Lord's",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1031439,
+        "season": "2017",
+        "start_date": "2017-07-14",
+        "venue": "Trent Bridge",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1031441,
+        "season": "2017",
+        "start_date": "2017-07-27",
+        "venue": "Kennington Oval",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1031443,
+        "season": "2017",
+        "start_date": "2017-08-04",
+        "venue": "Old Trafford",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1031659,
+        "season": "2017",
+        "start_date": "2017-08-17",
+        "venue": "Edgbaston",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1031661,
+        "season": "2017",
+        "start_date": "2017-08-25",
+        "venue": "Headingley",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1031663,
+        "season": "2017",
+        "start_date": "2017-09-07",
+        "venue": "Lord's",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1041761,
+        "season": "2016/17",
+        "start_date": "2017-02-09",
+        "venue": "Rajiv Gandhi International Stadium, Uppal",
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1062573,
+        "season": "2016/17",
+        "start_date": "2017-02-23",
+        "venue": "Maharashtra Cricket Association Stadium",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1062574,
+        "season": "2016/17",
+        "start_date": "2017-03-04",
+        "venue": "M Chinnaswamy Stadium",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1062575,
+        "season": "2016/17",
+        "start_date": "2017-03-16",
+        "venue": "JSCA International Stadium Complex",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1062576,
+        "season": "2016/17",
+        "start_date": "2017-03-25",
+        "venue": "Himachal Pradesh Cricket Association Stadium",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1072305,
+        "season": "2017/18",
+        "start_date": "2017-11-23",
+        "venue": "Brisbane Cricket Ground, Woolloongabba",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1072306,
+        "season": "2017/18",
+        "start_date": "2017-12-02",
+        "venue": "Adelaide Oval",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1072307,
+        "season": "2017/18",
+        "start_date": "2017-12-14",
+        "venue": "W.A.C.A. Ground",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1072308,
+        "season": "2017/18",
+        "start_date": "2017-12-26",
+        "venue": "Melbourne Cricket Ground",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1072309,
+        "season": "2017/18",
+        "start_date": "2018-01-04",
+        "venue": "Sydney Cricket Ground",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1075502,
+        "season": "2017/18",
+        "start_date": "2017-09-28",
+        "venue": "Senwes Park",
+        "team1": "Bangladesh",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1075503,
+        "season": "2017/18",
+        "start_date": "2017-10-06",
+        "venue": "Mangaung Oval",
+        "team1": "Bangladesh",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1075982,
+        "season": "2017/18",
+        "start_date": "2018-03-01",
+        "venue": "Kingsmead",
+        "team1": "Australia",
+        "team2": "South Africa",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1075983,
+        "season": "2017/18",
+        "start_date": "2018-03-09",
+        "venue": "St George's Park",
+        "team1": "Australia",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1075984,
+        "season": "2017/18",
+        "start_date": "2018-03-22",
+        "venue": "Newlands",
+        "team1": "Australia",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1075985,
+        "season": "2017/18",
+        "start_date": "2018-03-30",
+        "venue": "The Wanderers Stadium",
+        "team1": "Australia",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1077953,
+        "season": "2017",
+        "start_date": "2017-04-21",
+        "venue": "Sabina Park, Kingston",
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1077954,
+        "season": "2017",
+        "start_date": "2017-04-30",
+        "venue": "Kensington Oval, Bridgetown",
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1077955,
+        "season": "2017",
+        "start_date": "2017-05-10",
+        "venue": "Windsor Park, Roseau",
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1083444,
+        "season": "2016/17",
+        "start_date": "2017-03-07",
+        "venue": "Galle International Stadium",
+        "team1": "Bangladesh",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1083445,
+        "season": "2016/17",
+        "start_date": "2017-03-15",
+        "venue": "P Sara Oval",
+        "team1": "Bangladesh",
+        "team2": "Sri Lanka",
+        "winner": "Bangladesh",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1104284,
+        "season": "2017",
+        "start_date": "2017-08-27",
+        "venue": "Shere Bangla National Stadium, Mirpur",
+        "team1": "Australia",
+        "team2": "Bangladesh",
+        "winner": "Bangladesh",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1104285,
+        "season": "2017",
+        "start_date": "2017-09-04",
+        "venue": "Zahur Ahmed Chowdhury Stadium",
+        "team1": "Australia",
+        "team2": "Bangladesh",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1104483,
+        "season": "2017",
+        "start_date": "2017-07-14",
+        "venue": "R.Premadasa Stadium, Khettarama",
+        "team1": "Sri Lanka",
+        "team2": "Zimbabwe",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1109602,
+        "season": "2017",
+        "start_date": "2017-07-26",
+        "venue": "Galle International Stadium",
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1109603,
+        "season": "2017",
+        "start_date": "2017-08-03",
+        "venue": "Sinhalese Sports Club Ground",
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1109604,
+        "season": "2017",
+        "start_date": "2017-08-12",
+        "venue": "Pallekele International Cricket Stadium",
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1115780,
+        "season": "2017/18",
+        "start_date": "2018-03-22",
+        "venue": "Eden Park",
+        "team1": "England",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1115781,
+        "season": "2017/18",
+        "start_date": "2018-03-30",
+        "venue": "Hagley Oval",
+        "team1": "England",
+        "team2": "New Zealand",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1115793,
+        "season": "2017/18",
+        "start_date": "2017-12-01",
+        "venue": "Basin Reserve",
+        "team1": "New Zealand",
+        "team2": "West Indies",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1115794,
+        "season": "2017/18",
+        "start_date": "2017-12-09",
+        "venue": "Seddon Park",
+        "team1": "New Zealand",
+        "team2": "West Indies",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1119535,
+        "season": "2018",
+        "start_date": "2018-05-24",
+        "venue": "Lord's",
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1119536,
+        "season": "2018",
+        "start_date": "2018-06-01",
+        "venue": "Headingley",
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1119549,
+        "season": "2018",
+        "start_date": "2018-08-01",
+        "venue": "Edgbaston",
+        "team1": "England",
+        "team2": "India",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1119550,
+        "season": "2018",
+        "start_date": "2018-08-09",
+        "venue": "Lord's",
+        "team1": "England",
+        "team2": "India",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1119551,
+        "season": "2018",
+        "start_date": "2018-08-18",
+        "venue": "Trent Bridge",
+        "team1": "England",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1119552,
+        "season": "2018",
+        "start_date": "2018-08-30",
+        "venue": "The Rose Bowl",
+        "team1": "England",
+        "team2": "India",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1119553,
+        "season": "2018",
+        "start_date": "2018-09-07",
+        "venue": "Kennington Oval",
+        "team1": "England",
+        "team2": "India",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1120284,
+        "season": "2017/18",
+        "start_date": "2017-09-28",
+        "venue": "Sheikh Zayed Stadium",
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1120285,
+        "season": "2017/18",
+        "start_date": "2017-10-06",
+        "venue": "Dubai International Cricket Stadium",
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122276,
+        "season": "2017/18",
+        "start_date": "2018-01-05",
+        "venue": "Newlands",
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122277,
+        "season": "2017/18",
+        "start_date": "2018-01-13",
+        "venue": "SuperSport Park",
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122278,
+        "season": "2017/18",
+        "start_date": "2018-01-24",
+        "venue": "The Wanderers Stadium",
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122310,
+        "season": "2017/18",
+        "start_date": "2017-12-26",
+        "venue": "St George's Park, Port Elizabeth",
+        "team1": "South Africa",
+        "team2": "Zimbabwe",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122723,
+        "season": "2017/18",
+        "start_date": "2017-11-16",
+        "venue": "Eden Gardens",
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122724,
+        "season": "2017/18",
+        "start_date": "2017-11-24",
+        "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122725,
+        "season": "2017/18",
+        "start_date": "2017-12-02",
+        "venue": "Arun Jaitley Stadium",
+        "team1": "India",
+        "team2": "Sri Lanka",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122886,
+        "season": "2017/18",
+        "start_date": "2017-10-21",
+        "venue": "Queens Sports Club",
+        "team1": "West Indies",
+        "team2": "Zimbabwe",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1122887,
+        "season": "2017/18",
+        "start_date": "2017-10-29",
+        "venue": "Queens Sports Club",
+        "team1": "West Indies",
+        "team2": "Zimbabwe",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1127284,
+        "season": "2018",
+        "start_date": "2018-05-11",
+        "venue": "The Village, Malahide",
+        "team1": "Ireland",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1130744,
+        "season": "2017/18",
+        "start_date": "2018-01-31",
+        "venue": "Zahur Ahmed Chowdhury Stadium",
+        "team1": "Bangladesh",
+        "team2": "Sri Lanka",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1130745,
+        "season": "2017/18",
+        "start_date": "2018-02-08",
+        "venue": "Shere Bangla National Stadium, Mirpur",
+        "team1": "Bangladesh",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1135149,
+        "season": "2018",
+        "start_date": "2018-06-06",
+        "venue": "Queen's Park Oval, Port of Spain",
+        "team1": "Sri Lanka",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1135150,
+        "season": "2018",
+        "start_date": "2018-06-14",
+        "venue": "Daren Sammy National Cricket Stadium, Gros Islet",
+        "team1": "Sri Lanka",
+        "team2": "West Indies",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1135151,
+        "season": "2018",
+        "start_date": "2018-06-23",
+        "venue": "Kensington Oval, Bridgetown",
+        "team1": "Sri Lanka",
+        "team2": "West Indies",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1140385,
+        "season": "2018/19",
+        "start_date": "2018-11-06",
+        "venue": "Galle International Stadium",
+        "team1": "England",
+        "team2": "Sri Lanka",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1140386,
+        "season": "2018/19",
+        "start_date": "2018-11-14",
+        "venue": "Pallekele International Cricket Stadium",
+        "team1": "England",
+        "team2": "Sri Lanka",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1140387,
+        "season": "2018/19",
+        "start_date": "2018-11-23",
+        "venue": "Sinhalese Sports Club Ground",
+        "team1": "England",
+        "team2": "Sri Lanka",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1142581,
+        "season": "2018",
+        "start_date": "2018-07-12",
+        "venue": "Galle International Stadium",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1142582,
+        "season": "2018",
+        "start_date": "2018-07-20",
+        "venue": "Sinhalese Sports Club Ground",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144153,
+        "season": "2018/19",
+        "start_date": "2018-12-26",
+        "venue": "SuperSport Park",
+        "team1": "Pakistan",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144154,
+        "season": "2018/19",
+        "start_date": "2019-01-03",
+        "venue": "Newlands",
+        "team1": "Pakistan",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144155,
+        "season": "2018/19",
+        "start_date": "2019-01-11",
+        "venue": "The Wanderers Stadium",
+        "team1": "Pakistan",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144164,
+        "season": "2018/19",
+        "start_date": "2019-02-13",
+        "venue": "Kingsmead",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144165,
+        "season": "2018/19",
+        "start_date": "2019-02-21",
+        "venue": "St George's Park",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144993,
+        "season": "2018/19",
+        "start_date": "2018-12-06",
+        "venue": "Adelaide Oval",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144994,
+        "season": "2018/19",
+        "start_date": "2018-12-14",
+        "venue": "Perth Stadium",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144995,
+        "season": "2018/19",
+        "start_date": "2018-12-26",
+        "venue": "Melbourne Cricket Ground",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1144996,
+        "season": "2018/19",
+        "start_date": "2019-01-03",
+        "venue": "Sydney Cricket Ground",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1145000,
+        "season": "2018/19",
+        "start_date": "2019-01-24",
+        "venue": "Brisbane Cricket Ground, Woolloongabba",
+        "team1": "Australia",
+        "team2": "Sri Lanka",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1145001,
+        "season": "2018/19",
+        "start_date": "2019-02-01",
+        "venue": "Manuka Oval",
+        "team1": "Australia",
+        "team2": "Sri Lanka",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1146717,
+        "season": "2018",
+        "start_date": "2018-07-04",
+        "venue": "Sir Vivian Richards Stadium",
+        "team1": "Bangladesh",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1146718,
+        "season": "2018",
+        "start_date": "2018-07-12",
+        "venue": "Sabina Park, Kingston",
+        "team1": "Bangladesh",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1152839,
+        "season": "2019",
+        "start_date": "2019-07-24",
+        "venue": "Lord's",
+        "team1": "England",
+        "team2": "Ireland",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1152846,
+        "season": "2019",
+        "start_date": "2019-08-01",
+        "venue": "Edgbaston",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1152847,
+        "season": "2019",
+        "start_date": "2019-08-14",
+        "venue": "Lord's",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1152848,
+        "season": "2019",
+        "start_date": "2019-08-22",
+        "venue": "Headingley",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1152849,
+        "season": "2019",
+        "start_date": "2019-09-04",
+        "venue": "Old Trafford",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1152850,
+        "season": "2019",
+        "start_date": "2019-09-12",
+        "venue": "Kennington Oval",
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153311,
+        "season": "2018/19",
+        "start_date": "2018-11-22",
+        "venue": "Zahur Ahmed Chowdhury Stadium",
+        "team1": "Bangladesh",
+        "team2": "West Indies",
+        "winner": "Bangladesh",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153312,
+        "season": "2018/19",
+        "start_date": "2018-11-30",
+        "venue": "Shere Bangla National Stadium, Mirpur",
+        "team1": "Bangladesh",
+        "team2": "West Indies",
+        "winner": "Bangladesh",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153639,
+        "season": "2018/19",
+        "start_date": "2018-11-03",
+        "venue": "Sylhet International Cricket Stadium",
+        "team1": "Bangladesh",
+        "team2": "Zimbabwe",
+        "winner": "Zimbabwe",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153640,
+        "season": "2018/19",
+        "start_date": "2018-11-11",
+        "venue": "Shere Bangla National Stadium, Mirpur",
+        "team1": "Bangladesh",
+        "team2": "Zimbabwe",
+        "winner": "Bangladesh",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153838,
+        "season": "2018/19",
+        "start_date": "2018-12-15",
+        "venue": "Basin Reserve, Wellington",
+        "team1": "New Zealand",
+        "team2": "Sri Lanka",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153839,
+        "season": "2018/19",
+        "start_date": "2018-12-26",
+        "venue": "Hagley Oval",
+        "team1": "New Zealand",
+        "team2": "Sri Lanka",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153847,
+        "season": "2018/19",
+        "start_date": "2019-02-28",
+        "venue": "Seddon Park",
+        "team1": "Bangladesh",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1153848,
+        "season": "2018/19",
+        "start_date": "2019-03-08",
+        "venue": "Basin Reserve",
+        "team1": "Bangladesh",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1157370,
+        "season": "2018/19",
+        "start_date": "2018-10-07",
+        "venue": "Dubai International Cricket Stadium",
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1157371,
+        "season": "2018/19",
+        "start_date": "2018-10-16",
+        "venue": "Sheikh Zayed Stadium",
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1157381,
+        "season": "2018/19",
+        "start_date": "2018-11-16",
+        "venue": "Sheikh Zayed Stadium",
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1157382,
+        "season": "2018/19",
+        "start_date": "2018-11-24",
+        "venue": "Dubai International Cricket Stadium",
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1157383,
+        "season": "2018/19",
+        "start_date": "2018-12-03",
+        "venue": "Sheikh Zayed Stadium",
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1157752,
+        "season": "2018/19",
+        "start_date": "2018-10-04",
+        "venue": "Saurashtra Cricket Association Stadium",
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1157753,
+        "season": "2018/19",
+        "start_date": "2018-10-12",
+        "venue": "Rajiv Gandhi International Stadium, Uppal",
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1158062,
+        "season": "2018/19",
+        "start_date": "2019-01-23",
+        "venue": "Kensington Oval, Barbados",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1158063,
+        "season": "2018/19",
+        "start_date": "2019-01-31",
+        "venue": "Sir Vivian Richards Stadium, Antigua",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1158064,
+        "season": "2018/19",
+        "start_date": "2019-02-09",
+        "venue": "Daren Sammy National Cricket Stadium, St Lucia",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1183530,
+        "season": "2019/20",
+        "start_date": "2019-11-21",
+        "venue": "Brisbane Cricket Ground, Woolloongabba",
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1183531,
+        "season": "2019/20",
+        "start_date": "2019-11-29",
+        "venue": "Adelaide Oval",
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1183532,
+        "season": "2019/20",
+        "start_date": "2019-12-12",
+        "venue": "Perth Stadium",
+        "team1": "Australia",
+        "team2": "New Zealand",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1183533,
+        "season": "2019/20",
+        "start_date": "2019-12-26",
+        "venue": "Melbourne Cricket Ground",
+        "team1": "Australia",
+        "team2": "New Zealand",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1183534,
+        "season": "2019/20",
+        "start_date": "2020-01-03",
+        "venue": "Sydney Cricket Ground",
+        "team1": "Australia",
+        "team2": "New Zealand",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1185304,
+        "season": "2019/20",
+        "start_date": "2019-12-26",
+        "venue": "SuperSport Park",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1185305,
+        "season": "2019/20",
+        "start_date": "2020-01-03",
+        "venue": "Newlands",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1185306,
+        "season": "2019/20",
+        "start_date": "2020-01-16",
+        "venue": "St George's Park",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1185307,
+        "season": "2019/20",
+        "start_date": "2020-01-24",
+        "venue": "The Wanderers Stadium",
+        "team1": "England",
+        "team2": "South Africa",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187007,
+        "season": "2019/20",
+        "start_date": "2019-10-02",
+        "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187008,
+        "season": "2019/20",
+        "start_date": "2019-10-10",
+        "venue": "Maharashtra Cricket Association Stadium",
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187009,
+        "season": "2019/20",
+        "start_date": "2019-10-19",
+        "venue": "JSCA International Stadium Complex",
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187016,
+        "season": "2019/20",
+        "start_date": "2019-11-14",
+        "venue": "Holkar Cricket Stadium",
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187017,
+        "season": "2019/20",
+        "start_date": "2019-11-22",
+        "venue": "Eden Gardens",
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187671,
+        "season": "2019/20",
+        "start_date": "2019-11-21",
+        "venue": "Bay Oval",
+        "team1": "England",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187672,
+        "season": "2019/20",
+        "start_date": "2019-11-29",
+        "venue": "Seddon Park",
+        "team1": "England",
+        "team2": "New Zealand",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187685,
+        "season": "2019/20",
+        "start_date": "2020-02-21",
+        "venue": "Basin Reserve",
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1187686,
+        "season": "2019/20",
+        "start_date": "2020-02-29",
+        "venue": "Hagley Oval",
+        "team1": "India",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1188628,
+        "season": "2019",
+        "start_date": "2019-08-22",
+        "venue": "Sir Vivian Richards Stadium, Antigua",
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1188629,
+        "season": "2019",
+        "start_date": "2019-08-30",
+        "venue": "Sabina Park, Jamaica",
+        "team1": "India",
+        "team2": "West Indies",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1192873,
+        "season": "2019",
+        "start_date": "2019-08-14",
+        "venue": "Galle International Stadium",
+        "team1": "New Zealand",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1192874,
+        "season": "2019",
+        "start_date": "2019-08-22",
+        "venue": "P Sara Oval",
+        "team1": "New Zealand",
+        "team2": "Sri Lanka",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1198241,
+        "season": "2020",
+        "start_date": "2020-08-05",
+        "venue": "Old Trafford",
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1198243,
+        "season": "2020",
+        "start_date": "2020-08-21",
+        "venue": "The Rose Bowl",
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1206636,
+        "season": "2019/20",
+        "start_date": "2019-12-19",
+        "venue": "National Stadium",
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1212541,
+        "season": "2019/20",
+        "start_date": "2020-01-19",
+        "venue": "Harare Sports Club",
+        "team1": "Sri Lanka",
+        "team2": "Zimbabwe",
+        "winner": "Sri Lanka",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1212542,
+        "season": "2019/20",
+        "start_date": "2020-01-27",
+        "venue": "Harare Sports Club",
+        "team1": "Sri Lanka",
+        "team2": "Zimbabwe",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1213062,
+        "season": "2019/20",
+        "start_date": "2020-02-07",
+        "venue": "Rawalpindi Cricket Stadium",
+        "team1": "Bangladesh",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1214666,
+        "season": "2019/20",
+        "start_date": "2020-02-22",
+        "venue": "Shere Bangla National Stadium, Mirpur",
+        "team1": "Bangladesh",
+        "team2": "Zimbabwe",
+        "winner": "Bangladesh",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1223869,
+        "season": "2020/21",
+        "start_date": "2020-12-17",
+        "venue": "Adelaide Oval",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "Australia",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1223870,
+        "season": "2020/21",
+        "start_date": "2020-12-26",
+        "venue": "Melbourne Cricket Ground",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1223871,
+        "season": "2020/21",
+        "start_date": "2021-01-07",
+        "venue": "Sydney Cricket Ground",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1223872,
+        "season": "2020/21",
+        "start_date": "2021-01-15",
+        "venue": "Brisbane Cricket Ground",
+        "team1": "Australia",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1225247,
+        "season": "2020",
+        "start_date": "2020-07-08",
+        "venue": "The Rose Bowl",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1225248,
+        "season": "2020",
+        "start_date": "2020-07-16",
+        "venue": "Old Trafford",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1225249,
+        "season": "2020",
+        "start_date": "2020-07-24",
+        "venue": "Old Trafford",
+        "team1": "England",
+        "team2": "West Indies",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1233957,
+        "season": "2020/21",
+        "start_date": "2020-12-03",
+        "venue": "Seddon Park",
+        "team1": "New Zealand",
+        "team2": "West Indies",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1233958,
+        "season": "2020/21",
+        "start_date": "2020-12-11",
+        "venue": "Basin Reserve",
+        "team1": "New Zealand",
+        "team2": "West Indies",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1233962,
+        "season": "2020/21",
+        "start_date": "2020-12-26",
+        "venue": "Bay Oval",
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1233963,
+        "season": "2020/21",
+        "start_date": "2021-01-03",
+        "venue": "Hagley Oval",
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1237356,
+        "season": "2020/21",
+        "start_date": "2020-12-26",
+        "venue": "SuperSport Park",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1237357,
+        "season": "2020/21",
+        "start_date": "2021-01-03",
+        "venue": "The Wanderers Stadium",
+        "team1": "South Africa",
+        "team2": "Sri Lanka",
+        "winner": "South Africa",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243015,
+        "season": "2020/21",
+        "start_date": "2021-01-14",
+        "venue": "Galle International Stadium",
+        "team1": "England",
+        "team2": "Sri Lanka",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243016,
+        "season": "2020/21",
+        "start_date": "2021-01-22",
+        "venue": "Galle International Stadium",
+        "team1": "England",
+        "team2": "Sri Lanka",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243017,
+        "season": "2020/21",
+        "start_date": "2021-01-26",
+        "venue": "National Stadium",
+        "team1": "Pakistan",
+        "team2": "South Africa",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243018,
+        "season": "2020/21",
+        "start_date": "2021-02-04",
+        "venue": "Rawalpindi Cricket Stadium",
+        "team1": "Pakistan",
+        "team2": "South Africa",
+        "winner": "Pakistan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243384,
+        "season": "2020/21",
+        "start_date": "2021-02-05",
+        "venue": "MA Chidambaram Stadium",
+        "team1": "England",
+        "team2": "India",
+        "winner": "England",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243385,
+        "season": "2020/21",
+        "start_date": "2021-02-13",
+        "venue": "MA Chidambaram Stadium",
+        "team1": "England",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243386,
+        "season": "2020/21",
+        "start_date": "2021-02-24",
+        "venue": "Narendra Modi Stadium",
+        "team1": "England",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1243387,
+        "season": "2020/21",
+        "start_date": "2021-03-04",
+        "venue": "Narendra Modi Stadium",
+        "team1": "England",
+        "team2": "India",
+        "winner": "India",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1244025,
+        "season": "2020/21",
+        "start_date": "2021-02-03",
+        "venue": "Zahur Ahmed Chowdhury Stadium",
+        "team1": "Bangladesh",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1244026,
+        "season": "2020/21",
+        "start_date": "2021-02-11",
+        "venue": "Shere Bangla National Stadium",
+        "team1": "Bangladesh",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1252073,
+        "season": "2020/21",
+        "start_date": "2021-03-21",
+        "venue": "Sir Vivian Richards Stadium",
+        "team1": "Sri Lanka",
+        "team2": "West Indies",
+        "winner": "nan",
+        "format": "TEST"
+    },
+    {
+        "match_id": 1252074,
+        "season": "2020/21",
+        "start_date": "2021-03-29",
+        "venue": "Sir Vivian Richards Stadium",
+        "team1": "Sri Lanka",
+        "team2": "West Indies",
+        "winner": "nan",
+        "format": "TEST"
+    }
+]

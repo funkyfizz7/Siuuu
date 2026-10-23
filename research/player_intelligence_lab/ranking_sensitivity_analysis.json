@@ -1,0 +1,112 @@
+[
+  {
+    "ranking": "Best-Performing Batters",
+    "population": 127,
+    "threshold": "innings >= 15 and balls_faced >= 500",
+    "spearman_efficiency": 0.9903,
+    "spearman_volume": 0.9777,
+    "top_3_baseline": [
+      "KS Williamson",
+      "SPD Smith",
+      "RG Sharma"
+    ],
+    "top_3_efficiency": [
+      "KS Williamson",
+      "SPD Smith",
+      "M Labuschagne"
+    ],
+    "top_3_volume": [
+      "KS Williamson",
+      "M Labuschagne",
+      "SPD Smith"
+    ]
+  },
+  {
+    "ranking": "Best-Performing Bowlers",
+    "population": 79,
+    "threshold": "legal_balls_bowled >= 600 and wickets >= 15",
+    "spearman_strike": 0.9082,
+    "spearman_control": 0.8888,
+    "top_3_baseline": [
+      "AR Patel",
+      "KA Jamieson",
+      "JM Anderson"
+    ],
+    "top_3_strike": [
+      "AR Patel",
+      "KA Jamieson",
+      "JM Anderson"
+    ],
+    "top_3_control": [
+      "AR Patel",
+      "Bilal Asif",
+      "JM Anderson"
+    ]
+  },
+  {
+    "ranking": "All-Rounder Rankings",
+    "population": 47,
+    "threshold": "runs >= 200 and wickets >= 10",
+    "spearman_bat_biased": 0.9534,
+    "spearman_bowl_biased": 0.9103,
+    "top_3_baseline": [
+      "KA Jamieson",
+      "RA Jadeja",
+      "JO Holder"
+    ],
+    "top_3_bat_biased": [
+      "KA Jamieson",
+      "RA Jadeja",
+      "C de Grandhomme"
+    ],
+    "top_3_bowl_biased": [
+      "KA Jamieson",
+      "RA Jadeja",
+      "JO Holder"
+    ]
+  },
+  {
+    "ranking": "Match-Contribution Rankings",
+    "population": 203,
+    "threshold": "matches_played >= 5",
+    "spearman_potm_heavy": 0.9588,
+    "spearman_pure_share": 0.9454,
+    "top_3_baseline": [
+      "KA Jamieson",
+      "Mominul Haque",
+      "Sikandar Raza"
+    ],
+    "top_3_potm_heavy": [
+      "KA Jamieson",
+      "B Kumar",
+      "Sikandar Raza"
+    ],
+    "top_3_pure_share": [
+      "Mominul Haque",
+      "Shakib Al Hasan",
+      "Sikandar Raza"
+    ]
+  },
+  {
+    "ranking": "Overall Player Rankings",
+    "population": 135,
+    "threshold": "matches_played >= 10",
+    "spearman_specialist": 0.9482,
+    "spearman_contribution": 0.9891,
+    "top_3_baseline": [
+      "M Labuschagne",
+      "RA Jadeja",
+      "JO Holder"
+    ],
+    "top_3_specialist": [
+      "KS Williamson",
+      "M Labuschagne",
+      "SPD Smith"
+    ],
+    "top_3_contribution": [
+      "M Labuschagne",
+      "JO Holder",
+      "RA Jadeja"
+    ]
+  }
+]

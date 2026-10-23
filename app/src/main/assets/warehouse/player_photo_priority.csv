@@ -1,0 +1,464 @@
+priority_rank,player_id,player_name,full_name,country,priority_tier,matches_played,series_appearances,avg_impact_rating,mvp_awards,priority_score,image_file
+1,135,JE Root,Joseph Edward Root,England,TOP_50,49,16,136.2,4,279.43,joe_root.webp
+2,31,BA Stokes,Benjamin Andrew Stokes,England,TOP_50,39,13,164.2,9,276.5,ben_stokes.webp
+3,326,V Kohli,Virat Kohli,India,TOP_50,38,14,119.3,7,257.89,virat_kohli.webp
+4,292,SCJ Broad,Stuart Christopher John Broad,England,TOP_50,43,16,125.2,2,243.77,stuart_broad.webp
+5,85,FDM Karunaratne,Frank Dimuth Madushanka Karunaratne,Sri Lanka,TOP_50,35,17,102.9,3,229.43,dimuth_karunaratne.webp
+6,68,D Elgar,Dean Elgar,South Africa,TOP_50,37,14,106.5,3,220.98,dean_elgar.webp
+7,222,NM Lyon,Nathan Michael Lyon,Australia,TOP_50,38,12,152.0,3,220.5,nathan_lyon.webp
+8,139,K Rabada,Kagiso Rabada,South Africa,TOP_50,33,13,155.2,4,218.5,kagiso_rabada.webp
+9,12,AM Rahane,Ajinkya Madhukar Rahane,India,TOP_50,40,14,71.7,2,216.76,ajinkya_rahane.webp
+10,72,N Dickwella,Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,TOP_50,38,18,73.1,0,214.96,niroshan_dickwella.webp
+11,52,CA Pujara,Cheteshwar Arvind Pujara,India,TOP_50,41,14,91.3,1,214.69,cheteshwar_pujara.webp
+12,253,R Ashwin,Ravichandran Ashwin,India,TOP_50,33,13,171.0,3,210.5,ravichandran_ashwin.webp
+13,30,BKG Mendis,Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,TOP_50,34,17,89.4,1,208.42,kusal_mendis.webp
+14,116,JM Anderson,James Michael Anderson,England,TOP_50,37,14,123.2,1,207.48,james_anderson.webp
+15,147,KA Maharaj,Keshav Athmanand Maharaj,South Africa,TOP_50,31,14,135.4,3,207.31,keshav_maharaj.webp
+16,141,KS Williamson,Kane Stuart Williamson,New Zealand,TOP_50,27,13,135.7,5,206.35,kane_williamson.webp
+17,236,PJ Cummins,Patrick James Cummins,Australia,TOP_50,33,10,159.4,4,203.5,pat_cummins.webp
+18,248,Q de Kock,Quinton de Kock,South Africa,TOP_50,37,14,77.9,1,200.68,quinton_de_kock.webp
+19,313,TG Southee,Timothy Grant Southee,New Zealand,TOP_50,23,13,166.2,5,196.5,tim_southee.webp
+20,252,RAS Lakmal,Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,TOP_50,32,16,111.8,0,192.77,suranga_lakmal.webp
+21,291,SPD Smith,Steven Peter Devereux Smith,Australia,TOP_50,28,9,145.2,5,190.78,steve_smith.webp
+22,151,KC Brathwaite,Kraigg Clairmonte Brathwaite,West Indies,TOP_50,33,14,91.4,1,190.71,kraigg_brathwaite.webp
+23,254,RA Jadeja,Ravindrasinh Anirudhsinh Jadeja,India,TOP_50,25,12,181.5,4,189.5,ravindra_jadeja.webp
+24,84,F du Plessis,Francois du Plessis,South Africa,TOP_50,34,13,78.5,1,186.77,faf_du_plessis.webp
+25,277,ST Gabriel,Shannon Terry Gabriel,West Indies,TOP_50,31,14,102.9,1,186.44,shannon_gabriel.webp
+26,119,JO Holder,Jason Omar Holder,West Indies,TOP_50,26,12,182.0,3,184.5,jason_holder.webp
+27,170,MDK Perera,Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,TOP_50,28,14,146.2,1,183.92,dilruwan_perera.webp
+28,71,DM de Silva,Dhananjaya Maduranga de Silva,Sri Lanka,TOP_50,27,16,97.7,1,183.66,dhananjaya_de_silva.webp
+29,131,JM Bairstow,Jonathan Marc Bairstow,England,TOP_50,36,13,61.8,0,182.27,jonny_bairstow.webp
+30,164,LD Chandimal,Lokuge Dinesh Chandimal,Sri Lanka,TOP_50,29,16,81.5,0,179.22,dinesh_chandimal.webp
+31,190,MA Starc,Mitchell Aaron Starc,Australia,TOP_50,28,11,150.5,2,177.5,mitchell_starc.webp
+32,319,TA Boult,Trent Alexander Boult,New Zealand,TOP_50,24,13,146.6,2,174.99,trent_boult.webp
+33,260,RL Chase,Roston Lamar Chase,West Indies,TOP_50,29,12,133.2,1,174.98,roston_chase.webp
+34,311,TWM Latham,Thomas William Maxwell Latham,New Zealand,TOP_50,29,13,94.1,1,174.11,tom_latham.webp
+35,341,Yasir Shah,Yasir Shah,Pakistan,TOP_50,22,12,168.9,3,172.5,yasir_shah.webp
+36,146,KAJ Roach,Kemar Andre Jamal Roach,West Indies,TOP_50,25,12,128.8,2,170.32,kemar_roach.webp
+37,100,HM Nicholls,Henry Michael Nicholls,New Zealand,TOP_50,28,13,84.5,1,169.68,hm_nicholls.webp
+38,324,VD Philander,Vernon Darryl Philander,South Africa,TOP_50,26,11,134.6,2,169.19,vernon_philander.webp
+39,193,MM Ali,Moeen Munir Ali,England,TOP_50,24,10,156.7,3,168.5,mm_ali.webp
+40,211,Mohammed Shami,Mohammed Shami Ahmed,India,TOP_50,28,11,124.6,1,165.68,mohammed_shami.webp
+41,167,LRPL Taylor,Luteru Ross Poutoa Lote Taylor,New Zealand,TOP_50,27,13,76.6,1,165.48,ross_taylor.webp
+42,29,Azhar Ali,Azhar Ali,Pakistan,TOP_50,27,14,86.7,0,164.01,azhar_ali.webp
+43,225,N Wagner,Neil Wagner,New Zealand,TOP_50,24,12,153.4,1,162.5,neil_wagner.webp
+44,303,T Bavuma,Temba Bavuma,South Africa,TOP_50,29,13,64.6,0,161.68,temba_bavuma.webp
+45,186,Mehedi Hasan Miraz,Mehidy Hasan Miraz,Bangladesh,TOP_50,21,12,156.8,2,161.5,mehidy_hasan_miraz.webp
+46,134,JC Buttler,Joseph Charles Buttler,England,TOP_50,31,11,82.4,0,160.36,jos_buttler.webp
+47,109,I Sharma,Ishant Sharma,India,TOP_50,27,11,105.0,1,159.74,i_sharma.webp
+48,196,Babar Azam,Mohammad Babar Azam,Pakistan,TOP_50,24,13,95.0,1,159.25,babar_azam.webp
+49,66,DA Warner,David Andrew Warner,Australia,TOP_50,27,9,110.3,2,158.55,david_warner.webp
+50,213,Mominul Haque,Mominul Haque,Bangladesh,TOP_50,22,14,93.2,1,157.98,mominul_haque.webp
+51,137,JR Hazlewood,Josh Reginald Hazlewood,Australia,TOP_100,30,10,119.6,0,157.94,josh_hazlewood.webp
+52,299,Taijul Islam,Taijul Islam,Bangladesh,TOP_100,19,13,128.6,2,157.29,taijul_islam.webp
+53,194,Mohammad Abbas,Mohammad Abbas,Pakistan,TOP_100,21,12,118.0,2,156.7,mohammad_abbas.webp
+54,20,AD Mathews,Angelo Davis Mathews,Sri Lanka,TOP_100,24,12,103.9,1,155.59,angelo_mathews.webp
+55,37,BJ Watling,Bradley-John Watling,New Zealand,TOP_100,26,12,59.7,1,154.95,bj_watling.webp
+56,55,CR Woakes,Christopher Roger Woakes,England,TOP_100,20,11,142.3,2,152.35,chris_woakes.webp
+57,9,AK Markram,Aiden Kyle Markram,South Africa,TOP_100,24,11,108.1,1,151.21,aiden_markram.webp
+58,272,SD Hope,Shai Diego Hope,West Indies,TOP_100,26,11,63.5,1,150.52,sd_hope.webp
+59,56,C de Grandhomme,Colin de Grandhomme,New Zealand,TOP_100,22,11,137.8,1,149.67,colin_grandhomme.webp
+60,202,Mushfiqur Rahim,Mohammad Mushfiqur Rahim,Bangladesh,TOP_100,21,12,112.8,1,147.91,mushfiqur_rahim.webp
+61,321,UT Yadav,Umeshkumar Tilak Yadav,India,TOP_100,21,11,120.6,1,144.08,ut_yadav.webp
+62,312,TD Paine,Timothy David Paine,Australia,TOP_100,30,9,48.5,0,142.28,tim_paine.webp
+63,23,Asad Shafiq,Asad Shafiq,Pakistan,TOP_100,23,12,83.9,0,141.59,asad_shafiq.webp
+64,96,HM Amla,Hashim Mahomed Amla,South Africa,TOP_100,26,10,82.7,0,140.4,hm_amla.webp
+65,101,HMRKB Herath,Herath Mudiyanselage Rangana Keerthi Bandara Herath,Sri Lanka,TOP_100,17,10,161.1,2,139.5,rangana_herath.webp
+66,177,M Labuschagne,Marnus Labuschagne,Australia,TOP_100,18,7,176.1,3,135.5,marnus_labuschagne.webp
+67,276,SO Dowrich,Shane Omari Dowrich,West Indies,TOP_100,25,10,54.9,0,133.24,shane_dowrich.webp
+68,48,CBRLS Kumara,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,TOP_100,19,12,93.9,0,131.08,cbrls_kumara.webp
+69,14,AN Cook,Alastair Nathan Cook,England,TOP_100,21,6,87.1,3,130.07,an_cook.webp
+70,300,Tamim Iqbal,Tamim Iqbal Khan,Bangladesh,TOP_100,18,11,85.7,1,129.86,tamim_iqbal.webp
+71,263,SM Curran,Samuel Matthew Curran,England,TOP_100,20,10,121.4,0,128.21,sm_curran.webp
+72,200,Mahmudullah,Mohammad Mahmudullah,Bangladesh,TOP_100,19,11,99.2,0,126.89,mahmudullah.webp
+73,323,UT Khawaja,Usman Tariq Khawaja,Australia,TOP_100,22,8,75.7,1,125.35,usman_khawaja.webp
+74,124,JA Raval,Jeet Ashok Raval,New Zealand,TOP_100,22,10,57.3,0,124.59,ja_raval.webp
+75,142,KL Rahul,Kannaur Lokesh Rahul,India,TOP_100,23,9,65.5,0,123.82,kl_rahul.webp
+76,259,RJ Burns,Rory Joseph Burns,England,TOP_100,22,9,73.3,0,121.99,rory_burns.webp
+77,258,RG Sharma,Rohit Gurunath Sharma,India,TOP_100,17,7,120.7,2,120.11,rohit_sharma.webp
+78,163,Liton Das,Litton Kumer Das,Bangladesh,TOP_100,18,11,65.5,0,118.83,liton_das.webp
+79,273,Shakib Al Hasan,Shakib Al Hasan,Bangladesh,TOP_100,12,7,225.2,3,117.5,shakib_al_hasan.webp
+80,69,D Bishoo,Devendra Bishoo,West Indies,TOP_100,15,7,106.4,2,111.97,d_bishoo.webp
+81,318,TM Head,Travis Michael Head,Australia,TOP_100,18,7,93.2,1,110.97,travis_head.webp
+82,120,JJ Bumrah,Jasprit Jasbirsingh Bumrah,India,TOP_100,19,7,125.2,0,110.78,jasprit_bumrah.webp
+83,257,RR Pant,Rishabh Rajendra Pant,India,TOP_100,20,7,94.4,0,109.17,rishabh_pant.webp
+84,183,MS Wade,Matthew Scott Wade,Australia,TOP_100,21,7,59.6,0,106.93,matthew_wade.webp
+85,150,KOA Powell,Kieran Omar Akeem Powell,West Indies,TOP_100,19,8,64.2,0,106.62,koa_powell.webp
+86,94,Haris Sohail,Haris Sohail,Pakistan,TOP_100,15,9,108.9,0,106.33,haris_sohail.webp
+87,214,M Morkel,Morne Morkel,South Africa,TOP_100,15,6,144.9,1,104.74,m_morkel.webp
+88,181,MJ Leach,Matthew Jack Leach,England,TOP_100,16,7,128.1,0,102.21,jack_leach.webp
+89,264,Sarfraz Ahmed,Sarfaraz Ahmed,Pakistan,TOP_100,17,8,61.1,0,100.17,sarfraz_ahmed.webp
+90,275,Shan Masood,Shan Masood Khan,Pakistan,TOP_100,14,8,101.1,0,97.17,shan_masood.webp
+91,340,WP Saha,Wriddhiman Prasanta Saha,India,TOP_100,17,8,38.0,0,96.7,wp_saha.webp
+92,185,MA Agarwal,Mayank Anurag Agarawal,India,TOP_100,14,6,103.9,1,95.58,ma_agarwal.webp
+93,286,Sikandar Raza,Sikandar Raza Butt,Zimbabwe,TOP_100,9,6,183.3,2,95.5,sikandar_raza.webp
+94,271,Shaheen Shah Afridi,Shaheen Shah Afridi,Pakistan,TOP_100,13,8,109.1,0,95.37,shaheen_afridi.webp
+95,16,AS Joseph,Alzarri Shaheim Joseph,West Indies,TOP_100,14,7,109.2,0,93.38,alzarri_joseph.webp
+96,192,MR Marsh,Mitchell Ross Marsh,Australia,TOP_100,13,6,108.4,1,93.25,mr_marsh.webp
+97,195,Mohammad Amir,Mohammad Amir,Pakistan,TOP_100,12,6,122.7,1,92.41,mohammad_amir.webp
+98,95,Hasan Ali,Hasan Ali,Pakistan,TOP_100,11,6,142.0,1,92.29,hasan_ali.webp
+99,102,HDRL Thirimanne,Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,TOP_100,14,8,68.5,0,92.28,hdrl_thirimanne.webp
+100,174,MA Wood,Mark Andrew Wood,England,TOP_100,10,7,124.4,1,91.66,mark_wood.webp
+101,126,J Blackwood,Jermaine Blackwood,West Indies,TOP_200,15,7,76.8,0,91.51,j_blackwood.webp
+102,284,SO Hetmyer,Shimron Odilon Hetmyer,West Indies,TOP_200,15,7,75.6,0,91.33,so_hetmyer.webp
+103,280,SE Marsh,Shaun Edward Marsh,Australia,TOP_200,19,5,61.5,0,91.22,se_marsh.webp
+104,288,Soumya Sarkar,Soumya Sarkar,Bangladesh,TOP_200,12,8,97.3,0,90.6,soumya_sarkar.webp
+105,74,DP Sibley,Dominic Peter Sibley,England,TOP_200,17,6,62.8,0,90.41,dp_sibley.webp
+106,136,JL Denly,Joseph Liam Denly,England,TOP_200,15,6,91.8,0,88.77,jl_denly.webp
+107,218,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,TOP_200,12,8,77.1,0,87.57,mustafizur_rahman.webp
+108,86,GH Vihari,Gade Hanuma Vihari,India,TOP_200,12,6,89.0,1,87.35,gh_vihari.webp
+109,229,OJ Pope,Oliver John Douglas Pope,England,TOP_200,16,6,61.7,0,87.26,oj_pope.webp
+110,128,JC Archer,Jofra Chioke Archer,England,TOP_200,13,6,114.1,0,86.11,jofra_archer.webp
+111,73,DM Bess,Dominic Mark Bess,England,TOP_200,13,6,111.6,0,85.74,dm_bess.webp
+112,191,MJ Santner,Mitchell Josef Santner,New Zealand,TOP_200,12,7,97.5,0,85.62,mj_santner.webp
+113,67,DJ Malan,Dawid Johannes Malan,England,TOP_200,15,6,66.1,0,84.91,dj_malan.webp
+114,180,MDKJ Perera,Mathurage Don Kusal Janith Perera,Sri Lanka,TOP_200,12,6,72.2,1,84.83,mdkj_perera.webp
+115,107,Imrul Kayes,Imrul Kayes,Bangladesh,TOP_200,13,8,35.4,0,84.31,imrul_kayes.webp
+116,161,L Embuldeniya,Lasith Embuldeniya,Sri Lanka,TOP_200,11,6,139.3,0,83.9,l_embuldeniya.webp
+117,77,D Olivier,Duanne Olivier,South Africa,TOP_200,10,5,133.8,1,83.07,d_olivier.webp
+118,343,Z Crawley,Zak Crawley,England,TOP_200,11,6,73.6,1,82.04,zak_crawley.webp
+119,26,ARS Silva,Athege Roshen Shivanka Silva,Sri Lanka,TOP_200,12,7,72.6,0,81.89,ars_silva.webp
+120,169,A Dananjaya,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Sri Lanka,TOP_200,6,5,174.7,2,81.5,a_dananjaya.webp
+121,129,JD Campbell,John Dillon Campbell,West Indies,TOP_200,14,6,53.1,0,79.97,jd_campbell.webp
+122,217,M Vijay,Murali Vijay,India,TOP_200,13,6,72.1,0,79.81,m_vijay.webp
+123,219,MVT Fernando,Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,TOP_200,10,7,98.6,0,79.79,mvt_fernando.webp
+124,241,PSP Handscomb,Peter Stephen Patrick Handscomb,Australia,TOP_200,13,6,63.8,0,78.57,psp_handscomb.webp
+125,144,KK Jennings,Keaton Kent Jennings,England,TOP_200,15,5,52.5,0,77.88,kk_jennings.webp
+126,6,Abu Jayed,Abu Jayed Chowdhury,Bangladesh,TOP_200,10,7,85.2,0,77.79,abu_jayed.webp
+127,234,PADLR Sandakan,Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,TOP_200,8,7,109.8,0,75.46,padlr_sandakan.webp
+128,283,S Dhawan,Shikhar Dhawan,India,TOP_200,10,4,105.7,1,73.86,s_dhawan.webp
+129,307,TB de Bruyn,Theunis Booysen de Bruyn,South Africa,TOP_200,12,6,51.8,0,73.76,theunis_bruyn.webp
+130,206,Mohammad Rizwan,Mohammad Rizwan,Pakistan,TOP_200,10,6,88.2,0,73.22,mohammad_rizwan.webp
+131,93,HH Pandya,Hardik Himanshu Pandya,India,TOP_200,10,3,130.6,1,72.59,hh_pandya.webp
+132,81,Faheem Ashraf,Faheem Ashraf,Pakistan,TOP_200,8,5,157.4,0,71.5,faheem_ashraf.webp
+133,105,Imam-ul-Haq,Imam-ul-Haq,Pakistan,TOP_200,11,6,54.2,0,71.13,imamulhaq.webp
+134,201,Mohammad Mithun,Mohammad Mithun,Bangladesh,TOP_200,10,7,39.2,0,70.88,mohammad_mithun.webp
+135,166,L Ngidi,Lungisani True-man Ngidi,South Africa,TOP_200,8,6,97.4,0,68.62,l_ngidi.webp
+136,250,RRS Cornwall,Rahkeem Rashawn Shane Cornwall,West Indies,TOP_200,6,4,151.5,1,68.5,rrs_cornwall.webp
+137,21,A Nortje,Anrich Arno Nortje,South Africa,TOP_200,10,4,119.5,0,67.92,anrich_nortje.webp
+138,11,AY Patel,Ajaz Yunus Patel,New Zealand,TOP_200,8,4,103.3,1,67.5,ay_patel.webp
+139,49,CAK Rajitha,Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,TOP_200,8,6,89.8,0,67.47,cak_rajitha.webp
+140,153,Kuldeep Yadav,Kuldeep Yadav,India,TOP_200,7,6,109.7,0,67.45,kuldeep_yadav.webp
+141,60,DW Steyn,Dale Willem Steyn,South Africa,TOP_200,8,4,99.4,1,66.91,dw_steyn.webp
+142,4,Abid Ali,Abid Ali,Pakistan,TOP_200,8,5,63.2,1,66.47,abid_ali.webp
+143,133,JA Burns,Joseph Anthony Burns,Italy,TOP_200,10,5,72.8,0,65.92,ja_burns.webp
+144,208,Sabbir Rahman,Mohammad Sabbir Rahman,Bangladesh,TOP_200,9,6,59.3,0,65.89,sabbir_rahman.webp
+145,308,TA Blundell,Thomas Ackland Blundell,New Zealand,TOP_200,10,5,70.0,0,65.51,ta_blundell.webp
+146,34,B Kumar,Bhuvneshwar Kumar Singh,India,TOP_200,5,4,149.9,1,65.49,b_kumar.webp
+147,187,ML Cummins,Miguel Lamar Cummins,West Indies,TOP_200,9,5,79.3,0,63.89,ml_cummins.webp
+148,178,MD Gunathilaka,Mashtayage Danushka Gunathilaka,Sri Lanka,TOP_200,8,6,65.6,0,63.85,md_gunathilaka.webp
+149,267,Shadab Khan,Shadab Khan,Pakistan,TOP_200,6,5,137.8,0,63.66,shadab_khan.webp
+150,155,KA Jamieson,Kyle Alex Jamieson,New Zealand,TOP_200,6,3,224.7,1,63.5,kyle_jamieson.webp
+151,39,BRM Taylor,Brendan Ross Murray Taylor,Zimbabwe,TOP_200,8,5,95.3,0,63.3,ross_taylor.webp
+152,175,MD Stoneman,Mark Daniel Stoneman,England,TOP_200,11,4,60.1,0,62.02,md_stoneman.webp
+153,36,BOP Fernando,Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,TOP_200,8,5,85.2,0,61.78,bop_fernando.webp
+154,59,CR Ervine,Craig Richard Ervine,Zimbabwe,TOP_200,7,5,101.4,0,61.21,cr_ervine.webp
+155,265,SC Williams,Sean Colin Williams,Zimbabwe,TOP_200,6,4,168.3,0,60.5,sc_williams.webp
+156,290,SNJ O'Keefe,Stephen Norman John O'Keefe,Australia,TOP_200,6,3,127.8,1,60.16,snj_okeefe.webp
+157,182,MJ Henry,Matthew James Henry,New Zealand,TOP_200,6,6,79.5,0,59.92,mj_henry.webp
+158,221,Naseem Shah,Naseem Shah,Pakistan,TOP_200,7,5,91.1,0,59.66,naseem_shah.webp
+159,130,JA Warrican,Jomel Andrel Warrican,West Indies,TOP_200,5,3,134.9,1,58.23,ja_warrican.webp
+160,173,MS Harris,Marcus Sinclair Harris,Australia,TOP_200,10,4,51.8,0,57.77,ms_harris.webp
+161,5,AB de Villiers,Abraham Benjamin de Villiers,South Africa,TOP_200,8,3,122.9,0,57.43,ab_de_villiers.webp
+162,7,AU Rashid,Adil Usman Rashid,England,TOP_200,8,3,121.2,0,57.18,au_rashid.webp
+163,184,MT Renshaw,Matthew Thomas Renshaw,Australia,TOP_200,8,4,82.3,0,56.35,mt_renshaw.webp
+164,123,JP Duminy,Jean-Paul Duminy,South Africa,TOP_200,6,3,101.8,1,56.26,jp_duminy.webp
+165,204,Nayeem Hasan,Mohammad Nayeem Hasan,Bangladesh,TOP_200,6,4,116.4,0,55.45,nayeem_hasan.webp
+166,256,RW Chakabva,Regis Wiriranai Chakabva,Zimbabwe,TOP_200,8,5,39.2,0,54.87,rw_chakabva.webp
+167,330,WU Tharanga,Warushavithana Upul Tharanga,Sri Lanka,TOP_200,8,4,70.4,0,54.56,wu_tharanga.webp
+168,92,H Masakadza,Hamilton Masakadza,Zimbabwe,TOP_200,6,4,104.0,0,53.61,h_masakadza.webp
+169,43,CT Bancroft,Cameron Timothy Bancroft,Australia,TOP_200,10,3,55.3,0,53.3,ct_bancroft.webp
+170,159,KR Mayers,Kyle Rico Mayers,West Indies,TOP_200,4,2,221.7,1,52.5,kr_mayers.webp
+171,28,AR Patel,Axar Rajeshbhai Patel,India,TOP_200,3,1,262.4,2,52.5,ar_patel.webp
+172,158,KM Jarvis,Kyle Malcolm Jarvis,Zimbabwe,TOP_200,5,4,110.7,0,51.6,km_jarvis.webp
+173,99,HE van der Dussen,Hendrik Erasmus van der Dussen,South Africa,TOP_200,8,3,75.1,0,50.27,hendrik_dussen.webp
+174,220,Nazmul Hossain Shanto,Najmul Hossain Shanto,Bangladesh,TOP_200,6,5,48.2,0,50.23,najmul_shanto.webp
+175,15,AG Cremer,Alexander Graeme Cremer,Zimbabwe,TOP_200,4,3,173.2,0,49.5,ag_cremer.webp
+176,75,DT Tiripano,Donald Tatenda Tiripano,Zimbabwe,TOP_200,5,4,87.7,0,48.16,dt_tiripano.webp
+177,32,BT Foakes,Benjamin Thomas Foakes,England,TOP_200,8,3,60.0,0,47.99,bt_foakes.webp
+178,328,Wahab Riaz,Wahab Riaz,Pakistan,TOP_200,4,4,104.8,0,47.72,wahab_riaz.webp
+179,268,Shadman Islam,Shadman Islam Anik,Bangladesh,TOP_200,6,4,60.8,0,47.12,shadman_islam.webp
+180,239,PJ Moor,Peter Joseph Moor,Ireland,TOP_200,5,4,76.6,0,46.5,pj_moor.webp
+181,278,SN Thakur,Shardul Narendra Thakur,India,TOP_200,2,2,149.9,1,46.48,sn_thakur.webp
+182,337,WER Somerville,William Edgar Richard Somerville,New Zealand,TOP_200,4,3,127.0,0,46.05,wer_somerville.webp
+183,233,PVD Chameera,Pathira Vasan Dushmantha Chameera,Sri Lanka,TOP_200,5,4,73.4,0,46.01,pvd_chameera.webp
+184,243,PWA Mulder,Pieter Willem Adriaan Mulder,South Africa,TOP_200,4,3,126.6,0,45.99,pwa_mulder.webp
+185,168,MD Shanaka,Madagamagamage Dasun Shanaka,Sri Lanka,TOP_200,5,3,102.9,0,45.44,md_shanaka.webp
+186,148,KJ O'Brien,Kevin Joseph O'Brien,Ireland,TOP_200,2,2,140.6,1,45.09,kj_obrien.webp
+187,246,PP Shaw,Prithvi Pankaj Shaw,India,TOP_200,5,3,98.1,0,44.71,pp_shaw.webp
+188,274,SSJ Brooks,Shamarh Shaqad Joshua Brooks,West Indies,TOP_200,7,3,56.0,0,44.4,ssj_brooks.webp
+189,83,Fawad Alam,Fawad Alam,Pakistan,TOP_200,5,3,96.0,0,44.4,fawad_alam.webp
+190,302,Taskin Ahmed,Taskin Ahmed,Bangladesh,TOP_200,5,4,62.3,0,44.35,taskin_ahmed.webp
+191,27,N Pradeep,Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,TOP_200,6,3,71.1,0,43.67,n_pradeep.webp
+192,79,Ebadat Hossain,Ebadot Hossain Chowdhury,Bangladesh,TOP_200,6,4,36.4,0,43.46,ebadat_hossain.webp
+193,65,DJ Mitchell,Daryl Joseph Mitchell,New Zealand,TOP_200,4,3,109.2,0,43.39,daryl_mitchell.webp
+194,316,TS Roland-Jones,Tobias Skelton Roland-Jones,England,TOP_200,4,2,142.2,0,43.33,ts_rolandjones.webp
+195,331,Washington Sundar,Washington Sundar,India,TOP_200,4,2,139.2,0,42.88,washington_sundar.webp
+196,58,C Overton,Craig Overton,England,TOP_200,4,3,105.5,0,42.83,c_overton.webp
+197,197,Bilal Asif,Mohammad Bilal Asif,Pakistan,TOP_200,5,2,116.7,0,42.5,bilal_asif.webp
+198,227,NE Bonner,Nkrumah Eljego Bonner,West Indies,TOP_200,4,2,136.0,0,42.4,ne_bonner.webp
+199,212,Mohammed Siraj,Mohammed Siraj,India,TOP_200,5,2,113.6,0,42.04,mohammed_siraj.webp
+200,207,Rubel Hossain,Mohammad Rubel Hossain,Bangladesh,TOP_200,4,4,66.7,0,42.0,rubel_hossain.webp
+201,145,KMA Paul,Keemo Mandela Angus Paul,West Indies,REMAINING,3,3,117.0,0,41.56,kma_paul.webp
+202,89,GF Linde,George Fredrik Linde,South Africa,REMAINING,3,2,152.4,0,41.5,gf_linde.webp
+203,138,J Da Silva,Joshua Da Silva,West Indies,REMAINING,5,3,75.4,0,41.31,joshua_silva.webp
+204,238,PM Pushpakumara,Pawuluge Malinda Pushpakumara,Sri Lanka,REMAINING,4,2,128.3,0,41.25,pm_pushpakumara.webp
+205,285,Shubman Gill,Shubman Gill,India,REMAINING,7,2,68.2,0,41.23,shubman_gill.webp
+206,17,AL Phehlukwayo,Andile Lucky Phehlukwayo,South Africa,REMAINING,4,3,91.1,0,40.66,al_phehlukwayo.webp
+207,76,DAS Gunaratne,Downdegedara Asela Sampath Gunaratne,Sri Lanka,REMAINING,3,2,139.6,0,39.94,das_gunaratne.webp
+208,115,JL Pattinson,James Lee Pattinson,Australia,REMAINING,4,2,119.4,0,39.91,jl_pattinson.webp
+209,91,GJ Maxwell,Glenn James Maxwell,Australia,REMAINING,4,2,115.8,0,39.37,gj_maxwell.webp
+210,64,DM Bravo,Darren Michael Bravo,West Indies,REMAINING,7,3,20.9,0,39.14,dm_bravo.webp
+211,240,PM Siddle,Peter Matthew Siddle,Australia,REMAINING,5,2,93.5,0,39.03,pm_siddle.webp
+212,231,PLS Gamage,Panagamuwa Lahiru Sampath Gamage,Sri Lanka,REMAINING,5,3,59.6,0,38.93,pls_gamage.webp
+213,53,CB Mpofu,Christopher Bobby Mpofu,Zimbabwe,REMAINING,4,3,77.3,0,38.6,cb_mpofu.webp
+214,293,SR Thompson,Stuart Robert Thompson,Ireland,REMAINING,2,2,151.2,0,38.5,sr_thompson.webp
+215,314,TJ Murtagh,Timothy James Murtagh,Ireland,REMAINING,2,2,201.3,0,38.5,tj_murtagh.webp
+216,117,JM Vince,James Michael Vince,England,REMAINING,6,2,68.5,0,38.28,jm_vince.webp
+217,140,Kamrul Islam Rabbi,Kamrul Islam Rabbi,Bangladesh,REMAINING,5,3,54.2,0,38.13,kamrul_rabbi.webp
+218,295,SW Ambris,Sunil Walford Ambris,West Indies,REMAINING,6,3,33.5,0,38.02,sw_ambris.webp
+219,189,Misbah-ul-Haq,Misbah-ul-Haq Khan Niazi,Pakistan,REMAINING,4,2,106.2,0,37.93,misbahulhaq_niazi.webp
+220,210,Younis Khan,Mohammad Younis Khan,Pakistan,REMAINING,4,2,100.6,0,37.09,younis_khan.webp
+221,294,Subashis Roy,Subashis Roy,Bangladesh,REMAINING,4,3,66.6,0,36.99,subashis_roy.webp
+222,121,JK Silva,Jayan Kaushal Silva,Sri Lanka,REMAINING,6,3,26.1,0,36.91,jk_silva.webp
+223,198,Mohammad Hafeez,Mohammad Hafeez,Pakistan,REMAINING,5,2,78.7,0,36.81,mohammad_hafeez.webp
+224,317,TD Astle,Todd Duncan Astle,New Zealand,REMAINING,3,3,85.3,0,36.79,td_astle.webp
+225,344,Zubayr Hamza,Zubayr Hamza,South Africa,REMAINING,5,3,44.4,0,36.65,zubayr_hamza.webp
+226,244,PWH de Silva,Pinnaduwage Wanindu Hasaranga de Silva,Sri Lanka,REMAINING,3,2,115.4,0,36.3,pinnaduwage_silva.webp
+227,1,AJ Finch,Aaron James Finch,Australia,REMAINING,5,2,72.1,0,35.81,aj_finch.webp
+228,63,DW Lawrence,Daniel William Lawrence,England,REMAINING,5,2,61.7,0,34.26,dw_lawrence.webp
+229,332,WD Parnell,Wayne Dillon Parnell,South Africa,REMAINING,2,2,119.0,0,33.84,wd_parnell.webp
+230,42,C Green,Cameron Donald Green,Australia,REMAINING,4,1,110.2,0,33.53,c_green.webp
+231,54,CH Morris,Christopher Henry Morris,South Africa,REMAINING,2,1,153.7,0,33.5,ch_morris.webp
+232,228,Nauman Ali,Noman Ali,Pakistan,REMAINING,2,1,183.8,0,33.5,nauman_ali.webp
+233,310,T Westley,Thomas Westley,England,REMAINING,5,2,52.9,0,32.94,t_westley.webp
+234,24,AC Agar,Ashton Charles Agar,Australia,REMAINING,2,1,146.2,0,32.94,ac_agar.webp
+235,230,OP Stone,Oliver Peter Stone,England,REMAINING,2,2,110.2,0,32.53,op_stone.webp
+236,336,WB Rankin,William Boyd Rankin,Ireland,REMAINING,2,2,107.8,0,32.17,wb_rankin.webp
+237,118,JJ Roy,Jason Jonathan Roy,England,REMAINING,5,2,47.0,0,32.06,jj_roy.webp
+238,82,Fakhar Zaman,Fakhar Zaman,Pakistan,REMAINING,3,2,85.3,0,31.8,fakhar_zaman.webp
+239,165,L Sipamla,Lubabalo Lutho Sipamla,South Africa,REMAINING,2,1,138.5,0,31.77,l_sipamla.webp
+240,270,S Nadeem,Shahbaz Nadeem,India,REMAINING,2,2,100.9,0,31.14,s_nadeem.webp
+241,325,VM Nyauchi,Victor Munyaradzi Nyauchi,Zimbabwe,REMAINING,3,2,80.8,0,31.12,vm_nyauchi.webp
+242,70,DS Smith,Devon Sheldon Smith,West Indies,REMAINING,5,2,38.9,0,30.83,ds_smith.webp
+243,172,MN Waller,Malcolm Noel Waller,Zimbabwe,REMAINING,3,2,76.7,0,30.5,mn_waller.webp
+244,33,BE Hendricks,Beuran Eric Hendricks,South Africa,REMAINING,1,1,168.3,0,30.5,be_hendricks.webp
+245,176,MR Adair,Mark Richard Adair,Ireland,REMAINING,1,1,179.4,0,30.5,mr_adair.webp
+246,108,IS Sodhi,Inderbir Singh Sodhi,New Zealand,REMAINING,3,2,74.4,0,30.16,is_sodhi.webp
+247,78,D Pretorius,Dwaine Pretorius,South Africa,REMAINING,3,1,107.3,0,30.09,d_pretorius.webp
+248,245,PS Masvaure,Prince Spencer Masvaure,Zimbabwe,REMAINING,3,2,71.7,0,29.76,ps_masvaure.webp
+249,2,Abdur Razzak,Abdur Razzak,Bangladesh,REMAINING,1,1,142.6,0,29.39,abdur_razzak.webp
+250,333,S Samarawickrama,Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,REMAINING,4,2,43.5,0,28.52,s_samarawickrama.webp
+251,298,T Shamsi,Tabraiz Shamsi,South Africa,REMAINING,1,1,136.8,0,28.52,t_shamsi.webp
+252,255,RA Reifer,Raymon Anton Reifer,West Indies,REMAINING,1,1,134.6,0,28.19,ra_reifer.webp
+253,156,KA Hope,Kyle Antonio Hope,West Indies,REMAINING,5,2,20.2,0,28.03,ka_hope.webp
+254,215,Mosaddek Hossain,Mosaddek Hossain Saikat,Bangladesh,REMAINING,2,2,79.7,0,27.96,mosaddek_hossain.webp
+255,125,JS Patel,Jeetan Shashi Patel,New Zealand,REMAINING,3,1,92.2,0,27.84,js_patel.webp
+256,235,P Nissanka,Pathum Nissanka Silva,Sri Lanka,REMAINING,2,1,105.7,0,26.85,p_nissanka.webp
+257,62,D Paterson,Dane Paterson,South Africa,REMAINING,2,1,105.2,0,26.77,d_paterson.webp
+258,25,AM Fernando,Asitha Madusanka Fernando,Sri Lanka,REMAINING,3,2,47.9,0,26.19,am_fernando.webp
+259,13,Al-Amin Hossain,Al-Amin Hossain,Bangladesh,REMAINING,1,1,120.2,0,26.03,alamin_hossain.webp
+260,3,A Mukund,Abhinav Mukund,India,REMAINING,2,2,66.5,0,25.98,a_mukund.webp
+261,247,Nurul Hasan,Quazi Nurul Hasan,Bangladesh,REMAINING,3,2,45.1,0,25.77,nurul_hasan.webp
+262,22,Ariful Haque,Ariful Haque,Bangladesh,REMAINING,2,1,97.8,0,25.68,ariful_haque.webp
+263,304,TL Chatara,Tendai Larry Chatara,Zimbabwe,REMAINING,2,1,96.7,0,25.5,tl_chatara.webp
+264,154,KR Patterson,Kurtis Robert Patterson,Australia,REMAINING,2,1,96.1,0,25.41,kr_patterson.webp
+265,287,SF Mire,Solomon Farai Mire,Zimbabwe,REMAINING,2,1,94.4,0,25.16,sf_mire.webp
+266,266,S Muthusamy,Senuran Muthusamy,South Africa,REMAINING,2,1,94.3,0,25.14,s_muthusamy.webp
+267,149,KT Kasuza,Kevin Tatenda Kasuza,Zimbabwe,REMAINING,3,2,40.6,0,25.09,kt_kasuza.webp
+268,127,JA Richardson,Jhye Avon Richardson,Australia,REMAINING,2,1,93.9,0,25.09,ja_richardson.webp
+269,282,SH Lewis,Shermon Hakim Lewis,West Indies,REMAINING,2,2,60.3,0,25.05,sh_lewis.webp
+270,103,HWR Cartwright,Hilton William Raymond Cartwright,Australia,REMAINING,2,2,58.1,0,24.72,hwr_cartwright.webp
+271,269,Shafiul Islam,Shafiul Islam,Bangladesh,REMAINING,2,2,57.7,0,24.65,shafiul_islam.webp
+272,61,DL Piedt,Dane Leeroy Piedt,South Africa,REMAINING,2,1,90.2,0,24.54,dl_piedt.webp
+273,342,Zafar Gohar,Zafar Gohar Khan,Pakistan,REMAINING,1,1,109.6,0,24.44,zafar_gohar.webp
+274,205,Nazmul Islam,Mohammad Nazmul Islam,Bangladesh,REMAINING,1,1,109.5,0,24.42,nazmul_islam.webp
+275,309,TK Curran,Thomas Kevin Curran,England,REMAINING,2,1,89.2,0,24.39,tk_curran.webp
+276,199,Imran Khan (2),Mohammad Imran Khan,Pakistan,REMAINING,2,2,54.2,0,24.13,mohammad_khan.webp
+277,242,PJ Malan,Pieter Jacobus Malan,South Africa,REMAINING,3,1,65.7,0,23.86,pj_malan.webp
+278,203,Nasir Hossain,Mohammad Nasir Hossain,Bangladesh,REMAINING,2,1,85.5,0,23.83,nasir_hossain.webp
+279,289,SC Cook,Stephen Craig Cook,South Africa,REMAINING,4,2,11.9,0,23.79,sc_cook.webp
+280,237,PR Stirling,Paul Robert Stirling,Ireland,REMAINING,2,2,48.0,0,23.21,pr_stirling.webp
+281,305,TS Chisoro,Tendai Sam Chisoro,Zimbabwe,REMAINING,1,1,100.6,0,23.09,ts_chisoro.webp
+282,162,LA Dawson,Liam Andrew Dawson,England,REMAINING,2,1,77.5,0,22.62,la_dawson.webp
+283,132,JM Holland,Jonathan Mark Holland,Australia,REMAINING,2,1,75.5,0,22.32,jm_holland.webp
+284,10,A Ndlovu,Ainsley Ndlovu,Zimbabwe,REMAINING,2,2,41.7,0,22.25,a_ndlovu.webp
+285,8,Ahmed Shehzad,Ahmed Shehzad,Pakistan,REMAINING,2,1,72.8,0,21.91,ahmed_shehzad.webp
+286,18,A Balbirnie,Andrew Balbirnie,Ireland,REMAINING,2,2,38.1,0,21.71,a_balbirnie.webp
+287,97,HG Kuhn,Heino Gunther Kuhn,South Africa,REMAINING,4,1,30.7,0,21.61,hg_kuhn.webp
+288,338,WJ Pucovski,William Jan Pucovski,Australia,REMAINING,1,1,89.4,0,21.41,wj_pucovski.webp
+289,40,BB Chari,Brian Bara Chari,Zimbabwe,REMAINING,2,1,67.2,0,21.08,bb_chari.webp
+290,51,CK Holder,Chemar Keron Holder,West Indies,REMAINING,1,1,86.0,0,20.9,ck_holder.webp
+291,44,CT Mumba,Carl Tapfuma Mumba,Zimbabwe,REMAINING,1,1,85.7,0,20.86,ct_mumba.webp
+292,306,T Natarajan,Thangarasu Natarajan,India,REMAINING,1,1,83.3,0,20.5,t_natarajan.webp
+293,223,NA Saini,Navdeep Amarjeet Saini,India,REMAINING,2,1,61.9,0,20.29,na_saini.webp
+294,38,B Mavuta,Brandon Anesu Mavuta,Zimbabwe,REMAINING,2,1,60.4,0,20.06,b_mavuta.webp
+295,329,RTM Mendis,Wanigamuni Ramesh Tarinda Mendis,Sri Lanka,REMAINING,1,1,79.9,0,19.98,rtm_mendis.webp
+296,114,JDS Neesham,James Douglas Sheahan Neesham,New Zealand,REMAINING,2,1,57.0,0,19.56,jds_neesham.webp
+297,334,WP Masakadza,Wellington Pedzisai Masakadza,Zimbabwe,REMAINING,1,1,76.9,0,19.54,wp_masakadza.webp
+298,315,T Maruma,Timycen Hlahla Maruma,Zimbabwe,REMAINING,2,2,22.5,0,19.38,t_maruma.webp
+299,339,WTS Porterfield,William Thomas Stuart Porterfield,Ireland,REMAINING,2,2,22.1,0,19.31,wts_porterfield.webp
+300,262,Sami Aslam,Sami Aslam,Pakistan,REMAINING,2,1,55.2,0,19.28,sami_aslam.webp
+301,88,GS Ballance,Gary Simon Ballance,Zimbabwe,REMAINING,2,1,54.0,0,19.1,gs_ballance.webp
+302,87,GC Wilson,Gary Craig Wilson,Ireland,REMAINING,2,2,20.1,0,19.02,gc_wilson.webp
+303,297,Khaled Ahmed,Syed Khaled Ahmed,Bangladesh,REMAINING,2,2,18.4,0,18.75,khaled_ahmed.webp
+304,209,Saif Hassan,Mohammad Saif Hassan,Bangladesh,REMAINING,2,2,17.6,0,18.64,saif_hassan.webp
+305,90,GD Phillips,Glenn Dominic Phillips,New Zealand,REMAINING,1,1,68.7,0,18.3,gd_phillips.webp
+306,111,JT Ball,Jacob Timothy Ball,England,REMAINING,1,1,67.8,0,18.17,jt_ball.webp
+307,296,Sunzamul Islam,Sunzamul Islam,Bangladesh,REMAINING,1,1,65.8,0,17.87,sunzamul_islam.webp
+308,46,C Karunaratne,Chamika Karunaratne,Sri Lanka,REMAINING,1,1,65.3,0,17.79,dimuth_karunaratne.webp
+309,57,CT Mutombodzi,Confidence Tinotenda Mutombodzi,Zimbabwe,REMAINING,1,1,64.4,0,17.66,ct_mutombodzi.webp
+310,122,J Yadav,Jayant Yadav,India,REMAINING,1,1,63.3,0,17.5,j_yadav.webp
+311,143,KK Nair,Karun Nair,India,REMAINING,3,1,23.0,0,17.45,kk_nair.webp
+312,279,Sharjeel Khan,Sharjeel Khan,Pakistan,REMAINING,1,1,62.6,0,17.39,sharjeel_khan.webp
+313,327,VA Singh,Vishaul Anthony Singh,West Indies,REMAINING,3,1,18.8,0,16.82,va_singh.webp
+314,45,CJ Sayers,Chadd James Sayers,Australia,REMAINING,1,1,58.3,0,16.75,cj_sayers.webp
+315,104,Iftikhar Ahmed,Iftikhar Ahmed,Pakistan,REMAINING,2,1,37.3,0,16.59,iftikhar_ahmed.webp
+316,157,KJ Abbott,Kyle John Abbott,South Africa,REMAINING,1,1,54.8,0,16.22,kj_abbott.webp
+317,80,EC Joyce,Edmund Christopher Joyce,Ireland,REMAINING,1,1,52.2,0,15.83,ec_joyce.webp
+318,35,B Muzarabani,Blessing Muzarabani,Zimbabwe,REMAINING,1,1,51.8,0,15.77,b_muzarabani.webp
+319,232,PA Patel,Parthiv Ajay Patel,India,REMAINING,2,1,31.5,0,15.73,pa_patel.webp
+320,19,AR McBrine,Andrew Robert McBrine,Ireland,REMAINING,1,1,48.5,0,15.27,ar_mcbrine.webp
+321,335,WA Young,William Alexander Young,New Zealand,REMAINING,2,1,26.0,0,14.9,wa_young.webp
+322,179,MS Crane,Mason Sidney Crane,England,REMAINING,1,1,45.3,0,14.79,ms_crane.webp
+323,216,Muhammad Musa,Muhammad Musa Khan,Pakistan,REMAINING,1,1,45.1,0,14.77,muhammad_musa.webp
+324,224,NT Broom,Neil Trevor Broom,New Zealand,REMAINING,2,1,22.7,0,14.41,nt_broom.webp
+325,50,CK Tshuma,Charlton Kirsh Tshuma,Zimbabwe,REMAINING,1,1,39.0,0,13.85,ck_tshuma.webp
+326,188,Mir Hamza,Mir Hamza,Pakistan,REMAINING,1,1,38.6,0,13.79,mir_hamza.webp
+327,106,Imran Butt (2),Imran Butt,Pakistan,REMAINING,2,1,18.4,0,13.75,imran_butt.webp
+328,47,CJ Chibhabha,Chamunorwa Justice Chibhabha,Zimbabwe,REMAINING,1,1,38.1,0,13.71,cj_chibhabha.webp
+329,249,Rahat Ali,Rahat Ali,Pakistan,REMAINING,1,1,35.8,0,13.37,rahat_ali.webp
+330,322,Usman Salahuddin,Usman Salahuddin,Pakistan,REMAINING,1,1,35.2,0,13.28,usman_salahuddin.webp
+331,110,JM Bird,Jackson Munro Bird,Australia,REMAINING,1,1,33.6,0,13.04,jm_bird.webp
+332,113,JA McCollum,James Alexander McCollum,Ireland,REMAINING,1,1,32.5,0,12.88,ja_mccollum.webp
+333,281,S Moseley,Shayne Akeel Richard Moseley,West Indies,REMAINING,2,1,10.9,0,12.63,s_moseley.webp
+334,320,TE Kane,Tyrone Edward Kane,Ireland,REMAINING,1,1,29.8,0,12.47,te_kane.webp
+335,171,ML Udawatte,Mahela Lakmal Udawatte,Sri Lanka,REMAINING,2,1,8.0,0,12.2,suranga_lakmal.webp
+336,152,KD Karthik,Krishnakumar Dinesh Karthik,India,REMAINING,2,1,7.7,0,12.15,kd_karthik.webp
+337,261,RP Burl,Ryan Ponsonby Burl,Zimbabwe,REMAINING,1,1,17.2,0,10.58,rp_burl.webp
+338,226,NJ O'Brien,Niall John O'Brien,Ireland,REMAINING,1,1,16.5,0,10.47,nj_obrien.webp
+339,160,LH Ferguson,Lachlan Hammond Ferguson,New Zealand,REMAINING,1,1,15.9,0,10.38,lh_ferguson.webp
+340,41,BS Mudzinganyama,Brian Simbarashe Mudzinganyama,Zimbabwe,REMAINING,1,1,13.2,0,9.98,bs_mudzinganyama.webp
+341,98,H Klaasen,Heinrich Klaasen,South Africa,REMAINING,1,1,8.5,0,9.28,h_klaasen.webp
+342,251,M Bhanuka,Ranasinghe Arachchige Minod Bhanuka Ranasinghe,Sri Lanka,REMAINING,1,1,4.1,0,8.62,m_bhanuka.webp
+343,301,TK Musakanda,Tarisai Kenneth Musakanda,Zimbabwe,REMAINING,1,1,2.7,0,8.4,tk_musakanda.webp
+344,112,JN Hamilton,Jahmar Neville Hamilton,West Indies,REMAINING,1,1,-3.4,0,7.49,jn_hamilton.webp
+345,345,Abdul Malik,Abdul Malik,Unknown,REMAINING,0,0,0.0,0,0.0,abdul_malik.webp
+346,346,Abdul Wasi,Abdul Wasi,Unknown,REMAINING,0,0,0.0,0,0.0,abdul_wasi.webp
+347,347,Abu Jayed,Abu Jayed,Unknown,REMAINING,0,0,0.0,0,0.0,abu_jayed.webp
+348,348,Afsar Zazai,Afsar Zazai,Unknown,REMAINING,0,0,0.0,0,0.0,afsar_zazai.webp
+349,349,Akila Dananjaya,Akila Dananjaya,Unknown,REMAINING,0,0,0.0,0,0.0,akila_dananjaya.webp
+350,350,Amir Hamza,Amir Hamza,Unknown,REMAINING,0,0,0.0,0,0.0,amir_hamza.webp
+351,351,Asela Gunaratne,Asela Gunaratne,Unknown,REMAINING,0,0,0.0,0,0.0,asela_gunaratne.webp
+352,352,Asghar Afghan,Asghar Afghan,Unknown,REMAINING,0,0,0.0,0,0.0,asghar_afghan.webp
+353,353,BJ Watling,BJ Watling,Unknown,REMAINING,0,0,0.0,0,0.0,bj_watling.webp
+354,354,Babar Azam,Babar Azam,Unknown,REMAINING,0,0,0.0,0,0.0,babar_azam.webp
+355,355,Bhuvneshwar Kumar,Bhuvneshwar Kumar,Unknown,REMAINING,0,0,0.0,0,0.0,bhuvneshwar_kumar.webp
+356,356,Bilal Asif,Bilal Asif,Unknown,REMAINING,0,0,0.0,0,0.0,bilal_asif.webp
+357,357,Boyd Rankin,Boyd Rankin,Unknown,REMAINING,0,0,0.0,0,0.0,boyd_rankin.webp
+358,358,Chamu Chibhabha,Chamu Chibhabha,Unknown,REMAINING,0,0,0.0,0,0.0,chamu_chibhabha.webp
+359,359,Colin Stuart,Colin Stuart,Unknown,REMAINING,0,0,0.0,0,0.0,colin_stuart.webp
+360,360,Danushka Gunathilaka,Danushka Gunathilaka,Unknown,REMAINING,0,0,0.0,0,0.0,danushka_gunathilaka.webp
+361,361,Dasun Shanaka,Dasun Shanaka,Unknown,REMAINING,0,0,0.0,0,0.0,dasun_shanaka.webp
+362,362,Dilruwan Perera,Dilruwan Perera,Unknown,REMAINING,0,0,0.0,0,0.0,dilruwan_perera.webp
+363,363,Dimuth Karunaratne,Dimuth Karunaratne,Unknown,REMAINING,0,0,0.0,0,0.0,dimuth_karunaratne.webp
+364,364,Dinesh Chandimal,Dinesh Chandimal,Unknown,REMAINING,0,0,0.0,0,0.0,dinesh_chandimal.webp
+365,365,Dinesh Karthik,Dinesh Karthik,Unknown,REMAINING,0,0,0.0,0,0.0,dinesh_karthik.webp
+366,366,Dom Bess,Dom Bess,Unknown,REMAINING,0,0,0.0,0,0.0,dom_bess.webp
+367,367,Dom Sibley,Dom Sibley,Unknown,REMAINING,0,0,0.0,0,0.0,dom_sibley.webp
+368,368,Dushmantha Chameera,Dushmantha Chameera,Unknown,REMAINING,0,0,0.0,0,0.0,dushmantha_chameera.webp
+369,369,Ebadot Hossain,Ebadot Hossain,Unknown,REMAINING,0,0,0.0,0,0.0,ebadot_hossain.webp
+370,370,Ed Joyce,Ed Joyce,Unknown,REMAINING,0,0,0.0,0,0.0,ed_joyce.webp
+371,371,Faf du Plessis,Faf du Plessis,Unknown,REMAINING,0,0,0.0,0,0.0,faf_du_plessis.webp
+372,372,George Dockrell,George Dockrell,Unknown,REMAINING,0,0,0.0,0,0.0,george_dockrell.webp
+373,373,Graeme Cremer,Graeme Cremer,Unknown,REMAINING,0,0,0.0,0,0.0,graeme_cremer.webp
+374,374,Hanuma Vihari,Hanuma Vihari,Unknown,REMAINING,0,0,0.0,0,0.0,hanuma_vihari.webp
+375,375,Hashmatullah Shahidi,Hashmatullah Shahidi,Unknown,REMAINING,0,0,0.0,0,0.0,hashmatullah_shahidi.webp
+376,376,Ibrahim Zadran,Ibrahim Zadran,Unknown,REMAINING,0,0,0.0,0,0.0,ibrahim_zadran.webp
+377,377,Ihsanullah,Ihsanullah,Unknown,REMAINING,0,0,0.0,0,0.0,ihsanullah.webp
+378,378,Ikram Alikhil,Ikram Alikhil,Unknown,REMAINING,0,0,0.0,0,0.0,ikram_alikhil.webp
+379,379,Imran Khan,Imran Khan,Unknown,REMAINING,0,0,0.0,0,0.0,imran_khan.webp
+380,380,Ish Sodhi,Ish Sodhi,Unknown,REMAINING,0,0,0.0,0,0.0,ish_sodhi.webp
+381,381,Jack Leach,Jack Leach,Unknown,REMAINING,0,0,0.0,0,0.0,jack_leach.webp
+382,382,Jake Ball,Jake Ball,Unknown,REMAINING,0,0,0.0,0,0.0,jake_ball.webp
+383,383,James Cameron-Dow,James Cameron-Dow,Unknown,REMAINING,0,0,0.0,0,0.0,james_camerondow.webp
+384,384,Javed Ahmadi,Javed Ahmadi,Unknown,REMAINING,0,0,0.0,0,0.0,javed_ahmadi.webp
+385,385,Jonny Bairstow,Jonny Bairstow,Unknown,REMAINING,0,0,0.0,0,0.0,jonny_bairstow.webp
+386,386,Jos Buttler,Jos Buttler,Unknown,REMAINING,0,0,0.0,0,0.0,jos_buttler.webp
+387,387,Kamrul Islam,Kamrul Islam,Unknown,REMAINING,0,0,0.0,0,0.0,kamrul_islam.webp
+388,388,Kasun Rajitha,Kasun Rajitha,Unknown,REMAINING,0,0,0.0,0,0.0,kasun_rajitha.webp
+389,389,Kaushal Silva,Kaushal Silva,Unknown,REMAINING,0,0,0.0,0,0.0,kaushal_silva.webp
+390,390,Khaled Ahmed,Khaled Ahmed,Unknown,REMAINING,0,0,0.0,0,0.0,khaled_ahmed.webp
+391,391,Kusal Mendis,Kusal Mendis,Unknown,REMAINING,0,0,0.0,0,0.0,kusal_mendis.webp
+392,392,Kusal Perera,Kusal Perera,Unknown,REMAINING,0,0,0.0,0,0.0,kusal_perera.webp
+393,393,Lahiru Gamage,Lahiru Gamage,Unknown,REMAINING,0,0,0.0,0,0.0,lahiru_gamage.webp
+394,394,Lahiru Kumara,Lahiru Kumara,Unknown,REMAINING,0,0,0.0,0,0.0,lahiru_kumara.webp
+395,395,Lahiru Thirimanne,Lahiru Thirimanne,Unknown,REMAINING,0,0,0.0,0,0.0,lahiru_thirimanne.webp
+396,396,Lakshan Sandakan,Lakshan Sandakan,Unknown,REMAINING,0,0,0.0,0,0.0,lakshan_sandakan.webp
+397,397,Liton Das,Liton Das,Unknown,REMAINING,0,0,0.0,0,0.0,liton_das.webp
+398,398,Lockie Ferguson,Lockie Ferguson,Unknown,REMAINING,0,0,0.0,0,0.0,lockie_ferguson.webp
+399,399,Lungi Ngidi,Lungi Ngidi,Unknown,REMAINING,0,0,0.0,0,0.0,lungi_ngidi.webp
+400,400,Lutho Sipamla,Lutho Sipamla,Unknown,REMAINING,0,0,0.0,0,0.0,lutho_sipamla.webp
+401,401,Mahmudullah,Mahmudullah,Unknown,REMAINING,0,0,0.0,0,0.0,mahmudullah.webp
+402,402,Malinda Pushpakumara,Malinda Pushpakumara,Unknown,REMAINING,0,0,0.0,0,0.0,malinda_pushpakumara.webp
+403,403,Mayank Agarwal,Mayank Agarwal,Unknown,REMAINING,0,0,0.0,0,0.0,mayank_agarwal.webp
+404,404,Minod Bhanuka,Minod Bhanuka,Unknown,REMAINING,0,0,0.0,0,0.0,minod_bhanuka.webp
+405,405,Misbah-ul-Haq,Misbah-ul-Haq,Unknown,REMAINING,0,0,0.0,0,0.0,misbahulhaq.webp
+406,406,Mohammad Nabi,Mohammad Nabi,Unknown,REMAINING,0,0,0.0,0,0.0,mohammad_nabi.webp
+407,407,Mohammad Shahzad,Mohammad Shahzad,Unknown,REMAINING,0,0,0.0,0,0.0,mohammad_shahzad.webp
+408,408,Mohammed Shami,Mohammed Shami,Unknown,REMAINING,0,0,0.0,0,0.0,mohammed_shami.webp
+409,409,Mosaddek Hossain,Mosaddek Hossain,Unknown,REMAINING,0,0,0.0,0,0.0,mosaddek_hossain.webp
+410,410,Muhammad Musa,Muhammad Musa,Unknown,REMAINING,0,0,0.0,0,0.0,muhammad_musa.webp
+411,411,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Unknown,REMAINING,0,0,0.0,0,0.0,mujeeb_rahman.webp
+412,412,Munir Ahmad,Munir Ahmad,Unknown,REMAINING,0,0,0.0,0,0.0,munir_ahmad.webp
+413,413,Mushfiqur Rahim,Mushfiqur Rahim,Unknown,REMAINING,0,0,0.0,0,0.0,mushfiqur_rahim.webp
+414,414,Nasir Hossain,Nasir Hossain,Unknown,REMAINING,0,0,0.0,0,0.0,nasir_hossain.webp
+415,415,Nasir Jamal,Nasir Jamal,Unknown,REMAINING,0,0,0.0,0,0.0,nasir_jamal.webp
+416,416,Nauman Ali,Nauman Ali,Unknown,REMAINING,0,0,0.0,0,0.0,nauman_ali.webp
+417,417,Nayeem Hasan,Nayeem Hasan,Unknown,REMAINING,0,0,0.0,0,0.0,nayeem_hasan.webp
+418,418,Nazmul Islam,Nazmul Islam,Unknown,REMAINING,0,0,0.0,0,0.0,nazmul_islam.webp
+419,419,Niroshan Dickwella,Niroshan Dickwella,Unknown,REMAINING,0,0,0.0,0,0.0,niroshan_dickwella.webp
+420,420,Nurul Hasan,Nurul Hasan,Unknown,REMAINING,0,0,0.0,0,0.0,nurul_hasan.webp
+421,421,Nuwan Pradeep,Nuwan Pradeep,Unknown,REMAINING,0,0,0.0,0,0.0,nuwan_pradeep.webp
+422,422,Ollie Pope,Ollie Pope,Unknown,REMAINING,0,0,0.0,0,0.0,ollie_pope.webp
+423,423,Olly Stone,Olly Stone,Unknown,REMAINING,0,0,0.0,0,0.0,olly_stone.webp
+424,424,Oshada Fernando,Oshada Fernando,Unknown,REMAINING,0,0,0.0,0,0.0,oshada_fernando.webp
+425,425,Pat Cummins,Pat Cummins,Unknown,REMAINING,0,0,0.0,0,0.0,pat_cummins.webp
+426,426,Pathum Nissanka,Pathum Nissanka,Unknown,REMAINING,0,0,0.0,0,0.0,pathum_nissanka.webp
+427,427,Qais Ahmad,Qais Ahmad,Unknown,REMAINING,0,0,0.0,0,0.0,qais_ahmad.webp
+428,428,Rahmat Shah,Rahmat Shah,Unknown,REMAINING,0,0,0.0,0,0.0,rahmat_shah.webp
+429,429,Ramesh Mendis,Ramesh Mendis,Unknown,REMAINING,0,0,0.0,0,0.0,ramesh_mendis.webp
+430,430,Rangana Herath,Rangana Herath,Unknown,REMAINING,0,0,0.0,0,0.0,rangana_herath.webp
+431,431,Rashid Khan,Rashid Khan,Unknown,REMAINING,0,0,0.0,0,0.0,rashid_khan.webp
+432,432,Rassie van der Dussen,Rassie van der Dussen,Unknown,REMAINING,0,0,0.0,0,0.0,rassie_dussen.webp
+433,433,Ravindra Jadeja,Ravindra Jadeja,Unknown,REMAINING,0,0,0.0,0,0.0,ravindra_jadeja.webp
+434,434,Roshen Silva,Roshen Silva,Unknown,REMAINING,0,0,0.0,0,0.0,roshen_silva.webp
+435,435,Ross Taylor,Ross Taylor,Unknown,REMAINING,0,0,0.0,0,0.0,ross_taylor.webp
+436,436,Rubel Hossain,Rubel Hossain,Unknown,REMAINING,0,0,0.0,0,0.0,rubel_hossain.webp
+437,437,Sabbir Rahman,Sabbir Rahman,Unknown,REMAINING,0,0,0.0,0,0.0,sabbir_rahman.webp
+438,438,Sadeera Samarawickrama,Sadeera Samarawickrama,Unknown,REMAINING,0,0,0.0,0,0.0,sadeera_samarawickrama.webp
+439,439,Saif Hassan,Saif Hassan,Unknown,REMAINING,0,0,0.0,0,0.0,saif_hassan.webp
+440,440,Sam Curran,Sam Curran,Unknown,REMAINING,0,0,0.0,0,0.0,sam_curran.webp
+441,441,Sayed Shirzad,Sayed Shirzad,Unknown,REMAINING,0,0,0.0,0,0.0,sayed_shirzad.webp
+442,442,Shadman Islam,Shadman Islam,Unknown,REMAINING,0,0,0.0,0,0.0,shadman_islam.webp
+443,443,Shahidullah,Shahidullah,Unknown,REMAINING,0,0,0.0,0,0.0,shahidullah.webp
+444,444,Shan Masood,Shan Masood,Unknown,REMAINING,0,0,0.0,0,0.0,shan_masood.webp
+445,445,Sikandar Raza,Sikandar Raza,Unknown,REMAINING,0,0,0.0,0,0.0,sikandar_raza.webp
+446,446,Sir Alastair Cook,Sir Alastair Cook,Unknown,REMAINING,0,0,0.0,0,0.0,sir_cook.webp
+447,447,Steve O'Keefe,Steve O'Keefe,Unknown,REMAINING,0,0,0.0,0,0.0,steve_okeefe.webp
+448,448,Stuart Poynter,Stuart Poynter,Unknown,REMAINING,0,0,0.0,0,0.0,stuart_poynter.webp
+449,449,Suranga Lakmal,Suranga Lakmal,Unknown,REMAINING,0,0,0.0,0,0.0,suranga_lakmal.webp
+450,450,Tamim Iqbal,Tamim Iqbal,Unknown,REMAINING,0,0,0.0,0,0.0,tamim_iqbal.webp
+451,451,Tinotenda Mutombodzi,Tinotenda Mutombodzi,Unknown,REMAINING,0,0,0.0,0,0.0,tinotenda_mutombodzi.webp
+452,452,Toby Roland-Jones,Toby Roland-Jones,Unknown,REMAINING,0,0,0.0,0,0.0,toby_rolandjones.webp
+453,453,Umesh Yadav,Umesh Yadav,Unknown,REMAINING,0,0,0.0,0,0.0,umesh_yadav.webp
+454,454,Upul Tharanga,Upul Tharanga,Unknown,REMAINING,0,0,0.0,0,0.0,upul_tharanga.webp
+455,455,Vishwa Fernando,Vishwa Fernando,Unknown,REMAINING,0,0,0.0,0,0.0,vishwa_fernando.webp
+456,456,Wafadar Momand,Wafadar Momand,Unknown,REMAINING,0,0,0.0,0,0.0,wafadar_momand.webp
+457,457,Waqar Salamkheil,Waqar Salamkheil,Unknown,REMAINING,0,0,0.0,0,0.0,waqar_salamkheil.webp
+458,458,Wesley Madhevere,Wesley Madhevere,Unknown,REMAINING,0,0,0.0,0,0.0,wesley_madhevere.webp
+459,459,Wiaan Mulder,Wiaan Mulder,Unknown,REMAINING,0,0,0.0,0,0.0,wiaan_mulder.webp
+460,460,Yamin Ahmadzai,Yamin Ahmadzai,Unknown,REMAINING,0,0,0.0,0,0.0,yamin_ahmadzai.webp
+461,461,Younis Khan,Younis Khan,Unknown,REMAINING,0,0,0.0,0,0.0,younis_khan.webp
+462,462,Zafar Gohar,Zafar Gohar,Unknown,REMAINING,0,0,0.0,0,0.0,zafar_gohar.webp
+463,463,Zahir Khan,Zahir Khan,Unknown,REMAINING,0,0,0.0,0,0.0,zahir_khan.webp

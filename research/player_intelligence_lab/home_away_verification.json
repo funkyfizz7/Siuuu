@@ -1,0 +1,9 @@
+{
+  "analysis": "Home/Away Comparison",
+  "status": "UNSUPPORTED",
+  "reason": "The source CSV lacks native 'home_team', 'away_team', 'host_country', or 'venue_country' columns. Venues (e.g., 'Sydney Cricket Ground', 'Dubai International Cricket Stadium', 'Lord's') are stadium names without explicit host country metadata. Event names are either series titles ('Basil D'Oliveira Trophy', 'Border-Gavaskar Trophy') or missing (NaN). As instructed, home status must not be inferred from player nationality or external lookups.",
+  "columns_checked": 58,
+  "target_columns_found": [],
+  "sample_venues_count": 70,
+  "neutral_venues_present": true
+}

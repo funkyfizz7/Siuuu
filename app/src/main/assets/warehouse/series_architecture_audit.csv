@@ -1,0 +1,70 @@
+series_id,series_name,matches_count,matches_coverage,standings_math_valid,player_aggregates_reconciled,turning_points_linked,total_turning_points,total_players_tracked,overall_status
+1,Sri Lanka tour of South Africa 2016-17,2,PASS,PASS,PASS,PASS,35,24,PASS
+2,Pakistan tour of Australia 2016-17,1,PASS,PASS,PASS,PASS,20,22,PASS
+3,Bangladesh tour of New Zealand 2016-17,2,PASS,PASS,PASS,PASS,40,26,PASS
+4,South Africa tour of New Zealand 2016-17,3,PASS,PASS,PASS,PASS,50,27,PASS
+5,South Africa tour of England 2017,4,PASS,PASS,PASS,PASS,50,28,PASS
+6,West Indies tour of England 2017,3,PASS,PASS,PASS,PASS,50,25,PASS
+7,Bangladesh tour of India 2016-17,1,PASS,PASS,PASS,PASS,20,22,PASS
+8,Australia tour of India 2016-17,4,PASS,PASS,PASS,PASS,50,28,PASS
+9,Ashes 2017-18,5,PASS,PASS,PASS,PASS,50,27,PASS
+10,Bangladesh tour of South Africa 2017-18,2,PASS,PASS,PASS,PASS,38,27,PASS
+11,Australia tour of South Africa 2017-18,4,PASS,PASS,PASS,PASS,50,28,PASS
+12,Pakistan tour of West Indies 2017,3,PASS,PASS,PASS,PASS,50,25,PASS
+13,Bangladesh tour of Sri Lanka 2016-17,2,PASS,PASS,PASS,PASS,40,27,PASS
+14,Australia tour of Bangladesh 2017,2,PASS,PASS,PASS,PASS,40,25,PASS
+15,Zimbabwe tour of Sri Lanka 2017,1,PASS,PASS,PASS,PASS,20,22,PASS
+16,India tour of Sri Lanka 2017,3,PASS,PASS,PASS,PASS,50,28,PASS
+17,England tour of New Zealand 2017-18,2,PASS,PASS,PASS,PASS,40,26,PASS
+18,West Indies tour of New Zealand 2017-18,2,PASS,PASS,PASS,PASS,40,24,PASS
+19,Pakistan tour of England 2018,2,PASS,PASS,PASS,PASS,34,26,PASS
+20,India tour of England 2018,5,PASS,PASS,PASS,PASS,50,31,PASS
+21,Sri Lanka tour of Pakistan 2017-18,2,PASS,PASS,PASS,PASS,40,25,PASS
+22,India tour of South Africa 2017-18,3,PASS,PASS,PASS,PASS,50,28,PASS
+23,Zimbabwe tour of South Africa 2017-18,1,PASS,PASS,PASS,PASS,16,22,PASS
+24,Sri Lanka tour of India 2017-18,3,PASS,PASS,PASS,PASS,50,28,PASS
+25,West Indies tour of Zimbabwe 2017-18,2,PASS,PASS,PASS,PASS,40,24,PASS
+26,Pakistan tour of Ireland 2018,1,PASS,PASS,PASS,PASS,20,22,PASS
+27,Sri Lanka tour of Bangladesh 2017-18,2,PASS,PASS,PASS,PASS,40,26,PASS
+28,Sri Lanka tour of West Indies 2018,3,PASS,PASS,PASS,PASS,50,27,PASS
+29,England tour of Sri Lanka 2018-19,3,PASS,PASS,PASS,PASS,50,28,PASS
+30,South Africa tour of Sri Lanka 2018,2,PASS,PASS,PASS,PASS,40,25,PASS
+31,Pakistan tour of South Africa 2018-19,3,PASS,PASS,PASS,PASS,50,27,PASS
+32,Sri Lanka tour of South Africa 2018-19,2,PASS,PASS,PASS,PASS,36,23,PASS
+33,India tour of Australia 2018-19,4,PASS,PASS,PASS,PASS,50,29,PASS
+34,Sri Lanka tour of Australia 2018-19,2,PASS,PASS,PASS,PASS,35,26,PASS
+35,Bangladesh tour of West Indies 2018,2,PASS,PASS,PASS,PASS,40,25,PASS
+36,Ireland tour of England 2019,1,PASS,PASS,PASS,PASS,19,22,PASS
+37,Ashes 2019,5,PASS,PASS,PASS,PASS,50,31,PASS
+38,West Indies tour of Bangladesh 2018-19,2,PASS,PASS,PASS,PASS,40,25,PASS
+39,Zimbabwe tour of Bangladesh 2018-19,2,PASS,PASS,PASS,PASS,39,26,PASS
+40,Sri Lanka tour of New Zealand 2018-19,2,PASS,PASS,PASS,PASS,40,24,PASS
+41,Bangladesh tour of New Zealand 2018-19,2,PASS,PASS,PASS,PASS,40,25,PASS
+42,Australia tour of Pakistan 2018-19,2,PASS,PASS,PASS,PASS,40,24,PASS
+43,New Zealand tour of Pakistan 2018-19,3,PASS,PASS,PASS,PASS,50,25,PASS
+44,West Indies tour of India 2018-19,2,PASS,PASS,PASS,PASS,40,25,PASS
+45,England tour of West Indies 2018-19,3,PASS,PASS,PASS,PASS,50,26,PASS
+46,Pakistan tour of Australia 2019-20,2,PASS,PASS,PASS,PASS,40,25,PASS
+47,New Zealand tour of Australia 2019-20,3,PASS,PASS,PASS,PASS,50,29,PASS
+48,England tour of South Africa 2019-20,4,PASS,PASS,PASS,PASS,50,31,PASS
+49,South Africa tour of India 2019-20,3,PASS,PASS,PASS,PASS,50,29,PASS
+50,Bangladesh tour of India 2019-20,2,PASS,PASS,PASS,PASS,40,24,PASS
+51,England tour of New Zealand 2019-20,2,PASS,PASS,PASS,PASS,40,26,PASS
+52,India tour of New Zealand 2019-20,2,PASS,PASS,PASS,PASS,40,25,PASS
+53,India tour of West Indies 2019,2,PASS,PASS,PASS,PASS,40,25,PASS
+54,New Zealand tour of Sri Lanka 2019,2,PASS,PASS,PASS,PASS,40,24,PASS
+55,Pakistan tour of England 2020,2,PASS,PASS,PASS,PASS,40,24,PASS
+56,Sri Lanka tour of Pakistan 2019-20,1,PASS,PASS,PASS,PASS,20,22,PASS
+57,Sri Lanka tour of Zimbabwe 2019-20,2,PASS,PASS,PASS,PASS,40,27,PASS
+58,Bangladesh tour of Pakistan 2019-20,1,PASS,PASS,PASS,PASS,20,22,PASS
+59,Zimbabwe tour of Bangladesh 2019-20,1,PASS,PASS,PASS,PASS,20,22,PASS
+60,India tour of Australia 2020-21,4,PASS,PASS,PASS,PASS,50,34,PASS
+61,West Indies tour of England 2020,3,PASS,PASS,PASS,PASS,50,27,PASS
+62,West Indies tour of New Zealand 2020-21,2,PASS,PASS,PASS,PASS,40,24,PASS
+63,Pakistan tour of New Zealand 2020-21,2,PASS,PASS,PASS,PASS,40,25,PASS
+64,Sri Lanka tour of South Africa 2020-21,2,PASS,PASS,PASS,PASS,39,26,PASS
+65,England tour of Sri Lanka 2020-21,2,PASS,PASS,PASS,PASS,40,26,PASS
+66,South Africa tour of Pakistan 2020-21,2,PASS,PASS,PASS,PASS,40,23,PASS
+67,England tour of India 2020-21,4,PASS,PASS,PASS,PASS,50,31,PASS
+68,West Indies tour of Bangladesh 2020-21,2,PASS,PASS,PASS,PASS,40,26,PASS
+69,Sri Lanka tour of West Indies 2020-21,2,PASS,PASS,PASS,PASS,40,22,PASS

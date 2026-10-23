@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Web Admin Panel
+admin/node_modules/
+admin/dist/
+admin/.env
+admin/.env.local
+.firebase/
+.firebaserc

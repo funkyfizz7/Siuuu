@@ -1,0 +1,71 @@
+{
+  "random_seed": 42,
+  "experiments": [
+    {
+      "experiment": "Participation Clustering",
+      "population": 344,
+      "threshold": "All participating players",
+      "features": [
+        "bat_matches",
+        "bat_innings",
+        "balls_faced",
+        "bowl_matches",
+        "bowl_innings",
+        "legal_balls"
+      ],
+      "chosen_k": 4,
+      "silhouette_score": 0.4983,
+      "davies_bouldin_score": 0.8799,
+      "calinski_harabasz_score": 452.65
+    },
+    {
+      "experiment": "Batter Clustering",
+      "population": 218,
+      "threshold": "innings >= 5 and balls_faced >= 150",
+      "features": [
+        "batting_average",
+        "strike_rate",
+        "boundary_run_pct",
+        "dot_ball_pct",
+        "balls_per_innings"
+      ],
+      "chosen_k": 4,
+      "silhouette_score": 0.2739,
+      "davies_bouldin_score": 1.1799,
+      "calinski_harabasz_score": 93.65
+    },
+    {
+      "experiment": "Bowler Clustering",
+      "population": 128,
+      "threshold": "legal_balls_bowled >= 180 and wickets >= 5",
+      "features": [
+        "bowling_average",
+        "economy_rate",
+        "bowling_strike_rate",
+        "bowling_dot_pct",
+        "line_length_accuracy_pct"
+      ],
+      "chosen_k": 3,
+      "silhouette_score": 0.2799,
+      "davies_bouldin_score": 1.1995,
+      "calinski_harabasz_score": 53.92
+    },
+    {
+      "experiment": "All-Rounder Clustering",
+      "population": 74,
+      "threshold": "runs >= 100 and wickets >= 5",
+      "features": [
+        "batting_average",
+        "batting_strike_rate",
+        "bowling_average",
+        "economy_rate",
+        "line_length_accuracy_pct",
+        "allrounder_differential"
+      ],
+      "chosen_k": 3,
+      "silhouette_score": 0.2028,
+      "davies_bouldin_score": 1.5629,
+      "calinski_harabasz_score": 20.04
+    }
+  ]
+}

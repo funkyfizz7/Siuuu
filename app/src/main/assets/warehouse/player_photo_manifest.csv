@@ -1,0 +1,464 @@
+player_id,player_name,country,image_file,verified
+135,Joseph Edward Root,England,joe_root.webp,TRUE
+31,Benjamin Andrew Stokes,England,ben_stokes.webp,TRUE
+326,Virat Kohli,India,virat_kohli.jpg,TRUE
+292,Stuart Christopher John Broad,England,stuart_broad.webp,TRUE
+85,Frank Dimuth Madushanka Karunaratne,Sri Lanka,dimuth_karunaratne.webp,FALSE
+68,Dean Elgar,South Africa,dean_elgar.webp,FALSE
+222,Nathan Michael Lyon,Australia,nathan_lyon.webp,TRUE
+139,Kagiso Rabada,South Africa,kagiso_rabada.webp,FALSE
+12,Ajinkya Madhukar Rahane,India,ajinkya_rahane.webp,FALSE
+72,Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,niroshan_dickwella.webp,FALSE
+52,Cheteshwar Arvind Pujara,India,cheteshwar_pujara.webp,FALSE
+253,Ravichandran Ashwin,India,ravichandran_ashwin.webp,FALSE
+30,Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,kusal_mendis.webp,FALSE
+116,James Michael Anderson,England,james_anderson.webp,TRUE
+147,Keshav Athmanand Maharaj,South Africa,keshav_maharaj.webp,FALSE
+141,Kane Stuart Williamson,New Zealand,kane_williamson.webp,FALSE
+236,Patrick James Cummins,Australia,pat_cummins.webp,TRUE
+248,Quinton de Kock,South Africa,quinton_de_kock.webp,FALSE
+313,Timothy Grant Southee,New Zealand,tim_southee.webp,FALSE
+252,Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,suranga_lakmal.webp,FALSE
+291,Steven Peter Devereux Smith,Australia,steve_smith.webp,TRUE
+151,Kraigg Clairmonte Brathwaite,West Indies,kraigg_brathwaite.webp,FALSE
+254,Ravindrasinh Anirudhsinh Jadeja,India,ravindra_jadeja.webp,FALSE
+84,Francois du Plessis,South Africa,faf_du_plessis.webp,FALSE
+277,Shannon Terry Gabriel,West Indies,shannon_gabriel.webp,FALSE
+119,Jason Omar Holder,West Indies,jason_holder.webp,FALSE
+170,Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,dilruwan_perera.webp,FALSE
+71,Dhananjaya Maduranga de Silva,Sri Lanka,dhananjaya_de_silva.webp,FALSE
+131,Jonathan Marc Bairstow,England,jonny_bairstow.webp,TRUE
+164,Lokuge Dinesh Chandimal,Sri Lanka,dinesh_chandimal.webp,FALSE
+190,Mitchell Aaron Starc,Australia,mitchell_starc.webp,TRUE
+319,Trent Alexander Boult,New Zealand,trent_boult.webp,FALSE
+260,Roston Lamar Chase,West Indies,roston_chase.webp,FALSE
+311,Thomas William Maxwell Latham,New Zealand,tom_latham.webp,FALSE
+341,Yasir Shah,Pakistan,yasir_shah.webp,FALSE
+146,Kemar Andre Jamal Roach,West Indies,kemar_roach.webp,FALSE
+100,Henry Michael Nicholls,New Zealand,hm_nicholls.webp,FALSE
+324,Vernon Darryl Philander,South Africa,vernon_philander.webp,FALSE
+193,Moeen Munir Ali,England,mm_ali.webp,TRUE
+211,Mohammed Shami Ahmed,India,mohammed_shami.webp,FALSE
+167,Luteru Ross Poutoa Lote Taylor,New Zealand,ross_taylor.webp,FALSE
+29,Azhar Ali,Pakistan,azhar_ali.webp,FALSE
+225,Neil Wagner,New Zealand,neil_wagner.webp,FALSE
+303,Temba Bavuma,South Africa,temba_bavuma.webp,FALSE
+186,Mehidy Hasan Miraz,Bangladesh,mehidy_hasan_miraz.webp,FALSE
+134,Joseph Charles Buttler,England,jos_buttler.webp,TRUE
+109,Ishant Sharma,India,i_sharma.webp,FALSE
+196,Mohammad Babar Azam,Pakistan,babar_azam.webp,FALSE
+66,David Andrew Warner,Australia,david_warner.jpg,TRUE
+213,Mominul Haque,Bangladesh,mominul_haque.webp,FALSE
+137,Josh Reginald Hazlewood,Australia,josh_hazlewood.webp,TRUE
+299,Taijul Islam,Bangladesh,taijul_islam.webp,FALSE
+194,Mohammad Abbas,Pakistan,mohammad_abbas.webp,FALSE
+20,Angelo Davis Mathews,Sri Lanka,angelo_mathews.webp,FALSE
+37,Bradley-John Watling,New Zealand,bj_watling.webp,FALSE
+55,Christopher Roger Woakes,England,chris_woakes.webp,TRUE
+9,Aiden Kyle Markram,South Africa,aiden_markram.webp,FALSE
+272,Shai Diego Hope,West Indies,sd_hope.webp,FALSE
+56,Colin de Grandhomme,New Zealand,colin_grandhomme.webp,FALSE
+202,Mohammad Mushfiqur Rahim,Bangladesh,mushfiqur_rahim.webp,FALSE
+321,Umeshkumar Tilak Yadav,India,ut_yadav.webp,FALSE
+312,Timothy David Paine,Australia,tim_paine.webp,TRUE
+23,Asad Shafiq,Pakistan,asad_shafiq.webp,FALSE
+96,Hashim Mahomed Amla,South Africa,hm_amla.webp,FALSE
+101,Herath Mudiyanselage Rangana Keerthi Bandara Herath,Sri Lanka,rangana_herath.webp,FALSE
+177,Marnus Labuschagne,Australia,marnus_labuschagne.webp,TRUE
+276,Shane Omari Dowrich,West Indies,shane_dowrich.webp,FALSE
+48,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,cbrls_kumara.webp,FALSE
+14,Alastair Nathan Cook,England,an_cook.webp,FALSE
+300,Tamim Iqbal Khan,Bangladesh,tamim_iqbal.webp,FALSE
+263,Samuel Matthew Curran,England,sm_curran.webp,TRUE
+200,Mohammad Mahmudullah,Bangladesh,mahmudullah.webp,FALSE
+323,Usman Tariq Khawaja,Australia,usman_khawaja.webp,TRUE
+124,Jeet Ashok Raval,New Zealand,ja_raval.webp,FALSE
+142,Kannaur Lokesh Rahul,India,kl_rahul.webp,FALSE
+259,Rory Joseph Burns,England,rory_burns.webp,TRUE
+258,Rohit Gurunath Sharma,India,rohit_sharma.webp,FALSE
+163,Litton Kumer Das,Bangladesh,liton_das.webp,FALSE
+273,Shakib Al Hasan,Bangladesh,shakib_al_hasan.webp,FALSE
+69,Devendra Bishoo,West Indies,d_bishoo.webp,FALSE
+318,Travis Michael Head,Australia,travis_head.webp,TRUE
+120,Jasprit Jasbirsingh Bumrah,India,jasprit_bumrah.webp,FALSE
+257,Rishabh Rajendra Pant,India,rishabh_pant.webp,FALSE
+183,Matthew Scott Wade,Australia,matthew_wade.webp,TRUE
+150,Kieran Omar Akeem Powell,West Indies,koa_powell.webp,FALSE
+94,Haris Sohail,Pakistan,haris_sohail.webp,FALSE
+214,Morne Morkel,South Africa,m_morkel.webp,FALSE
+181,Matthew Jack Leach,England,jack_leach.webp,FALSE
+264,Sarfaraz Ahmed,Pakistan,sarfraz_ahmed.webp,FALSE
+275,Shan Masood Khan,Pakistan,shan_masood.webp,FALSE
+340,Wriddhiman Prasanta Saha,India,wp_saha.webp,FALSE
+185,Mayank Anurag Agarawal,India,ma_agarwal.webp,FALSE
+286,Sikandar Raza Butt,Zimbabwe,sikandar_raza.webp,FALSE
+271,Shaheen Shah Afridi,Pakistan,shaheen_afridi.webp,FALSE
+16,Alzarri Shaheim Joseph,West Indies,alzarri_joseph.webp,FALSE
+192,Mitchell Ross Marsh,Australia,mr_marsh.webp,TRUE
+195,Mohammad Amir,Pakistan,mohammad_amir.webp,FALSE
+95,Hasan Ali,Pakistan,hasan_ali.webp,FALSE
+102,Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,hdrl_thirimanne.webp,FALSE
+174,Mark Andrew Wood,England,mark_wood.webp,FALSE
+126,Jermaine Blackwood,West Indies,j_blackwood.webp,FALSE
+284,Shimron Odilon Hetmyer,West Indies,so_hetmyer.webp,FALSE
+280,Shaun Edward Marsh,Australia,se_marsh.webp,FALSE
+288,Soumya Sarkar,Bangladesh,soumya_sarkar.webp,FALSE
+74,Dominic Peter Sibley,England,dp_sibley.webp,FALSE
+136,Joseph Liam Denly,England,jl_denly.webp,TRUE
+218,Mustafizur Rahman,Bangladesh,mustafizur_rahman.webp,FALSE
+86,Gade Hanuma Vihari,India,gh_vihari.webp,FALSE
+229,Oliver John Douglas Pope,England,oj_pope.webp,FALSE
+128,Jofra Chioke Archer,England,jofra_archer.webp,TRUE
+73,Dominic Mark Bess,England,dm_bess.webp,FALSE
+191,Mitchell Josef Santner,New Zealand,mj_santner.webp,FALSE
+67,Dawid Johannes Malan,England,dj_malan.webp,FALSE
+180,Mathurage Don Kusal Janith Perera,Sri Lanka,mdkj_perera.webp,FALSE
+107,Imrul Kayes,Bangladesh,imrul_kayes.webp,FALSE
+161,Lasith Embuldeniya,Sri Lanka,l_embuldeniya.webp,FALSE
+77,Duanne Olivier,South Africa,d_olivier.webp,FALSE
+343,Zak Crawley,England,zak_crawley.webp,FALSE
+26,Athege Roshen Shivanka Silva,Sri Lanka,ars_silva.webp,FALSE
+169,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Sri Lanka,a_dananjaya.webp,FALSE
+129,John Dillon Campbell,West Indies,jd_campbell.webp,FALSE
+217,Murali Vijay,India,m_vijay.webp,FALSE
+219,Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,mvt_fernando.webp,FALSE
+241,Peter Stephen Patrick Handscomb,Australia,psp_handscomb.webp,FALSE
+144,Keaton Kent Jennings,England,kk_jennings.webp,FALSE
+6,Abu Jayed Chowdhury,Bangladesh,abu_jayed.webp,FALSE
+234,Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,padlr_sandakan.webp,FALSE
+283,Shikhar Dhawan,India,s_dhawan.webp,FALSE
+307,Theunis Booysen de Bruyn,South Africa,theunis_bruyn.webp,FALSE
+206,Mohammad Rizwan,Pakistan,mohammad_rizwan.webp,FALSE
+93,Hardik Himanshu Pandya,India,hh_pandya.webp,FALSE
+81,Faheem Ashraf,Pakistan,faheem_ashraf.webp,FALSE
+105,Imam-ul-Haq,Pakistan,imamulhaq.webp,FALSE
+201,Mohammad Mithun,Bangladesh,mohammad_mithun.webp,FALSE
+166,Lungisani True-man Ngidi,South Africa,l_ngidi.webp,FALSE
+250,Rahkeem Rashawn Shane Cornwall,West Indies,rrs_cornwall.webp,FALSE
+21,Anrich Arno Nortje,South Africa,anrich_nortje.webp,FALSE
+11,Ajaz Yunus Patel,New Zealand,ay_patel.webp,FALSE
+49,Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,cak_rajitha.webp,FALSE
+153,Kuldeep Yadav,India,kuldeep_yadav.webp,FALSE
+60,Dale Willem Steyn,South Africa,dw_steyn.webp,FALSE
+4,Abid Ali,Pakistan,abid_ali.webp,FALSE
+133,Joseph Anthony Burns,Italy,ja_burns.webp,FALSE
+208,Mohammad Sabbir Rahman,Bangladesh,sabbir_rahman.webp,FALSE
+308,Thomas Ackland Blundell,New Zealand,ta_blundell.webp,FALSE
+34,Bhuvneshwar Kumar Singh,India,b_kumar.webp,FALSE
+187,Miguel Lamar Cummins,West Indies,ml_cummins.webp,FALSE
+178,Mashtayage Danushka Gunathilaka,Sri Lanka,md_gunathilaka.webp,FALSE
+267,Shadab Khan,Pakistan,shadab_khan.webp,FALSE
+155,Kyle Alex Jamieson,New Zealand,kyle_jamieson.webp,FALSE
+39,Brendan Ross Murray Taylor,Zimbabwe,ross_taylor.webp,FALSE
+175,Mark Daniel Stoneman,England,md_stoneman.webp,FALSE
+36,Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,bop_fernando.webp,FALSE
+59,Craig Richard Ervine,Zimbabwe,cr_ervine.webp,FALSE
+265,Sean Colin Williams,Zimbabwe,sc_williams.webp,FALSE
+290,Stephen Norman John O'Keefe,Australia,snj_okeefe.webp,FALSE
+182,Matthew James Henry,New Zealand,mj_henry.webp,FALSE
+221,Naseem Shah,Pakistan,naseem_shah.webp,FALSE
+130,Jomel Andrel Warrican,West Indies,ja_warrican.webp,FALSE
+173,Marcus Sinclair Harris,Australia,ms_harris.webp,TRUE
+5,Abraham Benjamin de Villiers,South Africa,ab_de_villiers.webp,FALSE
+7,Adil Usman Rashid,England,au_rashid.webp,FALSE
+184,Matthew Thomas Renshaw,Australia,mt_renshaw.webp,FALSE
+123,Jean-Paul Duminy,South Africa,jp_duminy.webp,FALSE
+204,Mohammad Nayeem Hasan,Bangladesh,nayeem_hasan.webp,FALSE
+256,Regis Wiriranai Chakabva,Zimbabwe,rw_chakabva.webp,FALSE
+330,Warushavithana Upul Tharanga,Sri Lanka,wu_tharanga.webp,FALSE
+92,Hamilton Masakadza,Zimbabwe,h_masakadza.webp,FALSE
+43,Cameron Timothy Bancroft,Australia,ct_bancroft.webp,TRUE
+159,Kyle Rico Mayers,West Indies,kr_mayers.webp,FALSE
+28,Axar Rajeshbhai Patel,India,ar_patel.webp,FALSE
+158,Kyle Malcolm Jarvis,Zimbabwe,km_jarvis.webp,FALSE
+99,Hendrik Erasmus van der Dussen,South Africa,hendrik_dussen.webp,FALSE
+220,Najmul Hossain Shanto,Bangladesh,najmul_shanto.webp,FALSE
+15,Alexander Graeme Cremer,Zimbabwe,ag_cremer.webp,FALSE
+75,Donald Tatenda Tiripano,Zimbabwe,dt_tiripano.webp,FALSE
+32,Benjamin Thomas Foakes,England,bt_foakes.webp,FALSE
+328,Wahab Riaz,Pakistan,wahab_riaz.webp,FALSE
+268,Shadman Islam Anik,Bangladesh,shadman_islam.webp,FALSE
+239,Peter Joseph Moor,Ireland,pj_moor.webp,FALSE
+278,Shardul Narendra Thakur,India,sn_thakur.webp,FALSE
+337,William Edgar Richard Somerville,New Zealand,wer_somerville.webp,FALSE
+233,Pathira Vasan Dushmantha Chameera,Sri Lanka,pvd_chameera.webp,FALSE
+243,Pieter Willem Adriaan Mulder,South Africa,pwa_mulder.webp,FALSE
+168,Madagamagamage Dasun Shanaka,Sri Lanka,md_shanaka.webp,FALSE
+148,Kevin Joseph O'Brien,Ireland,kj_obrien.webp,FALSE
+246,Prithvi Pankaj Shaw,India,pp_shaw.webp,FALSE
+274,Shamarh Shaqad Joshua Brooks,West Indies,ssj_brooks.webp,FALSE
+83,Fawad Alam,Pakistan,fawad_alam.webp,FALSE
+302,Taskin Ahmed,Bangladesh,taskin_ahmed.webp,FALSE
+27,Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,n_pradeep.webp,FALSE
+79,Ebadot Hossain Chowdhury,Bangladesh,ebadat_hossain.webp,FALSE
+65,Daryl Joseph Mitchell,New Zealand,daryl_mitchell.webp,FALSE
+316,Tobias Skelton Roland-Jones,England,ts_rolandjones.webp,FALSE
+331,Washington Sundar,India,washington_sundar.webp,FALSE
+58,Craig Overton,England,c_overton.webp,TRUE
+197,Mohammad Bilal Asif,Pakistan,bilal_asif.webp,FALSE
+227,Nkrumah Eljego Bonner,West Indies,ne_bonner.webp,FALSE
+212,Mohammed Siraj,India,mohammed_siraj.webp,FALSE
+207,Mohammad Rubel Hossain,Bangladesh,rubel_hossain.webp,FALSE
+145,Keemo Mandela Angus Paul,West Indies,kma_paul.webp,FALSE
+89,George Fredrik Linde,South Africa,gf_linde.webp,FALSE
+138,Joshua Da Silva,West Indies,joshua_silva.webp,FALSE
+238,Pawuluge Malinda Pushpakumara,Sri Lanka,pm_pushpakumara.webp,FALSE
+285,Shubman Gill,India,shubman_gill.webp,FALSE
+17,Andile Lucky Phehlukwayo,South Africa,al_phehlukwayo.webp,FALSE
+76,Downdegedara Asela Sampath Gunaratne,Sri Lanka,das_gunaratne.webp,FALSE
+115,James Lee Pattinson,Australia,jl_pattinson.webp,TRUE
+91,Glenn James Maxwell,Australia,gj_maxwell.webp,FALSE
+64,Darren Michael Bravo,West Indies,dm_bravo.webp,FALSE
+240,Peter Matthew Siddle,Australia,pm_siddle.webp,TRUE
+231,Panagamuwa Lahiru Sampath Gamage,Sri Lanka,pls_gamage.webp,FALSE
+53,Christopher Bobby Mpofu,Zimbabwe,cb_mpofu.webp,FALSE
+293,Stuart Robert Thompson,Ireland,sr_thompson.webp,FALSE
+314,Timothy James Murtagh,Ireland,tj_murtagh.webp,FALSE
+117,James Michael Vince,England,jm_vince.webp,FALSE
+140,Kamrul Islam Rabbi,Bangladesh,kamrul_rabbi.webp,FALSE
+295,Sunil Walford Ambris,West Indies,sw_ambris.webp,FALSE
+189,Misbah-ul-Haq Khan Niazi,Pakistan,misbahulhaq_niazi.webp,FALSE
+210,Mohammad Younis Khan,Pakistan,younis_khan.webp,FALSE
+294,Subashis Roy,Bangladesh,subashis_roy.webp,FALSE
+121,Jayan Kaushal Silva,Sri Lanka,jk_silva.webp,FALSE
+198,Mohammad Hafeez,Pakistan,mohammad_hafeez.webp,FALSE
+317,Todd Duncan Astle,New Zealand,td_astle.webp,FALSE
+344,Zubayr Hamza,South Africa,zubayr_hamza.webp,FALSE
+244,Pinnaduwage Wanindu Hasaranga de Silva,Sri Lanka,pinnaduwage_silva.webp,FALSE
+1,Aaron James Finch,Australia,aj_finch.webp,FALSE
+63,Daniel William Lawrence,England,dw_lawrence.webp,FALSE
+332,Wayne Dillon Parnell,South Africa,wd_parnell.webp,FALSE
+42,Cameron Donald Green,Australia,c_green.webp,FALSE
+54,Christopher Henry Morris,South Africa,ch_morris.webp,FALSE
+228,Noman Ali,Pakistan,nauman_ali.webp,FALSE
+310,Thomas Westley,England,t_westley.webp,FALSE
+24,Ashton Charles Agar,Australia,ac_agar.webp,FALSE
+230,Oliver Peter Stone,England,op_stone.webp,FALSE
+336,William Boyd Rankin,Ireland,wb_rankin.webp,FALSE
+118,Jason Jonathan Roy,England,jj_roy.webp,TRUE
+82,Fakhar Zaman,Pakistan,fakhar_zaman.webp,FALSE
+165,Lubabalo Lutho Sipamla,South Africa,l_sipamla.webp,FALSE
+270,Shahbaz Nadeem,India,s_nadeem.webp,FALSE
+325,Victor Munyaradzi Nyauchi,Zimbabwe,vm_nyauchi.webp,FALSE
+70,Devon Sheldon Smith,West Indies,ds_smith.webp,FALSE
+172,Malcolm Noel Waller,Zimbabwe,mn_waller.webp,FALSE
+33,Beuran Eric Hendricks,South Africa,be_hendricks.webp,FALSE
+176,Mark Richard Adair,Ireland,mr_adair.webp,FALSE
+108,Inderbir Singh Sodhi,New Zealand,is_sodhi.webp,FALSE
+78,Dwaine Pretorius,South Africa,d_pretorius.webp,FALSE
+245,Prince Spencer Masvaure,Zimbabwe,ps_masvaure.webp,FALSE
+2,Abdur Razzak,Bangladesh,abdur_razzak.webp,FALSE
+333,Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,s_samarawickrama.webp,FALSE
+298,Tabraiz Shamsi,South Africa,t_shamsi.webp,FALSE
+255,Raymon Anton Reifer,West Indies,ra_reifer.webp,FALSE
+156,Kyle Antonio Hope,West Indies,ka_hope.webp,FALSE
+215,Mosaddek Hossain Saikat,Bangladesh,mosaddek_hossain.webp,FALSE
+125,Jeetan Shashi Patel,New Zealand,js_patel.webp,FALSE
+235,Pathum Nissanka Silva,Sri Lanka,p_nissanka.webp,FALSE
+62,Dane Paterson,South Africa,d_paterson.webp,FALSE
+25,Asitha Madusanka Fernando,Sri Lanka,am_fernando.webp,FALSE
+13,Al-Amin Hossain,Bangladesh,alamin_hossain.webp,FALSE
+3,Abhinav Mukund,India,a_mukund.webp,FALSE
+247,Quazi Nurul Hasan,Bangladesh,nurul_hasan.webp,FALSE
+22,Ariful Haque,Bangladesh,ariful_haque.webp,FALSE
+304,Tendai Larry Chatara,Zimbabwe,tl_chatara.webp,FALSE
+154,Kurtis Robert Patterson,Australia,kr_patterson.webp,FALSE
+287,Solomon Farai Mire,Zimbabwe,sf_mire.webp,FALSE
+266,Senuran Muthusamy,South Africa,s_muthusamy.webp,FALSE
+149,Kevin Tatenda Kasuza,Zimbabwe,kt_kasuza.webp,FALSE
+127,Jhye Avon Richardson,Australia,ja_richardson.webp,FALSE
+282,Shermon Hakim Lewis,West Indies,sh_lewis.webp,FALSE
+103,Hilton William Raymond Cartwright,Australia,hwr_cartwright.webp,FALSE
+269,Shafiul Islam,Bangladesh,shafiul_islam.webp,FALSE
+61,Dane Leeroy Piedt,South Africa,dl_piedt.webp,FALSE
+342,Zafar Gohar Khan,Pakistan,zafar_gohar.webp,FALSE
+205,Mohammad Nazmul Islam,Bangladesh,nazmul_islam.webp,FALSE
+309,Thomas Kevin Curran,England,tk_curran.webp,FALSE
+199,Mohammad Imran Khan,Pakistan,mohammad_khan.webp,FALSE
+242,Pieter Jacobus Malan,South Africa,pj_malan.webp,FALSE
+203,Mohammad Nasir Hossain,Bangladesh,nasir_hossain.webp,FALSE
+289,Stephen Craig Cook,South Africa,sc_cook.webp,FALSE
+237,Paul Robert Stirling,Ireland,pr_stirling.webp,FALSE
+305,Tendai Sam Chisoro,Zimbabwe,ts_chisoro.webp,FALSE
+162,Liam Andrew Dawson,England,la_dawson.webp,FALSE
+132,Jonathan Mark Holland,Australia,jm_holland.webp,FALSE
+10,Ainsley Ndlovu,Zimbabwe,a_ndlovu.webp,FALSE
+8,Ahmed Shehzad,Pakistan,ahmed_shehzad.webp,FALSE
+18,Andrew Balbirnie,Ireland,a_balbirnie.webp,FALSE
+97,Heino Gunther Kuhn,South Africa,hg_kuhn.webp,FALSE
+338,William Jan Pucovski,Australia,wj_pucovski.webp,FALSE
+40,Brian Bara Chari,Zimbabwe,bb_chari.webp,FALSE
+51,Chemar Keron Holder,West Indies,ck_holder.webp,FALSE
+44,Carl Tapfuma Mumba,Zimbabwe,ct_mumba.webp,FALSE
+306,Thangarasu Natarajan,India,t_natarajan.webp,FALSE
+223,Navdeep Amarjeet Saini,India,na_saini.webp,FALSE
+38,Brandon Anesu Mavuta,Zimbabwe,b_mavuta.webp,FALSE
+329,Wanigamuni Ramesh Tarinda Mendis,Sri Lanka,rtm_mendis.webp,FALSE
+114,James Douglas Sheahan Neesham,New Zealand,jds_neesham.webp,FALSE
+334,Wellington Pedzisai Masakadza,Zimbabwe,wp_masakadza.webp,FALSE
+315,Timycen Hlahla Maruma,Zimbabwe,t_maruma.webp,FALSE
+339,William Thomas Stuart Porterfield,Ireland,wts_porterfield.webp,FALSE
+262,Sami Aslam,Pakistan,sami_aslam.webp,FALSE
+88,Gary Simon Ballance,Zimbabwe,gs_ballance.webp,FALSE
+87,Gary Craig Wilson,Ireland,gc_wilson.webp,FALSE
+297,Syed Khaled Ahmed,Bangladesh,khaled_ahmed.webp,FALSE
+209,Mohammad Saif Hassan,Bangladesh,saif_hassan.webp,FALSE
+90,Glenn Dominic Phillips,New Zealand,gd_phillips.webp,FALSE
+111,Jacob Timothy Ball,England,jt_ball.webp,FALSE
+296,Sunzamul Islam,Bangladesh,sunzamul_islam.webp,FALSE
+46,Chamika Karunaratne,Sri Lanka,dimuth_karunaratne.webp,FALSE
+57,Confidence Tinotenda Mutombodzi,Zimbabwe,ct_mutombodzi.webp,FALSE
+122,Jayant Yadav,India,j_yadav.webp,FALSE
+143,Karun Nair,India,kk_nair.webp,FALSE
+279,Sharjeel Khan,Pakistan,sharjeel_khan.webp,FALSE
+327,Vishaul Anthony Singh,West Indies,va_singh.webp,FALSE
+45,Chadd James Sayers,Australia,cj_sayers.webp,FALSE
+104,Iftikhar Ahmed,Pakistan,iftikhar_ahmed.webp,FALSE
+157,Kyle John Abbott,South Africa,kj_abbott.webp,FALSE
+80,Edmund Christopher Joyce,Ireland,ec_joyce.webp,FALSE
+35,Blessing Muzarabani,Zimbabwe,b_muzarabani.webp,FALSE
+232,Parthiv Ajay Patel,India,pa_patel.webp,FALSE
+19,Andrew Robert McBrine,Ireland,ar_mcbrine.webp,FALSE
+335,William Alexander Young,New Zealand,wa_young.webp,FALSE
+179,Mason Sidney Crane,England,ms_crane.webp,FALSE
+216,Muhammad Musa Khan,Pakistan,muhammad_musa.webp,FALSE
+224,Neil Trevor Broom,New Zealand,nt_broom.webp,FALSE
+50,Charlton Kirsh Tshuma,Zimbabwe,ck_tshuma.webp,FALSE
+188,Mir Hamza,Pakistan,mir_hamza.webp,FALSE
+106,Imran Butt,Pakistan,imran_butt.webp,FALSE
+47,Chamunorwa Justice Chibhabha,Zimbabwe,cj_chibhabha.webp,FALSE
+249,Rahat Ali,Pakistan,rahat_ali.webp,FALSE
+322,Usman Salahuddin,Pakistan,usman_salahuddin.webp,FALSE
+110,Jackson Munro Bird,Australia,jm_bird.webp,FALSE
+113,James Alexander McCollum,Ireland,ja_mccollum.webp,FALSE
+281,Shayne Akeel Richard Moseley,West Indies,s_moseley.webp,FALSE
+320,Tyrone Edward Kane,Ireland,te_kane.webp,FALSE
+171,Mahela Lakmal Udawatte,Sri Lanka,suranga_lakmal.webp,FALSE
+152,Krishnakumar Dinesh Karthik,India,kd_karthik.webp,FALSE
+261,Ryan Ponsonby Burl,Zimbabwe,rp_burl.webp,FALSE
+226,Niall John O'Brien,Ireland,nj_obrien.webp,FALSE
+160,Lachlan Hammond Ferguson,New Zealand,lh_ferguson.webp,FALSE
+41,Brian Simbarashe Mudzinganyama,Zimbabwe,bs_mudzinganyama.webp,FALSE
+98,Heinrich Klaasen,South Africa,h_klaasen.webp,FALSE
+251,Ranasinghe Arachchige Minod Bhanuka Ranasinghe,Sri Lanka,m_bhanuka.webp,FALSE
+301,Tarisai Kenneth Musakanda,Zimbabwe,tk_musakanda.webp,FALSE
+112,Jahmar Neville Hamilton,West Indies,jn_hamilton.webp,FALSE
+345,Abdul Malik,Unknown,abdul_malik.webp,FALSE
+346,Abdul Wasi,Unknown,abdul_wasi.webp,FALSE
+347,Abu Jayed,Unknown,abu_jayed.webp,FALSE
+348,Afsar Zazai,Unknown,afsar_zazai.webp,FALSE
+349,Akila Dananjaya,Unknown,akila_dananjaya.webp,FALSE
+350,Amir Hamza,Unknown,amir_hamza.webp,FALSE
+351,Asela Gunaratne,Unknown,asela_gunaratne.webp,FALSE
+352,Asghar Afghan,Unknown,asghar_afghan.webp,FALSE
+353,BJ Watling,Unknown,bj_watling.webp,FALSE
+354,Babar Azam,Unknown,babar_azam.webp,FALSE
+355,Bhuvneshwar Kumar,Unknown,bhuvneshwar_kumar.webp,FALSE
+356,Bilal Asif,Unknown,bilal_asif.webp,FALSE
+357,Boyd Rankin,Unknown,boyd_rankin.webp,FALSE
+358,Chamu Chibhabha,Unknown,chamu_chibhabha.webp,FALSE
+359,Colin Stuart,Unknown,colin_stuart.webp,FALSE
+360,Danushka Gunathilaka,Unknown,danushka_gunathilaka.webp,FALSE
+361,Dasun Shanaka,Unknown,dasun_shanaka.webp,FALSE
+362,Dilruwan Perera,Unknown,dilruwan_perera.webp,FALSE
+363,Dimuth Karunaratne,Unknown,dimuth_karunaratne.webp,FALSE
+364,Dinesh Chandimal,Unknown,dinesh_chandimal.webp,FALSE
+365,Dinesh Karthik,Unknown,dinesh_karthik.webp,FALSE
+366,Dom Bess,Unknown,dom_bess.webp,FALSE
+367,Dom Sibley,Unknown,dom_sibley.webp,FALSE
+368,Dushmantha Chameera,Unknown,dushmantha_chameera.webp,FALSE
+369,Ebadot Hossain,Unknown,ebadot_hossain.webp,FALSE
+370,Ed Joyce,Unknown,ed_joyce.webp,FALSE
+371,Faf du Plessis,Unknown,faf_du_plessis.webp,FALSE
+372,George Dockrell,Unknown,george_dockrell.webp,FALSE
+373,Graeme Cremer,Unknown,graeme_cremer.webp,FALSE
+374,Hanuma Vihari,Unknown,hanuma_vihari.webp,FALSE
+375,Hashmatullah Shahidi,Unknown,hashmatullah_shahidi.webp,FALSE
+376,Ibrahim Zadran,Unknown,ibrahim_zadran.webp,FALSE
+377,Ihsanullah,Unknown,ihsanullah.webp,FALSE
+378,Ikram Alikhil,Unknown,ikram_alikhil.webp,FALSE
+379,Imran Khan,Unknown,imran_khan.webp,FALSE
+380,Ish Sodhi,Unknown,ish_sodhi.webp,FALSE
+381,Jack Leach,Unknown,jack_leach.webp,TRUE
+382,Jake Ball,Unknown,jake_ball.webp,FALSE
+383,James Cameron-Dow,Unknown,james_camerondow.webp,FALSE
+384,Javed Ahmadi,Unknown,javed_ahmadi.webp,FALSE
+385,Jonny Bairstow,Unknown,jonny_bairstow.webp,FALSE
+386,Jos Buttler,Unknown,jos_buttler.webp,TRUE
+387,Kamrul Islam,Unknown,kamrul_islam.webp,FALSE
+388,Kasun Rajitha,Unknown,kasun_rajitha.webp,FALSE
+389,Kaushal Silva,Unknown,kaushal_silva.webp,FALSE
+390,Khaled Ahmed,Unknown,khaled_ahmed.webp,FALSE
+391,Kusal Mendis,Unknown,kusal_mendis.webp,FALSE
+392,Kusal Perera,Unknown,kusal_perera.webp,FALSE
+393,Lahiru Gamage,Unknown,lahiru_gamage.webp,FALSE
+394,Lahiru Kumara,Unknown,lahiru_kumara.webp,FALSE
+395,Lahiru Thirimanne,Unknown,lahiru_thirimanne.webp,FALSE
+396,Lakshan Sandakan,Unknown,lakshan_sandakan.webp,FALSE
+397,Liton Das,Unknown,liton_das.webp,FALSE
+398,Lockie Ferguson,Unknown,lockie_ferguson.webp,FALSE
+399,Lungi Ngidi,Unknown,lungi_ngidi.webp,FALSE
+400,Lutho Sipamla,Unknown,lutho_sipamla.webp,FALSE
+401,Mahmudullah,Unknown,mahmudullah.webp,FALSE
+402,Malinda Pushpakumara,Unknown,malinda_pushpakumara.webp,FALSE
+403,Mayank Agarwal,Unknown,mayank_agarwal.webp,FALSE
+404,Minod Bhanuka,Unknown,minod_bhanuka.webp,FALSE
+405,Misbah-ul-Haq,Unknown,misbahulhaq.webp,FALSE
+406,Mohammad Nabi,Unknown,mohammad_nabi.webp,FALSE
+407,Mohammad Shahzad,Unknown,mohammad_shahzad.webp,FALSE
+408,Mohammed Shami,Unknown,mohammed_shami.webp,FALSE
+409,Mosaddek Hossain,Unknown,mosaddek_hossain.webp,FALSE
+410,Muhammad Musa,Unknown,muhammad_musa.webp,FALSE
+411,Mujeeb Ur Rahman,Unknown,mujeeb_rahman.webp,FALSE
+412,Munir Ahmad,Unknown,munir_ahmad.webp,FALSE
+413,Mushfiqur Rahim,Unknown,mushfiqur_rahim.webp,FALSE
+414,Nasir Hossain,Unknown,nasir_hossain.webp,FALSE
+415,Nasir Jamal,Unknown,nasir_jamal.webp,FALSE
+416,Nauman Ali,Unknown,nauman_ali.webp,FALSE
+417,Nayeem Hasan,Unknown,nayeem_hasan.webp,FALSE
+418,Nazmul Islam,Unknown,nazmul_islam.webp,FALSE
+419,Niroshan Dickwella,Unknown,niroshan_dickwella.webp,FALSE
+420,Nurul Hasan,Unknown,nurul_hasan.webp,FALSE
+421,Nuwan Pradeep,Unknown,nuwan_pradeep.webp,FALSE
+422,Ollie Pope,Unknown,ollie_pope.webp,FALSE
+423,Olly Stone,Unknown,olly_stone.webp,FALSE
+424,Oshada Fernando,Unknown,oshada_fernando.webp,FALSE
+425,Pat Cummins,Unknown,pat_cummins.webp,FALSE
+426,Pathum Nissanka,Unknown,pathum_nissanka.webp,FALSE
+427,Qais Ahmad,Unknown,qais_ahmad.webp,FALSE
+428,Rahmat Shah,Unknown,rahmat_shah.webp,FALSE
+429,Ramesh Mendis,Unknown,ramesh_mendis.webp,FALSE
+430,Rangana Herath,Unknown,rangana_herath.webp,FALSE
+431,Rashid Khan,Unknown,rashid_khan.webp,FALSE
+432,Rassie van der Dussen,Unknown,rassie_dussen.webp,FALSE
+433,Ravindra Jadeja,Unknown,ravindra_jadeja.webp,FALSE
+434,Roshen Silva,Unknown,roshen_silva.webp,FALSE
+435,Ross Taylor,Unknown,ross_taylor.webp,FALSE
+436,Rubel Hossain,Unknown,rubel_hossain.webp,FALSE
+437,Sabbir Rahman,Unknown,sabbir_rahman.webp,FALSE
+438,Sadeera Samarawickrama,Unknown,sadeera_samarawickrama.webp,FALSE
+439,Saif Hassan,Unknown,saif_hassan.webp,FALSE
+440,Sam Curran,Unknown,sam_curran.webp,TRUE
+441,Sayed Shirzad,Unknown,sayed_shirzad.webp,FALSE
+442,Shadman Islam,Unknown,shadman_islam.webp,FALSE
+443,Shahidullah,Unknown,shahidullah.webp,FALSE
+444,Shan Masood,Unknown,shan_masood.webp,FALSE
+445,Sikandar Raza,Unknown,sikandar_raza.webp,FALSE
+446,Sir Alastair Cook,Unknown,sir_cook.webp,FALSE
+447,Steve O'Keefe,Unknown,steve_okeefe.webp,FALSE
+448,Stuart Poynter,Unknown,stuart_poynter.webp,FALSE
+449,Suranga Lakmal,Unknown,suranga_lakmal.webp,FALSE
+450,Tamim Iqbal,Unknown,tamim_iqbal.webp,FALSE
+451,Tinotenda Mutombodzi,Unknown,tinotenda_mutombodzi.webp,FALSE
+452,Toby Roland-Jones,Unknown,toby_rolandjones.webp,FALSE
+453,Umesh Yadav,Unknown,umesh_yadav.webp,FALSE
+454,Upul Tharanga,Unknown,upul_tharanga.webp,FALSE
+455,Vishwa Fernando,Unknown,vishwa_fernando.webp,FALSE
+456,Wafadar Momand,Unknown,wafadar_momand.webp,FALSE
+457,Waqar Salamkheil,Unknown,waqar_salamkheil.webp,FALSE
+458,Wesley Madhevere,Unknown,wesley_madhevere.webp,FALSE
+459,Wiaan Mulder,Unknown,wiaan_mulder.webp,FALSE
+460,Yamin Ahmadzai,Unknown,yamin_ahmadzai.webp,FALSE
+461,Younis Khan,Unknown,younis_khan.webp,FALSE
+462,Zafar Gohar,Unknown,zafar_gohar.webp,FALSE
+463,Zahir Khan,Unknown,zahir_khan.webp,FALSE

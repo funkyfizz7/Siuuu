@@ -1,0 +1,501 @@
+﻿id,domain,question,expected_intent,expected_entity,expected_answer_source,pass_fail,notes
+1,Match,"Why did Australia win?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+2,Match,"Why did they win?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+3,Match,"What changed the match?",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+4,Match,"What was the turning point?",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+5,Match,"What was the biggest turning point?",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+6,Match,"Who controlled Day 3?",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+7,Match,"Who controlled Day 4?",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+8,Match,"Who won momentum?",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+9,Match,"How did the momentum shift?",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+10,Match,"Who applied more pressure?",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+11,Match,"When was pressure highest?",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+12,Match,"When was the pressure highest?",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+13,Match,"What was the biggest partnership?",MATCH_PARTNERSHIP,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+14,Match,"What was the highest partnership in the match?",MATCH_PARTNERSHIP,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+15,Match,"How did England collapse?",MATCH_COLLAPSE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+16,Match,"What was the biggest collapse?",MATCH_COLLAPSE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+17,Match,"How did Australia recover?",MATCH_RECOVERY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+18,Match,"What was the best recovery?",MATCH_RECOVERY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+19,Match,"Who was Player of the Match?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+20,Match,"What was the victory margin?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+21,Match,"Where was the 1st Test played?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+22,Match,"How did England lose the match?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+23,Match,"How did Australia beat England?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+24,Match,"What happened in the 4th innings?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+25,Match,"Who won the first Test?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+26,Match,"Why did Australia dominate?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+27,Match,"What was the match story?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+28,Match,"Who dominated Day 1?",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+29,Match,"Who dominated Day 2?",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+30,Match,"What changed in the second innings?",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+31,Match,"Why did England lose?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+32,Match,"Who was the star of the 1st Test?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+33,Match,"How did Australia turn the match around?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+34,Match,"What was the key moment of the match?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+35,Match,"Who had the highest team total?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+36,Match,"What was England's 1st innings score?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+37,Match,"What was Australia's 1st innings total?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+38,Match,"What was Australia's 2nd innings total?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+39,Match,"What target was set for England?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+40,Match,"How many runs did Australia win by?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+41,Match,"Who took the final wicket?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+42,Match,"What was the match summary?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+43,Match,"Who won the toss?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+44,Match,"What happened on Day 5?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+45,Match,"How did Australia win from 122/8?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+46,Match,"Who rescued Australia in the first innings?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+47,Match,"What was the biggest momentum swing in the match?",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+48,Match,"When was Australia under the most pressure?",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+49,Match,"When was England under peak pressure?",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+50,Match,"How many wickets fell on Day 5?",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+51,Match,"Why did Australia win? (Variant 51)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+52,Match,"Why did they win? (Variant 52)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+53,Match,"What changed the match? (Variant 53)",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+54,Match,"What was the turning point? (Variant 54)",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+55,Match,"What was the biggest turning point? (Variant 55)",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+56,Match,"Who controlled Day 3? (Variant 56)",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+57,Match,"Who controlled Day 4? (Variant 57)",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+58,Match,"Who won momentum? (Variant 58)",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+59,Match,"How did the momentum shift? (Variant 59)",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+60,Match,"Who applied more pressure? (Variant 60)",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+61,Match,"When was pressure highest? (Variant 61)",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+62,Match,"When was the pressure highest? (Variant 62)",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+63,Match,"What was the biggest partnership? (Variant 63)",MATCH_PARTNERSHIP,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+64,Match,"What was the highest partnership in the match? (Variant 64)",MATCH_PARTNERSHIP,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+65,Match,"How did England collapse? (Variant 65)",MATCH_COLLAPSE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+66,Match,"What was the biggest collapse? (Variant 66)",MATCH_COLLAPSE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+67,Match,"How did Australia recover? (Variant 67)",MATCH_RECOVERY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+68,Match,"What was the best recovery? (Variant 68)",MATCH_RECOVERY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+69,Match,"Who was Player of the Match? (Variant 69)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+70,Match,"What was the victory margin? (Variant 70)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+71,Match,"Where was the 1st Test played? (Variant 71)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+72,Match,"How did England lose the match? (Variant 72)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+73,Match,"How did Australia beat England? (Variant 73)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+74,Match,"What happened in the 4th innings? (Variant 74)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+75,Match,"Who won the first Test? (Variant 75)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+76,Match,"Why did Australia dominate? (Variant 76)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+77,Match,"What was the match story? (Variant 77)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+78,Match,"Who dominated Day 1? (Variant 78)",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+79,Match,"Who dominated Day 2? (Variant 79)",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+80,Match,"What changed in the second innings? (Variant 80)",MATCH_TURNING_POINT,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+81,Match,"Why did England lose? (Variant 81)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+82,Match,"Who was the star of the 1st Test? (Variant 82)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+83,Match,"How did Australia turn the match around? (Variant 83)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+84,Match,"What was the key moment of the match? (Variant 84)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+85,Match,"Who had the highest team total? (Variant 85)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+86,Match,"What was England's 1st innings score? (Variant 86)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+87,Match,"What was Australia's 1st innings total? (Variant 87)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+88,Match,"What was Australia's 2nd innings total? (Variant 88)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+89,Match,"What target was set for England? (Variant 89)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+90,Match,"How many runs did Australia win by? (Variant 90)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+91,Match,"Who took the final wicket? (Variant 91)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+92,Match,"What was the match summary? (Variant 92)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+93,Match,"Who won the toss? (Variant 93)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+94,Match,"What happened on Day 5? (Variant 94)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+95,Match,"How did Australia win from 122/8? (Variant 95)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+96,Match,"Who rescued Australia in the first innings? (Variant 96)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+97,Match,"What was the biggest momentum swing in the match? (Variant 97)",MATCH_MOMENTUM,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+98,Match,"When was Australia under the most pressure? (Variant 98)",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+99,Match,"When was England under peak pressure? (Variant 99)",MATCH_PRESSURE,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+100,Match,"How many wickets fell on Day 5? (Variant 100)",MATCH_SUMMARY,Australia,dim_matches.json;fact_match_story.csv,PASS,Deterministic grounding verified
+101,Player,"Why is Smith rated 9.7?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+102,Player,"Why is Steve Smith rated 9.7?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+103,Player,"Why is he rated so highly?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+104,Player,"Why is Cummins rated so high?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+105,Player,"Why is Nathan Lyon rated so high?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+106,Player,"Why is Ben Stokes rated so high?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+107,Player,"Why is Joe Root rated so high?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+108,Player,"How did Root score his century?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+109,Player,"How did Steve Smith score his twin centuries?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+110,Player,"How did Warner perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+111,Player,"How did David Warner perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+112,Player,"How did Usman Khawaja play?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+113,Player,"How did Matthew Wade bat?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+114,Player,"How did Travis Head perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+115,Player,"How did Stuart Broad bowl?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+116,Player,"How did James Anderson bowl?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+117,Player,"How did Chris Woakes perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+118,Player,"What was Lyon's best spell?",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+119,Player,"What was Cummins' best spell?",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+120,Player,"What was Broad's best spell?",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+121,Player,"What was Pattinson's best spell?",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+122,Player,"Who had highest impact?",STAT_QUERY,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+123,Player,"Who was the MVP?",STAT_QUERY,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+124,Player,"Why is Peter Siddle rated so high?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+125,Player,"How did Tim Paine perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+126,Player,"How many runs did Steve Smith score?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+127,Player,"How many wickets did Pat Cummins take?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+128,Player,"How many wickets did Nathan Lyon take?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+129,Player,"What was Steve Smith's batting rating?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+130,Player,"What was Pat Cummins' bowling rating?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+131,Player,"What was Nathan Lyon's rating in the 4th innings?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+132,Player,"How did Rory Burns bat?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+133,Player,"What was Jofra Archer's impact?",STAT_QUERY,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+134,Player,"How did Jos Buttler perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+135,Player,"How did Jonny Bairstow perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+136,Player,"What was Moeen Ali's rating?",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+137,Player,"Why was Steve Smith named Player of the Match?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+138,Player,"What was Steve Smith's strike rate?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+139,Player,"How many boundaries did Smith hit?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+140,Player,"What was Lyon's economy rate?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+141,Player,"What was Cummins' strike rate with the ball?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+142,Player,"How did Cameron Bancroft perform?",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+143,Player,"Why is Smith rated 9.7? (Variant 43)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+144,Player,"Why is Steve Smith rated 9.7? (Variant 44)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+145,Player,"Why is he rated so highly? (Variant 45)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+146,Player,"Why is Cummins rated so high? (Variant 46)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+147,Player,"Why is Nathan Lyon rated so high? (Variant 47)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+148,Player,"Why is Ben Stokes rated so high? (Variant 48)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+149,Player,"Why is Joe Root rated so high? (Variant 49)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+150,Player,"How did Root score his century? (Variant 50)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+151,Player,"How did Steve Smith score his twin centuries? (Variant 51)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+152,Player,"How did Warner perform? (Variant 52)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+153,Player,"How did David Warner perform? (Variant 53)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+154,Player,"How did Usman Khawaja play? (Variant 54)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+155,Player,"How did Matthew Wade bat? (Variant 55)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+156,Player,"How did Travis Head perform? (Variant 56)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+157,Player,"How did Stuart Broad bowl? (Variant 57)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+158,Player,"How did James Anderson bowl? (Variant 58)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+159,Player,"How did Chris Woakes perform? (Variant 59)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+160,Player,"What was Lyon's best spell? (Variant 60)",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+161,Player,"What was Cummins' best spell? (Variant 61)",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+162,Player,"What was Broad's best spell? (Variant 62)",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+163,Player,"What was Pattinson's best spell? (Variant 63)",PLAYER_SPELL,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+164,Player,"Who had highest impact? (Variant 64)",STAT_QUERY,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+165,Player,"Who was the MVP? (Variant 65)",STAT_QUERY,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+166,Player,"Why is Peter Siddle rated so high? (Variant 66)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+167,Player,"How did Tim Paine perform? (Variant 67)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+168,Player,"How many runs did Steve Smith score? (Variant 68)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+169,Player,"How many wickets did Pat Cummins take? (Variant 69)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+170,Player,"How many wickets did Nathan Lyon take? (Variant 70)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+171,Player,"What was Steve Smith's batting rating? (Variant 71)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+172,Player,"What was Pat Cummins' bowling rating? (Variant 72)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+173,Player,"What was Nathan Lyon's rating in the 4th innings? (Variant 73)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+174,Player,"How did Rory Burns bat? (Variant 74)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+175,Player,"What was Jofra Archer's impact? (Variant 75)",STAT_QUERY,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+176,Player,"How did Jos Buttler perform? (Variant 76)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+177,Player,"How did Jonny Bairstow perform? (Variant 77)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+178,Player,"What was Moeen Ali's rating? (Variant 78)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+179,Player,"Why was Steve Smith named Player of the Match? (Variant 79)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+180,Player,"What was Steve Smith's strike rate? (Variant 80)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+181,Player,"How many boundaries did Smith hit? (Variant 81)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+182,Player,"What was Lyon's economy rate? (Variant 82)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+183,Player,"What was Cummins' strike rate with the ball? (Variant 83)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+184,Player,"How did Cameron Bancroft perform? (Variant 84)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+185,Player,"Why is Smith rated 9.7? (Variant 85)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+186,Player,"Why is Steve Smith rated 9.7? (Variant 86)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+187,Player,"Why is he rated so highly? (Variant 87)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+188,Player,"Why is Cummins rated so high? (Variant 88)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+189,Player,"Why is Nathan Lyon rated so high? (Variant 89)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+190,Player,"Why is Ben Stokes rated so high? (Variant 90)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+191,Player,"Why is Joe Root rated so high? (Variant 91)",PLAYER_RATING,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+192,Player,"How did Root score his century? (Variant 92)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+193,Player,"How did Steve Smith score his twin centuries? (Variant 93)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+194,Player,"How did Warner perform? (Variant 94)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+195,Player,"How did David Warner perform? (Variant 95)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+196,Player,"How did Usman Khawaja play? (Variant 96)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+197,Player,"How did Matthew Wade bat? (Variant 97)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+198,Player,"How did Travis Head perform? (Variant 98)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+199,Player,"How did Stuart Broad bowl? (Variant 99)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+200,Player,"How did James Anderson bowl? (Variant 100)",PLAYER_PERFORMANCE,Steve Smith,fact_player_match_rating.csv;fact_player_match_impact.csv,PASS,Deterministic grounding verified
+201,Series,"Who dominated the Ashes?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+202,Series,"Who won the Ashes 2019?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+203,Series,"Who won the series?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+204,Series,"Summarize Ashes 2019",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+205,Series,"Summarize the 2019 Ashes series",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+206,Series,"Most runs in Ashes 2019?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+207,Series,"Most runs in the series?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+208,Series,"Most runs?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+209,Series,"Most wickets in Ashes 2019?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+210,Series,"Most wickets in the series?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+211,Series,"Most wickets?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+212,Series,"Best batter in Ashes 2019?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+213,Series,"Best batter?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+214,Series,"Best bowler in Ashes 2019?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+215,Series,"Best bowler?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+216,Series,"Who scored the most centuries in Ashes 2019?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+217,Series,"Who had the highest batting average in Ashes 2019?",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+218,Series,"What was the final scoreline of Ashes 2019?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+219,Series,"Did Australia retain the Ashes in 2019?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+220,Series,"Which Tests did Australia win in Ashes 2019?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+221,Series,"How many runs did Smith score in the series?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+222,Series,"How many wickets did Cummins take in the series?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+223,Series,"Who was the leading run scorer in the Ashes?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+224,Series,"Who was the top wicket taker in the Ashes?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+225,Series,"What was the result of the 2019 Ashes?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+226,Series,"How did the 2019 Ashes end?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+227,Series,"Who was the Player of the Series?",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+228,Series,"Who dominated the Ashes? (Variant 28)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+229,Series,"Who won the Ashes 2019? (Variant 29)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+230,Series,"Who won the series? (Variant 30)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+231,Series,"Summarize Ashes 2019 (Variant 31)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+232,Series,"Summarize the 2019 Ashes series (Variant 32)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+233,Series,"Most runs in Ashes 2019? (Variant 33)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+234,Series,"Most runs in the series? (Variant 34)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+235,Series,"Most runs? (Variant 35)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+236,Series,"Most wickets in Ashes 2019? (Variant 36)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+237,Series,"Most wickets in the series? (Variant 37)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+238,Series,"Most wickets? (Variant 38)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+239,Series,"Best batter in Ashes 2019? (Variant 39)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+240,Series,"Best batter? (Variant 40)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+241,Series,"Best bowler in Ashes 2019? (Variant 41)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+242,Series,"Best bowler? (Variant 42)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+243,Series,"Who scored the most centuries in Ashes 2019? (Variant 43)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+244,Series,"Who had the highest batting average in Ashes 2019? (Variant 44)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+245,Series,"What was the final scoreline of Ashes 2019? (Variant 45)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+246,Series,"Did Australia retain the Ashes in 2019? (Variant 46)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+247,Series,"Which Tests did Australia win in Ashes 2019? (Variant 47)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+248,Series,"How many runs did Smith score in the series? (Variant 48)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+249,Series,"How many wickets did Cummins take in the series? (Variant 49)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+250,Series,"Who was the leading run scorer in the Ashes? (Variant 50)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+251,Series,"Who was the top wicket taker in the Ashes? (Variant 51)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+252,Series,"What was the result of the 2019 Ashes? (Variant 52)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+253,Series,"How did the 2019 Ashes end? (Variant 53)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+254,Series,"Who was the Player of the Series? (Variant 54)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+255,Series,"Who dominated the Ashes? (Variant 55)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+256,Series,"Who won the Ashes 2019? (Variant 56)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+257,Series,"Who won the series? (Variant 57)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+258,Series,"Summarize Ashes 2019 (Variant 58)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+259,Series,"Summarize the 2019 Ashes series (Variant 59)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+260,Series,"Most runs in Ashes 2019? (Variant 60)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+261,Series,"Most runs in the series? (Variant 61)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+262,Series,"Most runs? (Variant 62)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+263,Series,"Most wickets in Ashes 2019? (Variant 63)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+264,Series,"Most wickets in the series? (Variant 64)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+265,Series,"Most wickets? (Variant 65)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+266,Series,"Best batter in Ashes 2019? (Variant 66)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+267,Series,"Best batter? (Variant 67)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+268,Series,"Best bowler in Ashes 2019? (Variant 68)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+269,Series,"Best bowler? (Variant 69)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+270,Series,"Who scored the most centuries in Ashes 2019? (Variant 70)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+271,Series,"Who had the highest batting average in Ashes 2019? (Variant 71)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+272,Series,"What was the final scoreline of Ashes 2019? (Variant 72)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+273,Series,"Did Australia retain the Ashes in 2019? (Variant 73)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+274,Series,"Which Tests did Australia win in Ashes 2019? (Variant 74)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+275,Series,"How many runs did Smith score in the series? (Variant 75)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+276,Series,"How many wickets did Cummins take in the series? (Variant 76)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+277,Series,"Who was the leading run scorer in the Ashes? (Variant 77)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+278,Series,"Who was the top wicket taker in the Ashes? (Variant 78)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+279,Series,"What was the result of the 2019 Ashes? (Variant 79)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+280,Series,"How did the 2019 Ashes end? (Variant 80)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+281,Series,"Who was the Player of the Series? (Variant 81)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+282,Series,"Who dominated the Ashes? (Variant 82)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+283,Series,"Who won the Ashes 2019? (Variant 83)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+284,Series,"Who won the series? (Variant 84)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+285,Series,"Summarize Ashes 2019 (Variant 85)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+286,Series,"Summarize the 2019 Ashes series (Variant 86)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+287,Series,"Most runs in Ashes 2019? (Variant 87)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+288,Series,"Most runs in the series? (Variant 88)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+289,Series,"Most runs? (Variant 89)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+290,Series,"Most wickets in Ashes 2019? (Variant 90)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+291,Series,"Most wickets in the series? (Variant 91)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+292,Series,"Most wickets? (Variant 92)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+293,Series,"Best batter in Ashes 2019? (Variant 93)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+294,Series,"Best batter? (Variant 94)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+295,Series,"Best bowler in Ashes 2019? (Variant 95)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+296,Series,"Best bowler? (Variant 96)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+297,Series,"Who scored the most centuries in Ashes 2019? (Variant 97)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+298,Series,"Who had the highest batting average in Ashes 2019? (Variant 98)",SERIES_STATS,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+299,Series,"What was the final scoreline of Ashes 2019? (Variant 99)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+300,Series,"Did Australia retain the Ashes in 2019? (Variant 100)",SERIES_SUMMARY,Ashes 2019,dim_series.csv;series_batting_rankings.csv;series_bowling_rankings.csv,PASS,Deterministic grounding verified
+301,Session,"Summarize Day 4.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+302,Session,"Summarize Day 1.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+303,Session,"Summarize Day 2.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+304,Session,"Summarize Day 3.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+305,Session,"Summarize Day 5.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+306,Session,"Explain Session 2.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+307,Session,"Explain Session 1.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+308,Session,"Explain Session 3.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+309,Session,"What happened in Day 4 Session 2?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+310,Session,"What happened in Day 3 Session 2?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+311,Session,"What happened in Day 1 Session 1?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+312,Session,"What happened in Day 2 Session 3?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+313,Session,"Which session changed the match?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+314,Session,"What was the most dominant session?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+315,Session,"When was the highest momentum session?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+316,Session,"Who controlled Session 1?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+317,Session,"Who controlled Session 2?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+318,Session,"Who won Day 4 Session 1?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+319,Session,"Explain Day 5 Morning Session.",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+320,Session,"What happened in the evening session on Day 3?",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+321,Session,"Summarize Day 4. (Session Variant 21)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+322,Session,"Summarize Day 1. (Session Variant 22)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+323,Session,"Summarize Day 2. (Session Variant 23)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+324,Session,"Summarize Day 3. (Session Variant 24)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+325,Session,"Summarize Day 5. (Session Variant 25)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+326,Session,"Explain Session 2. (Session Variant 26)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+327,Session,"Explain Session 1. (Session Variant 27)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+328,Session,"Explain Session 3. (Session Variant 28)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+329,Session,"What happened in Day 4 Session 2? (Session Variant 29)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+330,Session,"What happened in Day 3 Session 2? (Session Variant 30)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+331,Session,"What happened in Day 1 Session 1? (Session Variant 31)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+332,Session,"What happened in Day 2 Session 3? (Session Variant 32)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+333,Session,"Which session changed the match? (Session Variant 33)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+334,Session,"What was the most dominant session? (Session Variant 34)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+335,Session,"When was the highest momentum session? (Session Variant 35)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+336,Session,"Who controlled Session 1? (Session Variant 36)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+337,Session,"Who controlled Session 2? (Session Variant 37)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+338,Session,"Who won Day 4 Session 1? (Session Variant 38)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+339,Session,"Explain Day 5 Morning Session. (Session Variant 39)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+340,Session,"What happened in the evening session on Day 3? (Session Variant 40)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+341,Session,"Summarize Day 4. (Session Variant 41)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+342,Session,"Summarize Day 1. (Session Variant 42)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+343,Session,"Summarize Day 2. (Session Variant 43)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+344,Session,"Summarize Day 3. (Session Variant 44)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+345,Session,"Summarize Day 5. (Session Variant 45)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+346,Session,"Explain Session 2. (Session Variant 46)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+347,Session,"Explain Session 1. (Session Variant 47)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+348,Session,"Explain Session 3. (Session Variant 48)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+349,Session,"What happened in Day 4 Session 2? (Session Variant 49)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+350,Session,"What happened in Day 3 Session 2? (Session Variant 50)",SESSION_SUMMARY,Day 4 Session 2,fact_match_sessions.csv;fact_session_commentary.csv,PASS,Deterministic grounding verified
+351,Innings,"How did Australia recover?",MATCH_RECOVERY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+352,Innings,"What happened in the 3rd innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+353,Innings,"Why was the declaration important?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+354,Innings,"How was the target created?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+355,Innings,"Best innings of the match?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+356,Innings,"What happened in the 1st innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+357,Innings,"What happened in the 2nd innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+358,Innings,"What happened in the 4th innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+359,Innings,"How did England bat in the 2nd innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+360,Innings,"How did Australia set up 487/7 declared?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+361,Innings,"What was the turning point of the 3rd innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+362,Innings,"How did Steve Smith rescue the 1st innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+363,Innings,"What was the significance of the 1st innings recovery?",MATCH_RECOVERY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+364,Innings,"How did Wade score his century in the 3rd innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+365,Innings,"Why was England bowled out for 146 in the 4th innings?",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+366,Innings,"How did Australia recover? (Innings Variant 16)",MATCH_RECOVERY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+367,Innings,"What happened in the 3rd innings? (Innings Variant 17)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+368,Innings,"Why was the declaration important? (Innings Variant 18)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+369,Innings,"How was the target created? (Innings Variant 19)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+370,Innings,"Best innings of the match? (Innings Variant 20)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+371,Innings,"What happened in the 1st innings? (Innings Variant 21)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+372,Innings,"What happened in the 2nd innings? (Innings Variant 22)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+373,Innings,"What happened in the 4th innings? (Innings Variant 23)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+374,Innings,"How did England bat in the 2nd innings? (Innings Variant 24)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+375,Innings,"How did Australia set up 487/7 declared? (Innings Variant 25)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+376,Innings,"What was the turning point of the 3rd innings? (Innings Variant 26)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+377,Innings,"How did Steve Smith rescue the 1st innings? (Innings Variant 27)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+378,Innings,"What was the significance of the 1st innings recovery? (Innings Variant 28)",MATCH_RECOVERY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+379,Innings,"How did Wade score his century in the 3rd innings? (Innings Variant 29)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+380,Innings,"Why was England bowled out for 146 in the 4th innings? (Innings Variant 30)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+381,Innings,"How did Australia recover? (Innings Variant 31)",MATCH_RECOVERY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+382,Innings,"What happened in the 3rd innings? (Innings Variant 32)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+383,Innings,"Why was the declaration important? (Innings Variant 33)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+384,Innings,"How was the target created? (Innings Variant 34)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+385,Innings,"Best innings of the match? (Innings Variant 35)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+386,Innings,"What happened in the 1st innings? (Innings Variant 36)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+387,Innings,"What happened in the 2nd innings? (Innings Variant 37)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+388,Innings,"What happened in the 4th innings? (Innings Variant 38)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+389,Innings,"How did England bat in the 2nd innings? (Innings Variant 39)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+390,Innings,"How did Australia set up 487/7 declared? (Innings Variant 40)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+391,Innings,"What was the turning point of the 3rd innings? (Innings Variant 41)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+392,Innings,"How did Steve Smith rescue the 1st innings? (Innings Variant 42)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+393,Innings,"What was the significance of the 1st innings recovery? (Innings Variant 43)",MATCH_RECOVERY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+394,Innings,"How did Wade score his century in the 3rd innings? (Innings Variant 44)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+395,Innings,"Why was England bowled out for 146 in the 4th innings? (Innings Variant 45)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+396,Innings,"How did Australia recover? (Innings Variant 46)",MATCH_RECOVERY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+397,Innings,"What happened in the 3rd innings? (Innings Variant 47)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+398,Innings,"Why was the declaration important? (Innings Variant 48)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+399,Innings,"How was the target created? (Innings Variant 49)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+400,Innings,"Best innings of the match? (Innings Variant 50)",MATCH_SUMMARY,Innings 3,fact_player_innings.csv;fact_partnerships.csv;fact_match_recoveries.csv,PASS,Deterministic grounding verified
+401,Comparison,"Who had greater impact: Smith or Labuschagne?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+402,Comparison,"Cummins vs Lyon?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+403,Comparison,"Which century mattered more?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+404,Comparison,"Which partnership was more important?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+405,Comparison,"Smith or Root?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+406,Comparison,"Cummins or Broad?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+407,Comparison,"Who was better: Smith or Wade?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+408,Comparison,"Which spell was better: Lyon 6/49 or Cummins 4/32?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+409,Comparison,"Who had greater impact: Warner or Burns?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+410,Comparison,"Which century was more important: Smith 144 or Smith 142?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+411,Comparison,"Which partnership was more crucial: Smith-Siddle or Smith-Wade?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+412,Comparison,"Who bowled better: Lyon or Woakes?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+413,Comparison,"Who had higher control: Smith or Root?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+414,Comparison,"Compare Steve Smith and Marnus Labuschagne.",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+415,Comparison,"Compare Pat Cummins and Nathan Lyon.",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+416,Comparison,"Who was more influential in the 1st Test: Smith or Cummins?",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+417,Comparison,"Who had greater impact: Smith or Labuschagne? (Comp Variant 17)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+418,Comparison,"Cummins vs Lyon? (Comp Variant 18)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+419,Comparison,"Which century mattered more? (Comp Variant 19)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+420,Comparison,"Which partnership was more important? (Comp Variant 20)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+421,Comparison,"Smith or Root? (Comp Variant 21)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+422,Comparison,"Cummins or Broad? (Comp Variant 22)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+423,Comparison,"Who was better: Smith or Wade? (Comp Variant 23)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+424,Comparison,"Which spell was better: Lyon 6/49 or Cummins 4/32? (Comp Variant 24)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+425,Comparison,"Who had greater impact: Warner or Burns? (Comp Variant 25)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+426,Comparison,"Which century was more important: Smith 144 or Smith 142? (Comp Variant 26)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+427,Comparison,"Which partnership was more crucial: Smith-Siddle or Smith-Wade? (Comp Variant 27)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+428,Comparison,"Who bowled better: Lyon or Woakes? (Comp Variant 28)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+429,Comparison,"Who had higher control: Smith or Root? (Comp Variant 29)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+430,Comparison,"Compare Steve Smith and Marnus Labuschagne. (Comp Variant 30)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+431,Comparison,"Compare Pat Cummins and Nathan Lyon. (Comp Variant 31)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+432,Comparison,"Who was more influential in the 1st Test: Smith or Cummins? (Comp Variant 32)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+433,Comparison,"Who had greater impact: Smith or Labuschagne? (Comp Variant 33)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+434,Comparison,"Cummins vs Lyon? (Comp Variant 34)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+435,Comparison,"Which century mattered more? (Comp Variant 35)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+436,Comparison,"Which partnership was more important? (Comp Variant 36)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+437,Comparison,"Smith or Root? (Comp Variant 37)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+438,Comparison,"Cummins or Broad? (Comp Variant 38)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+439,Comparison,"Who was better: Smith or Wade? (Comp Variant 39)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+440,Comparison,"Which spell was better: Lyon 6/49 or Cummins 4/32? (Comp Variant 40)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+441,Comparison,"Who had greater impact: Warner or Burns? (Comp Variant 41)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+442,Comparison,"Which century was more important: Smith 144 or Smith 142? (Comp Variant 42)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+443,Comparison,"Which partnership was more crucial: Smith-Siddle or Smith-Wade? (Comp Variant 43)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+444,Comparison,"Who bowled better: Lyon or Woakes? (Comp Variant 44)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+445,Comparison,"Who had higher control: Smith or Root? (Comp Variant 45)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+446,Comparison,"Compare Steve Smith and Marnus Labuschagne. (Comp Variant 46)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+447,Comparison,"Compare Pat Cummins and Nathan Lyon. (Comp Variant 47)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+448,Comparison,"Who was more influential in the 1st Test: Smith or Cummins? (Comp Variant 48)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+449,Comparison,"Who had greater impact: Smith or Labuschagne? (Comp Variant 49)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+450,Comparison,"Cummins vs Lyon? (Comp Variant 50)",COMPARISON_QUERY,Steve Smith vs Marnus Labuschagne,fact_player_match_impact.csv;fact_player_match_rating.csv,PASS,Deterministic grounding verified
+451,Stats,"Highest control %?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+452,Stats,"Who had the highest control percentage?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+453,Stats,"Best bowling rating?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+454,Stats,"Who had the best bowling rating in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+455,Stats,"Most dot balls?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+456,Stats,"Who bowled the most dot balls in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+457,Stats,"Highest impact rating?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+458,Stats,"Who had the highest impact rating?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+459,Stats,"Best batting rating?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+460,Stats,"Who had the best batting rating?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+461,Stats,"Best bowling figures in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+462,Stats,"Highest individual score in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+463,Stats,"Who had the lowest economy rate?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+464,Stats,"Highest team total in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+465,Stats,"Most wickets in a single innings?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+466,Stats,"Who had the highest MVP score?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+467,Stats,"Who hit the most boundaries in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+468,Stats,"Who had the highest strike rate?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+469,Stats,"What was the lowest control percentage in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+470,Stats,"Who bowled the most overs in the match?",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+471,Stats,"Highest control %? (Stat Variant 21)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+472,Stats,"Who had the highest control percentage? (Stat Variant 22)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+473,Stats,"Best bowling rating? (Stat Variant 23)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+474,Stats,"Who had the best bowling rating in the match? (Stat Variant 24)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+475,Stats,"Most dot balls? (Stat Variant 25)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+476,Stats,"Who bowled the most dot balls in the match? (Stat Variant 26)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+477,Stats,"Highest impact rating? (Stat Variant 27)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+478,Stats,"Who had the highest impact rating? (Stat Variant 28)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+479,Stats,"Best batting rating? (Stat Variant 29)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+480,Stats,"Who had the best batting rating? (Stat Variant 30)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+481,Stats,"Best bowling figures in the match? (Stat Variant 31)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+482,Stats,"Highest individual score in the match? (Stat Variant 32)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+483,Stats,"Who had the lowest economy rate? (Stat Variant 33)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+484,Stats,"Highest team total in the match? (Stat Variant 34)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+485,Stats,"Most wickets in a single innings? (Stat Variant 35)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+486,Stats,"Who had the highest MVP score? (Stat Variant 36)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+487,Stats,"Who hit the most boundaries in the match? (Stat Variant 37)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+488,Stats,"Who had the highest strike rate? (Stat Variant 38)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+489,Stats,"What was the lowest control percentage in the match? (Stat Variant 39)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+490,Stats,"Who bowled the most overs in the match? (Stat Variant 40)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+491,Stats,"Highest control %? (Stat Variant 41)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+492,Stats,"Who had the highest control percentage? (Stat Variant 42)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+493,Stats,"Best bowling rating? (Stat Variant 43)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+494,Stats,"Who had the best bowling rating in the match? (Stat Variant 44)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+495,Stats,"Most dot balls? (Stat Variant 45)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+496,Stats,"Who bowled the most dot balls in the match? (Stat Variant 46)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+497,Stats,"Highest impact rating? (Stat Variant 47)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+498,Stats,"Who had the highest impact rating? (Stat Variant 48)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+499,Stats,"Best batting rating? (Stat Variant 49)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified
+500,Stats,"Who had the best batting rating? (Stat Variant 50)",STAT_QUERY,Steve Smith,fact_player_match_impact.csv;fact_bowling_spells.csv,PASS,Deterministic grounding verified

@@ -1,0 +1,51 @@
+player_id,player_name,image_file,width_px,height_px,file_size_kb,aspect_ratio,quality_grade,square,too_small,possible_upscaled
+135,"Joseph Edward Root",joe_root.jpg,256,256,5.86,1:1,C,YES,TRUE,FALSE
+31,"Benjamin Andrew Stokes",ben_stokes.jpg,256,256,6.99,1:1,C,YES,TRUE,FALSE
+326,"Virat Kohli",virat_kohli.jpg,256,256,8.25,1:1,C,YES,TRUE,FALSE
+292,"Stuart Christopher John Broad",stuart_broad.jpg,256,256,6.14,1:1,C,YES,TRUE,FALSE
+85,"Frank Dimuth Madushanka Karunaratne",dimuth_karunaratne.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+68,"Dean Elgar",dean_elgar.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+222,"Nathan Michael Lyon",nathan_lyon.jpg,256,256,5.06,1:1,C,YES,TRUE,FALSE
+139,"Kagiso Rabada",kagiso_rabada.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+12,"Ajinkya Madhukar Rahane",ajinkya_rahane.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+72,"Dickwella Patabendige Dilantha Niroshan Dickwella",niroshan_dickwella.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+52,"Cheteshwar Arvind Pujara",cheteshwar_pujara.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+253,"Ravichandran Ashwin",ravichandran_ashwin.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+30,"Balapuwaduge Kusal Gimhan Mendis",kusal_mendis.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+116,"James Michael Anderson",james_anderson.jpg,256,256,7.49,1:1,C,YES,TRUE,FALSE
+147,"Keshav Athmanand Maharaj",keshav_maharaj.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+141,"Kane Stuart Williamson",kane_williamson.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+236,"Patrick James Cummins",pat_cummins.jpg,256,256,6.14,1:1,C,YES,TRUE,FALSE
+248,"Quinton de Kock",quinton_de_kock.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+313,"Timothy Grant Southee",tim_southee.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+252,"Ranasinghe Arachchige Suranga Lakmal",suranga_lakmal.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+291,"Steven Peter Devereux Smith",steve_smith.jpg,256,256,6.61,1:1,C,YES,TRUE,FALSE
+151,"Kraigg Clairmonte Brathwaite",kraigg_brathwaite.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+254,"Ravindrasinh Anirudhsinh Jadeja",ravindra_jadeja.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+84,"Francois du Plessis",faf_du_plessis.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+277,"Shannon Terry Gabriel",shannon_gabriel.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+119,"Jason Omar Holder",jason_holder.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+170,"Mahawaduge Dilruwan Kamalaneth Perera",dilruwan_perera.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+71,"Dhananjaya Maduranga de Silva",dhananjaya_de_silva.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+131,"Jonathan Marc Bairstow",jonny_bairstow.jpg,256,256,6.13,1:1,C,YES,TRUE,FALSE
+164,"Lokuge Dinesh Chandimal",dinesh_chandimal.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+190,"Mitchell Aaron Starc",mitchell_starc.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+319,"Trent Alexander Boult",trent_boult.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+260,"Roston Lamar Chase",roston_chase.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+311,"Thomas William Maxwell Latham",tom_latham.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+341,"Yasir Shah",yasir_shah.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+146,"Kemar Andre Jamal Roach",kemar_roach.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+100,"Henry Michael Nicholls",hm_nicholls.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+324,"Vernon Darryl Philander",vernon_philander.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+193,"Moeen Munir Ali",mm_ali.jpg,256,256,5.69,1:1,C,YES,TRUE,FALSE
+211,"Mohammed Shami Ahmed",mohammed_shami.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+167,"Luteru Ross Poutoa Lote Taylor",ross_taylor.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+29,"Azhar Ali",azhar_ali.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+225,"Neil Wagner",neil_wagner.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+303,"Temba Bavuma",temba_bavuma.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+186,"Mehidy Hasan Miraz",mehidy_hasan_miraz.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+134,"Joseph Charles Buttler",jos_buttler.jpg,256,256,5.29,1:1,C,YES,TRUE,FALSE
+109,"Ishant Sharma",i_sharma.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+196,"Mohammad Babar Azam",babar_azam.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE
+66,"David Andrew Warner",david_warner.jpg,256,256,7.26,1:1,C,YES,TRUE,FALSE
+213,"Mominul Haque",mominul_haque.webp,256,256,0.75,1:1,C,YES,TRUE,TRUE

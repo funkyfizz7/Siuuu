@@ -1,0 +1,345 @@
+player_id,full_name,country,batting_style,bowling_style,playing_role,is_batter,is_bowler,is_batting_only,is_both,total_runs,balls_faced,batting_average,batting_strike_rate,hundreds,fifties,primary_scoring_region,overs_bowled,wickets,bowling_average,economy_rate,bowling_strike_rate,line_length_accuracy_pct
+A Balbirnie,Andrew Balbirnie,Ireland,Right hand Bat,Right hand Bat,Batter,True,False,True,False,60,91,15.0,65.93,0,1,Point,0.0,0,,,,
+A Dananjaya,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Sri Lanka,Left hand Bat,"Right arm Offbreak, Legbreak",Bowling Allrounder,True,True,False,True,135,254,16.88,53.15,0,0,Cover,230.5,33,24.82,3.55,41.97,65.01
+A Mukund,Abhinav Mukund,India,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,109,182,27.25,59.89,0,1,Point,0.0,0,,,,
+A Ndlovu,Ainsley Ndlovu,Zimbabwe,Right hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,9,40,2.25,22.5,0,0,Other,70.0,2,138.5,3.96,210.0,70.0
+A Nortje,Anrich Arno Nortje,South Africa,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,104,432,7.43,24.07,0,0,Point,315.4,39,29.85,3.69,48.56,59.9
+AB de Villiers,Abraham Benjamin de Villiers,South Africa,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,691,1055,53.15,65.5,1,7,Mid Wicket,0.0,0,,,,
+AC Agar,Ashton Charles Agar,Australia,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,65,145,32.5,44.83,0,0,Mid Wicket,61.4,7,23.14,2.63,52.86,65.68
+AD Mathews,Angelo Davis Mathews,Sri Lanka,Right hand Bat,Right arm Medium,Allrounder,True,True,False,True,1773,4038,41.23,43.91,4,10,Mid Wicket,45.0,2,50.0,2.22,135.0,80.88
+AG Cremer,Alexander Graeme Cremer,Zimbabwe,Right hand Bat,Legbreak Googly,Bowler,True,True,False,True,129,404,21.5,31.93,0,0,Mid Wicket,215.2,20,34.0,3.16,64.6,60.48
+AJ Finch,Aaron James Finch,Australia,Right hand Bat,Slow Left arm Orthodox,Top order Batter,True,True,False,True,278,618,27.8,44.98,0,2,Cover,2.0,0,,4.0,,58.33
+AK Markram,Aiden Kyle Markram,South Africa,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,1760,2951,40.93,59.64,5,8,Cover,33.2,0,,3.09,,67.0
+AL Phehlukwayo,Andile Lucky Phehlukwayo,South Africa,Left hand Bat,Right arm Medium fast,Bowling Allrounder,True,True,False,True,19,39,9.5,48.72,0,0,Mid-Off / Long-Off,41.4,11,13.36,3.53,22.73,55.16
+AM Fernando,Asitha Madusanka Fernando,Sri Lanka,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,4,32,1.33,12.5,0,0,Unclassified,47.0,4,39.0,3.32,70.5,65.02
+AM Rahane,Ajinkya Madhukar Rahane,India,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,2301,4873,37.11,47.22,4,14,Cover,0.0,0,,,,
+AN Cook,Alastair Nathan Cook,England,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,1415,3002,38.24,47.14,3,4,Mid Wicket,0.0,0,,,,
+AR McBrine,Andrew Robert McBrine,Ireland,Left hand Bat,Right arm Offbreak,Bowling Allrounder,True,True,False,True,11,38,5.5,28.95,0,0,Square Leg,10.0,0,,4.7,,68.33
+AR Patel,Axar Rajeshbhai Patel,India,Left hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,55,131,13.75,41.98,0,0,Mid Wicket,127.4,27,10.59,2.24,28.37,77.28
+ARS Silva,Athege Roshen Shivanka Silva,Sri Lanka,Right hand Bat,Right hand Bat,Batter,True,False,True,False,702,1712,35.1,41.0,1,5,Mid Wicket,0.0,0,,,,
+AS Joseph,Alzarri Shaheim Joseph,West Indies,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,367,589,15.96,62.31,0,2,Mid Wicket,388.2,33,39.67,3.37,70.61,57.17
+AU Rashid,Adil Usman Rashid,England,Right hand Bat,Legbreak,Bowler,True,True,False,True,245,434,20.42,56.45,0,0,Mid Wicket,212.0,22,34.73,3.6,57.82,62.56
+AY Patel,Ajaz Yunus Patel,New Zealand,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,53,169,7.57,31.36,0,0,Mid Wicket,270.5,22,33.32,2.71,73.86,72.8
+Abdur Razzak,Abdur Razzak,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,3,7,1.5,42.86,0,0,Fine Leg,33.0,5,24.6,3.73,39.6,67.68
+Abid Ali,Abid Ali,Pakistan,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,400,963,26.67,41.54,1,0,Cover,0.0,0,,,,
+Abu Jayed,Abu Jayed Chowdhury,Bangladesh,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,28,128,2.55,21.88,0,0,Point,270.2,30,30.3,3.36,54.07,73.67
+Ahmed Shehzad,Ahmed Shehzad,Pakistan,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,121,310,30.25,39.03,0,1,Cover,0.0,0,,,,
+Al-Amin Hossain,Al-Amin Hossain,Bangladesh,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,22,24,22.0,91.67,0,0,Mid Wicket,22.4,3,28.33,3.75,45.33,72.99
+Ariful Haque,Ariful Haque,Bangladesh,Right hand Bat,Right arm Medium fast,Allrounder,True,True,False,True,88,159,29.33,55.35,0,0,Cover,11.0,1,24.0,2.18,66.0,62.12
+Asad Shafiq,Asad Shafiq,Pakistan,Right hand Bat,Right arm Offbreak,Middle order Batter,True,True,False,True,1325,2622,32.32,50.53,2,9,Mid Wicket,38.4,2,65.5,3.39,116.0,58.47
+Azhar Ali,Azhar Ali,Pakistan,Right hand Bat,Legbreak,Top order Batter,True,True,False,True,1736,4185,34.72,41.48,5,9,Cover,31.5,3,51.33,4.84,63.67,43.46
+B Kumar,Bhuvneshwar Kumar Singh,India,Right hand Bat,Right arm Medium,Bowler,True,True,False,True,122,294,20.33,41.5,0,0,Cover,153.3,21,20.67,2.83,43.86,61.41
+B Mavuta,Brandon Anesu Mavuta,Zimbabwe,Right hand Bat,Legbreak,Allrounder,True,True,False,True,9,31,2.25,29.03,0,0,Mid-On / Long-On,56.0,4,59.25,4.23,84.0,63.1
+B Muzarabani,Blessing Muzarabani,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,14,14,14.0,100.0,0,0,Mid-On / Long-On,13.0,0,,3.69,,48.72
+BA Stokes,Benjamin Andrew Stokes,England,Left hand Bat,Right arm Fast medium,Allrounder,True,True,False,True,2729,4987,39.55,54.72,6,16,Mid Wicket,746.4,84,28.48,3.2,53.33,53.96
+BB Chari,Brian Bara Chari,Zimbabwe,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,113,274,28.25,41.24,0,1,Cover,0.0,0,,,,
+BE Hendricks,Beuran Eric Hendricks,South Africa,Left hand Bat,Left arm Fast medium,Bowler,True,True,False,True,9,18,9.0,50.0,0,0,Third Man,38.3,6,29.17,4.55,38.5,50.64
+BJ Watling,Bradley-John Watling,New Zealand,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1258,3223,37.0,39.03,2,7,Cover,0.0,0,,,,
+BKG Mendis,Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,Right hand Bat,Legbreak,Wicketkeeper Batter,True,True,False,True,2240,4135,35.56,54.17,6,8,Mid Wicket,14.0,0,,5.57,,55.17
+BOP Fernando,Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,Right hand Bat,Legbreak,Top order Batter,True,True,False,True,535,1078,41.15,49.63,1,3,Mid Wicket,2.0,0,,8.0,,58.33
+BRM Taylor,Brendan Ross Murray Taylor,Zimbabwe,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,562,942,37.47,59.66,2,3,Cover,0.0,0,,,,
+BS Mudzinganyama,Brian Simbarashe Mudzinganyama,Zimbabwe,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,16,62,16.0,25.81,0,0,Unclassified,0.0,0,,,,
+BT Foakes,Benjamin Thomas Foakes,England,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,410,877,31.54,46.75,1,1,Mid Wicket,0.0,0,,,,
+Babar Azam,Mohammad Babar Azam,Pakistan,Right hand Bat,Right hand Bat,Batter,True,False,True,False,1727,3003,43.17,57.51,4,14,Cover,0.0,0,,,,
+Bilal Asif,Mohammad Bilal Asif,Pakistan,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,73,176,9.12,41.48,0,0,Point,195.4,16,26.5,2.17,73.38,72.94
+C Green,Cameron Donald Green,Australia,Right hand Bat,Right arm Fast medium,Batting Allrounder,True,True,False,True,236,580,33.71,40.69,0,1,Mid-On / Long-On,44.0,0,,2.68,,59.85
+C Karunaratne,Chamika Karunaratne,Sri Lanka,Right hand Bat,Right arm Medium fast,Bowling Allrounder,True,True,False,True,22,43,11.0,51.16,0,0,Mid Wicket,26.0,1,148.0,5.69,156.0,56.1
+C Overton,Craig Overton,England,Right hand Bat,Right arm Medium fast,Bowling Allrounder,True,True,False,True,124,304,20.67,40.79,0,0,Point,117.5,9,44.78,3.42,78.56,58.2
+C de Grandhomme,Colin de Grandhomme,New Zealand,Right hand Bat,Right arm Medium fast,Allrounder,True,True,False,True,1087,1337,37.48,81.3,1,8,Mid Wicket,563.0,38,36.24,2.45,88.89,75.94
+CA Pujara,Cheteshwar Arvind Pujara,India,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,2953,7203,44.07,41.0,8,18,Mid Wicket,0.0,0,,,,
+CAK Rajitha,Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,35,233,3.5,15.02,0,0,Third Man,229.5,24,32.25,3.37,57.46,61.84
+CB Mpofu,Christopher Bobby Mpofu,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,56,78,14.0,71.79,0,0,Mid Wicket,82.3,4,55.5,2.69,123.75,61.97
+CBRLS Kumara,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,Left hand Bat,Right arm Fast,Bowler,True,True,False,True,45,170,3.21,26.47,0,0,Mid-On / Long-On,594.0,63,36.05,3.82,56.57,48.21
+CH Morris,Christopher Henry Morris,South Africa,Right hand Bat,Right arm Fast medium,Bowling Allrounder,True,True,False,True,75,185,18.75,40.54,0,0,Cover,42.5,8,25.75,4.81,32.12,59.46
+CJ Chibhabha,Chamunorwa Justice Chibhabha,Zimbabwe,Right hand Bat,Right arm Medium,Top order Batter,True,True,False,True,21,73,10.5,28.77,0,0,Point,11.0,0,,4.64,,64.18
+CJ Sayers,Chadd James Sayers,Australia,Right hand Bat,Right arm Medium,Bowler,True,True,False,True,0,5,0.0,0.0,0,0,Unavailable,49.0,2,73.0,2.98,147.0,70.07
+CK Holder,Chemar Keron Holder,West Indies,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,21,37,,56.76,0,0,Straight,26.0,2,55.0,4.23,78.0,62.66
+CK Tshuma,Charlton Kirsh Tshuma,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,3,30,1.5,10.0,0,0,Point,25.0,1,85.0,3.4,150.0,78.0
+CR Ervine,Craig Richard Ervine,Zimbabwe,Left hand Bat,Left hand Bat,Middle order Batter,True,False,True,False,538,1075,38.43,50.05,2,1,Cover,0.0,0,,,,
+CR Woakes,Christopher Roger Woakes,England,Right hand Bat,Right arm Fast medium,Allrounder,True,True,False,True,730,1289,26.07,56.63,1,3,Mid Wicket,608.0,63,28.87,2.99,57.9,64.94
+CT Bancroft,Cameron Timothy Bancroft,Australia,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,446,1042,26.24,42.8,0,3,Mid Wicket,0.0,0,,,,
+CT Mumba,Carl Tapfuma Mumba,Zimbabwe,Right hand Bat,Right arm Fast medium,Allrounder,True,True,False,True,11,19,,57.89,0,0,Square Leg,22.0,2,28.0,2.55,66.0,72.73
+CT Mutombodzi,Confidence Tinotenda Mutombodzi,Zimbabwe,Right hand Bat,Legbreak Googly,Allrounder,True,True,False,True,41,121,20.5,33.88,0,0,Mid-On / Long-On,19.0,0,,3.53,,71.93
+D Bishoo,Devendra Bishoo,West Indies,Left hand Bat,Legbreak,Bowler,True,True,False,True,301,925,13.68,32.54,0,0,Mid Wicket,463.3,40,37.52,3.24,69.53,63.93
+D Elgar,Dean Elgar,South Africa,Left hand Bat,Slow Left arm Orthodox,Opening Batter,True,True,False,True,2734,5559,41.42,49.18,8,12,Mid Wicket,21.5,2,62.0,5.68,65.5,58.78
+D Olivier,Duanne Olivier,South Africa,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,26,93,3.71,27.96,0,0,Mid Wicket,240.0,48,19.25,3.85,30.0,41.14
+D Paterson,Dane Paterson,South Africa,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,43,49,43.0,87.76,0,0,Cover,57.5,4,41.5,2.87,86.75,74.43
+D Pretorius,Dwaine Pretorius,South Africa,Right hand Bat,Right arm Medium fast,Bowling Allrounder,True,True,False,True,83,163,13.83,50.92,0,0,Cover,80.0,7,36.0,3.15,68.57,77.13
+DA Warner,David Andrew Warner,Australia,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,2218,3505,47.19,63.28,7,8,Cover,0.0,0,,,,
+DAS Gunaratne,Downdegedara Asela Sampath Gunaratne,Sri Lanka,Right hand Bat,Right arm Medium fast,Batter,True,True,False,True,230,452,46.0,50.88,0,2,Cover,21.0,3,28.67,4.1,42.0,60.61
+DJ Malan,Dawid Johannes Malan,England,Left hand Bat,Legbreak,Top order Batter,True,True,False,True,724,1762,27.85,41.09,1,6,Cover,26.0,0,,2.69,,68.59
+DJ Mitchell,Daryl Joseph Mitchell,New Zealand,Right hand Bat,Right arm Medium,Batting Allrounder,True,True,False,True,226,376,75.33,60.11,1,1,Mid Wicket,36.0,1,110.0,3.06,216.0,73.52
+DL Piedt,Dane Leeroy Piedt,South Africa,Right hand Bat,Right arm Offbreak,Bowler,True,True,False,True,83,198,20.75,41.92,0,1,Cover,54.0,2,155.0,5.74,162.0,64.51
+DM Bess,Dominic Mark Bess,England,Right hand Bat,Right arm Offbreak,Bowling Allrounder,True,True,False,True,319,710,22.79,44.93,0,1,Cover,417.0,36,33.97,2.93,69.5,73.71
+DM Bravo,Darren Michael Bravo,West Indies,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,138,439,10.62,31.44,0,1,Mid Wicket,0.0,0,,,,
+DM de Silva,Dhananjaya Maduranga de Silva,Sri Lanka,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,1327,2346,28.23,56.56,3,6,Mid Wicket,324.1,17,58.94,3.09,114.41,67.18
+DP Sibley,Dominic Peter Sibley,England,Right hand Bat,Legbreak,Opening Batter,True,True,False,True,850,2387,30.36,35.61,2,4,Mid Wicket,1.0,0,,7.0,,77.78
+DS Smith,Devon Sheldon Smith,West Indies,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,167,422,18.56,39.57,0,2,Mid Wicket,0.0,0,,,,
+DT Tiripano,Donald Tatenda Tiripano,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,126,409,15.75,30.81,0,0,Third Man,148.4,7,52.14,2.46,127.43,74.94
+DW Lawrence,Daniel William Lawrence,England,Right hand Bat,Right arm Offbreak,Middle order Batter,True,True,False,True,248,558,27.56,44.44,0,2,Mid Wicket,3.0,0,,5.67,,78.95
+DW Steyn,Dale Willem Steyn,South Africa,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,89,167,9.89,53.29,0,0,Mid Wicket,220.2,22,35.18,3.51,60.09,56.87
+EC Joyce,Edmund Christopher Joyce,Ireland,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,47,102,23.5,46.08,0,0,Cover,0.0,0,,,,
+Ebadat Hossain,Ebadot Hossain Chowdhury,Bangladesh,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,4,35,0.67,11.43,0,0,Point,142.0,6,89.33,3.77,142.0,59.1
+F du Plessis,Francois du Plessis,South Africa,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,2030,3890,36.25,52.19,4,12,Cover,0.0,0,,,,
+FDM Karunaratne,Frank Dimuth Madushanka Karunaratne,Sri Lanka,Left hand Bat,Right arm Medium,Opening Batter,True,True,False,True,2569,5306,38.34,48.42,6,14,Mid Wicket,44.2,2,90.0,4.06,133.0,61.28
+Faheem Ashraf,Faheem Ashraf,Pakistan,Left hand Bat,Right arm Medium,Bowling Allrounder,True,True,False,True,495,805,41.25,61.49,0,4,Mid Wicket,173.0,15,35.2,3.05,69.2,65.11
+Fakhar Zaman,Fakhar Zaman,Pakistan,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,192,359,32.0,53.48,0,2,Cover,0.0,0,,,,
+Fawad Alam,Fawad Alam,Pakistan,Left hand Bat,Slow Left arm Orthodox,Top order Batter,True,True,False,True,320,883,40.0,36.24,2,0,Point,13.0,2,25.5,3.92,39.0,66.67
+GC Wilson,Gary Craig Wilson,Ireland,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,45,114,15.0,39.47,0,0,Point,0.0,0,,,,
+GD Phillips,Glenn Dominic Phillips,New Zealand,Right hand Bat,Right hand Bat,Allrounder,True,False,True,False,52,119,26.0,43.7,0,1,Mid Wicket,0.0,0,,,,
+GF Linde,George Fredrik Linde,South Africa,Left hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,135,255,22.5,52.94,0,0,Mid-On / Long-On,78.5,9,28.0,3.2,52.56,78.86
+GH Vihari,Gade Hanuma Vihari,India,Right hand Bat,Right arm Offbreak,Batting Allrounder,True,True,False,True,624,1466,32.84,42.56,1,4,Cover,57.3,5,36.0,3.13,69.0,65.8
+GJ Maxwell,Glenn James Maxwell,Australia,Right hand Bat,Right arm Offbreak,Batting Allrounder,True,True,False,True,259,456,37.0,56.8,1,0,Cover,20.0,1,70.0,3.5,120.0,56.67
+GS Ballance,Gary Simon Ballance,Zimbabwe,Left hand Bat,Left hand Bat,Middle order Batter,True,False,True,False,85,171,21.25,49.71,0,0,Point,0.0,0,,,,
+H Klaasen,Heinrich Klaasen,South Africa,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,11,34,5.5,32.35,0,0,Point,0.0,0,,,,
+H Masakadza,Hamilton Masakadza,Zimbabwe,Right hand Bat,Right arm Medium,Top order Batter,True,True,False,True,429,838,35.75,51.19,1,2,Cover,6.0,0,,2.67,,63.89
+HDRL Thirimanne,Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,807,2072,28.82,38.95,1,5,Cover,0.0,0,,,,
+HE van der Dussen,Hendrik Erasmus van der Dussen,South Africa,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,485,1098,34.64,44.17,0,5,Mid Wicket,0.0,0,,,,
+HG Kuhn,Heino Gunther Kuhn,South Africa,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,113,297,14.12,38.05,0,0,Cover,0.0,0,,,,
+HH Pandya,Hardik Himanshu Pandya,India,Right hand Bat,Right arm Medium fast,Allrounder,True,True,False,True,461,626,28.81,73.64,1,3,Mid Wicket,147.1,17,29.65,3.42,51.94,57.94
+HM Amla,Hashim Mahomed Amla,South Africa,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,1646,3408,35.02,48.3,3,10,Cover,0.0,0,,,,
+HM Nicholls,Henry Michael Nicholls,New Zealand,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,1837,3596,51.03,51.08,7,8,Mid Wicket,0.0,0,,,,
+HMRKB Herath,Herath Mudiyanselage Rangana Keerthi Bandara Herath,Sri Lanka,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,357,743,14.88,48.05,0,1,Mid Wicket,732.3,79,27.91,3.01,55.63,72.38
+HWR Cartwright,Hilton William Raymond Cartwright,Australia,Right hand Bat,Right arm Medium,Middle order Batter,True,True,False,True,55,125,27.5,44.0,0,0,Cover,9.0,0,,3.44,,68.52
+Haris Sohail,Haris Sohail,Pakistan,Left hand Bat,Slow Left arm Orthodox,Middle order Batter,True,True,False,True,847,1936,32.58,43.75,2,3,Cover,102.0,13,21.69,2.76,47.08,62.91
+Hasan Ali,Hasan Ali,Pakistan,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,189,245,14.54,77.14,0,0,Mid Wicket,351.1,43,26.33,3.22,49.0,66.96
+I Sharma,Ishant Sharma,India,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,188,539,7.23,34.88,0,1,Square Leg,720.3,87,23.01,2.78,49.69,66.55
+IS Sodhi,Inderbir Singh Sodhi,New Zealand,Right hand Bat,Legbreak,Bowler,True,True,False,True,83,231,16.6,35.93,0,1,Mid Wicket,60.0,3,72.67,3.63,120.0,61.39
+Iftikhar Ahmed,Iftikhar Ahmed,Pakistan,Right hand Bat,Right arm Offbreak,Middle order Batter,True,True,False,True,44,118,11.0,37.29,0,0,Point,27.0,0,,4.74,,51.23
+Imam-ul-Haq,Imam-ul-Haq,Pakistan,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,485,1042,25.53,46.55,0,3,Cover,0.0,0,,,,
+Imran Butt (2),Imran Butt,Pakistan,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,36,104,9.0,34.62,0,0,Third Man,0.0,0,,,,
+Imran Khan (2),Mohammad Imran Khan,Pakistan,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,10,29,3.33,34.48,0,0,Third Man,57.0,3,75.67,3.98,114.0,72.97
+Imrul Kayes,Imrul Kayes,Bangladesh,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,402,860,16.08,46.74,0,0,Cover,0.0,0,,,,
+J Blackwood,Jermaine Blackwood,West Indies,Right hand Bat,Right arm Offbreak,Middle order Batter,True,True,False,True,817,1363,30.26,59.94,1,5,Cover,25.0,1,65.0,2.6,150.0,74.67
+J Da Silva,Joshua Da Silva,West Indies,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,301,724,37.62,41.57,0,2,Mid Wicket,0.0,0,,,,
+J Yadav,Jayant Yadav,India,Right hand Bat,Right arm Offbreak,Bowler,True,True,False,True,7,27,3.5,25.93,0,0,Mid-On / Long-On,23.0,2,50.5,4.39,69.0,65.0
+JA Burns,Joseph Anthony Burns,Italy,Right hand Bat,Right hand Bat,Batter,True,False,True,False,569,1082,35.56,52.59,1,3,Cover,0.0,0,,,,
+JA McCollum,James Alexander McCollum,Ireland,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,30,71,15.0,42.25,0,0,Cover,0.0,0,,,,
+JA Raval,Jeet Ashok Raval,New Zealand,Left hand Bat,Legbreak,Opening Batter,True,True,False,True,995,2325,28.43,42.8,1,5,Mid Wicket,14.0,1,34.0,2.43,84.0,66.67
+JA Richardson,Jhye Avon Richardson,Australia,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,1,7,1.0,14.29,0,0,Mid-On / Long-On,51.0,6,20.5,2.41,51.0,60.06
+JA Warrican,Jomel Andrel Warrican,West Indies,Right hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,81,160,11.57,50.62,0,0,Mid-On / Long-On,206.0,20,29.1,2.83,61.8,78.19
+JC Archer,Jofra Chioke Archer,England,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,155,306,7.75,50.65,0,0,Point,434.5,42,31.05,3.0,62.12,50.97
+JC Buttler,Joseph Charles Buttler,England,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1944,3360,36.0,57.86,2,12,Cover,0.0,0,,,,
+JD Campbell,John Dillon Campbell,West Indies,Left hand Bat,Right arm Offbreak,Opening Batter,True,True,False,True,566,1160,21.77,48.79,0,1,Mid Wicket,10.1,0,,2.95,,77.42
+JDS Neesham,James Douglas Sheahan Neesham,New Zealand,Left hand Bat,Right arm Medium fast,Batting Allrounder,True,True,False,True,26,53,8.67,49.06,0,0,Mid-On / Long-On,27.3,2,61.5,4.47,82.5,52.66
+JE Root,Joseph Edward Root,England,Right hand Bat,Right arm Offbreak,Top order Batter,True,True,False,True,4014,7294,45.1,55.03,9,22,Mid Wicket,275.2,22,40.14,3.21,75.09,68.0
+JJ Bumrah,Jasprit Jasbirsingh Bumrah,India,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,43,191,2.53,22.51,0,0,Mid Wicket,679.1,83,22.11,2.7,49.1,60.84
+JJ Roy,Jason Jonathan Roy,England,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,187,318,18.7,58.81,0,1,Cover,0.0,0,,,,
+JK Silva,Jayan Kaushal Silva,Sri Lanka,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,161,459,13.42,35.08,0,0,Cover,0.0,0,,,,
+JL Denly,Joseph Liam Denly,England,Right hand Bat,Legbreak,Top order Batter,True,True,False,True,827,2086,29.54,39.65,0,6,Mid Wicket,65.0,2,109.5,3.37,195.0,68.97
+JL Pattinson,James Lee Pattinson,Australia,Left hand Bat,Right arm Fast medium,Bowler,True,True,False,True,85,137,21.25,62.04,0,0,Point,114.0,11,27.45,2.65,62.18,58.9
+JM Anderson,James Michael Anderson,England,Left hand Bat,Right arm Fast medium,Bowler,True,True,False,True,140,427,6.36,32.79,0,0,Square Leg,1220.4,144,20.01,2.36,50.86,69.88
+JM Bairstow,Jonathan Marc Bairstow,England,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1762,3231,27.53,54.53,3,7,Cover,0.0,0,,,,
+JM Bird,Jackson Munro Bird,Australia,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,4,6,4.0,66.67,0,0,Third Man,30.0,0,,3.6,,65.57
+JM Holland,Jonathan Mark Holland,Australia,Right hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,5,27,5.0,18.52,0,0,Third Man,78.0,4,75.0,3.85,117.0,64.32
+JM Vince,James Michael Vince,England,Right hand Bat,Right hand Bat,Batter,True,False,True,False,336,694,30.55,48.41,0,3,Cover,0.0,0,,,,
+JN Hamilton,Jahmar Neville Hamilton,West Indies,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,5,61,2.5,8.2,0,0,Unclassified,0.0,0,,,,
+JO Holder,Jason Omar Holder,West Indies,Right hand Bat,Right arm Medium fast,Bowling Allrounder,True,True,False,True,1441,2489,36.95,57.89,2,6,Mid Wicket,828.5,87,23.67,2.48,57.16,61.88
+JP Duminy,Jean-Paul Duminy,South Africa,Left hand Bat,Right arm Offbreak,Batting Allrounder,True,True,False,True,306,559,30.6,54.74,1,0,Cover,35.3,4,32.25,3.63,53.25,66.2
+JR Hazlewood,Josh Reginald Hazlewood,Australia,Left hand Bat,Right arm Fast medium,Bowler,True,True,False,True,192,440,9.14,43.64,0,0,Cover,1072.2,110,25.64,2.63,58.49,63.72
+JS Patel,Jeetan Shashi Patel,New Zealand,Right hand Bat,Right arm Offbreak,Bowler,True,True,False,True,38,62,12.67,61.29,0,0,Cover,102.0,7,38.0,2.61,87.43,74.18
+JT Ball,Jacob Timothy Ball,England,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,15,16,7.5,93.75,0,0,Third Man,26.0,1,115.0,4.42,156.0,55.62
+K Rabada,Kagiso Rabada,South Africa,Left hand Bat,Right arm Fast,Bowler,True,True,False,True,509,1108,10.6,45.94,0,0,Mid Wicket,1074.5,154,22.95,3.29,41.88,56.5
+KA Hope,Kyle Antonio Hope,West Indies,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,101,250,11.22,40.4,0,0,Mid Wicket,0.0,0,,,,
+KA Jamieson,Kyle Alex Jamieson,New Zealand,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,226,320,56.5,70.62,0,1,Cover,200.2,36,13.28,2.39,33.39,56.94
+KA Maharaj,Keshav Athmanand Maharaj,South Africa,Right hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,663,1153,14.73,57.5,0,3,Point,1149.1,112,33.72,3.29,61.56,74.56
+KAJ Roach,Kemar Andre Jamal Roach,West Indies,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,409,868,13.63,47.12,0,0,Cover,775.0,92,23.98,2.85,50.54,72.25
+KC Brathwaite,Kraigg Clairmonte Brathwaite,West Indies,Right hand Bat,Right arm Offbreak,Opening Batter,True,True,False,True,1880,4884,30.32,38.49,4,9,Mid Wicket,177.2,9,59.44,3.02,118.22,66.17
+KD Karthik,Krishnakumar Dinesh Karthik,India,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,21,58,5.25,36.21,0,0,Third Man,0.0,0,,,,
+KJ Abbott,Kyle John Abbott,South Africa,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,16,26,16.0,61.54,0,0,Fine Leg,23.0,0,,2.39,,75.36
+KJ O'Brien,Kevin Joseph O'Brien,Ireland,Right hand Bat,Right arm Medium fast,Batting Allrounder,True,True,False,True,190,366,63.33,51.91,1,0,Third Man,6.0,0,,3.33,,64.86
+KK Jennings,Keaton Kent Jennings,England,Left hand Bat,Right arm Medium fast,Opening Batter,True,True,False,True,614,1480,22.74,41.49,1,0,Cover,7.1,0,,4.88,,62.79
+KK Nair,Karun Nair,India,Right hand Bat,Right arm Offbreak,Top order Batter,True,True,False,True,54,103,13.5,52.43,0,0,Point,1.0,0,,7.0,,33.33
+KL Rahul,Kannaur Lokesh Rahul,India,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1157,2081,30.45,55.6,1,9,Cover,0.0,0,,,,
+KM Jarvis,Kyle Malcolm Jarvis,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,70,189,11.67,37.04,0,0,Cover,157.0,16,25.12,2.56,58.88,69.87
+KMA Paul,Keemo Mandela Angus Paul,West Indies,Right hand Bat,Right arm Fast medium,Allrounder,True,True,False,True,96,118,16.0,81.36,0,0,Mid Wicket,57.0,6,31.5,3.32,57.0,73.8
+KOA Powell,Kieran Omar Akeem Powell,West Indies,Left hand Bat,"Right arm Medium, Right arm Offbreak",Opening Batter,True,True,False,True,939,1775,26.08,52.9,0,4,Cover,1.0,0,,0.0,,66.67
+KR Mayers,Kyle Rico Mayers,West Indies,Left hand Bat,Right arm Medium,Batting Allrounder,True,True,False,True,462,729,66.0,63.37,1,2,Cover,44.0,4,21.75,1.98,66.0,79.4
+KR Patterson,Kurtis Robert Patterson,Australia,Left hand Bat,Left hand Bat,Middle order Batter,True,False,True,False,144,274,144.0,52.55,1,0,Cover,0.0,0,,,,
+KS Williamson,Kane Stuart Williamson,New Zealand,Right hand Bat,Right arm Offbreak,Top order Batter,True,True,False,True,2467,4187,66.68,58.92,10,8,Cover,21.0,1,86.0,4.1,126.0,64.29
+KT Kasuza,Kevin Tatenda Kasuza,Zimbabwe,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,113,369,28.25,30.62,0,1,Mid Wicket,0.0,0,,,,
+Kamrul Islam Rabbi,Kamrul Islam Rabbi,Bangladesh,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,44,256,8.8,17.19,0,0,Mid Wicket,106.0,7,60.43,3.99,90.86,50.93
+Khaled Ahmed,Syed Khaled Ahmed,Bangladesh,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,4,19,4.0,21.05,0,0,Mid Wicket,60.0,0,,4.03,,50.28
+Kuldeep Yadav,Kuldeep Yadav,India,Left hand Bat,Left arm Wrist spin,Bowler,True,True,False,True,54,185,6.75,29.19,0,0,Cover,177.1,26,23.85,3.5,40.88,70.18
+L Embuldeniya,Lasith Embuldeniya,Sri Lanka,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,121,314,8.07,38.54,0,0,Cover,538.3,49,37.2,3.39,65.94,73.7
+L Ngidi,Lungisani True-man Ngidi,South Africa,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,42,87,7.0,48.28,0,0,Mid Wicket,197.1,24,26.67,3.25,49.29,62.05
+L Sipamla,Lubabalo Lutho Sipamla,South Africa,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,5,20,2.5,25.0,0,0,Cover,39.5,10,16.7,4.19,23.9,61.89
+LA Dawson,Liam Andrew Dawson,England,Right hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,18,42,6.0,42.86,0,0,Square Leg,44.4,5,33.8,3.78,53.6,63.06
+LD Chandimal,Lokuge Dinesh Chandimal,Sri Lanka,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1863,4298,37.26,43.35,4,10,Cover,0.0,0,,,,
+LH Ferguson,Lachlan Hammond Ferguson,New Zealand,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,1,9,,11.11,0,0,Point,11.0,0,,4.27,,59.7
+LRPL Taylor,Luteru Ross Poutoa Lote Taylor,New Zealand,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,1541,2474,42.81,62.29,3,9,Point,0.0,0,,,,
+Liton Das,Litton Kumer Das,Bangladesh,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,920,1580,27.88,58.23,0,6,Cover,0.0,0,,,,
+M Bhanuka,Ranasinghe Arachchige Minod Bhanuka Ranasinghe,Sri Lanka,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,6,17,3.0,35.29,0,0,Point,0.0,0,,,,
+M Labuschagne,Marnus Labuschagne,Australia,Right hand Bat,"Right arm Medium fast, Legbreak",Batter,True,True,False,True,1885,3431,60.81,54.94,5,10,Mid Wicket,137.0,12,41.67,3.65,68.5,60.75
+M Morkel,Morne Morkel,South Africa,Left hand Bat,Right arm Fast,Bowler,True,True,False,True,169,281,12.07,60.14,0,0,Mid Wicket,476.2,67,21.67,3.05,42.66,57.04
+M Vijay,Murali Vijay,India,Right hand Bat,Right arm Offbreak,Opening Batter,True,True,False,True,697,1558,29.04,44.74,3,1,Cover,13.0,0,,3.92,,58.97
+MA Agarwal,Mayank Anurag Agarawal,India,Right hand Bat,Right hand Bat,Batter,True,False,True,False,1052,1931,45.74,54.48,3,4,Cover,0.0,0,,,,
+MA Starc,Mitchell Aaron Starc,Australia,Left hand Bat,Left arm Fast,Bowler,True,True,False,True,663,979,19.5,67.72,0,2,Mid Wicket,955.0,114,27.36,3.27,50.26,53.83
+MA Wood,Mark Andrew Wood,England,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,217,269,14.47,80.67,0,1,Mid Wicket,294.2,28,32.57,3.1,63.07,51.57
+MD Gunathilaka,Mashtayage Danushka Gunathilaka,Sri Lanka,Left hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,299,597,18.69,50.08,0,2,Cover,33.0,1,111.0,3.36,198.0,60.61
+MD Shanaka,Madagamagamage Dasun Shanaka,Sri Lanka,Right hand Bat,Right arm Medium,Allrounder,True,True,False,True,136,259,17.0,52.51,0,1,Mid Wicket,114.0,10,38.5,3.38,68.4,65.12
+MD Stoneman,Mark Daniel Stoneman,England,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,526,1188,27.68,44.28,0,5,Cover,0.0,0,,,,
+MDK Perera,Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,956,2071,20.78,46.16,0,5,Mid Wicket,1157.4,94,40.73,3.31,73.89,66.66
+MDKJ Perera,Mathurage Don Kusal Janith Perera,Sri Lanka,Left hand Bat,Left hand Bat,Wicketkeeper Batter,True,False,True,False,612,873,29.14,70.1,1,4,Cover,0.0,0,,,,
+MJ Henry,Matthew James Henry,New Zealand,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,24,45,8.0,53.33,0,0,Mid-Off / Long-Off,203.0,14,46.0,3.17,87.0,59.22
+MJ Leach,Matthew Jack Leach,England,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,273,785,13.65,34.78,0,1,Cover,617.1,62,29.98,3.01,59.73,71.93
+MJ Santner,Mitchell Josef Santner,New Zealand,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,True,True,False,True,445,1044,27.81,42.62,1,1,Mid Wicket,303.2,14,55.64,2.57,130.0,73.4
+ML Cummins,Miguel Lamar Cummins,West Indies,Left hand Bat,Right arm Fast medium,Bowler,True,True,False,True,84,227,8.4,37.0,0,0,Mid-On / Long-On,211.0,17,39.76,3.2,74.47,47.3
+ML Udawatte,Mahela Lakmal Udawatte,Sri Lanka,Left hand Bat,Left hand Bat,Batter,True,False,True,False,23,72,5.75,31.94,0,0,Straight,0.0,0,,,,
+MM Ali,Moeen Munir Ali,England,Left hand Bat,Right arm Offbreak,Batting Allrounder,True,True,False,True,904,1692,21.02,53.43,0,5,Mid Wicket,778.4,91,29.8,3.48,51.34,70.57
+MN Waller,Malcolm Noel Waller,Zimbabwe,Right hand Bat,Right arm Offbreak,Batter,True,True,False,True,141,221,23.5,63.8,0,1,Cover,7.0,0,,3.0,,54.76
+MR Adair,Mark Richard Adair,Ireland,Right hand Bat,Right arm Fast medium,Bowling Allrounder,True,True,False,True,11,24,5.5,45.83,0,0,Mid Wicket,27.4,6,16.33,3.54,27.67,68.05
+MR Marsh,Mitchell Ross Marsh,Australia,Right hand Bat,Right arm Medium,Allrounder,True,True,False,True,634,1320,27.57,48.03,2,1,Cover,164.2,13,41.69,3.3,75.85,61.93
+MS Crane,Mason Sidney Crane,England,Right hand Bat,Legbreak Googly,Bowler,True,True,False,True,6,11,3.0,54.55,0,0,Other,48.0,1,193.0,4.02,288.0,63.1
+MS Harris,Marcus Sinclair Harris,Australia,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,428,842,23.78,50.83,0,2,Point,0.0,0,,,,
+MS Wade,Matthew Scott Wade,Australia,Left hand Bat,Right arm Medium,Wicketkeeper Batter,True,True,False,True,969,1901,29.36,50.97,2,2,Cover,4.0,0,,7.0,,26.92
+MT Renshaw,Matthew Thomas Renshaw,Australia,Left hand Bat,Right arm Offbreak,Batter,True,True,False,True,505,1134,33.67,44.53,1,2,Mid Wicket,4.0,0,,3.25,,50.0
+MVT Fernando,Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,Right hand Bat,Left arm Medium fast,Bowler,True,True,False,True,58,229,7.25,25.33,0,0,Third Man,335.0,35,34.43,3.6,57.43,64.1
+Mahmudullah,Mohammad Mahmudullah,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,1129,2027,33.21,55.7,3,4,Point,68.0,5,47.4,3.49,81.6,59.8
+Mehedi Hasan Miraz,Mehidy Hasan Miraz,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,808,1521,23.76,53.12,1,3,Cover,834.5,78,36.37,3.4,64.22,70.25
+Mir Hamza,Mir Hamza,Pakistan,Left hand Bat,Left arm Medium,Bowler,True,True,False,True,4,22,,18.18,0,0,Fine Leg,15.0,1,67.0,4.47,90.0,73.33
+Misbah-ul-Haq,Misbah-ul-Haq Khan Niazi,Pakistan,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,327,738,54.5,44.31,0,3,Mid Wicket,0.0,0,,,,
+Mohammad Abbas,Mohammad Abbas,Pakistan,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,107,614,5.94,17.43,0,0,Mid-On / Long-On,748.4,81,22.42,2.43,55.46,72.09
+Mohammad Amir,Mohammad Amir,Pakistan,Left hand Bat,Left arm Fast medium,Bowler,True,True,False,True,214,489,11.89,43.76,0,0,Cover,411.4,38,25.74,2.38,65.0,67.55
+Mohammad Hafeez,Mohammad Hafeez,Pakistan,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,200,392,22.22,51.02,1,0,Point,19.0,1,45.0,2.37,114.0,63.16
+Mohammad Mithun,Mohammad Mithun,Bangladesh,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,333,752,18.5,44.28,0,2,Cover,0.0,0,,,,
+Mohammad Rizwan,Mohammad Rizwan,Pakistan,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,669,1279,44.6,52.31,1,5,Point,0.0,0,,,,
+Mohammed Shami,Mohammed Shami Ahmed,India,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,265,313,9.46,84.66,0,0,Mid-On / Long-On,782.1,104,23.92,3.18,45.12,60.47
+Mohammed Siraj,Mohammed Siraj,India,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,39,48,9.75,81.25,0,0,Point,160.2,16,28.25,2.82,60.12,59.4
+Mominul Haque,Mominul Haque,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Batting Allrounder,True,True,False,True,1443,2593,34.36,55.65,6,2,Mid Wicket,32.0,3,54.0,5.06,64.0,62.5
+Mosaddek Hossain,Mosaddek Hossain Saikat,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,104,251,34.67,41.43,0,1,Cover,10.0,0,,4.5,,48.33
+Muhammad Musa,Muhammad Musa Khan,Pakistan,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,16,17,,94.12,0,0,Third Man,20.0,0,,5.7,,42.52
+Mushfiqur Rahim,Mohammad Mushfiqur Rahim,Bangladesh,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1764,3522,47.68,50.09,4,7,Point,0.0,0,,,,
+Mustafizur Rahman,Mustafizur Rahman,Bangladesh,Left hand Bat,Left arm Fast medium,Bowler,True,True,False,True,56,136,4.67,41.18,0,0,Third Man,312.5,26,40.15,3.34,72.19,61.17
+N Dickwella,Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,Left hand Bat,Left hand Bat,Wicketkeeper Batter,True,False,True,False,2134,3250,32.83,65.66,0,16,Cover,0.0,0,,,,
+N Pradeep,Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,20,79,1.82,25.32,0,0,Cover,161.5,13,42.38,3.4,74.69,54.67
+N Wagner,Neil Wagner,New Zealand,Left hand Bat,Left arm Medium fast,Bowler,True,True,False,True,352,604,16.76,58.28,0,1,Mid Wicket,930.4,111,24.05,2.87,50.31,44.82
+NA Saini,Navdeep Amarjeet Saini,India,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,8,27,4.0,29.63,0,0,Point,41.5,4,43.0,4.11,62.75,59.53
+NE Bonner,Nkrumah Eljego Bonner,West Indies,Right hand Bat,Legbreak,Middle order Batter,True,True,False,True,375,976,62.5,38.42,1,2,Cover,8.0,1,46.0,5.75,48.0,68.0
+NJ O'Brien,Niall John O'Brien,Ireland,Left hand Bat,Left hand Bat,Wicketkeeper Batter,True,False,True,False,18,55,9.0,32.73,0,0,Cover,0.0,0,,,,
+NM Lyon,Nathan Michael Lyon,Australia,Right hand Bat,Right arm Offbreak,Bowler,True,True,False,True,461,851,10.72,54.17,0,0,Mid Wicket,1913.5,176,29.9,2.75,65.24,70.22
+NT Broom,Neil Trevor Broom,New Zealand,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,32,72,10.67,44.44,0,0,Point,0.0,0,,,,
+Naseem Shah,Naseem Shah,Pakistan,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,27,78,3.86,34.62,0,0,Cover,192.4,18,41.5,3.88,64.22,60.96
+Nasir Hossain,Mohammad Nasir Hossain,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,73,180,18.25,40.56,0,0,Point,10.3,0,,2.76,,61.9
+Nauman Ali,Noman Ali,Pakistan,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,77,163,25.67,47.24,0,0,Mid Wicket,79.3,8,21.5,2.16,59.62,84.97
+Nayeem Hasan,Mohammad Nayeem Hasan,Bangladesh,Right hand Bat,Right arm Offbreak,Bowling Allrounder,True,True,False,True,101,228,16.83,44.3,0,0,Mid Wicket,190.2,21,26.29,2.9,54.38,78.2
+Nazmul Hossain Shanto,Najmul Hossain Shanto,Bangladesh,Left hand Bat,Right arm Offbreak,Top order Batter,True,True,False,True,241,582,21.91,41.41,0,1,Cover,0.4,0,,19.5,,25.0
+Nazmul Islam,Mohammad Nazmul Islam,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,4,16,2.0,25.0,0,0,Mid-Off / Long-Off,29.0,4,19.0,2.62,43.5,62.64
+Nurul Hasan,Quazi Nurul Hasan,Bangladesh,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,115,186,19.17,61.83,0,1,Mid Wicket,0.0,0,,,,
+OJ Pope,Oliver John Douglas Pope,England,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,789,1551,32.88,50.87,1,5,Point,0.0,0,,,,
+OP Stone,Oliver Peter Stone,England,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,20,38,5.0,52.63,0,0,Cover,34.4,7,13.86,2.8,29.71,51.92
+P Nissanka,Pathum Nissanka Silva,Sri Lanka,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,163,395,54.33,41.27,1,1,Point,0.0,0,,,,
+PA Patel,Parthiv Ajay Patel,India,Left hand Bat,Left hand Bat,Wicketkeeper Batter,True,False,True,False,56,118,14.0,47.46,0,0,Point,0.0,0,,,,
+PADLR Sandakan,Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,Right hand Bat,Left arm Wrist spin,Bowler,True,True,False,True,84,237,9.33,35.44,0,0,Point,272.1,28,38.18,3.93,58.32,61.1
+PJ Cummins,Patrick James Cummins,Australia,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,693,1869,16.5,37.08,0,2,Cover,1245.0,157,21.82,2.75,47.58,54.72
+PJ Malan,Pieter Jacobus Malan,South Africa,Right hand Bat,Right arm Medium fast,Opening Batter,True,True,False,True,156,530,26.0,29.43,0,1,Cover,2.0,0,,2.5,,66.67
+PJ Moor,Peter Joseph Moor,Ireland,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,322,861,35.78,37.4,0,3,Cover,0.0,0,,,,
+PLS Gamage,Panagamuwa Lahiru Sampath Gamage,Sri Lanka,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,6,99,1.5,6.06,0,0,Point,185.2,10,57.3,3.09,111.2,61.6
+PM Pushpakumara,Pawuluge Malinda Pushpakumara,Sri Lanka,Right hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,102,224,17.0,45.54,0,0,Square Leg,143.2,14,37.14,3.63,61.43,68.49
+PM Siddle,Peter Matthew Siddle,Australia,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,101,215,14.43,46.98,0,0,Cover,161.0,10,46.3,2.88,96.6,72.14
+PP Shaw,Prithvi Pankaj Shaw,India,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,339,394,42.38,86.04,1,2,Cover,0.0,0,,,,
+PR Stirling,Paul Robert Stirling,Ireland,Right hand Bat,Right arm Offbreak,Batting Allrounder,True,True,False,True,64,98,16.0,65.31,0,0,Cover,2.0,0,,5.5,,66.67
+PS Masvaure,Prince Spencer Masvaure,Zimbabwe,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,180,510,30.0,35.29,0,2,Point,0.0,0,,,,
+PSP Handscomb,Peter Stephen Patrick Handscomb,Australia,Right hand Bat,Right hand Bat,Batter,True,False,True,False,685,1436,32.62,47.7,1,2,Mid Wicket,0.0,0,,,,
+PVD Chameera,Pathira Vasan Dushmantha Chameera,Sri Lanka,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,40,121,5.0,33.06,0,0,Mid Wicket,152.1,10,56.9,3.74,91.3,58.23
+PWA Mulder,Pieter Willem Adriaan Mulder,South Africa,Right hand Bat,Right arm Medium,Allrounder,True,True,False,True,110,220,18.33,50.0,0,0,Cover,83.0,11,23.0,3.05,45.27,78.11
+PWH de Silva,Pinnaduwage Wanindu Hasaranga de Silva,Sri Lanka,Right hand Bat,Legbreak,Allrounder,True,True,False,True,153,172,25.5,88.95,0,1,Third Man,67.2,4,69.25,4.11,101.0,68.06
+Q de Kock,Quinton de Kock,South Africa,Left hand Bat,Left hand Bat,Wicketkeeper Batter,True,False,True,False,2049,2875,33.05,71.27,3,14,Mid Wicket,0.0,0,,,,
+R Ashwin,Ravichandran Ashwin,India,Right hand Bat,Right arm Offbreak,Bowling Allrounder,True,True,False,True,822,1612,19.57,50.99,1,1,Cover,1445.0,156,24.67,2.66,55.58,72.08
+RA Jadeja,Ravindrasinh Anirudhsinh Jadeja,India,Left hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,1086,1773,51.71,61.25,1,11,Mid Wicket,1001.3,103,25.67,2.64,58.34,77.54
+RA Reifer,Raymon Anton Reifer,West Indies,Left hand Bat,Left arm Medium fast,Allrounder,True,True,False,True,52,198,52.0,26.26,0,0,Mid Wicket,30.0,2,44.0,2.93,90.0,78.57
+RAS Lakmal,Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,597,1178,13.27,50.68,0,0,Mid Wicket,950.3,89,29.19,2.73,64.08,66.63
+RG Sharma,Rohit Gurunath Sharma,India,Right hand Bat,Right arm Offbreak,Top order Batter,True,True,False,True,1431,2297,59.62,62.3,5,5,Mid Wicket,8.1,0,,2.69,,73.47
+RJ Burns,Rory Joseph Burns,England,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,1291,2852,31.49,45.27,2,8,Mid Wicket,0.0,0,,,,
+RL Chase,Roston Lamar Chase,West Indies,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,1542,3161,29.65,48.78,4,7,Cover,643.1,57,41.05,3.64,67.7,68.9
+RP Burl,Ryan Ponsonby Burl,Zimbabwe,Left hand Bat,Left hand Bat,Allrounder,True,False,True,False,16,39,8.0,41.03,0,0,Mid-On / Long-On,0.0,0,,,,
+RR Pant,Rishabh Rajendra Pant,India,Left hand Bat,Left hand Bat,Wicketkeeper Batter,True,False,True,False,1358,1900,45.27,71.47,3,6,Cover,0.0,0,,,,
+RRS Cornwall,Rahkeem Rashawn Shane Cornwall,West Indies,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,168,257,21.0,65.37,0,2,Cover,339.5,21,45.29,2.8,97.1,77.83
+RTM Mendis,Wanigamuni Ramesh Tarinda Mendis,Sri Lanka,Right hand Bat,Right arm Offbreak,Allrounder,True,True,False,True,16,27,8.0,59.26,0,0,Square Leg,26.0,2,48.0,3.69,78.0,53.21
+RW Chakabva,Regis Wiriranai Chakabva,Zimbabwe,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,300,863,20.0,34.76,0,1,Square Leg,0.0,0,,,,
+Rahat Ali,Rahat Ali,Pakistan,Right hand Bat,Left arm Fast medium,Bowler,True,True,False,True,0,6,,0.0,0,0,Unavailable,30.0,0,,3.1,,59.89
+Rubel Hossain,Mohammad Rubel Hossain,Bangladesh,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,68,146,11.33,46.58,0,0,Mid-On / Long-On,81.5,4,83.75,4.09,122.75,50.4
+S Dhawan,Shikhar Dhawan,India,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,744,920,41.33,80.87,2,2,Cover,0.0,0,,,,
+S Moseley,Shayne Akeel Richard Moseley,West Indies,Left hand Bat,Left hand Bat,Batter,True,False,True,False,28,105,7.0,26.67,0,0,Cover,0.0,0,,,,
+S Muthusamy,Senuran Muthusamy,South Africa,Left hand Bat,Slow Left arm Orthodox,Batting Allrounder,True,True,False,True,98,278,49.0,35.25,0,0,Cover,37.3,2,90.0,4.8,112.5,71.12
+S Nadeem,Shahbaz Nadeem,India,Right hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,1,30,0.5,3.33,0,0,Other,76.2,8,34.12,3.58,57.25,68.16
+S Samarawickrama,Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,125,177,15.62,70.62,0,0,Cover,0.0,0,,,,
+SC Cook,Stephen Craig Cook,South Africa,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,57,160,8.14,35.62,0,0,Mid Wicket,0.0,0,,,,
+SC Williams,Sean Colin Williams,Zimbabwe,Left hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,406,740,36.91,54.86,1,2,Cover,221.1,14,45.64,2.89,94.79,62.42
+SCJ Broad,Stuart Christopher John Broad,England,Left hand Bat,Right arm Fast medium,Bowler,True,True,False,True,664,992,13.02,66.94,0,3,Mid Wicket,1358.4,145,25.99,2.77,56.22,69.93
+SD Hope,Shai Diego Hope,West Indies,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1367,3220,29.09,42.45,2,5,Cover,0.0,0,,,,
+SE Marsh,Shaun Edward Marsh,Australia,Left hand Bat,Left hand Bat,Top order Batter,True,False,True,False,940,2378,28.48,39.53,2,5,Mid Wicket,0.0,0,,,,
+SF Mire,Solomon Farai Mire,Zimbabwe,Right hand Bat,Right arm Medium fast,Batter,True,True,False,True,78,135,19.5,57.78,0,0,Mid Wicket,14.0,1,32.0,2.29,84.0,67.06
+SH Lewis,Shermon Hakim Lewis,West Indies,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,24,66,6.0,36.36,0,0,Mid Wicket,40.0,3,54.0,4.05,80.0,56.02
+SM Curran,Samuel Matthew Curran,England,Left hand Bat,Left arm Medium fast,Allrounder,True,True,False,True,741,1157,25.55,64.04,0,3,Cover,423.1,43,32.26,3.28,59.05,68.97
+SN Thakur,Shardul Narendra Thakur,India,Right hand Bat,Right arm Medium,Bowler,True,True,False,True,73,130,36.5,56.15,0,1,Fine Leg,44.4,7,23.43,3.67,38.29,53.7
+SNJ O'Keefe,Stephen Norman John O'Keefe,Australia,Right hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,53,202,8.83,26.24,0,0,Cover,261.3,25,26.92,2.57,62.76,71.83
+SO Dowrich,Shane Omari Dowrich,West Indies,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1119,2426,27.29,46.13,3,5,Mid Wicket,0.0,0,,,,
+SO Hetmyer,Shimron Odilon Hetmyer,West Indies,Left hand Bat,Left hand Bat,Middle order Batter,True,False,True,False,825,1117,28.45,73.86,0,5,Mid Wicket,0.0,0,,,,
+SPD Smith,Steven Peter Devereux Smith,Australia,Right hand Bat,Legbreak Googly,Top order Batter,True,True,False,True,2871,5550,63.8,51.73,10,12,Mid Wicket,24.0,0,,3.08,,68.75
+SR Thompson,Stuart Robert Thompson,Ireland,Left hand Bat,Right arm Medium fast,Bowler,True,True,False,True,60,151,15.0,39.74,0,1,Cover,49.5,7,23.86,3.35,42.71,63.52
+SSJ Brooks,Shamarh Shaqad Joshua Brooks,West Indies,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,311,738,22.21,42.14,0,3,Cover,0.0,0,,,,
+ST Gabriel,Shannon Terry Gabriel,West Indies,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,105,360,3.39,29.17,0,0,Mid-On / Long-On,923.3,108,28.46,3.33,51.31,55.63
+SW Ambris,Sunil Walford Ambris,West Indies,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,166,356,13.83,46.63,0,0,Cover,0.0,0,,,,
+Sabbir Rahman,Mohammad Sabbir Rahman,Bangladesh,Right hand Bat,Legbreak,Batting Allrounder,True,True,False,True,383,718,22.53,53.34,0,3,Cover,16.0,0,,4.69,,55.21
+Saif Hassan,Mohammad Saif Hassan,Bangladesh,Right hand Bat,Right hand Bat,Allrounder,True,False,True,False,24,39,8.0,61.54,0,0,Cover,0.0,0,,,,
+Sami Aslam,Sami Aslam,Pakistan,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,93,225,23.25,41.33,0,1,Mid Wicket,0.0,0,,,,
+Sarfraz Ahmed,Sarfaraz Ahmed,Pakistan,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,799,1206,28.54,66.25,0,8,Point,0.0,0,,,,
+Shadab Khan,Shadab Khan,Pakistan,Right hand Bat,Legbreak,Allrounder,True,True,False,True,300,479,33.33,62.63,0,3,Cover,159.0,14,36.64,3.23,68.14,66.07
+Shadman Islam,Shadman Islam Anik,Bangladesh,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,298,700,27.09,42.57,0,2,Cover,0.0,0,,,,
+Shafiul Islam,Shafiul Islam,Bangladesh,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,26,59,6.5,44.07,0,0,Mid-On / Long-On,44.0,2,70.5,3.2,132.0,51.32
+Shaheen Shah Afridi,Shaheen Shah Afridi,Pakistan,Left hand Bat,Left arm Fast,Bowler,True,True,False,True,85,254,4.72,33.46,0,0,Mid Wicket,457.5,45,32.64,3.21,61.04,68.07
+Shakib Al Hasan,Shakib Al Hasan,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Allrounder,True,True,False,True,946,1469,43.0,64.4,2,6,Point,423.4,46,28.54,3.1,55.26,63.34
+Shan Masood,Shan Masood Khan,Pakistan,Left hand Bat,Right arm Medium fast,Opening Batter,True,True,False,True,945,2070,35.0,45.65,3,4,Mid Wicket,17.0,2,29.5,3.47,51.0,74.51
+Sharjeel Khan,Sharjeel Khan,Pakistan,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,44,45,22.0,97.78,0,0,Point,0.0,0,,,,
+Shubman Gill,Shubman Gill,India,Right hand Bat,Right hand Bat,Opening Batter,True,False,True,False,378,644,34.36,58.7,0,3,Cover,0.0,0,,,,
+Sikandar Raza,Sikandar Raza Butt,Zimbabwe,Right hand Bat,"Right arm Offbreak, Legbreak",Batting Allrounder,True,True,False,True,648,1253,36.0,51.72,1,3,Cover,292.5,26,35.08,3.11,67.58,67.82
+Soumya Sarkar,Soumya Sarkar,Bangladesh,Left hand Bat,Right arm Medium fast,Batting Allrounder,True,True,False,True,692,1141,30.09,60.65,1,4,Cover,50.0,3,65.0,3.9,100.0,75.83
+Subashis Roy,Subashis Roy,Bangladesh,Right hand Bat,Right arm Fast medium,Player,True,True,False,True,14,60,14.0,23.33,0,0,Third Man,124.5,9,51.67,3.72,83.22,51.52
+Sunzamul Islam,Sunzamul Islam,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,True,True,False,True,24,56,24.0,42.86,0,0,Cover,45.0,1,153.0,3.4,270.0,60.37
+T Bavuma,Temba Bavuma,South Africa,Right hand Bat,Right arm Medium,Middle order Batter,True,True,False,True,1447,2945,31.46,49.13,0,11,Cover,8.0,0,,3.88,,54.17
+T Maruma,Timycen Hlahla Maruma,Zimbabwe,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,48,101,16.0,47.52,0,0,Mid Wicket,0.0,0,,,,
+T Natarajan,Thangarasu Natarajan,India,Left hand Bat,Left arm Medium,Bowler,True,True,False,True,1,9,,11.11,0,0,Mid-Off / Long-Off,38.2,3,39.67,3.1,76.67,65.55
+T Shamsi,Tabraiz Shamsi,South Africa,Right hand Bat,Left arm Wrist spin,Bowler,True,True,False,True,2,24,2.0,8.33,0,0,Other,36.4,4,32.0,3.49,55.0,62.73
+T Westley,Thomas Westley,England,Right hand Bat,Right arm Offbreak,Top order Batter,True,True,False,True,193,453,24.12,42.6,0,1,Cover,4.0,0,,3.0,,66.67
+TA Blundell,Thomas Ackland Blundell,New Zealand,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,True,True,False,True,538,1131,38.43,47.57,2,2,Mid Wicket,3.0,0,,4.33,,33.33
+TA Boult,Trent Alexander Boult,New Zealand,Right hand Bat,Left arm Fast medium,Bowler,True,True,False,True,207,287,17.25,72.13,0,0,Mid-On / Long-On,932.5,108,26.22,3.04,51.82,61.96
+TB de Bruyn,Theunis Booysen de Bruyn,South Africa,Right hand Bat,Right arm Medium fast,Middle order Batter,True,True,False,True,428,913,19.45,46.88,1,0,Mid Wicket,17.0,0,,4.35,,53.4
+TD Astle,Todd Duncan Astle,New Zealand,Right hand Bat,Legbreak,Bowler,True,True,False,True,60,116,30.0,51.72,0,0,Square Leg,76.1,6,43.17,3.4,76.17,57.99
+TD Paine,Timothy David Paine,Australia,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,1247,2689,31.97,46.37,0,7,Cover,0.0,0,,,,
+TE Kane,Tyrone Edward Kane,Ireland,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,14,98,7.0,14.29,0,0,Cover,26.1,0,,3.94,,77.85
+TG Southee,Timothy Grant Southee,New Zealand,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,408,527,18.55,77.42,0,2,Mid Wicket,915.5,112,23.94,2.93,49.06,65.95
+TJ Murtagh,Timothy James Murtagh,Ireland,Left hand Bat,Right arm Fast medium,Bowler,True,True,False,True,28,25,9.33,112.0,0,0,Mid Wicket,68.0,12,13.75,2.43,34.0,76.72
+TK Curran,Thomas Kevin Curran,England,Right hand Bat,Right arm Fast medium,Allrounder,True,True,False,True,66,120,33.0,55.0,0,0,Point,66.0,2,100.0,3.03,198.0,65.33
+TK Musakanda,Tarisai Kenneth Musakanda,Zimbabwe,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,6,21,3.0,28.57,0,0,Fine Leg,0.0,0,,,,
+TL Chatara,Tendai Larry Chatara,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,8,5,4.0,160.0,0,0,Mid Wicket,41.2,4,19.5,1.89,62.0,70.97
+TM Head,Travis Michael Head,Australia,Left hand Bat,Right arm Offbreak,Top order Batter,True,True,False,True,1153,2322,39.76,49.66,2,7,Point,21.0,0,,3.62,,63.49
+TS Chisoro,Tendai Sam Chisoro,Zimbabwe,Left hand Bat,"Left arm Fast medium, Slow Left arm Orthodox",Bowler,True,True,False,True,9,15,9.0,60.0,0,0,Third Man,41.2,3,37.67,2.73,82.67,64.92
+TS Roland-Jones,Tobias Skelton Roland-Jones,England,Right hand Bat,Right arm Medium fast,Bowler,True,True,False,True,82,118,20.5,69.49,0,0,Mid Wicket,89.2,17,19.65,3.74,31.53,67.04
+TWM Latham,Thomas William Maxwell Latham,New Zealand,Left hand Bat,Left hand Bat,Wicketkeeper Batter,True,False,True,False,2091,4345,48.63,48.12,6,9,Cover,0.0,0,,,,
+Taijul Islam,Taijul Islam,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,True,True,False,True,274,741,9.79,36.98,0,0,Third Man,806.3,77,32.69,3.12,62.84,73.71
+Tamim Iqbal,Tamim Iqbal Khan,Bangladesh,Left hand Bat,Left hand Bat,Opening Batter,True,False,True,False,1159,1881,33.11,61.62,1,9,Cover,0.0,0,,,,
+Taskin Ahmed,Taskin Ahmed,Bangladesh,Left hand Bat,Right arm Fast,Bowler,True,True,False,True,68,166,6.8,40.96,0,0,Mid Wicket,155.0,7,97.43,4.4,132.86,44.71
+UT Khawaja,Usman Tariq Khawaja,Australia,Left hand Bat,Right arm Medium,Top order Batter,True,True,False,True,1253,2661,34.81,47.09,3,7,Mid Wicket,2.0,0,,2.5,,58.33
+UT Yadav,Umeshkumar Tilak Yadav,India,Right hand Bat,Right arm Fast,Bowler,True,True,False,True,158,296,13.17,53.38,0,0,Mid-On / Long-On,547.2,76,24.07,3.34,43.21,56.3
+Usman Salahuddin,Usman Salahuddin,Pakistan,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,37,120,18.5,30.83,0,0,Mid Wicket,0.0,0,,,,
+V Kohli,Virat Kohli,India,Right hand Bat,Right arm Medium,Top order Batter,True,True,False,True,3281,5444,55.61,60.27,12,11,Cover,4.1,0,,3.36,,56.0
+VA Singh,Vishaul Anthony Singh,West Indies,Left hand Bat,Left hand Bat,Player,True,False,True,False,63,199,10.5,31.66,0,0,Point,0.0,0,,,,
+VD Philander,Vernon Darryl Philander,South Africa,Right hand Bat,Right arm Fast medium,Allrounder,True,True,False,True,875,1981,24.31,44.17,0,3,Cover,707.1,76,22.83,2.45,55.83,74.21
+VM Nyauchi,Victor Munyaradzi Nyauchi,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,True,True,False,True,30,76,15.0,39.47,0,0,Third Man,94.5,6,40.83,2.58,94.83,79.9
+WA Young,William Alexander Young,New Zealand,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,48,98,24.0,48.98,0,0,Fine Leg,0.0,0,,,,
+WB Rankin,William Boyd Rankin,Ireland,Left hand Bat,Right arm Fast medium,Bowler,True,True,False,True,30,75,10.0,40.0,0,0,Third Man,53.0,7,31.86,4.21,45.43,45.82
+WD Parnell,Wayne Dillon Parnell,South Africa,Left hand Bat,Left arm Medium fast,Bowler,True,True,False,True,23,47,23.0,48.94,0,0,Square Leg,33.1,8,19.5,4.7,24.88,57.29
+WER Somerville,William Edgar Richard Somerville,New Zealand,Right hand Bat,Right arm Offbreak,Bowler,True,True,False,True,72,294,18.0,24.49,0,0,Point,175.2,15,32.47,2.78,70.13,73.48
+WJ Pucovski,William Jan Pucovski,Australia,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,72,126,36.0,57.14,0,1,Mid Wicket,0.0,0,,,,
+WP Masakadza,Wellington Pedzisai Masakadza,Zimbabwe,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,21,88,10.5,23.86,0,0,Straight,13.1,2,27.0,4.1,39.5,69.62
+WP Saha,Wriddhiman Prasanta Saha,India,Right hand Bat,Right hand Bat,Wicketkeeper Batter,True,False,True,False,518,1073,30.47,48.28,2,1,Cover,0.0,0,,,,
+WTS Porterfield,William Thomas Stuart Porterfield,Ireland,Left hand Bat,Left hand Bat,Batter,True,False,True,False,49,199,12.25,24.62,0,0,Cover,0.0,0,,,,
+WU Tharanga,Warushavithana Upul Tharanga,Sri Lanka,Left hand Bat,Left hand Bat,Batter,True,False,True,False,430,716,28.67,60.06,1,2,Cover,0.0,0,,,,
+Wahab Riaz,Wahab Riaz,Pakistan,Right hand Bat,Left arm Fast,Bowler,True,True,False,True,53,94,10.6,56.38,0,0,Square Leg,126.0,11,36.0,3.14,68.73,56.22
+Washington Sundar,Washington Sundar,India,Left hand Bat,Right arm Offbreak,Bowling Allrounder,True,True,False,True,265,502,66.25,52.79,0,3,Cover,87.4,6,49.83,3.41,87.67,62.55
+Yasir Shah,Yasir Shah,Pakistan,Right hand Bat,Legbreak Googly,Bowler,True,True,False,True,529,1106,16.03,47.83,1,0,Mid Wicket,1103.5,112,32.14,3.26,59.13,64.82
+Younis Khan,Mohammad Younis Khan,Pakistan,Right hand Bat,Right hand Bat,Middle order Batter,True,False,True,False,310,699,44.29,44.35,1,1,Cover,0.0,0,,,,
+Z Crawley,Zak Crawley,England,Right hand Bat,Right hand Bat,Top order Batter,True,False,True,False,630,1148,33.16,54.88,1,3,Cover,0.0,0,,,,
+Zafar Gohar,Zafar Gohar Khan,Pakistan,Left hand Bat,Slow Left arm Orthodox,Bowler,True,True,False,True,71,126,35.5,56.35,0,0,Cover,32.0,0,,4.97,,57.29
+Zubayr Hamza,Zubayr Hamza,South Africa,Right hand Bat,Right hand Bat,Batter,True,False,True,False,181,340,18.1,53.24,0,1,Cover,0.0,0,,,,

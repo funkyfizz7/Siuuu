@@ -1,0 +1,50 @@
+{
+  "matchId": 1152846,
+  "cachedAt": 1791987913844,
+  "overrides": [
+    {
+      "id": "1152846_momentum_story_s1",
+      "matchId": 1152846,
+      "narrativeType": "momentum_story",
+      "itemKey": "s1",
+      "originalText": "Opening the Test match in Australia's first innings, Stuart Broad (2/18) and Chris Woakes (1/21) provided crucial breakthroughs for England, restricting Australia to 83/3, leaving the momentum finely balanced between both teams.",
+      "publishedText": "Opening the Test match in Australia's first innings, Stuart Broad (2/18) and Chris Woakes (1/21) provided crucial breakthroughs for England, restricting Australia to 83/3, leaving the momentum evenly balanced between both teams.",
+      "draftText": "Opening the Test match in Australia's first innings, Stuart Broad (2/18) and Chris Woakes (1/21) provided crucial breakthroughs for England, restricting Australia to 83/3, leaving the momentum evenly balanced between both teams.",
+      "status": "published",
+      "updatedAt": "2026-10-14T14:25:13.832Z",
+      "updatedBy": "authorized.editor@pitchiq.internal",
+      "publishedAt": "2026-10-14T14:25:13.832Z",
+      "publishedBy": "authorized.editor@pitchiq.internal",
+      "revisionHistory": [
+        {
+          "revisionId": "rev_1791985610913_00pk",
+          "text": "Opening the Test match in Australia's first innings, Stuart Broad (2/18) and Chris Woakes (1/21) provided crucial breakthroughs for England, restricting Australia to 83/3, leaving the momentum evenly balanced between both teams.",
+          "status": "published",
+          "editedBy": "authorized.editor@pitchiq.internal",
+          "editedAt": "2026-10-14T13:46:50.912Z"
+        },
+        {
+          "revisionId": "rev_1791986097508_44yf",
+          "text": "Opening the Test match in Australia's first innings, Stuart Broad (2/18) and Chris Woakes (1/21) provided crucial breakthroughs for England, restricting Australia to 83/3, leaving the momentum evenly balanced between both teams.",
+          "status": "published",
+          "editedBy": "authorized.editor@pitchiq.internal",
+          "editedAt": "2026-10-14T13:54:57.506Z"
+        },
+        {
+          "revisionId": "rev_1791986401278_5wrj",
+          "text": "Opening the Test match in Australia's first innings, Stuart Broad (2/18) and Chris Woakes (1/21) provided crucial breakthroughs for England, restricting Australia to 83/3, leaving the momentum evenly balanced between both teams.",
+          "status": "published",
+          "editedBy": "authorized.editor@pitchiq.internal",
+          "editedAt": "2026-10-14T14:00:01.278Z"
+        },
+        {
+          "revisionId": "rev_1791987913832_60zj",
+          "text": "Opening the Test match in Australia's first innings, Stuart Broad (2/18) and Chris Woakes (1/21) provided crucial breakthroughs for England, restricting Australia to 83/3, leaving the momentum evenly balanced between both teams.",
+          "status": "published",
+          "editedBy": "authorized.editor@pitchiq.internal",
+          "editedAt": "2026-10-14T14:25:13.832Z"
+        }
+      ]
+    }
+  ]
+}

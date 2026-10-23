@@ -1,0 +1,691 @@
+series_id,match_id,batter1,batter2,team,runs,balls,venue
+1,936151,Hashim Amla,Jean-Paul Duminy,South Africa,292,438,New Wanderers Stadium
+1,936149,Dean Elgar,Quinton de Kock,South Africa,103,145,Newlands
+1,936149,Dean Elgar,F du Plessis,South Africa,76,171,Newlands
+1,936149,Angelo Mathews,LD Chandimal,Sri Lanka,75,119,Newlands
+1,936149,Dean Elgar,Hashim Amla,South Africa,66,131,Newlands
+1,936149,Dean Elgar,Stephen Cook,South Africa,64,116,Newlands
+1,936151,BKG Mendis,JK Silva,Sri Lanka,47,85,New Wanderers Stadium
+1,936151,Quinton de Kock,Wayne Parnell,South Africa,47,77,New Wanderers Stadium
+1,936149,Dean Elgar,Jean-Paul Duminy,South Africa,46,63,Newlands
+1,936151,Dean Elgar,Stephen Cook,South Africa,45,93,New Wanderers Stadium
+2,1000885,David Warner,Matt Renshaw,Australia,151,195,Sydney Cricket Ground
+2,1000885,Azhar Ali,Younis Khan,Pakistan,146,297,Sydney Cricket Ground
+2,1000885,Matt Renshaw,Peter Handscomb,Australia,142,208,Sydney Cricket Ground
+2,1000885,Steven Smith,Usman Khawaja,Australia,103,99,Sydney Cricket Ground
+2,1000885,Hilton Cartwright,Peter Handscomb,Australia,91,180,Sydney Cricket Ground
+2,1000885,David Warner,Usman Khawaja,Australia,71,53,Sydney Cricket Ground
+2,1000885,Peter Handscomb,Usman Khawaja,Australia,67,42,Sydney Cricket Ground
+2,1000885,Misbah-ul-Haq,Sarfaraz Ahmed,Pakistan,52,81,Sydney Cricket Ground
+2,1000885,Matt Renshaw,Usman Khawaja,Australia,52,96,Sydney Cricket Ground
+2,1000885,Younis Khan,Yasir Shah,Pakistan,51,102,Sydney Cricket Ground
+3,1019985,Mushfiqur Rahim,Shakib Al Hasan,Bangladesh,359,495,Basin Reserve
+3,1019985,Kane Williamson,LRPL Taylor,New Zealand,163,152,Basin Reserve
+3,1019985,Henry Nicholls,Tom Latham,New Zealand,142,275,Basin Reserve
+3,1019987,Shakib Al Hasan,Soumya Sarkar,Bangladesh,127,154,Hagley Oval
+3,1019987,LRPL Taylor,Tom Latham,New Zealand,106,147,Hagley Oval
+3,1019985,Mahmudullah,Mominul Haque,Bangladesh,85,141,Basin Reserve
+3,1019985,Kane Williamson,Tom Latham,New Zealand,77,107,Basin Reserve
+3,1019987,Henry Nicholls,Mitchell Santner,New Zealand,75,117,Hagley Oval
+3,1019985,LRPL Taylor,Tom Latham,New Zealand,74,81,Basin Reserve
+3,1019985,BJ Watling,Mitchell Santner,New Zealand,73,128,Basin Reserve
+4,1020045,Jeet Raval,Kane Williamson,New Zealand,190,349,Seddon Park
+4,1020043,Quinton de Kock,Temba Bavuma,South Africa,160,233,Basin Reserve
+4,1020041,Dean Elgar,F du Plessis,South Africa,126,240,University Oval
+4,1020043,BJ Watling,Henry Nicholls,New Zealand,116,228,Basin Reserve
+4,1020041,Dean Elgar,Temba Bavuma,South Africa,104,261,University Oval
+4,1020041,Jeet Raval,Kane Williamson,New Zealand,102,174,University Oval
+4,1020045,Kane Williamson,Mitchell Santner,New Zealand,88,219,Seddon Park
+4,1020041,BJ Watling,Kane Williamson,New Zealand,84,160,University Oval
+4,1020045,Jeet Raval,Tom Latham,New Zealand,83,191,Seddon Park
+4,1020041,Dean Elgar,F du Plessis,South Africa,80,230,University Oval
+5,1031437,Joe Root,Moeen Ali,England,177,211,Lord's
+5,1031439,Dean Elgar,Hashim Amla,South Africa,135,219,Trent Bridge
+5,1031443,F du Plessis,Hashim Amla,South Africa,123,188,Old Trafford
+5,1031437,Ben Stokes,Joe Root,England,114,194,Lord's
+5,1031439,Hashim Amla,Quinton de Kock,South Africa,113,147,Trent Bridge
+5,1031441,Dean Elgar,Temba Bavuma,South Africa,108,201,Kennington Oval
+5,1031437,Temba Bavuma,Theunis de Bruyn,South Africa,99,174,Lord's
+5,1031439,Gary Ballance,Joe Root,England,83,84,Trent Bridge
+5,1031437,AN Cook,Keaton Jennings,England,80,210,Lord's
+5,1031441,Joe Root,T Westley,England,78,181,Kennington Oval
+6,1031659,AN Cook,Joe Root,England,248,404,Edgbaston
+6,1031661,Kraigg Brathwaite,Shai Hope,West Indies,246,413,Headingley
+6,1031659,AN Cook,Dawid Malan,England,162,263,Edgbaston
+6,1031661,Kraigg Brathwaite,Shai Hope,West Indies,144,243,Headingley
+6,1031661,Dawid Malan,Joe Root,England,118,185,Headingley
+6,1031661,Chris Woakes,Moeen Ali,England,117,143,Headingley
+6,1031661,Ben Stokes,Dawid Malan,England,91,193,Headingley
+6,1031661,Jason Holder,Jermaine Blackwood,West Indies,75,94,Headingley
+6,1031661,Jermaine Blackwood,Shai Hope,West Indies,74,96,Headingley
+6,1031663,Mark Stoneman,T Westley,England,72,126,Lord's
+7,1041761,Ajinkya Rahane,Virat Kohli,India,222,299,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Cheteshwar Pujara,Murali Vijay,India,178,303,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,RA Jadeja,Wriddhiman Saha,India,118,153,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Mushfiqur Rahim,Shakib Al Hasan,Bangladesh,107,165,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Mehidy Hasan Miraz,Mushfiqur Rahim,Bangladesh,87,201,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Ravichandran Ashwin,Wriddhiman Saha,India,74,93,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Cheteshwar Pujara,Virat Kohli,India,67,67,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Mominul Haque,Soumya Sarkar,Bangladesh,60,101,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Mahmudullah,Mushfiqur Rahim,Bangladesh,56,92,"Rajiv Gandhi International Stadium, Uppal"
+7,1041761,Murali Vijay,Virat Kohli,India,54,77,"Rajiv Gandhi International Stadium, Uppal"
+8,1062575,Cheteshwar Pujara,Wriddhiman Saha,India,199,466,JSCA International Stadium Complex
+8,1062575,Glenn Maxwell,Steven Smith,Australia,191,356,JSCA International Stadium Complex
+8,1062576,David Warner,Steven Smith,Australia,134,195,Himachal Pradesh Cricket Association Stadium
+8,1062575,Peter Handscomb,Shaun Marsh,Australia,124,374,JSCA International Stadium Complex
+8,1062574,Ajinkya Rahane,Cheteshwar Pujara,India,118,280,M Chinnaswamy Stadium
+8,1062575,Cheteshwar Pujara,Murali Vijay,India,102,236,JSCA International Stadium Complex
+8,1062576,RA Jadeja,Wriddhiman Saha,India,96,180,Himachal Pradesh Cricket Association Stadium
+8,1062575,KL Rahul,Murali Vijay,India,91,188,JSCA International Stadium Complex
+8,1062576,Cheteshwar Pujara,KL Rahul,India,87,180,Himachal Pradesh Cricket Association Stadium
+8,1062573,David Warner,Matt Renshaw,Australia,82,166,Maharashtra Cricket Association Stadium
+9,1072307,Mitchell Marsh,Steven Smith,Australia,301,467,W.A.C.A. Ground
+9,1072307,Dawid Malan,JM Bairstow,England,237,415,W.A.C.A. Ground
+9,1072309,Steven Smith,Usman Khawaja,Australia,188,371,Sydney Cricket Ground
+9,1072305,Cameron Bancroft,David Warner,Australia,173,302,"Brisbane Cricket Ground, Woolloongabba"
+9,1072309,Mitchell Marsh,Shaun Marsh,Australia,169,256,Sydney Cricket Ground
+9,1072308,AN Cook,Joe Root,England,138,268,Melbourne Cricket Ground
+9,1072309,Dawid Malan,Joe Root,England,133,288,Sydney Cricket Ground
+9,1072305,James Vince,Mark Stoneman,England,125,310,"Brisbane Cricket Ground, Woolloongabba"
+9,1072307,Steven Smith,Usman Khawaja,Australia,124,204,W.A.C.A. Ground
+9,1072308,Cameron Bancroft,David Warner,Australia,122,207,Melbourne Cricket Ground
+10,1075503,F du Plessis,Hashim Amla,South Africa,247,318,Mangaung Oval
+10,1075503,Aiden Markram,Dean Elgar,South Africa,243,324,Mangaung Oval
+10,1075502,Dean Elgar,Hashim Amla,South Africa,215,380,Senwes Park
+10,1075502,Aiden Markram,Dean Elgar,South Africa,196,326,Senwes Park
+10,1075502,F du Plessis,Temba Bavuma,South Africa,142,172,Senwes Park
+10,1075502,Mahmudullah,Mominul Haque,Bangladesh,69,108,Senwes Park
+10,1075502,Mushfiqur Rahim,Mominul Haque,Bangladesh,67,89,Senwes Park
+10,1075502,Mahmudullah,Sabbir Rahman,Bangladesh,65,100,Senwes Park
+10,1075502,Mominul Haque,Tamim Iqbal,Bangladesh,55,123,Senwes Park
+10,1075502,F du Plessis,Temba Bavuma,South Africa,51,95,Senwes Park
+11,1075985,Dean Elgar,F du Plessis,South Africa,170,326,The Wanderers Stadium
+11,1075982,Aiden Markram,Quinton de Kock,South Africa,147,204,Kingsmead
+11,1075984,AB de Villiers,Dean Elgar,South Africa,128,185,Newlands
+11,1075985,AB de Villiers,Aiden Markram,South Africa,105,157,The Wanderers Stadium
+11,1075985,PJ Cummins,Tim Paine,Australia,99,167,The Wanderers Stadium
+11,1075983,Cameron Bancroft,David Warner,Australia,98,160,St George's Park
+11,1075985,Aiden Markram,Hashim Amla,South Africa,89,160,The Wanderers Stadium
+11,1075983,Dean Elgar,Hashim Amla,South Africa,88,278,St George's Park
+11,1075983,Mitchell Marsh,Usman Khawaja,Australia,87,191,St George's Park
+11,1075982,Aiden Markram,Theunis de Bruyn,South Africa,87,155,Kingsmead
+12,1077954,Ahmed Shehzad,Azhar Ali,Pakistan,155,344,"Kensington Oval, Bridgetown"
+12,1077954,Jason Holder,Roston Chase,West Indies,132,237,"Kensington Oval, Bridgetown"
+12,1077953,Babar Azam,Younis Khan,Pakistan,131,305,"Sabina Park, Kingston"
+12,1077955,Azhar Ali,Babar Azam,Pakistan,120,254,"Windsor Park, Roseau"
+12,1077953,Roston Chase,Shane Dowrich,West Indies,118,259,"Sabina Park, Kingston"
+12,1077954,Azhar Ali,Misbah-ul-Haq,Pakistan,98,255,"Kensington Oval, Bridgetown"
+12,1077953,Misbah-ul-Haq,Sarfaraz Ahmed,Pakistan,88,149,"Sabina Park, Kingston"
+12,1077954,Shai Hope,Vishaul Singh,West Indies,80,176,"Kensington Oval, Bridgetown"
+12,1077953,Devendra Bishoo,Jason Holder,West Indies,75,115,"Sabina Park, Kingston"
+12,1077954,Kieran Powell,Roston Chase,West Indies,65,99,"Kensington Oval, Bridgetown"
+13,1083444,BKG Mendis,DAS Gunaratne,Sri Lanka,196,263,Galle International Stadium
+13,1083445,Mosaddek Hossain,Shakib Al Hasan,Bangladesh,131,195,P Sara Oval
+13,1083444,Soumya Sarkar,Tamim Iqbal,Bangladesh,118,217,Galle International Stadium
+13,1083444,BKG Mendis,N Dickwella,Sri Lanka,110,124,Galle International Stadium
+13,1083445,Sabbir Rahman,Tamim Iqbal,Bangladesh,109,174,P Sara Oval
+13,1083444,Mehidy Hasan Miraz,Mushfiqur Rahim,Bangladesh,106,149,Galle International Stadium
+13,1083445,Soumya Sarkar,Tamim Iqbal,Bangladesh,95,166,P Sara Oval
+13,1083445,Mushfiqur Rahim,Shakib Al Hasan,Bangladesh,92,141,P Sara Oval
+13,1083445,BKG Mendis,FDM Karunaratne,Sri Lanka,86,185,P Sara Oval
+13,1083445,MDK Perera,RAS Lakmal,Sri Lanka,80,128,P Sara Oval
+14,1104284,Shakib Al Hasan,Tamim Iqbal,Bangladesh,155,249,"Shere Bangla National Stadium, Mirpur"
+14,1104285,David Warner,Peter Handscomb,Australia,152,272,Zahur Ahmed Chowdhury Stadium
+14,1104284,David Warner,Steven Smith,Australia,130,195,"Shere Bangla National Stadium, Mirpur"
+14,1104285,Mushfiqur Rahim,Sabbir Rahman,Bangladesh,105,208,Zahur Ahmed Chowdhury Stadium
+14,1104285,David Warner,Steven Smith,Australia,93,160,Zahur Ahmed Chowdhury Stadium
+14,1104284,Matt Renshaw,Peter Handscomb,Australia,69,123,"Shere Bangla National Stadium, Mirpur"
+14,1104284,Mushfiqur Rahim,Tamim Iqbal,Bangladesh,68,113,"Shere Bangla National Stadium, Mirpur"
+14,1104285,Mushfiqur Rahim,Sabbir Rahman,Bangladesh,54,117,Zahur Ahmed Chowdhury Stadium
+14,1104284,Ashton Agar,PJ Cummins,Australia,49,152,"Shere Bangla National Stadium, Mirpur"
+14,1104285,Mominul Haque,Soumya Sarkar,Bangladesh,49,96,Zahur Ahmed Chowdhury Stadium
+15,1104483,Malcolm Waller,Sikandar Raza,Zimbabwe,144,216,"R.Premadasa Stadium, Khettarama"
+15,1104483,N Dickwella,DAS Gunaratne,Sri Lanka,121,187,"R.Premadasa Stadium, Khettarama"
+15,1104483,Angelo Mathews,LD Chandimal,Sri Lanka,96,174,"R.Premadasa Stadium, Khettarama"
+15,1104483,Peter Moor,Sikandar Raza,Zimbabwe,86,144,"R.Premadasa Stadium, Khettarama"
+15,1104483,FDM Karunaratne,WU Tharanga,Sri Lanka,84,146,"R.Premadasa Stadium, Khettarama"
+15,1104483,Craig Ervine,Sikandar Raza,Zimbabwe,84,114,"R.Premadasa Stadium, Khettarama"
+15,1104483,Craig Ervine,Donald Tiripano,Zimbabwe,74,122,"R.Premadasa Stadium, Khettarama"
+15,1104483,DAS Gunaratne,MDK Perera,Sri Lanka,67,134,"R.Premadasa Stadium, Khettarama"
+15,1104483,Craig Ervine,Malcolm Waller,Zimbabwe,65,68,"R.Premadasa Stadium, Khettarama"
+15,1104483,FDM Karunaratne,WU Tharanga,Sri Lanka,58,116,"R.Premadasa Stadium, Khettarama"
+16,1109602,Cheteshwar Pujara,Shikhar Dhawan,India,253,283,Galle International Stadium
+16,1109603,Ajinkya Rahane,Cheteshwar Pujara,India,217,320,Sinhalese Sports Club Ground
+16,1109603,BKG Mendis,FDM Karunaratne,Sri Lanka,191,314,Sinhalese Sports Club Ground
+16,1109604,KL Rahul,Shikhar Dhawan,India,188,239,Pallekele International Cricket Stadium
+16,1109602,Ajinkya Rahane,Cheteshwar Pujara,India,137,249,Galle International Stadium
+16,1109602,Abhinav Mukund,Virat Kohli,India,133,180,Galle International Stadium
+16,1109602,N Dickwella,FDM Karunaratne,Sri Lanka,101,166,Galle International Stadium
+16,1109602,BKG Mendis,FDM Karunaratne,Sri Lanka,79,151,Galle International Stadium
+16,1109603,RA Jadeja,Wriddhiman Saha,India,72,117,Sinhalese Sports Club Ground
+16,1109603,Angelo Mathews,FDM Karunaratne,Sri Lanka,69,131,Sinhalese Sports Club Ground
+17,1115781,BJ Watling,Colin de Grandhomme,New Zealand,142,301,Hagley Oval
+17,1115781,James Vince,Mark Stoneman,England,123,228,Hagley Oval
+17,1115781,Dawid Malan,Joe Root,England,97,212,Hagley Oval
+17,1115781,JM Bairstow,Mark Wood,England,95,109,Hagley Oval
+17,1115780,Joe Root,Mark Stoneman,England,88,161,Eden Park
+17,1115780,Kane Williamson,Tom Latham,New Zealand,84,177,Eden Park
+17,1115780,Henry Nicholls,Kane Williamson,New Zealand,83,220,Eden Park
+17,1115780,Ben Stokes,Chris Woakes,England,83,186,Eden Park
+17,1115780,Henry Nicholls,Tim Southee,New Zealand,72,83,Eden Park
+17,1115781,Ben Stokes,JM Bairstow,England,57,131,Hagley Oval
+18,1115793,Colin de Grandhomme,Tom Blundell,New Zealand,148,149,Basin Reserve
+18,1115793,Henry Nicholls,LRPL Taylor,New Zealand,127,222,Basin Reserve
+18,1115793,Kraigg Brathwaite,Shimron Hetmyer,West Indies,94,157,Basin Reserve
+18,1115794,Jeet Raval,Kane Williamson,New Zealand,89,181,Seddon Park
+18,1115793,Tom Blundell,Trent Boult,New Zealand,78,146,Basin Reserve
+18,1115794,Raymon Reifer,Roston Chase,West Indies,78,167,Seddon Park
+18,1115794,Colin de Grandhomme,Mitchell Santner,New Zealand,76,114,Seddon Park
+18,1115793,Kieran Powell,Kraigg Brathwaite,West Indies,72,110,Basin Reserve
+18,1115794,Jeet Raval,Tom Latham,New Zealand,65,121,Seddon Park
+18,1115793,Jeet Raval,Tom Latham,New Zealand,65,158,Basin Reserve
+19,1119535,DM Bess,JC Buttler,England,126,228,Lord's
+19,1119535,Asad Shafiq,Babar Azam,Pakistan,84,150,Lord's
+19,1119535,Azhar Ali,Haris Sohail,Pakistan,75,189,Lord's
+19,1119535,Faheem Ashraf,Shadab Khan,Pakistan,72,93,Lord's
+19,1119536,Dawid Malan,DM Bess,England,62,130,Headingley
+19,1119535,Dawid Malan,Joe Root,England,60,112,Lord's
+19,1119535,AN Cook,JM Bairstow,England,57,125,Lord's
+19,1119535,Haris Sohail,Imam-ul-Haq,Pakistan,54,61,Lord's
+19,1119536,AN Cook,Keaton Jennings,England,53,102,Headingley
+19,1119536,AN Cook,Joe Root,England,51,107,Headingley
+20,1119553,AN Cook,Joe Root,England,259,401,Kennington Oval
+20,1119553,KL Rahul,Rishabh Pant,India,204,267,Kennington Oval
+20,1119550,Chris Woakes,JM Bairstow,England,189,262,Lord's
+20,1119551,Ben Stokes,JC Buttler,England,169,346,Trent Bridge
+20,1119551,Ajinkya Rahane,Virat Kohli,India,159,243,Trent Bridge
+20,1119553,Ajinkya Rahane,KL Rahul,India,118,193,Kennington Oval
+20,1119551,Cheteshwar Pujara,Virat Kohli,India,113,289,Trent Bridge
+20,1119549,JM Bairstow,Joe Root,England,104,138,Edgbaston
+20,1119552,Ajinkya Rahane,Virat Kohli,India,101,254,The Rose Bowl
+20,1119553,JC Buttler,Stuart Broad,England,98,122,Kennington Oval
+21,1120285,Asad Shafiq,Sarfaraz Ahmed,Pakistan,173,279,Dubai International Cricket Stadium
+21,1120285,FDM Karunaratne,LD Chandimal,Sri Lanka,146,389,Dubai International Cricket Stadium
+21,1120284,N Dickwella,LD Chandimal,Sri Lanka,134,252,Sheikh Zayed Stadium
+21,1120284,Sami Aslam,Shan Masood,Pakistan,114,267,Sheikh Zayed Stadium
+21,1120284,FDM Karunaratne,LD Chandimal,Sri Lanka,100,248,Sheikh Zayed Stadium
+21,1120284,LD Chandimal,MDK Perera,Sri Lanka,92,206,Sheikh Zayed Stadium
+21,1120285,N Dickwella,FDM Karunaratne,Sri Lanka,88,107,Dubai International Cricket Stadium
+21,1120284,Asad Shafiq,Azhar Ali,Pakistan,79,224,Sheikh Zayed Stadium
+21,1120284,Azhar Ali,Babar Azam,Pakistan,71,167,Sheikh Zayed Stadium
+21,1120285,Azhar Ali,Haris Sohail,Pakistan,71,167,Dubai International Cricket Stadium
+22,1122277,AB de Villiers,Dean Elgar,South Africa,141,215,SuperSport Park
+22,1122278,Dean Elgar,Hashim Amla,South Africa,119,306,The Wanderers Stadium
+22,1122276,AB de Villiers,F du Plessis,South Africa,114,170,Newlands
+22,1122276,B Kumar,Hardik Pandya,India,99,151,Newlands
+22,1122277,Aiden Markram,Dean Elgar,South Africa,85,177,SuperSport Park
+22,1122278,Cheteshwar Pujara,Virat Kohli,India,84,206,The Wanderers Stadium
+22,1122277,Murali Vijay,Virat Kohli,India,79,163,SuperSport Park
+22,1122277,Ravichandran Ashwin,Virat Kohli,India,71,87,SuperSport Park
+22,1122278,Hashim Amla,Kagiso Rabada,South Africa,64,107,The Wanderers Stadium
+22,1122277,Aiden Markram,Hashim Amla,South Africa,63,108,SuperSport Park
+23,1122310,AB de Villiers,Aiden Markram,South Africa,96,135,"St George's Park, Port Elizabeth"
+23,1122310,Aiden Markram,Temba Bavuma,South Africa,78,112,"St George's Park, Port Elizabeth"
+23,1122310,Aiden Markram,Dean Elgar,South Africa,72,130,"St George's Park, Port Elizabeth"
+23,1122310,CJ Chibhabha,Craig Ervine,Zimbabwe,46,75,"St George's Park, Port Elizabeth"
+23,1122310,Quinton de Kock,Vernon Philander,South Africa,26,26,"St George's Park, Port Elizabeth"
+23,1122310,Kyle Jarvis,Ryan Burl,Zimbabwe,22,51,"St George's Park, Port Elizabeth"
+23,1122310,Quinton de Kock,Temba Bavuma,South Africa,21,38,"St George's Park, Port Elizabeth"
+23,1122310,Brendan Taylor,Craig Ervine,Zimbabwe,21,58,"St George's Park, Port Elizabeth"
+23,1122310,Kyle Jarvis,Peter Moor,Zimbabwe,19,36,"St George's Park, Port Elizabeth"
+23,1122310,AG Cremer,Blessing Muzarabani,Zimbabwe,18,21,"St George's Park, Port Elizabeth"
+24,1122725,Murali Vijay,Virat Kohli,India,283,399,Arun Jaitley Stadium
+24,1122724,Cheteshwar Pujara,Murali Vijay,India,209,430,"Vidarbha Cricket Association Stadium, Jamtha"
+24,1122724,Cheteshwar Pujara,Virat Kohli,India,183,297,"Vidarbha Cricket Association Stadium, Jamtha"
+24,1122725,Angelo Mathews,LD Chandimal,Sri Lanka,181,477,Arun Jaitley Stadium
+24,1122724,Rohit Sharma,Virat Kohli,India,173,241,"Vidarbha Cricket Association Stadium, Jamtha"
+24,1122723,KL Rahul,Shikhar Dhawan,India,166,225,Eden Gardens
+24,1122725,Rohit Sharma,Virat Kohli,India,135,183,Arun Jaitley Stadium
+24,1122725,Dhananjaya de Silva,LD Chandimal,Sri Lanka,112,199,Arun Jaitley Stadium
+24,1122723,Angelo Mathews,HDRL Thirimanne,Sri Lanka,99,178,Eden Gardens
+24,1122725,ARS Silva,N Dickwella,Sri Lanka,94,162,Arun Jaitley Stadium
+25,1122887,Jason Holder,Shane Dowrich,West Indies,212,414,Queens Sports Club
+25,1122887,Hamilton Masakadza,Peter Moor,Zimbabwe,142,296,Queens Sports Club
+25,1122886,Hamilton Masakadza,Solomon Mire,Zimbabwe,99,164,Queens Sports Club
+25,1122887,Peter Moor,Sikandar Raza,Zimbabwe,98,280,Queens Sports Club
+25,1122886,Devendra Bishoo,Roston Chase,West Indies,92,133,Queens Sports Club
+25,1122887,AG Cremer,Regis Chakabva,Zimbabwe,91,292,Queens Sports Club
+25,1122887,Hamilton Masakadza,Sikandar Raza,Zimbabwe,90,146,Queens Sports Club
+25,1122886,Kraigg Brathwaite,Kyle Hope,West Indies,82,205,Queens Sports Club
+25,1122887,Kieran Powell,Kraigg Brathwaite,West Indies,76,281,Queens Sports Club
+25,1122886,Kieran Powell,Shai Hope,West Indies,75,167,Queens Sports Club
+26,1127284,Imam-ul-Haq,Babar Azam,Pakistan,126,200,"The Village, Malahide"
+26,1127284,Faheem Ashraf,Shadab Khan,Pakistan,117,175,"The Village, Malahide"
+26,1127284,Kevin O'Brien,Stuart Thompson,Ireland,114,210,"The Village, Malahide"
+26,1127284,EC Joyce,William Porterfield,Ireland,69,174,"The Village, Malahide"
+26,1127284,Asad Shafiq,Haris Sohail,Pakistan,58,135,"The Village, Malahide"
+26,1127284,Kevin O'Brien,Tyrone Kane,Ireland,50,125,"The Village, Malahide"
+26,1127284,Asad Shafiq,Sarfaraz Ahmed,Pakistan,49,63,"The Village, Malahide"
+26,1127284,Gary Wilson,WB Rankin,Ireland,34,81,"The Village, Malahide"
+26,1127284,Asad Shafiq,Babar Azam,Pakistan,33,50,"The Village, Malahide"
+26,1127284,Kevin O'Brien,Paul Stirling,Ireland,32,75,"The Village, Malahide"
+27,1130744,BKG Mendis,Dhananjaya de Silva,Sri Lanka,308,482,Zahur Ahmed Chowdhury Stadium
+27,1130744,Mushfiqur Rahim,Mominul Haque,Bangladesh,236,341,Zahur Ahmed Chowdhury Stadium
+27,1130744,Liton Das,Mominul Haque,Bangladesh,180,307,Zahur Ahmed Chowdhury Stadium
+27,1130744,ARS Silva,LD Chandimal,Sri Lanka,135,308,Zahur Ahmed Chowdhury Stadium
+27,1130744,ARS Silva,BKG Mendis,Sri Lanka,107,130,Zahur Ahmed Chowdhury Stadium
+27,1130744,Imrul Kayes,Tamim Iqbal,Bangladesh,72,96,Zahur Ahmed Chowdhury Stadium
+27,1130744,N Dickwella,LD Chandimal,Sri Lanka,63,78,Zahur Ahmed Chowdhury Stadium
+27,1130744,Mahmudullah,Sunzamul Islam,Bangladesh,58,104,Zahur Ahmed Chowdhury Stadium
+27,1130744,Imrul Kayes,Tamim Iqbal,Bangladesh,52,91,Zahur Ahmed Chowdhury Stadium
+27,1130745,ARS Silva,MDK Perera,Sri Lanka,52,98,"Shere Bangla National Stadium, Mirpur"
+28,1135150,BKG Mendis,LD Chandimal,Sri Lanka,117,192,"Daren Sammy National Cricket Stadium, Gros Islet"
+28,1135151,Jason Holder,Shane Dowrich,West Indies,115,196,"Kensington Oval, Bridgetown"
+28,1135149,Devendra Bishoo,Shane Dowrich,West Indies,102,299,"Queen's Park Oval, Port of Spain"
+28,1135150,ARS Silva,N Dickwella,Sri Lanka,99,147,"Daren Sammy National Cricket Stadium, Gros Islet"
+28,1135149,Jason Holder,Shane Dowrich,West Indies,90,181,"Queen's Park Oval, Port of Spain"
+28,1135150,Roston Chase,Shane Dowrich,West Indies,78,129,"Daren Sammy National Cricket Stadium, Gros Islet"
+28,1135149,N Dickwella,LD Chandimal,Sri Lanka,78,139,"Queen's Park Oval, Port of Spain"
+28,1135149,Kemar Roach,Shane Dowrich,West Indies,75,174,"Queen's Park Oval, Port of Spain"
+28,1135149,Angelo Mathews,BKG Mendis,Sri Lanka,74,198,"Queen's Park Oval, Port of Spain"
+28,1135150,Kraigg Brathwaite,Shai Hope,West Indies,70,215,"Daren Sammy National Cricket Stadium, Gros Islet"
+29,1140387,Dhananjaya de Silva,FDM Karunaratne,Sri Lanka,142,215,Sinhalese Sports Club Ground
+29,1140385,Ben Stokes,Keaton Jennings,England,107,176,Galle International Stadium
+29,1140387,ARS Silva,BKG Mendis,Sri Lanka,102,186,Sinhalese Sports Club Ground
+29,1140387,JM Bairstow,Joe Root,England,100,164,Sinhalese Sports Club Ground
+29,1140387,Ben Stokes,JM Bairstow,England,99,160,Sinhalese Sports Club Ground
+29,1140386,Dhananjaya de Silva,FDM Karunaratne,Sri Lanka,96,146,Pallekele International Cricket Stadium
+29,1140387,Ben Stokes,JC Buttler,England,89,109,Sinhalese Sports Club Ground
+29,1140385,Ben Foakes,SM Curran,England,88,200,Galle International Stadium
+29,1140386,Ben Foakes,Joe Root,England,82,137,Pallekele International Cricket Stadium
+29,1140386,Angelo Mathews,FDM Karunaratne,Sri Lanka,77,121,Pallekele International Cricket Stadium
+30,1142582,Temba Bavuma,Theunis de Bruyn,South Africa,123,228,Sinhalese Sports Club Ground
+30,1142582,FDM Karunaratne,MD Gunathilaka,Sri Lanka,116,210,Sinhalese Sports Club Ground
+30,1142582,FDM Karunaratne,MD Gunathilaka,Sri Lanka,91,112,Sinhalese Sports Club Ground
+30,1142582,HMRKB Herath,A Dananjaya,Sri Lanka,74,140,Sinhalese Sports Club Ground
+30,1142582,Angelo Mathews,ARS Silva,Sri Lanka,64,186,Sinhalese Sports Club Ground
+30,1142581,F du Plessis,Vernon Philander,South Africa,64,166,Galle International Stadium
+30,1142581,FDM Karunaratne,PADLR Sandakan,Sri Lanka,63,99,Galle International Stadium
+30,1142582,Angelo Mathews,FDM Karunaratne,Sri Lanka,63,117,Sinhalese Sports Club Ground
+30,1142582,Dean Elgar,Theunis de Bruyn,South Africa,57,93,Sinhalese Sports Club Ground
+30,1142582,F du Plessis,Hashim Amla,South Africa,55,77,Sinhalese Sports Club Ground
+31,1144154,F du Plessis,Temba Bavuma,South Africa,156,318,Newlands
+31,1144154,Asad Shafiq,Shan Masood,Pakistan,132,168,Newlands
+31,1144155,Aiden Markram,Hashim Amla,South Africa,126,200,The Wanderers Stadium
+31,1144153,Dean Elgar,Hashim Amla,South Africa,119,243,SuperSport Park
+31,1144155,Hashim Amla,Quinton de Kock,South Africa,102,131,The Wanderers Stadium
+31,1144155,Kagiso Rabada,Quinton de Kock,South Africa,79,116,The Wanderers Stadium
+31,1144155,Babar Azam,Sarfaraz Ahmed,Pakistan,78,61,The Wanderers Stadium
+31,1144155,Theunis de Bruyn,Zubayr Hamza,South Africa,75,106,The Wanderers Stadium
+31,1144153,Temba Bavuma,Theunis de Bruyn,South Africa,69,109,SuperSport Park
+31,1144154,Aiden Markram,Hashim Amla,South Africa,67,109,Newlands
+32,1144165,BKG Mendis,BOP Fernando,Sri Lanka,163,213,St George's Park
+32,1144164,Dhananjaya de Silva,MDKJ Perera,Sri Lanka,96,153,Kingsmead
+32,1144164,F du Plessis,Quinton de Kock,South Africa,96,146,Kingsmead
+32,1144164,MDKJ Perera,MVT Fernando,Sri Lanka,78,96,Kingsmead
+32,1144164,F du Plessis,Temba Bavuma,South Africa,72,101,Kingsmead
+32,1144164,F du Plessis,Vernon Philander,South Africa,60,120,Kingsmead
+32,1144165,Kagiso Rabada,Quinton de Kock,South Africa,59,99,St George's Park
+32,1144164,BOP Fernando,MDKJ Perera,Sri Lanka,58,111,Kingsmead
+32,1144165,Aiden Markram,F du Plessis,South Africa,58,123,St George's Park
+32,1144165,Aiden Markram,Quinton de Kock,South Africa,57,64,St George's Park
+33,1144996,RA Jadeja,Rishabh Pant,India,204,224,Sydney Cricket Ground
+33,1144995,Cheteshwar Pujara,Virat Kohli,India,170,410,Melbourne Cricket Ground
+33,1144996,Cheteshwar Pujara,MA Agarwal,India,116,196,Sydney Cricket Ground
+33,1144994,Aaron Finch,Marcus Harris,Australia,112,214,Perth Stadium
+33,1144996,Cheteshwar Pujara,GH Vihari,India,101,190,Sydney Cricket Ground
+33,1144994,Ajinkya Rahane,Virat Kohli,India,91,188,Perth Stadium
+33,1144996,Cheteshwar Pujara,Rishabh Pant,India,89,168,Sydney Cricket Ground
+33,1144993,Ajinkya Rahane,Cheteshwar Pujara,India,87,187,Adelaide Oval
+33,1144994,Shaun Marsh,Travis Head,Australia,84,138,Perth Stadium
+33,1144995,Cheteshwar Pujara,MA Agarwal,India,83,216,Melbourne Cricket Ground
+34,1145001,JA Burns,Travis Head,Australia,308,394,Manuka Oval
+34,1145000,Marnus Labuschagne,Travis Head,Australia,166,300,"Brisbane Cricket Ground, Woolloongabba"
+34,1145001,Travis Head,Usman Khawaja,Australia,159,201,Manuka Oval
+34,1145001,Kurtis Patterson,Tim Paine,Australia,130,240,Manuka Oval
+34,1145001,FDM Karunaratne,HDRL Thirimanne,Sri Lanka,82,184,Manuka Oval
+34,1145001,JA Burns,Kurtis Patterson,Australia,68,120,Manuka Oval
+34,1145001,BKG Mendis,Chamika Karunaratne,Sri Lanka,46,78,Manuka Oval
+34,1145000,N Dickwella,PVD Chameera,Sri Lanka,38,52,"Brisbane Cricket Ground, Woolloongabba"
+34,1145000,JA Burns,Marcus Harris,Australia,37,63,"Brisbane Cricket Ground, Woolloongabba"
+34,1145001,Dhananjaya de Silva,MDKJ Perera,Sri Lanka,37,78,Manuka Oval
+35,1146717,Devon Smith,Kraigg Brathwaite,West Indies,113,246,Sir Vivian Richards Stadium
+35,1146718,Kraigg Brathwaite,Shimron Hetmyer,West Indies,109,156,"Sabina Park, Kingston"
+35,1146717,Kieran Powell,Kraigg Brathwaite,West Indies,81,142,Sir Vivian Richards Stadium
+35,1146718,Kraigg Brathwaite,Shai Hope,West Indies,79,197,"Sabina Park, Kingston"
+35,1146718,Shakib Al Hasan,Tamim Iqbal,Bangladesh,59,100,"Sabina Park, Kingston"
+35,1146717,Kemar Roach,Shai Hope,West Indies,56,98,Sir Vivian Richards Stadium
+35,1146717,Rubel Hossain,Nurul Hasan,Bangladesh,55,80,Sir Vivian Richards Stadium
+35,1146718,Mushfiqur Rahim,Shakib Al Hasan,Bangladesh,54,78,"Sabina Park, Kingston"
+35,1146717,Devendra Bishoo,Kraigg Brathwaite,West Indies,52,131,Sir Vivian Richards Stadium
+35,1146718,Roston Chase,Shimron Hetmyer,West Indies,50,69,"Sabina Park, Kingston"
+36,1152839,Jason Roy,MJ Leach,England,145,180,Lord's
+36,1152839,Andy Balbirnie,Paul Stirling,Ireland,87,89,Lord's
+36,1152839,SM Curran,Stuart Broad,England,45,37,Lord's
+36,1152839,James McCollum,William Porterfield,Ireland,32,73,Lord's
+36,1152839,JL Denly,Rory Burns,England,28,44,Lord's
+36,1152839,MJ Leach,Rory Burns,England,26,65,Lord's
+36,1152839,Joe Root,Moeen Ali,England,25,40,Lord's
+36,1152839,Andy McBrine,Kevin O'Brien,Ireland,25,59,Lord's
+36,1152839,Kevin O'Brien,Tim Murtagh,Ireland,21,17,Lord's
+36,1152839,Chris Woakes,Joe Root,England,20,28,Lord's
+37,1152849,Steven Smith,Tim Paine,Australia,145,246,Old Trafford
+37,1152849,Joe Root,Rory Burns,England,141,318,Old Trafford
+37,1152846,Joe Root,Rory Burns,England,132,256,Edgbaston
+37,1152846,Steven Smith,Travis Head,Australia,130,212,Edgbaston
+37,1152850,Ben Stokes,JL Denly,England,127,221,Kennington Oval
+37,1152848,Joe Root,JL Denly,England,126,321,Headingley
+37,1152846,Matthew Wade,Steven Smith,Australia,126,195,Edgbaston
+37,1152849,Marnus Labuschagne,Steven Smith,Australia,116,194,Old Trafford
+37,1152848,David Warner,Marnus Labuschagne,Australia,111,139,Headingley
+37,1152849,Matthew Wade,Steven Smith,Australia,105,146,Old Trafford
+38,1153312,Mahmudullah,Shakib Al Hasan,Bangladesh,111,177,"Shere Bangla National Stadium, Mirpur"
+38,1153311,Imrul Kayes,Mominul Haque,Bangladesh,104,161,Zahur Ahmed Chowdhury Stadium
+38,1153311,Shane Dowrich,Shimron Hetmyer,West Indies,92,85,Zahur Ahmed Chowdhury Stadium
+38,1153312,Liton Das,Mahmudullah,Bangladesh,92,128,"Shere Bangla National Stadium, Mirpur"
+38,1153311,Mominul Haque,Shakib Al Hasan,Bangladesh,69,103,Zahur Ahmed Chowdhury Stadium
+38,1153311,Nayeem Hasan,Taijul Islam,Bangladesh,65,120,Zahur Ahmed Chowdhury Stadium
+38,1153312,Mohammad Mithun,Shadman Islam,Bangladesh,64,135,"Shere Bangla National Stadium, Mirpur"
+38,1153311,Jomel Warrican,Sunil Ambris,West Indies,63,77,Zahur Ahmed Chowdhury Stadium
+38,1153312,Shane Dowrich,Shimron Hetmyer,West Indies,57,93,"Shere Bangla National Stadium, Mirpur"
+38,1153312,Mahmudullah,Taijul Islam,Bangladesh,56,126,"Shere Bangla National Stadium, Mirpur"
+39,1153640,Mushfiqur Rahim,Mominul Haque,Bangladesh,266,448,"Shere Bangla National Stadium, Mirpur"
+39,1153640,Mehidy Hasan Miraz,Mushfiqur Rahim,Bangladesh,144,197,"Shere Bangla National Stadium, Mirpur"
+39,1153640,Brendan Taylor,Peter Moor,Zimbabwe,139,223,"Shere Bangla National Stadium, Mirpur"
+39,1153640,Mahmudullah,Mohammad Mithun,Bangladesh,118,163,"Shere Bangla National Stadium, Mirpur"
+39,1153640,Mahmudullah,Mushfiqur Rahim,Bangladesh,73,195,"Shere Bangla National Stadium, Mirpur"
+39,1153640,Mehidy Hasan Miraz,Mahmudullah,Bangladesh,73,71,"Shere Bangla National Stadium, Mirpur"
+39,1153639,Peter Moor,Sean Williams,Zimbabwe,72,174,Sylhet International Cricket Stadium
+39,1153640,Brian Chari,Hamilton Masakadza,Zimbabwe,68,138,"Shere Bangla National Stadium, Mirpur"
+39,1153640,Brendan Taylor,Peter Moor,Zimbabwe,66,143,"Shere Bangla National Stadium, Mirpur"
+39,1153639,Peter Moor,Regis Chakabva,Zimbabwe,60,154,Sylhet International Cricket Stadium
+40,1153838,Angelo Mathews,BKG Mendis,Sri Lanka,274,659,"Basin Reserve, Wellington"
+40,1153839,Henry Nicholls,Tom Latham,New Zealand,214,332,Hagley Oval
+40,1153838,Kane Williamson,Tom Latham,New Zealand,162,220,"Basin Reserve, Wellington"
+40,1153838,Angelo Mathews,FDM Karunaratne,Sri Lanka,133,256,"Basin Reserve, Wellington"
+40,1153839,Colin de Grandhomme,Henry Nicholls,New Zealand,124,87,Hagley Oval
+40,1153839,Jeet Raval,Tom Latham,New Zealand,121,292,Hagley Oval
+40,1153839,BKG Mendis,LD Chandimal,Sri Lanka,117,318,Hagley Oval
+40,1153838,Henry Nicholls,Tom Latham,New Zealand,114,229,"Basin Reserve, Wellington"
+40,1153839,BJ Watling,Tim Southee,New Zealand,108,122,Hagley Oval
+40,1153838,LRPL Taylor,Tom Latham,New Zealand,91,151,"Basin Reserve, Wellington"
+41,1153847,Jeet Raval,Tom Latham,New Zealand,254,420,Seddon Park
+41,1153847,Mahmudullah,Soumya Sarkar,Bangladesh,235,329,Seddon Park
+41,1153848,Henry Nicholls,LRPL Taylor,New Zealand,216,245,Basin Reserve
+41,1153848,Kane Williamson,LRPL Taylor,New Zealand,172,186,Basin Reserve
+41,1153847,Colin de Grandhomme,Kane Williamson,New Zealand,110,91,Seddon Park
+41,1153847,Henry Nicholls,Kane Williamson,New Zealand,100,151,Seddon Park
+41,1153847,BJ Watling,Kane Williamson,New Zealand,96,139,Seddon Park
+41,1153847,Shadman Islam,Tamim Iqbal,Bangladesh,88,136,Seddon Park
+41,1153847,Kane Williamson,Tom Latham,New Zealand,79,88,Seddon Park
+41,1153848,Shadman Islam,Tamim Iqbal,Bangladesh,75,124,Basin Reserve
+42,1157370,Imam-ul-Haq,Mohammad Hafeez,Pakistan,205,379,Dubai International Cricket Stadium
+42,1157370,Asad Shafiq,Haris Sohail,Pakistan,150,295,Dubai International Cricket Stadium
+42,1157371,Fakhar Zaman,Sarfaraz Ahmed,Pakistan,147,225,Sheikh Zayed Stadium
+42,1157370,Aaron Finch,Usman Khawaja,Australia,142,310,Dubai International Cricket Stadium
+42,1157371,Babar Azam,Sarfaraz Ahmed,Pakistan,133,213,Sheikh Zayed Stadium
+42,1157370,Travis Head,Usman Khawaja,Australia,132,292,Dubai International Cricket Stadium
+42,1157371,Azhar Ali,Fakhar Zaman,Pakistan,91,130,Sheikh Zayed Stadium
+42,1157370,Aaron Finch,Usman Khawaja,Australia,87,178,Dubai International Cricket Stadium
+42,1157370,Tim Paine,Usman Khawaja,Australia,79,220,Dubai International Cricket Stadium
+42,1157371,Asad Shafiq,Babar Azam,Pakistan,75,132,Sheikh Zayed Stadium
+43,1157383,Henry Nicholls,Kane Williamson,New Zealand,212,483,Sheikh Zayed Stadium
+43,1157383,Asad Shafiq,Azhar Ali,Pakistan,201,432,Sheikh Zayed Stadium
+43,1157382,Haris Sohail,Babar Azam,Pakistan,186,421,Dubai International Cricket Stadium
+43,1157382,Azhar Ali,Haris Sohail,Pakistan,126,368,Dubai International Cricket Stadium
+43,1157381,BJ Watling,Henry Nicholls,New Zealand,112,307,Sheikh Zayed Stadium
+43,1157383,BJ Watling,Kane Williamson,New Zealand,104,249,Sheikh Zayed Stadium
+43,1157381,Jeet Raval,Kane Williamson,New Zealand,86,195,Sheikh Zayed Stadium
+43,1157381,Asad Shafiq,Babar Azam,Pakistan,83,161,Sheikh Zayed Stadium
+43,1157381,Asad Shafiq,Azhar Ali,Pakistan,82,143,Sheikh Zayed Stadium
+43,1157382,LRPL Taylor,Tom Latham,New Zealand,80,139,Dubai International Cricket Stadium
+44,1157752,Cheteshwar Pujara,Prithvi Shaw,India,206,254,Saurashtra Cricket Association Stadium
+44,1157753,Ajinkya Rahane,Rishabh Pant,India,152,244,"Rajiv Gandhi International Stadium, Uppal"
+44,1157752,Rishabh Pant,Virat Kohli,India,133,148,Saurashtra Cricket Association Stadium
+44,1157752,Ajinkya Rahane,Virat Kohli,India,105,201,Saurashtra Cricket Association Stadium
+44,1157753,Jason Holder,Roston Chase,West Indies,104,183,"Rajiv Gandhi International Stadium, Uppal"
+44,1157753,KL Rahul,Prithvi Shaw,India,75,98,"Rajiv Gandhi International Stadium, Uppal"
+44,1157752,Keemo Paul,Roston Chase,West Indies,73,80,Saurashtra Cricket Association Stadium
+44,1157753,Roston Chase,Shane Dowrich,West Indies,69,124,"Rajiv Gandhi International Stadium, Uppal"
+44,1157752,RA Jadeja,Virat Kohli,India,64,93,Saurashtra Cricket Association Stadium
+44,1157753,KL Rahul,Prithvi Shaw,India,61,55,"Rajiv Gandhi International Stadium, Uppal"
+45,1158062,Jason Holder,Shane Dowrich,West Indies,295,411,"Kensington Oval, Barbados"
+45,1158064,Ben Stokes,JC Buttler,England,125,230,"Daren Sammy National Cricket Stadium, St Lucia"
+45,1158064,JC Buttler,Joe Root,England,107,210,"Daren Sammy National Cricket Stadium, St Lucia"
+45,1158064,Ben Stokes,Joe Root,England,107,148,"Daren Sammy National Cricket Stadium, St Lucia"
+45,1158063,Ben Foakes,Moeen Ali,England,85,165,"Sir Vivian Richards Stadium, Antigua"
+45,1158062,Keaton Jennings,Rory Burns,England,85,175,"Kensington Oval, Barbados"
+45,1158064,Joe Root,JL Denly,England,74,113,"Daren Sammy National Cricket Stadium, St Lucia"
+45,1158062,Kraigg Brathwaite,Shai Hope,West Indies,73,171,"Kensington Oval, Barbados"
+45,1158063,John Campbell,Kraigg Brathwaite,West Indies,70,201,"Sir Vivian Richards Stadium, Antigua"
+45,1158062,Roston Chase,Shimron Hetmyer,West Indies,66,105,"Kensington Oval, Barbados"
+46,1183531,David Warner,Marnus Labuschagne,Australia,361,484,Adelaide Oval
+46,1183530,David Warner,JA Burns,Australia,222,368,"Brisbane Cricket Ground, Woolloongabba"
+46,1183530,Babar Azam,Mohammad Rizwan,Pakistan,132,208,"Brisbane Cricket Ground, Woolloongabba"
+46,1183530,David Warner,Marnus Labuschagne,Australia,129,240,"Brisbane Cricket Ground, Woolloongabba"
+46,1183531,David Warner,Steven Smith,Australia,121,170,Adelaide Oval
+46,1183530,Marnus Labuschagne,Matthew Wade,Australia,110,169,"Brisbane Cricket Ground, Woolloongabba"
+46,1183531,Babar Azam,Yasir Shah,Pakistan,105,200,Adelaide Oval
+46,1183531,Asad Shafiq,Shan Masood,Pakistan,103,176,Adelaide Oval
+46,1183531,David Warner,Matthew Wade,Australia,99,95,Adelaide Oval
+46,1183531,Mohammad Abbas,Yasir Shah,Pakistan,87,151,Adelaide Oval
+47,1183534,Marnus Labuschagne,Steven Smith,Australia,156,334,Sydney Cricket Ground
+47,1183533,Tim Paine,Travis Head,Australia,150,263,Melbourne Cricket Ground
+47,1183532,Marnus Labuschagne,Steven Smith,Australia,132,294,Perth Stadium
+47,1183534,David Warner,Marnus Labuschagne,Australia,110,137,Sydney Cricket Ground
+47,1183534,David Warner,JA Burns,Australia,107,176,Sydney Cricket Ground
+47,1183532,JA Burns,Marnus Labuschagne,Australia,87,150,Perth Stadium
+47,1183533,Marnus Labuschagne,Steven Smith,Australia,83,171,Melbourne Cricket Ground
+47,1183534,Marnus Labuschagne,Tim Paine,Australia,79,167,Sydney Cricket Ground
+47,1183532,Kane Williamson,LRPL Taylor,New Zealand,76,126,Perth Stadium
+47,1183532,Marnus Labuschagne,Travis Head,Australia,76,116,Perth Stadium
+48,1185306,Ben Stokes,OJ Pope,England,203,354,St George's Park
+48,1185305,Dean Elgar,HE van der Dussen,South Africa,117,294,Newlands
+48,1185305,DP Sibley,Joe Root,England,116,203,Newlands
+48,1185307,DP Sibley,Zak Crawley,England,107,200,The Wanderers Stadium
+48,1185307,Joe Root,OJ Pope,England,101,145,The Wanderers Stadium
+48,1185306,Dane Paterson,Keshav Maharaj,South Africa,99,73,St George's Park
+48,1185304,DP Sibley,Rory Burns,England,92,168,SuperSport Park
+48,1185305,Ben Stokes,DP Sibley,England,92,103,Newlands
+48,1185307,F du Plessis,HE van der Dussen,South Africa,92,183,The Wanderers Stadium
+48,1185304,Anrich Nortje,HE van der Dussen,South Africa,91,144,SuperSport Park
+49,1187007,MA Agarwal,Rohit Sharma,India,317,495,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+49,1187009,Ajinkya Rahane,Rohit Sharma,India,267,361,JSCA International Stadium Complex
+49,1187008,RA Jadeja,Virat Kohli,India,225,237,Maharashtra Cricket Association Stadium
+49,1187008,Ajinkya Rahane,Virat Kohli,India,178,343,Maharashtra Cricket Association Stadium
+49,1187007,Cheteshwar Pujara,Rohit Sharma,India,169,258,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+49,1187007,Dean Elgar,Quinton de Kock,South Africa,164,255,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+49,1187008,Cheteshwar Pujara,MA Agarwal,India,138,249,Maharashtra Cricket Association Stadium
+49,1187007,Dean Elgar,F du Plessis,South Africa,115,190,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+49,1187008,Keshav Maharaj,Vernon Philander,South Africa,109,259,Maharashtra Cricket Association Stadium
+49,1187007,Dane Piedt,Senuran Muthusamy,South Africa,91,194,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+50,1187016,Ajinkya Rahane,MA Agarwal,India,190,327,Holkar Cricket Stadium
+50,1187016,MA Agarwal,RA Jadeja,India,123,131,Holkar Cricket Stadium
+50,1187017,Ajinkya Rahane,Virat Kohli,India,99,133,Eden Gardens
+50,1187017,Cheteshwar Pujara,Virat Kohli,India,94,158,Eden Gardens
+50,1187016,Cheteshwar Pujara,MA Agarwal,India,91,136,Holkar Cricket Stadium
+50,1187017,Mahmudullah,Mushfiqur Rahim,Bangladesh,69,71,Eden Gardens
+50,1187016,Mushfiqur Rahim,Mominul Haque,Bangladesh,68,116,Holkar Cricket Stadium
+50,1187016,Liton Das,Mushfiqur Rahim,Bangladesh,63,77,Holkar Cricket Stadium
+50,1187016,Mehidy Hasan Miraz,Mushfiqur Rahim,Bangladesh,59,93,Holkar Cricket Stadium
+50,1187017,RA Jadeja,Virat Kohli,India,53,91,Eden Gardens
+51,1187671,BJ Watling,Mitchell Santner,New Zealand,261,508,Bay Oval
+51,1187672,Kane Williamson,LRPL Taylor,New Zealand,213,400,Seddon Park
+51,1187672,Joe Root,OJ Pope,England,193,376,Seddon Park
+51,1187672,Joe Root,Rory Burns,England,177,383,Seddon Park
+51,1187672,BJ Watling,Daryl Mitchell,New Zealand,124,322,Seddon Park
+51,1187671,BJ Watling,Colin de Grandhomme,New Zealand,119,238,Bay Oval
+51,1187672,LRPL Taylor,Tom Latham,New Zealand,116,202,Seddon Park
+51,1187671,Ben Stokes,JL Denly,England,83,173,Bay Oval
+51,1187671,Ben Stokes,OJ Pope,England,74,111,Bay Oval
+51,1187671,BJ Watling,Henry Nicholls,New Zealand,70,188,Bay Oval
+52,1187686,Tom Blundell,Tom Latham,New Zealand,103,168,Hagley Oval
+52,1187685,Kane Williamson,LRPL Taylor,New Zealand,93,154,Basin Reserve
+52,1187686,Cheteshwar Pujara,GH Vihari,India,81,129,Hagley Oval
+52,1187685,Colin de Grandhomme,Kyle Jamieson,New Zealand,71,96,Basin Reserve
+52,1187686,Tom Blundell,Tom Latham,New Zealand,66,153,Hagley Oval
+52,1187685,Cheteshwar Pujara,MA Agarwal,India,51,147,Basin Reserve
+52,1187686,Kyle Jamieson,Neil Wagner,New Zealand,51,70,Hagley Oval
+52,1187686,Cheteshwar Pujara,Prithvi Shaw,India,50,82,Hagley Oval
+52,1187685,Ajinkya Rahane,MA Agarwal,India,48,100,Basin Reserve
+52,1187685,Kane Williamson,Tom Blundell,New Zealand,47,98,Basin Reserve
+53,1188628,Ajinkya Rahane,GH Vihari,India,135,206,"Sir Vivian Richards Stadium, Antigua"
+53,1188629,GH Vihari,Ishant Sharma,India,112,172,"Sabina Park, Jamaica"
+53,1188629,Ajinkya Rahane,GH Vihari,India,111,154,"Sabina Park, Jamaica"
+53,1188628,Ajinkya Rahane,Virat Kohli,India,106,257,"Sir Vivian Richards Stadium, Antigua"
+53,1188628,Ajinkya Rahane,GH Vihari,India,82,123,"Sir Vivian Richards Stadium, Antigua"
+53,1188629,MA Agarwal,Virat Kohli,India,69,144,"Sabina Park, Jamaica"
+53,1188628,Ajinkya Rahane,KL Rahul,India,68,159,"Sir Vivian Richards Stadium, Antigua"
+53,1188629,GH Vihari,Rishabh Pant,India,62,108,"Sabina Park, Jamaica"
+53,1188629,Jermaine Blackwood,Shamarh Brooks,West Indies,61,121,"Sabina Park, Jamaica"
+53,1188628,Ishant Sharma,RA Jadeja,India,60,116,"Sir Vivian Richards Stadium, Antigua"
+54,1192873,FDM Karunaratne,HDRL Thirimanne,Sri Lanka,161,362,Galle International Stadium
+54,1192874,BJ Watling,Tom Latham,New Zealand,143,259,P Sara Oval
+54,1192874,BJ Watling,Colin de Grandhomme,New Zealand,113,151,P Sara Oval
+54,1192873,Henry Nicholls,LRPL Taylor,New Zealand,100,168,Galle International Stadium
+54,1192873,N Dickwella,RAS Lakmal,Sri Lanka,81,174,Galle International Stadium
+54,1192873,Angelo Mathews,BKG Mendis,Sri Lanka,77,144,Galle International Stadium
+54,1192873,Jeet Raval,Tom Latham,New Zealand,64,160,Galle International Stadium
+54,1192873,Henry Nicholls,Tom Latham,New Zealand,56,68,Galle International Stadium
+54,1192873,BJ Watling,Tim Southee,New Zealand,54,122,Galle International Stadium
+54,1192874,BKG Mendis,FDM Karunaratne,Sri Lanka,50,107,P Sara Oval
+55,1198243,JC Buttler,Zak Crawley,England,359,564,The Rose Bowl
+55,1198241,Chris Woakes,JC Buttler,England,139,199,Old Trafford
+55,1198243,Azhar Ali,Mohammad Rizwan,Pakistan,138,234,The Rose Bowl
+55,1198241,Shadab Khan,Shan Masood,Pakistan,105,152,Old Trafford
+55,1198241,Babar Azam,Shan Masood,Pakistan,96,192,Old Trafford
+55,1198241,JC Buttler,OJ Pope,England,65,151,Old Trafford
+55,1198241,DP Sibley,Joe Root,England,64,150,Old Trafford
+55,1198243,Asad Shafiq,Babar Azam,Pakistan,63,113,The Rose Bowl
+55,1198243,DP Sibley,Zak Crawley,England,61,83,The Rose Bowl
+55,1198241,Joe Root,OJ Pope,England,50,89,Old Trafford
+56,1206636,Abid Ali,Shan Masood,Pakistan,278,413,National Stadium
+56,1206636,Azhar Ali,Babar Azam,Pakistan,148,198,National Stadium
+56,1206636,BOP Fernando,N Dickwella,Sri Lanka,104,154,National Stadium
+56,1206636,Abid Ali,Azhar Ali,Pakistan,77,130,National Stadium
+56,1206636,Dhananjaya de Silva,LD Chandimal,Sri Lanka,67,111,National Stadium
+56,1206636,Asad Shafiq,Babar Azam,Pakistan,62,116,National Stadium
+56,1206636,Abid Ali,Babar Azam,Pakistan,55,84,National Stadium
+56,1206636,Babar Azam,Mohammad Rizwan,Pakistan,52,47,National Stadium
+56,1206636,LD Chandimal,MDK Perera,Sri Lanka,51,83,National Stadium
+56,1206636,Asad Shafiq,Haris Sohail,Pakistan,40,72,National Stadium
+57,1212542,Sean Williams,Sikandar Raza,Zimbabwe,159,211,Harare Sports Club
+57,1212541,Angelo Mathews,N Dickwella,Sri Lanka,136,265,Harare Sports Club
+57,1212541,Angelo Mathews,Dhananjaya de Silva,Sri Lanka,98,209,Harare Sports Club
+57,1212541,Kevin Kasuza,Prince Masvaure,Zimbabwe,96,301,Harare Sports Club
+57,1212542,BOP Fernando,FDM Karunaratne,Sri Lanka,94,218,Harare Sports Club
+57,1212541,Angelo Mathews,BKG Mendis,Sri Lanka,92,225,Harare Sports Club
+57,1212542,Angelo Mathews,Dhananjaya de Silva,Sri Lanka,84,130,Harare Sports Club
+57,1212542,BKG Mendis,BOP Fernando,Sri Lanka,81,148,Harare Sports Club
+57,1212541,Brendan Taylor,Sean Williams,Zimbabwe,79,132,Harare Sports Club
+57,1212542,Sean Williams,Sikandar Raza,Zimbabwe,70,111,Harare Sports Club
+58,1213062,Asad Shafiq,Babar Azam,Pakistan,137,209,Rawalpindi Cricket Stadium
+58,1213062,Babar Azam,Shan Masood,Pakistan,112,187,Rawalpindi Cricket Stadium
+58,1213062,Azhar Ali,Shan Masood,Pakistan,91,126,Rawalpindi Cricket Stadium
+58,1213062,Mominul Haque,Najmul Hossain Shanto,Bangladesh,71,150,Rawalpindi Cricket Stadium
+58,1213062,Mominul Haque,Najmul Hossain Shanto,Bangladesh,59,122,Rawalpindi Cricket Stadium
+58,1213062,Liton Das,Mohammad Mithun,Bangladesh,54,91,Rawalpindi Cricket Stadium
+58,1213062,Mohammad Mithun,Taijul Islam,Bangladesh,53,140,Rawalpindi Cricket Stadium
+58,1213062,Haris Sohail,Yasir Shah,Pakistan,41,49,Rawalpindi Cricket Stadium
+58,1213062,Saif Hassan,Tamim Iqbal,Bangladesh,39,54,Rawalpindi Cricket Stadium
+58,1213062,Mahmudullah,Najmul Hossain Shanto,Bangladesh,33,73,Rawalpindi Cricket Stadium
+59,1214666,Mushfiqur Rahim,Mominul Haque,Bangladesh,222,368,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Liton Das,Mushfiqur Rahim,Bangladesh,111,180,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Craig Ervine,Prince Masvaure,Zimbabwe,111,242,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Najmul Hossain Shanto,Tamim Iqbal,Bangladesh,78,159,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Mominul Haque,Najmul Hossain Shanto,Bangladesh,76,119,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Craig Ervine,Sikandar Raza,Zimbabwe,60,79,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Regis Chakabva,Timycen Maruma,Zimbabwe,44,73,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Craig Ervine,Sikandar Raza,Zimbabwe,40,117,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Brendan Taylor,Craig Ervine,Zimbabwe,29,37,"Shere Bangla National Stadium, Mirpur"
+59,1214666,Mushfiqur Rahim,Taijul Islam,Bangladesh,28,35,"Shere Bangla National Stadium, Mirpur"
+60,1223871,Cheteshwar Pujara,Rishabh Pant,India,148,265,Sydney Cricket Ground
+60,1223872,Shardul Thakur,Washington Sundar,India,123,217,Brisbane Cricket Ground
+60,1223870,Ajinkya Rahane,RA Jadeja,India,121,245,Melbourne Cricket Ground
+60,1223872,Cheteshwar Pujara,Shubman Gill,India,114,240,Brisbane Cricket Ground
+60,1223872,Marnus Labuschagne,Matthew Wade,Australia,113,179,Brisbane Cricket Ground
+60,1223871,Cameron Green,Tim Paine,Australia,104,116,Sydney Cricket Ground
+60,1223871,Marnus Labuschagne,Steven Smith,Australia,103,224,Sydney Cricket Ground
+60,1223871,Marnus Labuschagne,Steven Smith,Australia,100,220,Sydney Cricket Ground
+60,1223871,Marnus Labuschagne,Will Pucovski,Australia,100,185,Sydney Cricket Ground
+60,1223872,Cameron Green,Tim Paine,Australia,98,204,Brisbane Cricket Ground
+61,1225248,Ben Stokes,DP Sibley,England,260,579,Old Trafford
+61,1225249,JC Buttler,OJ Pope,England,140,252,Old Trafford
+61,1225249,DP Sibley,Rory Burns,England,114,248,Old Trafford
+61,1225249,Joe Root,Rory Burns,England,112,103,Old Trafford
+61,1225248,Jermaine Blackwood,Shamarh Brooks,West Indies,100,166,Old Trafford
+61,1225247,Ben Stokes,Zak Crawley,England,98,152,The Rose Bowl
+61,1225247,Roston Chase,Shane Dowrich,West Indies,81,168,The Rose Bowl
+61,1225249,DM Bess,Stuart Broad,England,76,89,Old Trafford
+61,1225248,Kraigg Brathwaite,Shamarh Brooks,West Indies,76,137,Old Trafford
+61,1225248,Ben Stokes,Joe Root,England,73,68,Old Trafford
+62,1233957,Alzarri Joseph,Jermaine Blackwood,West Indies,155,216,Seddon Park
+62,1233957,Kane Williamson,Tom Latham,New Zealand,154,315,Seddon Park
+62,1233958,Henry Nicholls,Neil Wagner,New Zealand,95,73,Basin Reserve
+62,1233957,Kane Williamson,Kyle Jamieson,New Zealand,94,96,Seddon Park
+62,1233958,John Campbell,Shamarh Brooks,West Indies,89,140,Basin Reserve
+62,1233958,Daryl Mitchell,Henry Nicholls,New Zealand,83,140,Basin Reserve
+62,1233957,Kane Williamson,LRPL Taylor,New Zealand,83,146,Seddon Park
+62,1233958,Jason Holder,Joshua Da Silva,West Indies,82,114,Basin Reserve
+62,1233957,Kane Williamson,Tom Blundell,New Zealand,72,133,Seddon Park
+62,1233958,Henry Nicholls,Will Young,New Zealand,70,131,Basin Reserve
+63,1233963,Henry Nicholls,Kane Williamson,New Zealand,369,553,Hagley Oval
+63,1233962,Fawad Alam,Mohammad Rizwan,Pakistan,165,388,Bay Oval
+63,1233962,Henry Nicholls,Kane Williamson,New Zealand,133,265,Bay Oval
+63,1233963,Daryl Mitchell,Kane Williamson,New Zealand,133,163,Hagley Oval
+63,1233962,Kane Williamson,LRPL Taylor,New Zealand,120,281,Bay Oval
+63,1233962,Tom Blundell,Tom Latham,New Zealand,111,198,Bay Oval
+63,1233962,Faheem Ashraf,Mohammad Rizwan,Pakistan,107,180,Bay Oval
+63,1233963,Azhar Ali,Mohammad Rizwan,Pakistan,88,132,Hagley Oval
+63,1233963,Daryl Mitchell,Kyle Jamieson,New Zealand,74,50,Hagley Oval
+63,1233962,BJ Watling,Kyle Jamieson,New Zealand,66,132,Bay Oval
+64,1237357,Dean Elgar,HE van der Dussen,South Africa,184,266,The Wanderers Stadium
+64,1237356,F du Plessis,Temba Bavuma,South Africa,179,263,SuperSport Park
+64,1237356,Aiden Markram,Dean Elgar,South Africa,141,177,SuperSport Park
+64,1237356,F du Plessis,Keshav Maharaj,South Africa,133,185,SuperSport Park
+64,1237356,Dhananjaya de Silva,LD Chandimal,Sri Lanka,131,209,SuperSport Park
+64,1237356,N Dickwella,LD Chandimal,Sri Lanka,99,126,SuperSport Park
+64,1237357,FDM Karunaratne,HDRL Thirimanne,Sri Lanka,85,125,The Wanderers Stadium
+64,1237356,F du Plessis,PWA Mulder,South Africa,77,102,SuperSport Park
+64,1237357,Aiden Markram,Dean Elgar,South Africa,67,80,The Wanderers Stadium
+64,1237357,N Dickwella,FDM Karunaratne,Sri Lanka,67,99,The Wanderers Stadium
+65,1243015,DW Lawrence,Joe Root,England,173,263,Galle International Stadium
+65,1243016,Angelo Mathews,LD Chandimal,Sri Lanka,117,256,Galle International Stadium
+65,1243015,JM Bairstow,Joe Root,England,114,202,Galle International Stadium
+65,1243016,JM Bairstow,Joe Root,England,111,172,Galle International Stadium
+65,1243015,HDRL Thirimanne,MDKJ Perera,Sri Lanka,101,226,Galle International Stadium
+65,1243016,JC Buttler,Joe Root,England,97,179,Galle International Stadium
+65,1243016,N Dickwella,MDK Perera,Sri Lanka,89,173,Galle International Stadium
+65,1243016,DM Bess,Joe Root,England,81,172,Galle International Stadium
+65,1243016,DP Sibley,JC Buttler,England,75,111,Galle International Stadium
+65,1243016,Angelo Mathews,HDRL Thirimanne,Sri Lanka,69,129,Galle International Stadium
+66,1243017,Aiden Markram,HE van der Dussen,South Africa,127,310,National Stadium
+66,1243018,Fawad Alam,Babar Azam,Pakistan,123,263,Rawalpindi Cricket Stadium
+66,1243018,Aiden Markram,Temba Bavuma,South Africa,106,213,Rawalpindi Cricket Stadium
+66,1243017,Faheem Ashraf,Fawad Alam,Pakistan,102,152,National Stadium
+66,1243018,Mohammad Rizwan,Nauman Ali,Pakistan,97,150,Rawalpindi Cricket Stadium
+66,1243018,Aiden Markram,HE van der Dussen,South Africa,94,200,Rawalpindi Cricket Stadium
+66,1243017,Azhar Ali,Fawad Alam,Pakistan,94,228,National Stadium
+66,1243017,Azhar Ali,Babar Azam,Pakistan,63,85,National Stadium
+66,1243017,Fawad Alam,Mohammad Rizwan,Pakistan,55,113,National Stadium
+66,1243017,Nauman Ali,Yasir Shah,Pakistan,55,64,National Stadium
+67,1243384,DP Sibley,Joe Root,England,200,390,MA Chidambaram Stadium
+67,1243385,Ajinkya Rahane,Rohit Sharma,India,162,310,MA Chidambaram Stadium
+67,1243384,Ben Stokes,Joe Root,England,124,221,MA Chidambaram Stadium
+67,1243384,Cheteshwar Pujara,Rishabh Pant,India,119,145,MA Chidambaram Stadium
+67,1243387,Rishabh Pant,Washington Sundar,India,113,158,Narendra Modi Stadium
+67,1243387,Axar Patel,Washington Sundar,India,106,179,Narendra Modi Stadium
+67,1243385,Ravichandran Ashwin,Virat Kohli,India,96,177,MA Chidambaram Stadium
+67,1243384,Joe Root,OJ Pope,England,86,160,MA Chidambaram Stadium
+67,1243385,Cheteshwar Pujara,Rohit Sharma,India,85,113,MA Chidambaram Stadium
+67,1243384,Ravichandran Ashwin,Washington Sundar,India,80,178,MA Chidambaram Stadium
+68,1244025,Kyle Mayers,Nkrumah Bonner,West Indies,216,442,Zahur Ahmed Chowdhury Stadium
+68,1244025,Liton Das,Mominul Haque,Bangladesh,133,211,Zahur Ahmed Chowdhury Stadium
+68,1244026,Liton Das,Mehidy Hasan Miraz,Bangladesh,126,255,Shere Bangla National Stadium
+68,1244026,Alzarri Joseph,Joshua Da Silva,West Indies,118,211,Shere Bangla National Stadium
+68,1244025,Joshua Da Silva,Kyle Mayers,West Indies,100,131,Zahur Ahmed Chowdhury Stadium
+68,1244025,Jermaine Blackwood,Joshua Da Silva,West Indies,99,255,Zahur Ahmed Chowdhury Stadium
+68,1244026,Joshua Da Silva,Nkrumah Bonner,West Indies,88,178,Shere Bangla National Stadium
+68,1244026,Mohammad Mithun,Mushfiqur Rahim,Bangladesh,71,181,Shere Bangla National Stadium
+68,1244025,Mehidy Hasan Miraz,Shakib Al Hasan,Bangladesh,67,130,Zahur Ahmed Chowdhury Stadium
+68,1244026,John Campbell,Kraigg Brathwaite,West Indies,66,125,Shere Bangla National Stadium
+69,1252073,N Dickwella,PWH de Silva,Sri Lanka,179,323,Sir Vivian Richards Stadium
+69,1252073,BOP Fernando,HDRL Thirimanne,Sri Lanka,162,309,Sir Vivian Richards Stadium
+69,1252073,Kyle Mayers,Nkrumah Bonner,West Indies,105,218,Sir Vivian Richards Stadium
+69,1252074,Kraigg Brathwaite,Rahkeem Cornwall,West Indies,103,188,Sir Vivian Richards Stadium
+69,1252074,FDM Karunaratne,HDRL Thirimanne,Sri Lanka,101,232,Sir Vivian Richards Stadium
+69,1252073,Joshua Da Silva,Rahkeem Cornwall,West Indies,90,143,Sir Vivian Richards Stadium
+69,1252074,Jason Holder,Kraigg Brathwaite,West Indies,87,135,Sir Vivian Richards Stadium
+69,1252074,Kraigg Brathwaite,Kyle Mayers,West Indies,82,145,Sir Vivian Richards Stadium
+69,1252074,Dhananjaya de Silva,LD Chandimal,Sri Lanka,75,186,Sir Vivian Richards Stadium
+69,1252074,Kraigg Brathwaite,Kyle Mayers,West Indies,71,113,Sir Vivian Richards Stadium

@@ -1,0 +1,464 @@
+player_id,short_name,player_name,country,batting_style,bowling_style,role,image_file,image_status,espn_player_id
+1,AJ Finch,Aaron James Finch,Australia,Right hand Bat,Slow Left arm Orthodox,Top order Batter,aj_finch.webp,MISSING,
+345,Abdul Malik,Abdul Malik,,,,,abdul_malik.webp,MISSING,1059030
+346,Abdul Wasi,Abdul Wasi,,,,,abdul_wasi.webp,MISSING,974173
+2,Abdur Razzak,Abdur Razzak,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowler,abdur_razzak.webp,MISSING,
+3,A Mukund,Abhinav Mukund,India,Left hand Bat,Legbreak Googly,Top order Batter,a_mukund.webp,MISSING,
+4,Abid Ali,Abid Ali,Pakistan,Right hand Bat,Legbreak,Opening Batter,abid_ali.webp,MISSING,
+5,AB de Villiers,Abraham Benjamin de Villiers,South Africa,Right hand Bat,Right arm Medium,Wicketkeeper Batter,ab_de_villiers.webp,MISSING,
+347,Abu Jayed,Abu Jayed,,,,,abu_jayed.webp,MISSING,410763
+6,Abu Jayed,Abu Jayed Chowdhury,Bangladesh,Right hand Bat,Right arm Fast medium,Bowler,abu_jayed.webp,MISSING,
+7,AU Rashid,Adil Usman Rashid,England,Right hand Bat,Legbreak,Bowler,au_rashid.webp,MISSING,
+348,Afsar Zazai,Afsar Zazai,,,,,afsar_zazai.webp,MISSING,420402
+8,Ahmed Shehzad,Ahmed Shehzad,Pakistan,Right hand Bat,Legbreak,Opening Batter,ahmed_shehzad.webp,MISSING,
+9,AK Markram,Aiden Kyle Markram,South Africa,Right hand Bat,Right arm Offbreak,Allrounder,aiden_markram.webp,MISSING,
+10,A Ndlovu,Ainsley Ndlovu,Zimbabwe,Right hand Bat,Slow Left arm Orthodox,Bowler,a_ndlovu.webp,MISSING,
+11,AY Patel,Ajaz Yunus Patel,New Zealand,Left hand Bat,Slow Left arm Orthodox,Bowler,ay_patel.webp,MISSING,
+12,AM Rahane,Ajinkya Madhukar Rahane,India,Right hand Bat,Right arm Medium,Top order Batter,ajinkya_rahane.webp,MISSING,
+349,Akila Dananjaya,Akila Dananjaya,,,,,akila_dananjaya.webp,MISSING,574178
+13,Al-Amin Hossain,Al-Amin Hossain,Bangladesh,Right hand Bat,Right arm Medium fast,Bowler,alamin_hossain.webp,MISSING,
+14,AN Cook,Alastair Nathan Cook,England,Left hand Bat,Right arm Slow,Opening Batter,an_cook.webp,MISSING,
+15,AG Cremer,Alexander Graeme Cremer,Zimbabwe,Right hand Bat,Legbreak Googly,Bowler,ag_cremer.webp,MISSING,
+16,AS Joseph,Alzarri Shaheim Joseph,West Indies,Right hand Bat,Right arm Fast,Bowler,alzarri_joseph.webp,MISSING,
+350,Amir Hamza,Amir Hamza,,,,,amir_hamza.webp,MISSING,402245
+17,AL Phehlukwayo,Andile Lucky Phehlukwayo,South Africa,Left hand Bat,Right arm Medium fast,Bowling Allrounder,al_phehlukwayo.webp,MISSING,
+18,A Balbirnie,Andrew Balbirnie,Ireland,Right hand Bat,Right arm Offbreak,Batter,a_balbirnie.webp,MISSING,
+19,AR McBrine,Andrew Robert McBrine,Ireland,Left hand Bat,Right arm Offbreak,Bowling Allrounder,ar_mcbrine.webp,MISSING,
+20,AD Mathews,Angelo Davis Mathews,Sri Lanka,Right hand Bat,Right arm Medium,Allrounder,angelo_mathews.webp,MISSING,
+21,A Nortje,Anrich Arno Nortje,South Africa,Right hand Bat,Right arm Fast,Bowler,anrich_nortje.webp,MISSING,
+22,Ariful Haque,Ariful Haque,Bangladesh,Right hand Bat,Right arm Medium fast,Allrounder,ariful_haque.webp,MISSING,
+23,Asad Shafiq,Asad Shafiq,Pakistan,Right hand Bat,Right arm Offbreak,Middle order Batter,asad_shafiq.webp,MISSING,
+351,Asela Gunaratne,Asela Gunaratne,,,,,asela_gunaratne.webp,MISSING,360456
+352,Asghar Afghan,Asghar Afghan,,,,,asghar_afghan.webp,MISSING,320652
+24,AC Agar,Ashton Charles Agar,Australia,Left hand Bat,Slow Left arm Orthodox,Bowler,ac_agar.webp,MISSING,
+25,AM Fernando,Asitha Madusanka Fernando,Sri Lanka,Right hand Bat,Right arm Medium fast,Bowler,am_fernando.webp,MISSING,
+26,ARS Silva,Athege Roshen Shivanka Silva,Sri Lanka,Right hand Bat,Right arm Offbreak,Batter,ars_silva.webp,MISSING,
+27,N Pradeep,Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,Right hand Bat,Right arm Fast medium,Bowler,n_pradeep.webp,MISSING,
+28,AR Patel,Axar Rajeshbhai Patel,India,Left hand Bat,Slow Left arm Orthodox,Allrounder,ar_patel.webp,MISSING,
+29,Azhar Ali,Azhar Ali,Pakistan,Right hand Bat,Legbreak,Top order Batter,azhar_ali.webp,MISSING,
+353,BJ Watling,BJ Watling,,,,,bj_watling.webp,MISSING,38924
+354,Babar Azam,Babar Azam,,,,,babar_azam.webp,MISSING,348144
+30,BKG Mendis,Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,Right hand Bat,Legbreak,Wicketkeeper Batter,kusal_mendis.webp,MISSING,
+31,BA Stokes,Benjamin Andrew Stokes,England,Left hand Bat,Right arm Fast medium,Allrounder,ben_stokes.webp,MISSING,
+32,BT Foakes,Benjamin Thomas Foakes,England,Right hand Bat,nan,Wicketkeeper Batter,bt_foakes.webp,MISSING,
+33,BE Hendricks,Beuran Eric Hendricks,South Africa,Left hand Bat,Left arm Fast medium,Bowler,be_hendricks.webp,MISSING,
+355,Bhuvneshwar Kumar,Bhuvneshwar Kumar,,,,,bhuvneshwar_kumar.webp,MISSING,326016
+34,B Kumar,Bhuvneshwar Kumar Singh,India,Right hand Bat,Right arm Medium,Bowler,b_kumar.webp,MISSING,
+356,Bilal Asif,Bilal Asif,,,,,bilal_asif.webp,MISSING,498875
+35,B Muzarabani,Blessing Muzarabani,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,b_muzarabani.webp,MISSING,
+36,BOP Fernando,Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,Right hand Bat,Legbreak,Top order Batter,bop_fernando.webp,MISSING,
+357,Boyd Rankin,Boyd Rankin,,,,,boyd_rankin.webp,MISSING,24599
+37,BJ Watling,Bradley-John Watling,New Zealand,Right hand Bat,nan,Wicketkeeper Batter,bj_watling.webp,MISSING,
+38,B Mavuta,Brandon Anesu Mavuta,Zimbabwe,Right hand Bat,Legbreak,Allrounder,b_mavuta.webp,MISSING,
+39,BRM Taylor,Brendan Ross Murray Taylor,Zimbabwe,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,ross_taylor.webp,MISSING,
+40,BB Chari,Brian Bara Chari,Zimbabwe,Right hand Bat,Right arm Offbreak,Opening Batter,bb_chari.webp,MISSING,
+41,BS Mudzinganyama,Brian Simbarashe Mudzinganyama,Zimbabwe,Left hand Bat,Right arm Offbreak,Opening Batter,bs_mudzinganyama.webp,MISSING,
+42,C Green,Cameron Donald Green,Australia,Right hand Bat,Right arm Fast medium,Batting Allrounder,c_green.webp,MISSING,
+43,CT Bancroft,Cameron Timothy Bancroft,Australia,Right hand Bat,nan,Wicketkeeper Batter,ct_bancroft.webp,MISSING,
+44,CT Mumba,Carl Tapfuma Mumba,Zimbabwe,Right hand Bat,Right arm Fast medium,Allrounder,ct_mumba.webp,MISSING,
+45,CJ Sayers,Chadd James Sayers,Australia,Right hand Bat,Right arm Medium,Bowler,cj_sayers.webp,MISSING,
+46,C Karunaratne,Chamika Karunaratne,Sri Lanka,Right hand Bat,Right arm Medium fast,Bowling Allrounder,dimuth_karunaratne.webp,MISSING,
+358,Chamu Chibhabha,Chamu Chibhabha,,,,,chamu_chibhabha.webp,MISSING,55354
+47,CJ Chibhabha,Chamunorwa Justice Chibhabha,Zimbabwe,Right hand Bat,Right arm Medium,Top order Batter,cj_chibhabha.webp,MISSING,
+48,CBRLS Kumara,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,Left hand Bat,Right arm Fast,Bowler,cbrls_kumara.webp,MISSING,
+49,CAK Rajitha,Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,Right hand Bat,Right arm Medium fast,Bowler,cak_rajitha.webp,MISSING,
+50,CK Tshuma,Charlton Kirsh Tshuma,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,ck_tshuma.webp,MISSING,
+51,CK Holder,Chemar Keron Holder,West Indies,Right hand Bat,Right arm Fast,Bowler,ck_holder.webp,MISSING,
+52,CA Pujara,Cheteshwar Arvind Pujara,India,Right hand Bat,Legbreak,Top order Batter,cheteshwar_pujara.webp,MISSING,
+53,CB Mpofu,Christopher Bobby Mpofu,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,cb_mpofu.webp,MISSING,
+54,CH Morris,Christopher Henry Morris,South Africa,Right hand Bat,Right arm Fast medium,Bowling Allrounder,ch_morris.webp,MISSING,
+55,CR Woakes,Christopher Roger Woakes,England,Right hand Bat,Right arm Fast medium,Allrounder,chris_woakes.webp,MISSING,
+359,Colin Stuart,Colin Stuart,,,,,colin_stuart.webp,MISSING,52960
+56,C de Grandhomme,Colin de Grandhomme,New Zealand,Right hand Bat,Right arm Medium fast,Allrounder,colin_grandhomme.webp,MISSING,
+57,CT Mutombodzi,Confidence Tinotenda Mutombodzi,Zimbabwe,Right hand Bat,Legbreak Googly,Allrounder,ct_mutombodzi.webp,MISSING,
+58,C Overton,Craig Overton,England,Right hand Bat,Right arm Medium fast,Bowling Allrounder,c_overton.webp,MISSING,
+59,CR Ervine,Craig Richard Ervine,Zimbabwe,Left hand Bat,Right arm Offbreak,Middle order Batter,cr_ervine.webp,MISSING,
+60,DW Steyn,Dale Willem Steyn,South Africa,Right hand Bat,Right arm Fast,Bowler,dw_steyn.webp,MISSING,
+61,DL Piedt,Dane Leeroy Piedt,South Africa,Right hand Bat,Right arm Offbreak,Bowler,dl_piedt.webp,MISSING,
+62,D Paterson,Dane Paterson,South Africa,Right hand Bat,Right arm Fast medium,Bowler,d_paterson.webp,MISSING,
+63,DW Lawrence,Daniel William Lawrence,England,Right hand Bat,Right arm Offbreak,Middle order Batter,dw_lawrence.webp,MISSING,
+360,Danushka Gunathilaka,Danushka Gunathilaka,,,,,danushka_gunathilaka.webp,MISSING,345821
+64,DM Bravo,Darren Michael Bravo,West Indies,Left hand Bat,Right arm Medium,Top order Batter,dm_bravo.webp,MISSING,
+65,DJ Mitchell,Daryl Joseph Mitchell,New Zealand,Right hand Bat,Right arm Medium,Batting Allrounder,daryl_mitchell.webp,MISSING,
+361,Dasun Shanaka,Dasun Shanaka,,,,,dasun_shanaka.webp,MISSING,437316
+66,DA Warner,David Andrew Warner,Australia,Left hand Bat,Legbreak,Opening Batter,david_warner.webp,MISSING,
+67,DJ Malan,Dawid Johannes Malan,England,Left hand Bat,Legbreak,Top order Batter,dj_malan.webp,MISSING,
+68,D Elgar,Dean Elgar,South Africa,Left hand Bat,Slow Left arm Orthodox,Opening Batter,dean_elgar.webp,MISSING,
+69,D Bishoo,Devendra Bishoo,West Indies,Left hand Bat,Legbreak,Bowler,d_bishoo.webp,MISSING,
+70,DS Smith,Devon Sheldon Smith,West Indies,Left hand Bat,Right arm Offbreak,Opening Batter,ds_smith.webp,MISSING,
+71,DM de Silva,Dhananjaya Maduranga de Silva,Sri Lanka,Right hand Bat,Right arm Offbreak,Allrounder,dhananjaya_de_silva.webp,MISSING,
+72,N Dickwella,Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,Left hand Bat,nan,Wicketkeeper Batter,niroshan_dickwella.webp,MISSING,
+362,Dilruwan Perera,Dilruwan Perera,,,,,dilruwan_perera.webp,MISSING,49920
+363,Dimuth Karunaratne,Dimuth Karunaratne,,,,,dimuth_karunaratne.webp,MISSING,227772
+364,Dinesh Chandimal,Dinesh Chandimal,,,,,dinesh_chandimal.webp,MISSING,300628
+365,Dinesh Karthik,Dinesh Karthik,,,,,dinesh_karthik.webp,MISSING,30045
+366,Dom Bess,Dom Bess,,,,,dom_bess.webp,MISSING,646847
+367,Dom Sibley,Dom Sibley,,,,,dom_sibley.webp,MISSING,519082
+73,DM Bess,Dominic Mark Bess,England,Right hand Bat,Right arm Offbreak,Bowling Allrounder,dm_bess.webp,MISSING,
+74,DP Sibley,Dominic Peter Sibley,England,Right hand Bat,Legbreak,Opening Batter,dp_sibley.webp,MISSING,
+75,DT Tiripano,Donald Tatenda Tiripano,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,dt_tiripano.webp,MISSING,
+76,DAS Gunaratne,Downdegedara Asela Sampath Gunaratne,Sri Lanka,Right hand Bat,Right arm Medium fast,Batter,das_gunaratne.webp,MISSING,
+77,D Olivier,Duanne Olivier,South Africa,Right hand Bat,Right arm Fast medium,Bowler,d_olivier.webp,MISSING,
+368,Dushmantha Chameera,Dushmantha Chameera,,,,,dushmantha_chameera.webp,MISSING,552152
+78,D Pretorius,Dwaine Pretorius,South Africa,Right hand Bat,Right arm Medium fast,Bowling Allrounder,d_pretorius.webp,MISSING,
+369,Ebadot Hossain,Ebadot Hossain,,,,,ebadot_hossain.webp,MISSING,932355
+79,Ebadat Hossain,Ebadot Hossain Chowdhury,Bangladesh,Right hand Bat,Right arm Fast medium,Bowler,ebadat_hossain.webp,MISSING,
+370,Ed Joyce,Ed Joyce,,,,,ed_joyce.webp,MISSING,24249
+80,EC Joyce,Edmund Christopher Joyce,Ireland,Left hand Bat,Right arm Medium,Top order Batter,ec_joyce.webp,MISSING,
+371,Faf du Plessis,Faf du Plessis,,,,,faf_du_plessis.webp,MISSING,44828
+81,Faheem Ashraf,Faheem Ashraf,Pakistan,Left hand Bat,Right arm Medium,Bowling Allrounder,faheem_ashraf.webp,MISSING,
+82,Fakhar Zaman,Fakhar Zaman,Pakistan,Left hand Bat,Slow Left arm Orthodox,Opening Batter,fakhar_zaman.webp,MISSING,
+83,Fawad Alam,Fawad Alam,Pakistan,Left hand Bat,Slow Left arm Orthodox,Top order Batter,fawad_alam.webp,MISSING,
+84,F du Plessis,Francois du Plessis,South Africa,Right hand Bat,Legbreak,Middle order Batter,faf_du_plessis.webp,MISSING,
+85,FDM Karunaratne,Frank Dimuth Madushanka Karunaratne,Sri Lanka,Left hand Bat,Right arm Medium,Opening Batter,dimuth_karunaratne.webp,MISSING,
+86,GH Vihari,Gade Hanuma Vihari,India,Right hand Bat,Right arm Offbreak,Batting Allrounder,gh_vihari.webp,MISSING,
+87,GC Wilson,Gary Craig Wilson,Ireland,Right hand Bat,nan,Wicketkeeper Batter,gc_wilson.webp,MISSING,
+88,GS Ballance,Gary Simon Ballance,Zimbabwe,Left hand Bat,Legbreak,Middle order Batter,gs_ballance.webp,MISSING,
+372,George Dockrell,George Dockrell,,,,,george_dockrell.webp,MISSING,348034
+89,GF Linde,George Fredrik Linde,South Africa,Left hand Bat,Slow Left arm Orthodox,Allrounder,gf_linde.webp,MISSING,
+90,GD Phillips,Glenn Dominic Phillips,New Zealand,Right hand Bat,Right arm Offbreak,Allrounder,gd_phillips.webp,MISSING,
+91,GJ Maxwell,Glenn James Maxwell,Australia,Right hand Bat,Right arm Offbreak,Batting Allrounder,gj_maxwell.webp,MISSING,
+373,Graeme Cremer,Graeme Cremer,,,,,graeme_cremer.webp,MISSING,55346
+92,H Masakadza,Hamilton Masakadza,Zimbabwe,Right hand Bat,Right arm Medium,Top order Batter,h_masakadza.webp,MISSING,
+374,Hanuma Vihari,Hanuma Vihari,,,,,hanuma_vihari.webp,MISSING,452044
+93,HH Pandya,Hardik Himanshu Pandya,India,Right hand Bat,Right arm Medium fast,Allrounder,hh_pandya.webp,MISSING,
+94,Haris Sohail,Haris Sohail,Pakistan,Left hand Bat,Slow Left arm Orthodox,Middle order Batter,haris_sohail.webp,MISSING,
+95,Hasan Ali,Hasan Ali,Pakistan,Right hand Bat,Right arm Medium fast,Bowler,hasan_ali.webp,MISSING,
+96,HM Amla,Hashim Mahomed Amla,South Africa,Right hand Bat,"Right arm Medium, Right arm Offbreak",Top order Batter,hm_amla.webp,MISSING,
+375,Hashmatullah Shahidi,Hashmatullah Shahidi,,,,,hashmatullah_shahidi.webp,MISSING,440970
+97,HG Kuhn,Heino Gunther Kuhn,South Africa,Right hand Bat,nan,Wicketkeeper Batter,hg_kuhn.webp,MISSING,
+98,H Klaasen,Heinrich Klaasen,South Africa,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,h_klaasen.webp,MISSING,
+99,HE van der Dussen,Hendrik Erasmus van der Dussen,South Africa,Right hand Bat,Legbreak,Top order Batter,hendrik_dussen.webp,MISSING,
+100,HM Nicholls,Henry Michael Nicholls,New Zealand,Left hand Bat,Right arm Offbreak,Top order Batter,hm_nicholls.webp,MISSING,
+101,HMRKB Herath,Herath Mudiyanselage Rangana Keerthi Bandara Herath,Sri Lanka,Left hand Bat,Slow Left arm Orthodox,Bowler,rangana_herath.webp,MISSING,
+102,HDRL Thirimanne,Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,Left hand Bat,Right arm Medium fast,Top order Batter,hdrl_thirimanne.webp,MISSING,
+103,HWR Cartwright,Hilton William Raymond Cartwright,Australia,Right hand Bat,Right arm Medium,Middle order Batter,hwr_cartwright.webp,MISSING,
+376,Ibrahim Zadran,Ibrahim Zadran,,,,,ibrahim_zadran.webp,MISSING,921509
+104,Iftikhar Ahmed,Iftikhar Ahmed,Pakistan,Right hand Bat,Right arm Offbreak,Middle order Batter,iftikhar_ahmed.webp,MISSING,
+377,Ihsanullah,Ihsanullah,,,,,ihsanullah.webp,MISSING,703323
+378,Ikram Alikhil,Ikram Alikhil,,,,,ikram_alikhil.webp,MISSING,935553
+105,Imam-ul-Haq,Imam-ul-Haq,Pakistan,Left hand Bat,nan,Top order Batter,imamulhaq.webp,MISSING,
+106,Imran Butt (2),Imran Butt,Pakistan,Right hand Bat,nan,Top order Batter,imran_butt.webp,MISSING,
+379,Imran Khan,Imran Khan,,,,,imran_khan.webp,MISSING,316363
+107,Imrul Kayes,Imrul Kayes,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Opening Batter,imrul_kayes.webp,MISSING,
+108,IS Sodhi,Inderbir Singh Sodhi,New Zealand,Right hand Bat,Legbreak,Bowler,is_sodhi.webp,MISSING,
+380,Ish Sodhi,Ish Sodhi,,,,,ish_sodhi.webp,MISSING,559066
+109,I Sharma,Ishant Sharma,India,Right hand Bat,Right arm Fast medium,Bowler,i_sharma.webp,MISSING,
+381,Jack Leach,Jack Leach,,,,,jack_leach.webp,MISSING,455524
+110,JM Bird,Jackson Munro Bird,Australia,Right hand Bat,Right arm Fast medium,Bowler,jm_bird.webp,MISSING,
+111,JT Ball,Jacob Timothy Ball,England,Right hand Bat,Right arm Fast medium,Bowler,jt_ball.webp,MISSING,
+112,JN Hamilton,Jahmar Neville Hamilton,West Indies,Right hand Bat,nan,Wicketkeeper Batter,jn_hamilton.webp,MISSING,
+382,Jake Ball,Jake Ball,,,,,jake_ball.webp,MISSING,414990
+113,JA McCollum,James Alexander McCollum,Ireland,Right hand Bat,Right arm Medium,Opening Batter,ja_mccollum.webp,MISSING,
+383,James Cameron-Dow,James Cameron-Dow,,,,,james_camerondow.webp,MISSING,380957
+114,JDS Neesham,James Douglas Sheahan Neesham,New Zealand,Left hand Bat,Right arm Medium fast,Batting Allrounder,jds_neesham.webp,MISSING,
+115,JL Pattinson,James Lee Pattinson,Australia,Left hand Bat,Right arm Fast medium,Bowler,jl_pattinson.webp,MISSING,
+116,JM Anderson,James Michael Anderson,England,Left hand Bat,Right arm Fast medium,Bowler,james_anderson.webp,MISSING,
+117,JM Vince,James Michael Vince,England,Right hand Bat,Right arm Medium,Batter,jm_vince.webp,MISSING,
+118,JJ Roy,Jason Jonathan Roy,England,Right hand Bat,nan,Opening Batter,jj_roy.webp,MISSING,
+119,JO Holder,Jason Omar Holder,West Indies,Right hand Bat,Right arm Medium fast,Bowling Allrounder,jason_holder.webp,MISSING,
+120,JJ Bumrah,Jasprit Jasbirsingh Bumrah,India,Right hand Bat,Right arm Fast,Bowler,jasprit_bumrah.webp,MISSING,
+384,Javed Ahmadi,Javed Ahmadi,,,,,javed_ahmadi.webp,MISSING,308235
+121,JK Silva,Jayan Kaushal Silva,Sri Lanka,Right hand Bat,nan,Wicketkeeper Batter,jk_silva.webp,MISSING,
+122,J Yadav,Jayant Yadav,India,Right hand Bat,Right arm Offbreak,Bowler,j_yadav.webp,MISSING,
+123,JP Duminy,Jean-Paul Duminy,South Africa,Left hand Bat,Right arm Offbreak,Batting Allrounder,jp_duminy.webp,MISSING,
+124,JA Raval,Jeet Ashok Raval,New Zealand,Left hand Bat,Legbreak,Opening Batter,ja_raval.webp,MISSING,
+125,JS Patel,Jeetan Shashi Patel,New Zealand,Right hand Bat,Right arm Offbreak,Bowler,js_patel.webp,MISSING,
+126,J Blackwood,Jermaine Blackwood,West Indies,Right hand Bat,Right arm Offbreak,Middle order Batter,j_blackwood.webp,MISSING,
+127,JA Richardson,Jhye Avon Richardson,Australia,Right hand Bat,Right arm Fast,Bowler,ja_richardson.webp,MISSING,
+128,JC Archer,Jofra Chioke Archer,England,Right hand Bat,Right arm Fast,Bowler,jofra_archer.webp,MISSING,
+129,JD Campbell,John Dillon Campbell,West Indies,Left hand Bat,Right arm Offbreak,Opening Batter,jd_campbell.webp,MISSING,
+130,JA Warrican,Jomel Andrel Warrican,West Indies,Right hand Bat,Slow Left arm Orthodox,Bowler,ja_warrican.webp,MISSING,
+131,JM Bairstow,Jonathan Marc Bairstow,England,Right hand Bat,Right arm Medium,Wicketkeeper Batter,jonny_bairstow.webp,MISSING,
+132,JM Holland,Jonathan Mark Holland,Australia,Right hand Bat,Slow Left arm Orthodox,Bowler,jm_holland.webp,MISSING,
+385,Jonny Bairstow,Jonny Bairstow,,,,,jonny_bairstow.webp,MISSING,297433
+386,Jos Buttler,Jos Buttler,,,,,jos_buttler.webp,MISSING,308967
+133,JA Burns,Joseph Anthony Burns,Italy,Right hand Bat,"Right arm Medium, Right arm Offbreak",Batter,ja_burns.webp,MISSING,
+134,JC Buttler,Joseph Charles Buttler,England,Right hand Bat,nan,Wicketkeeper Batter,jos_buttler.webp,MISSING,
+135,JE Root,Joseph Edward Root,England,Right hand Bat,Right arm Offbreak,Top order Batter,joe_root.webp,MISSING,
+136,JL Denly,Joseph Liam Denly,England,Right hand Bat,Legbreak,Top order Batter,jl_denly.webp,MISSING,
+137,JR Hazlewood,Josh Reginald Hazlewood,Australia,Left hand Bat,Right arm Fast medium,Bowler,josh_hazlewood.webp,MISSING,
+138,J Da Silva,Joshua Da Silva,West Indies,Right hand Bat,nan,Wicketkeeper Batter,joshua_silva.webp,MISSING,
+139,K Rabada,Kagiso Rabada,South Africa,Left hand Bat,Right arm Fast,Bowler,kagiso_rabada.webp,MISSING,
+387,Kamrul Islam,Kamrul Islam,,,,,kamrul_islam.webp,MISSING,375724
+140,Kamrul Islam Rabbi,Kamrul Islam Rabbi,Bangladesh,Right hand Bat,Right arm Medium fast,Bowler,kamrul_rabbi.webp,MISSING,
+141,KS Williamson,Kane Stuart Williamson,New Zealand,Right hand Bat,Right arm Offbreak,Top order Batter,kane_williamson.webp,MISSING,
+142,KL Rahul,Kannaur Lokesh Rahul,India,Right hand Bat,nan,Wicketkeeper Batter,kl_rahul.webp,MISSING,
+143,KK Nair,Karun Nair,India,Right hand Bat,Right arm Offbreak,Top order Batter,kk_nair.webp,MISSING,
+388,Kasun Rajitha,Kasun Rajitha,,,,,kasun_rajitha.webp,MISSING,499594
+389,Kaushal Silva,Kaushal Silva,,,,,kaushal_silva.webp,MISSING,50482
+144,KK Jennings,Keaton Kent Jennings,England,Left hand Bat,Right arm Medium fast,Opening Batter,kk_jennings.webp,MISSING,
+145,KMA Paul,Keemo Mandela Angus Paul,West Indies,Right hand Bat,Right arm Fast medium,Allrounder,kma_paul.webp,MISSING,
+146,KAJ Roach,Kemar Andre Jamal Roach,West Indies,Right hand Bat,Right arm Fast medium,Bowler,kemar_roach.webp,MISSING,
+147,KA Maharaj,Keshav Athmanand Maharaj,South Africa,Right hand Bat,Slow Left arm Orthodox,Bowler,keshav_maharaj.webp,MISSING,
+148,KJ O'Brien,Kevin Joseph O'Brien,Ireland,Right hand Bat,Right arm Medium fast,Batting Allrounder,kj_obrien.webp,MISSING,
+149,KT Kasuza,Kevin Tatenda Kasuza,Zimbabwe,Right hand Bat,Right arm Offbreak,Opening Batter,kt_kasuza.webp,MISSING,
+390,Khaled Ahmed,Khaled Ahmed,,,,,khaled_ahmed.webp,MISSING,927619
+150,KOA Powell,Kieran Omar Akeem Powell,West Indies,Left hand Bat,"Right arm Medium, Right arm Offbreak",Opening Batter,koa_powell.webp,MISSING,
+151,KC Brathwaite,Kraigg Clairmonte Brathwaite,West Indies,Right hand Bat,Right arm Offbreak,Opening Batter,kraigg_brathwaite.webp,MISSING,
+152,KD Karthik,Krishnakumar Dinesh Karthik,India,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,kd_karthik.webp,MISSING,
+153,Kuldeep Yadav,Kuldeep Yadav,India,Left hand Bat,Left arm Wrist spin,Bowler,kuldeep_yadav.webp,MISSING,
+154,KR Patterson,Kurtis Robert Patterson,Australia,Left hand Bat,Right arm Offbreak,Middle order Batter,kr_patterson.webp,MISSING,
+391,Kusal Mendis,Kusal Mendis,,,,,kusal_mendis.webp,MISSING,629074
+392,Kusal Perera,Kusal Perera,,,,,kusal_perera.webp,MISSING,300631
+155,KA Jamieson,Kyle Alex Jamieson,New Zealand,Right hand Bat,Right arm Fast medium,Bowler,kyle_jamieson.webp,MISSING,
+156,KA Hope,Kyle Antonio Hope,West Indies,Right hand Bat,Right arm Offbreak,Middle order Batter,ka_hope.webp,MISSING,
+157,KJ Abbott,Kyle John Abbott,South Africa,Right hand Bat,Right arm Fast medium,Bowler,kj_abbott.webp,MISSING,
+158,KM Jarvis,Kyle Malcolm Jarvis,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,km_jarvis.webp,MISSING,
+159,KR Mayers,Kyle Rico Mayers,West Indies,Left hand Bat,Right arm Medium,Batting Allrounder,kr_mayers.webp,MISSING,
+160,LH Ferguson,Lachlan Hammond Ferguson,New Zealand,Right hand Bat,Right arm Fast,Bowler,lh_ferguson.webp,MISSING,
+393,Lahiru Gamage,Lahiru Gamage,,,,,lahiru_gamage.webp,MISSING,268845
+394,Lahiru Kumara,Lahiru Kumara,,,,,lahiru_kumara.webp,MISSING,784375
+395,Lahiru Thirimanne,Lahiru Thirimanne,,,,,lahiru_thirimanne.webp,MISSING,301236
+396,Lakshan Sandakan,Lakshan Sandakan,,,,,lakshan_sandakan.webp,MISSING,429738
+161,L Embuldeniya,Lasith Embuldeniya,Sri Lanka,Left hand Bat,Slow Left arm Orthodox,Bowler,l_embuldeniya.webp,MISSING,
+162,LA Dawson,Liam Andrew Dawson,England,Right hand Bat,Slow Left arm Orthodox,Allrounder,la_dawson.webp,MISSING,
+397,Liton Das,Liton Das,,,,,liton_das.webp,MISSING,536936
+163,Liton Das,Litton Kumer Das,Bangladesh,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,liton_das.webp,MISSING,
+398,Lockie Ferguson,Lockie Ferguson,,,,,lockie_ferguson.webp,MISSING,493773
+164,LD Chandimal,Lokuge Dinesh Chandimal,Sri Lanka,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,dinesh_chandimal.webp,MISSING,
+165,L Sipamla,Lubabalo Lutho Sipamla,South Africa,Right hand Bat,Right arm Fast medium,Bowler,l_sipamla.webp,MISSING,
+399,Lungi Ngidi,Lungi Ngidi,,,,,lungi_ngidi.webp,MISSING,542023
+166,L Ngidi,Lungisani True-man Ngidi,South Africa,Right hand Bat,Right arm Fast medium,Bowler,l_ngidi.webp,MISSING,
+167,LRPL Taylor,Luteru Ross Poutoa Lote Taylor,New Zealand,Right hand Bat,Right arm Offbreak,Middle order Batter,ross_taylor.webp,MISSING,
+400,Lutho Sipamla,Lutho Sipamla,,,,,lutho_sipamla.webp,MISSING,698143
+168,MD Shanaka,Madagamagamage Dasun Shanaka,Sri Lanka,Right hand Bat,Right arm Medium,Allrounder,md_shanaka.webp,MISSING,
+169,A Dananjaya,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Sri Lanka,Left hand Bat,"Right arm Offbreak, Legbreak",Bowling Allrounder,a_dananjaya.webp,MISSING,
+170,MDK Perera,Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,Right hand Bat,Right arm Offbreak,Allrounder,dilruwan_perera.webp,MISSING,
+171,ML Udawatte,Mahela Lakmal Udawatte,Sri Lanka,Left hand Bat,Right arm Offbreak,Batter,suranga_lakmal.webp,MISSING,
+401,Mahmudullah,Mahmudullah,,,,,mahmudullah.webp,MISSING,56025
+172,MN Waller,Malcolm Noel Waller,Zimbabwe,Right hand Bat,Right arm Offbreak,Batter,mn_waller.webp,MISSING,
+402,Malinda Pushpakumara,Malinda Pushpakumara,,,,,malinda_pushpakumara.webp,MISSING,50205
+173,MS Harris,Marcus Sinclair Harris,Australia,Left hand Bat,nan,Opening Batter,ms_harris.webp,MISSING,
+174,MA Wood,Mark Andrew Wood,England,Right hand Bat,Right arm Fast,Bowler,mark_wood.webp,MISSING,
+175,MD Stoneman,Mark Daniel Stoneman,England,Left hand Bat,Right arm Offbreak,Top order Batter,md_stoneman.webp,MISSING,
+176,MR Adair,Mark Richard Adair,Ireland,Right hand Bat,Right arm Fast medium,Bowling Allrounder,mr_adair.webp,MISSING,
+177,M Labuschagne,Marnus Labuschagne,Australia,Right hand Bat,"Right arm Medium fast, Legbreak",Batter,marnus_labuschagne.webp,MISSING,
+178,MD Gunathilaka,Mashtayage Danushka Gunathilaka,Sri Lanka,Left hand Bat,Right arm Offbreak,Allrounder,md_gunathilaka.webp,MISSING,
+179,MS Crane,Mason Sidney Crane,England,Right hand Bat,Legbreak Googly,Bowler,ms_crane.webp,MISSING,
+180,MDKJ Perera,Mathurage Don Kusal Janith Perera,Sri Lanka,Left hand Bat,nan,Wicketkeeper Batter,mdkj_perera.webp,MISSING,
+181,MJ Leach,Matthew Jack Leach,England,Left hand Bat,Slow Left arm Orthodox,Bowler,jack_leach.webp,MISSING,
+182,MJ Henry,Matthew James Henry,New Zealand,Right hand Bat,Right arm Fast medium,Bowler,mj_henry.webp,MISSING,
+183,MS Wade,Matthew Scott Wade,Australia,Left hand Bat,Right arm Medium,Wicketkeeper Batter,matthew_wade.webp,MISSING,
+184,MT Renshaw,Matthew Thomas Renshaw,Australia,Left hand Bat,Right arm Offbreak,Batter,mt_renshaw.webp,MISSING,
+403,Mayank Agarwal,Mayank Agarwal,,,,,mayank_agarwal.webp,MISSING,398438
+185,MA Agarwal,Mayank Anurag Agarawal,India,Right hand Bat,Right arm Offbreak,Batter,ma_agarwal.webp,MISSING,
+186,Mehedi Hasan Miraz,Mehidy Hasan Miraz,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,mehidy_hasan_miraz.webp,MISSING,
+187,ML Cummins,Miguel Lamar Cummins,West Indies,Left hand Bat,Right arm Fast medium,Bowler,ml_cummins.webp,MISSING,
+404,Minod Bhanuka,Minod Bhanuka,,,,,minod_bhanuka.webp,MISSING,629075
+188,Mir Hamza,Mir Hamza,Pakistan,Left hand Bat,Left arm Medium,Bowler,mir_hamza.webp,MISSING,
+405,Misbah-ul-Haq,Misbah-ul-Haq,,,,,misbahulhaq.webp,MISSING,41378
+189,Misbah-ul-Haq,Misbah-ul-Haq Khan Niazi,Pakistan,Right hand Bat,Legbreak,Middle order Batter,misbahulhaq_niazi.webp,MISSING,
+190,MA Starc,Mitchell Aaron Starc,Australia,Left hand Bat,Left arm Fast,Bowler,mitchell_starc.webp,MISSING,
+191,MJ Santner,Mitchell Josef Santner,New Zealand,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,mj_santner.webp,MISSING,
+192,MR Marsh,Mitchell Ross Marsh,Australia,Right hand Bat,Right arm Medium,Allrounder,mr_marsh.webp,MISSING,
+193,MM Ali,Moeen Munir Ali,England,Left hand Bat,Right arm Offbreak,Batting Allrounder,mm_ali.webp,MISSING,
+194,Mohammad Abbas,Mohammad Abbas,Pakistan,Right hand Bat,Right arm Medium fast,Bowler,mohammad_abbas.webp,MISSING,
+195,Mohammad Amir,Mohammad Amir,Pakistan,Left hand Bat,Left arm Fast medium,Bowler,mohammad_amir.webp,MISSING,
+196,Babar Azam,Mohammad Babar Azam,Pakistan,Right hand Bat,Right arm Offbreak,Batter,babar_azam.webp,MISSING,
+197,Bilal Asif,Mohammad Bilal Asif,Pakistan,Right hand Bat,Right arm Offbreak,Allrounder,bilal_asif.webp,MISSING,
+198,Mohammad Hafeez,Mohammad Hafeez,Pakistan,Right hand Bat,Right arm Offbreak,Allrounder,mohammad_hafeez.webp,MISSING,
+199,Imran Khan (2),Mohammad Imran Khan,Pakistan,Right hand Bat,Right arm Medium fast,Bowler,mohammad_khan.webp,MISSING,
+200,Mahmudullah,Mohammad Mahmudullah,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,mahmudullah.webp,MISSING,
+201,Mohammad Mithun,Mohammad Mithun,Bangladesh,Right hand Bat,nan,Top order Batter,mohammad_mithun.webp,MISSING,
+202,Mushfiqur Rahim,Mohammad Mushfiqur Rahim,Bangladesh,Right hand Bat,nan,Wicketkeeper Batter,mushfiqur_rahim.webp,MISSING,
+406,Mohammad Nabi,Mohammad Nabi,,,,,mohammad_nabi.webp,MISSING,25913
+203,Nasir Hossain,Mohammad Nasir Hossain,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,nasir_hossain.webp,MISSING,
+204,Nayeem Hasan,Mohammad Nayeem Hasan,Bangladesh,Right hand Bat,Right arm Offbreak,Bowling Allrounder,nayeem_hasan.webp,MISSING,
+205,Nazmul Islam,Mohammad Nazmul Islam,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowler,nazmul_islam.webp,MISSING,
+206,Mohammad Rizwan,Mohammad Rizwan,Pakistan,Right hand Bat,Right arm Medium,Wicketkeeper Batter,mohammad_rizwan.webp,MISSING,
+207,Rubel Hossain,Mohammad Rubel Hossain,Bangladesh,Right hand Bat,Right arm Fast,Bowler,rubel_hossain.webp,MISSING,
+208,Sabbir Rahman,Mohammad Sabbir Rahman,Bangladesh,Right hand Bat,Legbreak,Batting Allrounder,sabbir_rahman.webp,MISSING,
+209,Saif Hassan,Mohammad Saif Hassan,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,saif_hassan.webp,MISSING,
+407,Mohammad Shahzad,Mohammad Shahzad,,,,,mohammad_shahzad.webp,MISSING,419873
+210,Younis Khan,Mohammad Younis Khan,Pakistan,Right hand Bat,"Right arm Medium, Legbreak",Middle order Batter,younis_khan.webp,MISSING,
+408,Mohammed Shami,Mohammed Shami,,,,,mohammed_shami.webp,MISSING,481896
+211,Mohammed Shami,Mohammed Shami Ahmed,India,Right hand Bat,Right arm Fast,Bowler,mohammed_shami.webp,MISSING,
+212,Mohammed Siraj,Mohammed Siraj,India,Right hand Bat,Right arm Fast,Bowler,mohammed_siraj.webp,MISSING,
+213,Mominul Haque,Mominul Haque,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Batting Allrounder,mominul_haque.webp,MISSING,
+214,M Morkel,Morne Morkel,South Africa,Left hand Bat,Right arm Fast,Bowler,m_morkel.webp,MISSING,
+409,Mosaddek Hossain,Mosaddek Hossain,,,,,mosaddek_hossain.webp,MISSING,550133
+215,Mosaddek Hossain,Mosaddek Hossain Saikat,Bangladesh,Right hand Bat,Right arm Offbreak,Allrounder,mosaddek_hossain.webp,MISSING,
+410,Muhammad Musa,Muhammad Musa,,,,,muhammad_musa.webp,MISSING,1072472
+216,Muhammad Musa,Muhammad Musa Khan,Pakistan,Right hand Bat,Right arm Fast medium,Bowler,muhammad_musa.webp,MISSING,
+411,Mujeeb Ur Rahman,Mujeeb Ur Rahman,,,,,mujeeb_rahman.webp,MISSING,974109
+412,Munir Ahmad,Munir Ahmad,,,,,munir_ahmad.webp,MISSING,633399
+217,M Vijay,Murali Vijay,India,Right hand Bat,Right arm Offbreak,Opening Batter,m_vijay.webp,MISSING,
+413,Mushfiqur Rahim,Mushfiqur Rahim,,,,,mushfiqur_rahim.webp,MISSING,56029
+218,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,Left hand Bat,Left arm Fast medium,Bowler,mustafizur_rahman.webp,MISSING,
+219,MVT Fernando,Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,Right hand Bat,Left arm Medium fast,Bowler,mvt_fernando.webp,MISSING,
+220,Nazmul Hossain Shanto,Najmul Hossain Shanto,Bangladesh,Left hand Bat,Right arm Offbreak,Top order Batter,najmul_shanto.webp,MISSING,
+221,Naseem Shah,Naseem Shah,Pakistan,Right hand Bat,Right arm Fast,Bowler,naseem_shah.webp,MISSING,
+414,Nasir Hossain,Nasir Hossain,,,,,nasir_hossain.webp,MISSING,300618
+415,Nasir Jamal,Nasir Jamal,,,,,nasir_jamal.webp,MISSING,524048
+222,NM Lyon,Nathan Michael Lyon,Australia,Right hand Bat,Right arm Offbreak,Bowler,nathan_lyon.webp,MISSING,
+416,Nauman Ali,Nauman Ali,,,,,nauman_ali.webp,MISSING,238672
+223,NA Saini,Navdeep Amarjeet Saini,India,Right hand Bat,Right arm Fast,Bowler,na_saini.webp,MISSING,
+417,Nayeem Hasan,Nayeem Hasan,,,,,nayeem_hasan.webp,MISSING,932635
+418,Nazmul Islam,Nazmul Islam,,,,,nazmul_islam.webp,MISSING,446810
+224,NT Broom,Neil Trevor Broom,New Zealand,Right hand Bat,Right arm Medium,Middle order Batter,nt_broom.webp,MISSING,
+225,N Wagner,Neil Wagner,New Zealand,Left hand Bat,Left arm Medium fast,Bowler,neil_wagner.webp,MISSING,
+226,NJ O'Brien,Niall John O'Brien,Ireland,Left hand Bat,nan,Wicketkeeper Batter,nj_obrien.webp,MISSING,
+419,Niroshan Dickwella,Niroshan Dickwella,,,,,niroshan_dickwella.webp,MISSING,429754
+227,NE Bonner,Nkrumah Eljego Bonner,West Indies,Right hand Bat,Legbreak,Middle order Batter,ne_bonner.webp,MISSING,
+228,Nauman Ali,Noman Ali,Pakistan,Left hand Bat,Slow Left arm Orthodox,Bowler,nauman_ali.webp,MISSING,
+420,Nurul Hasan,Nurul Hasan,,,,,nurul_hasan.webp,MISSING,410765
+421,Nuwan Pradeep,Nuwan Pradeep,,,,,nuwan_pradeep.webp,MISSING,324358
+229,OJ Pope,Oliver John Douglas Pope,England,Right hand Bat,nan,Middle order Batter,oj_pope.webp,MISSING,
+230,OP Stone,Oliver Peter Stone,England,Right hand Bat,Right arm Fast,Bowler,op_stone.webp,MISSING,
+422,Ollie Pope,Ollie Pope,,,,,ollie_pope.webp,MISSING,887207
+423,Olly Stone,Olly Stone,,,,,olly_stone.webp,MISSING,457279
+424,Oshada Fernando,Oshada Fernando,,,,,oshada_fernando.webp,MISSING,366725
+231,PLS Gamage,Panagamuwa Lahiru Sampath Gamage,Sri Lanka,Right hand Bat,Right arm Fast medium,Bowler,pls_gamage.webp,MISSING,
+232,PA Patel,Parthiv Ajay Patel,India,Left hand Bat,Right arm Offbreak,Wicketkeeper Batter,pa_patel.webp,MISSING,
+425,Pat Cummins,Pat Cummins,,,,,pat_cummins.webp,MISSING,489889
+233,PVD Chameera,Pathira Vasan Dushmantha Chameera,Sri Lanka,Right hand Bat,Right arm Fast,Bowler,pvd_chameera.webp,MISSING,
+234,PADLR Sandakan,Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,Right hand Bat,Left arm Wrist spin,Bowler,padlr_sandakan.webp,MISSING,
+426,Pathum Nissanka,Pathum Nissanka,,,,,pathum_nissanka.webp,MISSING,1028655
+235,P Nissanka,Pathum Nissanka Silva,Sri Lanka,Right hand Bat,nan,Top order Batter,p_nissanka.webp,MISSING,
+236,PJ Cummins,Patrick James Cummins,Australia,Right hand Bat,Right arm Fast,Bowler,pat_cummins.webp,MISSING,
+237,PR Stirling,Paul Robert Stirling,Ireland,Right hand Bat,Right arm Offbreak,Batting Allrounder,pr_stirling.webp,MISSING,
+238,PM Pushpakumara,Pawuluge Malinda Pushpakumara,Sri Lanka,Right hand Bat,Slow Left arm Orthodox,Allrounder,pm_pushpakumara.webp,MISSING,
+239,PJ Moor,Peter Joseph Moor,Ireland,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,pj_moor.webp,MISSING,
+240,PM Siddle,Peter Matthew Siddle,Australia,Right hand Bat,Right arm Fast medium,Bowler,pm_siddle.webp,MISSING,
+241,PSP Handscomb,Peter Stephen Patrick Handscomb,Australia,Right hand Bat,nan,Batter,psp_handscomb.webp,MISSING,
+242,PJ Malan,Pieter Jacobus Malan,South Africa,Right hand Bat,Right arm Medium fast,Opening Batter,pj_malan.webp,MISSING,
+243,PWA Mulder,Pieter Willem Adriaan Mulder,South Africa,Right hand Bat,Right arm Medium,Allrounder,pwa_mulder.webp,MISSING,
+244,PWH de Silva,Pinnaduwage Wanindu Hasaranga de Silva,Sri Lanka,Right hand Bat,Legbreak,Allrounder,pinnaduwage_silva.webp,MISSING,
+245,PS Masvaure,Prince Spencer Masvaure,Zimbabwe,Left hand Bat,Left arm Fast medium,Opening Batter,ps_masvaure.webp,MISSING,
+246,PP Shaw,Prithvi Pankaj Shaw,India,Right hand Bat,Right arm Offbreak,Opening Batter,pp_shaw.webp,MISSING,
+427,Qais Ahmad,Qais Ahmad,,,,,qais_ahmad.webp,MISSING,914171
+247,Nurul Hasan,Quazi Nurul Hasan,Bangladesh,Right hand Bat,nan,Wicketkeeper Batter,nurul_hasan.webp,MISSING,
+248,Q de Kock,Quinton de Kock,South Africa,Left hand Bat,nan,Wicketkeeper Batter,quinton_de_kock.webp,MISSING,
+249,Rahat Ali,Rahat Ali,Pakistan,Right hand Bat,Left arm Fast medium,Bowler,rahat_ali.webp,MISSING,
+250,RRS Cornwall,Rahkeem Rashawn Shane Cornwall,West Indies,Right hand Bat,Right arm Offbreak,Allrounder,rrs_cornwall.webp,MISSING,
+428,Rahmat Shah,Rahmat Shah,,,,,rahmat_shah.webp,MISSING,533956
+429,Ramesh Mendis,Ramesh Mendis,,,,,ramesh_mendis.webp,MISSING,629084
+251,M Bhanuka,Ranasinghe Arachchige Minod Bhanuka Ranasinghe,Sri Lanka,Left hand Bat,nan,Top order Batter,m_bhanuka.webp,MISSING,
+252,RAS Lakmal,Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,Right hand Bat,Right arm Fast medium,Bowler,suranga_lakmal.webp,MISSING,
+430,Rangana Herath,Rangana Herath,,,,,rangana_herath.webp,MISSING,49178
+431,Rashid Khan,Rashid Khan,,,,,rashid_khan.webp,MISSING,793463
+432,Rassie van der Dussen,Rassie van der Dussen,,,,,rassie_dussen.webp,MISSING,337790
+253,R Ashwin,Ravichandran Ashwin,India,Right hand Bat,Right arm Offbreak,Bowling Allrounder,ravichandran_ashwin.webp,MISSING,
+433,Ravindra Jadeja,Ravindra Jadeja,,,,,ravindra_jadeja.webp,MISSING,234675
+254,RA Jadeja,Ravindrasinh Anirudhsinh Jadeja,India,Left hand Bat,Slow Left arm Orthodox,Allrounder,ravindra_jadeja.webp,MISSING,
+255,RA Reifer,Raymon Anton Reifer,West Indies,Left hand Bat,Left arm Medium fast,Allrounder,ra_reifer.webp,MISSING,
+256,RW Chakabva,Regis Wiriranai Chakabva,Zimbabwe,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,rw_chakabva.webp,MISSING,
+257,RR Pant,Rishabh Rajendra Pant,India,Left hand Bat,nan,Wicketkeeper Batter,rishabh_pant.webp,MISSING,
+258,RG Sharma,Rohit Gurunath Sharma,India,Right hand Bat,Right arm Offbreak,Top order Batter,rohit_sharma.webp,MISSING,
+259,RJ Burns,Rory Joseph Burns,England,Left hand Bat,Right arm Medium,Opening Batter,rory_burns.webp,MISSING,
+434,Roshen Silva,Roshen Silva,,,,,roshen_silva.webp,MISSING,237310
+435,Ross Taylor,Ross Taylor,,,,,ross_taylor.webp,MISSING,38699
+260,RL Chase,Roston Lamar Chase,West Indies,Right hand Bat,Right arm Offbreak,Allrounder,roston_chase.webp,MISSING,
+436,Rubel Hossain,Rubel Hossain,,,,,rubel_hossain.webp,MISSING,300619
+261,RP Burl,Ryan Ponsonby Burl,Zimbabwe,Left hand Bat,Legbreak,Allrounder,rp_burl.webp,MISSING,
+437,Sabbir Rahman,Sabbir Rahman,,,,,sabbir_rahman.webp,MISSING,373538
+438,Sadeera Samarawickrama,Sadeera Samarawickrama,,,,,sadeera_samarawickrama.webp,MISSING,629076
+439,Saif Hassan,Saif Hassan,,,,,saif_hassan.webp,MISSING,821749
+440,Sam Curran,Sam Curran,,,,,sam_curran.webp,MISSING,662973
+262,Sami Aslam,Sami Aslam,Pakistan,Left hand Bat,Right arm Medium,Opening Batter,sami_aslam.webp,MISSING,
+263,SM Curran,Samuel Matthew Curran,England,Left hand Bat,Left arm Medium fast,Allrounder,sm_curran.webp,MISSING,
+264,Sarfraz Ahmed,Sarfaraz Ahmed,Pakistan,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,sarfraz_ahmed.webp,MISSING,
+441,Sayed Shirzad,Sayed Shirzad,,,,,sayed_shirzad.webp,MISSING,524050
+265,SC Williams,Sean Colin Williams,Zimbabwe,Left hand Bat,Slow Left arm Orthodox,Allrounder,sc_williams.webp,MISSING,
+266,S Muthusamy,Senuran Muthusamy,South Africa,Left hand Bat,Slow Left arm Orthodox,Batting Allrounder,s_muthusamy.webp,MISSING,
+267,Shadab Khan,Shadab Khan,Pakistan,Right hand Bat,Legbreak,Allrounder,shadab_khan.webp,MISSING,
+442,Shadman Islam,Shadman Islam,,,,,shadman_islam.webp,MISSING,629057
+268,Shadman Islam,Shadman Islam Anik,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Opening Batter,shadman_islam.webp,MISSING,
+269,Shafiul Islam,Shafiul Islam,Bangladesh,Right hand Bat,Right arm Fast medium,Bowler,shafiul_islam.webp,MISSING,
+270,S Nadeem,Shahbaz Nadeem,India,Right hand Bat,Slow Left arm Orthodox,Bowler,s_nadeem.webp,MISSING,
+271,Shaheen Shah Afridi,Shaheen Shah Afridi,Pakistan,Left hand Bat,Left arm Fast,Bowler,shaheen_afridi.webp,MISSING,
+443,Shahidullah,Shahidullah,,,,,shahidullah.webp,MISSING,633366
+272,SD Hope,Shai Diego Hope,West Indies,Right hand Bat,nan,Wicketkeeper Batter,sd_hope.webp,MISSING,
+273,Shakib Al Hasan,Shakib Al Hasan,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Allrounder,shakib_al_hasan.webp,MISSING,
+274,SSJ Brooks,Shamarh Shaqad Joshua Brooks,West Indies,Right hand Bat,Legbreak,Top order Batter,ssj_brooks.webp,MISSING,
+444,Shan Masood,Shan Masood,,,,,shan_masood.webp,MISSING,233901
+275,Shan Masood,Shan Masood Khan,Pakistan,Left hand Bat,Right arm Medium fast,Opening Batter,shan_masood.webp,MISSING,
+276,SO Dowrich,Shane Omari Dowrich,West Indies,Right hand Bat,nan,Wicketkeeper Batter,shane_dowrich.webp,MISSING,
+277,ST Gabriel,Shannon Terry Gabriel,West Indies,Right hand Bat,Right arm Fast,Bowler,shannon_gabriel.webp,MISSING,
+278,SN Thakur,Shardul Narendra Thakur,India,Right hand Bat,Right arm Medium,Bowler,sn_thakur.webp,MISSING,
+279,Sharjeel Khan,Sharjeel Khan,Pakistan,Left hand Bat,Legbreak,Opening Batter,sharjeel_khan.webp,MISSING,
+280,SE Marsh,Shaun Edward Marsh,Australia,Left hand Bat,Slow Left arm Orthodox,Top order Batter,se_marsh.webp,MISSING,
+281,S Moseley,Shayne Akeel Richard Moseley,West Indies,Left hand Bat,Right arm Medium,Batter,s_moseley.webp,MISSING,
+282,SH Lewis,Shermon Hakim Lewis,West Indies,Right hand Bat,Right arm Fast,Bowler,sh_lewis.webp,MISSING,
+283,S Dhawan,Shikhar Dhawan,India,Left hand Bat,Right arm Offbreak,Opening Batter,s_dhawan.webp,MISSING,
+284,SO Hetmyer,Shimron Odilon Hetmyer,West Indies,Left hand Bat,nan,Middle order Batter,so_hetmyer.webp,MISSING,
+285,Shubman Gill,Shubman Gill,India,Right hand Bat,Right arm Offbreak,Opening Batter,shubman_gill.webp,MISSING,
+445,Sikandar Raza,Sikandar Raza,,,,,sikandar_raza.webp,MISSING,299572
+286,Sikandar Raza,Sikandar Raza Butt,Zimbabwe,Right hand Bat,"Right arm Offbreak, Legbreak",Batting Allrounder,sikandar_raza.webp,MISSING,
+446,Sir Alastair Cook,Sir Alastair Cook,,,,,sir_cook.webp,MISSING,11728
+287,SF Mire,Solomon Farai Mire,Zimbabwe,Right hand Bat,Right arm Medium fast,Batter,sf_mire.webp,MISSING,
+288,Soumya Sarkar,Soumya Sarkar,Bangladesh,Left hand Bat,Right arm Medium fast,Batting Allrounder,soumya_sarkar.webp,MISSING,
+289,SC Cook,Stephen Craig Cook,South Africa,Right hand Bat,Right arm Medium,Opening Batter,sc_cook.webp,MISSING,
+290,SNJ O'Keefe,Stephen Norman John O'Keefe,Australia,Right hand Bat,Slow Left arm Orthodox,Allrounder,snj_okeefe.webp,MISSING,
+447,Steve O'Keefe,Steve O'Keefe,,,,,steve_okeefe.webp,MISSING,7069
+291,SPD Smith,Steven Peter Devereux Smith,Australia,Right hand Bat,Legbreak Googly,Top order Batter,steve_smith.webp,MISSING,
+292,SCJ Broad,Stuart Christopher John Broad,England,Left hand Bat,Right arm Fast medium,Bowler,stuart_broad.webp,MISSING,
+448,Stuart Poynter,Stuart Poynter,,,,,stuart_poynter.webp,MISSING,308294
+293,SR Thompson,Stuart Robert Thompson,Ireland,Left hand Bat,Right arm Medium fast,Bowler,sr_thompson.webp,MISSING,
+294,Subashis Roy,Subashis Roy,Bangladesh,Right hand Bat,Right arm Fast medium,nan,subashis_roy.webp,MISSING,
+295,SW Ambris,Sunil Walford Ambris,West Indies,Right hand Bat,nan,Opening Batter,sw_ambris.webp,MISSING,
+296,Sunzamul Islam,Sunzamul Islam,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,sunzamul_islam.webp,MISSING,
+449,Suranga Lakmal,Suranga Lakmal,,,,,suranga_lakmal.webp,MISSING,49619
+297,Khaled Ahmed,Syed Khaled Ahmed,Bangladesh,Right hand Bat,Right arm Medium fast,Bowler,khaled_ahmed.webp,MISSING,
+298,T Shamsi,Tabraiz Shamsi,South Africa,Right hand Bat,Left arm Wrist spin,Bowler,t_shamsi.webp,MISSING,
+299,Taijul Islam,Taijul Islam,Bangladesh,Left hand Bat,Slow Left arm Orthodox,Bowling Allrounder,taijul_islam.webp,MISSING,
+450,Tamim Iqbal,Tamim Iqbal,,,,,tamim_iqbal.webp,MISSING,56194
+300,Tamim Iqbal,Tamim Iqbal Khan,Bangladesh,Left hand Bat,nan,Opening Batter,tamim_iqbal.webp,MISSING,
+301,TK Musakanda,Tarisai Kenneth Musakanda,Zimbabwe,Right hand Bat,"Right arm Medium, Right arm Slow medium",Top order Batter,tk_musakanda.webp,MISSING,
+302,Taskin Ahmed,Taskin Ahmed,Bangladesh,Left hand Bat,Right arm Fast,Bowler,taskin_ahmed.webp,MISSING,
+303,T Bavuma,Temba Bavuma,South Africa,Right hand Bat,Right arm Medium,Middle order Batter,temba_bavuma.webp,MISSING,
+304,TL Chatara,Tendai Larry Chatara,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,tl_chatara.webp,MISSING,
+305,TS Chisoro,Tendai Sam Chisoro,Zimbabwe,Left hand Bat,"Left arm Fast medium, Slow Left arm Orthodox",Bowler,ts_chisoro.webp,MISSING,
+306,T Natarajan,Thangarasu Natarajan,India,Left hand Bat,Left arm Medium,Bowler,t_natarajan.webp,MISSING,
+307,TB de Bruyn,Theunis Booysen de Bruyn,South Africa,Right hand Bat,Right arm Medium fast,Middle order Batter,theunis_bruyn.webp,MISSING,
+308,TA Blundell,Thomas Ackland Blundell,New Zealand,Right hand Bat,Right arm Offbreak,Wicketkeeper Batter,ta_blundell.webp,MISSING,
+309,TK Curran,Thomas Kevin Curran,England,Right hand Bat,Right arm Fast medium,Allrounder,tk_curran.webp,MISSING,
+310,T Westley,Thomas Westley,England,Right hand Bat,Right arm Offbreak,Top order Batter,t_westley.webp,MISSING,
+311,TWM Latham,Thomas William Maxwell Latham,New Zealand,Left hand Bat,Right arm Medium,Wicketkeeper Batter,tom_latham.webp,MISSING,
+312,TD Paine,Timothy David Paine,Australia,Right hand Bat,Right arm Medium,Wicketkeeper Batter,tim_paine.webp,MISSING,
+313,TG Southee,Timothy Grant Southee,New Zealand,Right hand Bat,Right arm Medium fast,Bowler,tim_southee.webp,MISSING,
+314,TJ Murtagh,Timothy James Murtagh,Ireland,Left hand Bat,Right arm Fast medium,Bowler,tj_murtagh.webp,MISSING,
+315,T Maruma,Timycen Hlahla Maruma,Zimbabwe,Right hand Bat,Legbreak Googly,Top order Batter,t_maruma.webp,MISSING,
+451,Tinotenda Mutombodzi,Tinotenda Mutombodzi,,,,,tinotenda_mutombodzi.webp,MISSING,333001
+316,TS Roland-Jones,Tobias Skelton Roland-Jones,England,Right hand Bat,Right arm Medium fast,Bowler,ts_rolandjones.webp,MISSING,
+452,Toby Roland-Jones,Toby Roland-Jones,,,,,toby_rolandjones.webp,MISSING,370535
+317,TD Astle,Todd Duncan Astle,New Zealand,Right hand Bat,Legbreak,Bowler,td_astle.webp,MISSING,
+318,TM Head,Travis Michael Head,Australia,Left hand Bat,Right arm Offbreak,Top order Batter,travis_head.webp,MISSING,
+319,TA Boult,Trent Alexander Boult,New Zealand,Right hand Bat,Left arm Fast medium,Bowler,trent_boult.webp,MISSING,
+320,TE Kane,Tyrone Edward Kane,Ireland,Right hand Bat,Right arm Medium fast,Bowler,te_kane.webp,MISSING,
+453,Umesh Yadav,Umesh Yadav,,,,,umesh_yadav.webp,MISSING,376116
+321,UT Yadav,Umeshkumar Tilak Yadav,India,Right hand Bat,Right arm Fast,Bowler,ut_yadav.webp,MISSING,
+454,Upul Tharanga,Upul Tharanga,,,,,upul_tharanga.webp,MISSING,50747
+322,Usman Salahuddin,Usman Salahuddin,Pakistan,Right hand Bat,nan,Middle order Batter,usman_salahuddin.webp,MISSING,
+323,UT Khawaja,Usman Tariq Khawaja,Australia,Left hand Bat,Right arm Medium,Top order Batter,usman_khawaja.webp,MISSING,
+324,VD Philander,Vernon Darryl Philander,South Africa,Right hand Bat,Right arm Fast medium,Allrounder,vernon_philander.webp,MISSING,
+325,VM Nyauchi,Victor Munyaradzi Nyauchi,Zimbabwe,Right hand Bat,Right arm Fast medium,Bowler,vm_nyauchi.webp,MISSING,
+326,V Kohli,Virat Kohli,India,Right hand Bat,Right arm Medium,Top order Batter,virat_kohli.jpg,READY,
+327,VA Singh,Vishaul Anthony Singh,West Indies,Left hand Bat,Slow Left arm Orthodox,nan,va_singh.webp,MISSING,
+455,Vishwa Fernando,Vishwa Fernando,,,,,vishwa_fernando.webp,MISSING,465783
+456,Wafadar Momand,Wafadar Momand,,,,,wafadar_momand.webp,MISSING,973945
+328,Wahab Riaz,Wahab Riaz,Pakistan,Right hand Bat,Left arm Fast,Bowler,wahab_riaz.webp,MISSING,
+329,RTM Mendis,Wanigamuni Ramesh Tarinda Mendis,Sri Lanka,Right hand Bat,Right arm Offbreak,Allrounder,rtm_mendis.webp,MISSING,
+457,Waqar Salamkheil,Waqar Salamkheil,,,,,waqar_salamkheil.webp,MISSING,1108490
+330,WU Tharanga,Warushavithana Upul Tharanga,Sri Lanka,Left hand Bat,nan,Batter,wu_tharanga.webp,MISSING,
+331,Washington Sundar,Washington Sundar,India,Left hand Bat,Right arm Offbreak,Bowling Allrounder,washington_sundar.webp,MISSING,
+332,WD Parnell,Wayne Dillon Parnell,South Africa,Left hand Bat,Left arm Medium fast,Bowler,wd_parnell.webp,MISSING,
+333,S Samarawickrama,Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,Right hand Bat,nan,Wicketkeeper Batter,s_samarawickrama.webp,MISSING,
+334,WP Masakadza,Wellington Pedzisai Masakadza,Zimbabwe,Left hand Bat,Slow Left arm Orthodox,Bowler,wp_masakadza.webp,MISSING,
+458,Wesley Madhevere,Wesley Madhevere,,,,,wesley_madhevere.webp,MISSING,938959
+459,Wiaan Mulder,Wiaan Mulder,,,,,wiaan_mulder.webp,MISSING,698189
+335,WA Young,William Alexander Young,New Zealand,Right hand Bat,Right arm Offbreak,Top order Batter,wa_young.webp,MISSING,
+336,WB Rankin,William Boyd Rankin,Ireland,Left hand Bat,Right arm Fast medium,Bowler,wb_rankin.webp,MISSING,
+337,WER Somerville,William Edgar Richard Somerville,New Zealand,Right hand Bat,Right arm Offbreak,Bowler,wer_somerville.webp,MISSING,
+338,WJ Pucovski,William Jan Pucovski,Australia,Right hand Bat,nan,Top order Batter,wj_pucovski.webp,MISSING,
+339,WTS Porterfield,William Thomas Stuart Porterfield,Ireland,Left hand Bat,Right arm Offbreak,Batter,wts_porterfield.webp,MISSING,
+340,WP Saha,Wriddhiman Prasanta Saha,India,Right hand Bat,nan,Wicketkeeper Batter,wp_saha.webp,MISSING,
+460,Yamin Ahmadzai,Yamin Ahmadzai,,,,,yamin_ahmadzai.webp,MISSING,440968
+341,Yasir Shah,Yasir Shah,Pakistan,Right hand Bat,Legbreak Googly,Bowler,yasir_shah.webp,MISSING,
+461,Younis Khan,Younis Khan,,,,,younis_khan.webp,MISSING,43652
+462,Zafar Gohar,Zafar Gohar,,,,,zafar_gohar.webp,MISSING,348154
+342,Zafar Gohar,Zafar Gohar Khan,Pakistan,Left hand Bat,Slow Left arm Orthodox,Bowler,zafar_gohar.webp,MISSING,
+463,Zahir Khan,Zahir Khan,,,,,zahir_khan.webp,MISSING,712219
+343,Z Crawley,Zak Crawley,England,Right hand Bat,Right arm Offbreak,Top order Batter,zak_crawley.webp,MISSING,
+344,Zubayr Hamza,Zubayr Hamza,South Africa,Right hand Bat,Legbreak,Batter,zubayr_hamza.webp,MISSING,

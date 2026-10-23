@@ -47,14 +47,37 @@ data class MatchHero(
     val team: String,
     val rating: Float,
     val headlineStat: String,
-    val impactSnippet: String
+    val impactSnippet: String,
+    val playerId: Long? = null
 )
 
 data class KeyMatchNumbers(
-    val firstInningsLead: String,
-    val targetSet: String,
-    val manOfTheMatch: String,
-    val manOfTheMatchDetails: String
+    val mostRuns: String = "-",
+    val mostWickets: String = "-",
+    val highestPartnership: String = "-",
+    val bestBowling: String = "-",
+    val firstInningsLead: String = "-",
+    val targetSet: String = "-",
+    val manOfTheMatch: String = "-",
+    val manOfTheMatchDetails: String = "-"
+)
+
+data class MatchSnapshotScore(
+    val team1Name: String,
+    val team1Scores: String,
+    val team2Name: String,
+    val team2Scores: String,
+    val daysUsed: String
+)
+
+data class MatchControlSummary(
+    val momentumWinner: String,
+    val pressureAppliedBetter: String,
+    val team1Name: String,
+    val team1SessionsWon: Int,
+    val team2Name: String,
+    val team2SessionsWon: Int,
+    val neutralSessions: Int
 )
 
 data class TopTurningPoint(
@@ -63,7 +86,8 @@ data class TopTurningPoint(
     val winProbShift: String,
     val impactHero: String,
     val importanceScore: String,
-    val narrative: String
+    val narrative: String,
+    val playerId: Long? = null
 )
 
 data class RankedEvent(
@@ -125,7 +149,8 @@ data class BatterScore(
     val balls: Int,
     val fours: Int,
     val sixes: Int,
-    val strikeRate: Float
+    val strikeRate: Float,
+    val playerId: Long? = null
 )
 
 data class BowlerScore(
@@ -134,13 +159,15 @@ data class BowlerScore(
     val maidens: Int,
     val runs: Int,
     val wickets: Int,
-    val economy: Float
+    val economy: Float,
+    val playerId: Long? = null
 )
 
 data class FOW(
     val score: String,
     val batterName: String,
-    val over: String
+    val over: String,
+    val playerId: Long? = null
 )
 
 data class DetailedPartnership(
@@ -154,7 +181,9 @@ data class DetailedPartnership(
     val totalRuns: Int,
     val totalBalls: Int,
     val isKey: Boolean = false,
-    val intelligenceLabel: String = ""
+    val intelligenceLabel: String = "",
+    val batter1Id: Long? = null,
+    val batter2Id: Long? = null
 )
 
 data class InningsScorecard(

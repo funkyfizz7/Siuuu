@@ -1,0 +1,101 @@
+question,expected_intent,expected_entity,expected_answer_source,pass_fail,notes
+Why did Australia win?,MATCH_SUMMARY,team=Australia,"dim_matches.json, fact_match_story.csv",PASS,Australia 1st Test win analysis
+Why did they win?,MATCH_SUMMARY,pronoun: they->Australia,"dim_matches.json, fact_match_story.csv",PASS,Contextual pronoun resolution for match winner
+What changed the match?,MATCH_TURNING_POINT,metric=turning_point,fact_match_turning_points.csv,PASS,Turning point query
+What was the turning point?,MATCH_TURNING_POINT,metric=turning_point,fact_match_turning_points.csv,PASS,Key match turning point identification
+What was the biggest turning point?,MATCH_TURNING_POINT,metric=turning_point,fact_match_turning_points.csv,PASS,Rank 1 turning point
+Who controlled Day 3?,MATCH_MOMENTUM,"day=3, metric=momentum","fact_match_sessions.csv, fact_momentum.json",PASS,Day 3 session control analysis
+Who controlled Day 4?,MATCH_MOMENTUM,"day=4, metric=momentum","fact_match_sessions.csv, fact_momentum.json",PASS,Day 4 session control analysis
+Who won momentum?,MATCH_MOMENTUM,metric=momentum,"fact_match_story.csv, fact_momentum.json",PASS,Overall match momentum dominance
+How did the momentum shift?,MATCH_MOMENTUM,metric=momentum,"fact_match_story.csv, fact_momentum.json",PASS,Momentum transition over match
+Who applied more pressure?,MATCH_PRESSURE,metric=pressure,"fact_match_pressure.json, fact_match_story.csv",PASS,Pressure index driver analysis
+When was pressure highest?,MATCH_PRESSURE,metric=pressure,fact_match_pressure.json,PASS,Peak pressure identification
+When was the pressure highest?,MATCH_PRESSURE,metric=pressure,fact_match_pressure.json,PASS,Peak pressure identification variant
+What was the biggest partnership?,MATCH_PARTNERSHIP,metric=partnership,"fact_partnerships.csv, fact_match_story.csv",PASS,Highest partnership in match
+What was the highest partnership in the match?,MATCH_PARTNERSHIP,metric=partnership,fact_partnerships.csv,PASS,Top partnership stand
+How did England collapse?,MATCH_COLLAPSE,"team=England, metric=collapse",fact_match_collapses.csv,PASS,4th innings England collapse
+What was the biggest collapse?,MATCH_COLLAPSE,metric=collapse,fact_match_collapses.csv,PASS,Major collapse severity
+How did Australia recover?,MATCH_RECOVERY,"team=Australia, metric=recovery",fact_match_recoveries.csv,PASS,1st innings Australia recovery from 122/8
+What was the best recovery?,MATCH_RECOVERY,metric=recovery,fact_match_recoveries.csv,PASS,Top recovery stand
+Who was Player of the Match?,MATCH_SUMMARY,metric=player_of_match,dim_matches.json,PASS,Player of Match resolution
+What was the victory margin?,MATCH_SUMMARY,metric=margin,dim_matches.json,PASS,Victory margin details
+Where was the 1st Test played?,MATCH_SUMMARY,venue=Edgbaston,dim_matches.json,PASS,Venue detail lookup
+How did England lose the match?,MATCH_SUMMARY,team=England,"dim_matches.json, fact_match_story.csv",PASS,Defeat causation analysis
+How did Australia beat England?,MATCH_SUMMARY,team=Australia,"dim_matches.json, fact_match_story.csv",PASS,Match summary causation
+What happened in the 4th innings?,MATCH_SUMMARY,innings=4,"fact_match_sessions.csv, fact_match_collapses.csv",PASS,4th innings summary
+Who won the first Test?,MATCH_SUMMARY,winner=Australia,dim_matches.json,PASS,1st Test winner query
+Why did Australia dominate?,MATCH_SUMMARY,team=Australia,"dim_matches.json, fact_match_story.csv",PASS,Team dominance explanation
+What was the match story?,MATCH_SUMMARY,story=fact_match_story,fact_match_story.csv,PASS,Narrative match summary
+Who dominated Day 1?,MATCH_MOMENTUM,"day=1, metric=momentum",fact_match_sessions.csv,PASS,Day 1 session control
+Who dominated Day 2?,MATCH_MOMENTUM,"day=2, metric=momentum",fact_match_sessions.csv,PASS,Day 2 session control
+What changed in the second innings?,MATCH_TURNING_POINT,innings=2,fact_match_turning_points.csv,PASS,2nd innings shift
+Why is Smith rated 9.7?,PLAYER_RATING,"player=Steve Smith (id=267), rating=9.7","fact_player_match_rating.csv, fact_player_match_impact.csv",PASS,Smith rating breakdown
+Why is Steve Smith rated 9.7?,PLAYER_RATING,"player=Steve Smith (id=267), rating=9.7",fact_player_match_rating.csv,PASS,Full name rating query
+Why is he rated so highly?,PLAYER_RATING,pronoun: he->Steve Smith (id=267),fact_player_match_rating.csv,PASS,Pronoun-based rating query
+Why is Cummins rated so high?,PLAYER_RATING,player=Pat Cummins (id=236),fact_player_match_rating.csv,PASS,Cummins rating query
+Why is Nathan Lyon rated so high?,PLAYER_RATING,player=Nathan Lyon (id=238),fact_player_match_rating.csv,PASS,Lyon rating query
+Why is Ben Stokes rated so high?,PLAYER_RATING,player=Ben Stokes (id=31),fact_player_match_rating.csv,PASS,Stokes rating query
+Why is Joe Root rated so high?,PLAYER_RATING,player=Joe Root (id=148),fact_player_match_rating.csv,PASS,Root rating query
+How did Root score his century?,PLAYER_PERFORMANCE,player=Joe Root (id=148),"fact_player_match.csv, fact_player_innings.csv",PASS,Root century analysis
+How did Steve Smith score his twin centuries?,PLAYER_PERFORMANCE,player=Steve Smith (id=267),fact_player_match.csv,PASS,Smith twin centuries
+How did Warner perform?,PLAYER_PERFORMANCE,player=David Warner (id=77),fact_player_match.csv,PASS,Warner match performance
+How did David Warner perform?,PLAYER_PERFORMANCE,player=David Warner (id=77),fact_player_match.csv,PASS,Warner full name query
+How did Usman Khawaja play?,PLAYER_PERFORMANCE,player=Usman Khawaja (id=308),fact_player_match.csv,PASS,Khawaja performance query
+How did Matthew Wade bat?,PLAYER_PERFORMANCE,player=Matthew Wade (id=216),fact_player_match.csv,PASS,Wade performance query
+How did Travis Head perform?,PLAYER_PERFORMANCE,player=Travis Head (id=310),fact_player_match.csv,PASS,Head performance query
+How did Stuart Broad bowl?,PLAYER_PERFORMANCE,player=Stuart Broad (id=292),fact_player_match.csv,PASS,Broad bowling performance
+How did James Anderson bowl?,PLAYER_PERFORMANCE,player=James Anderson (id=134),fact_player_match.csv,PASS,Anderson bowling performance
+How did Chris Woakes perform?,PLAYER_PERFORMANCE,player=Chris Woakes (id=60),fact_player_match.csv,PASS,Woakes match performance
+What was Lyon's best spell?,PLAYER_SPELL,player=Nathan Lyon (id=238),fact_bowling_spells.csv,PASS,Lyon 6/49 spell analysis
+What was Cummins' best spell?,PLAYER_SPELL,player=Pat Cummins (id=236),fact_bowling_spells.csv,PASS,Cummins best spell
+What was Broad's best spell?,PLAYER_SPELL,player=Stuart Broad (id=292),fact_bowling_spells.csv,PASS,Broad best spell
+What was Pattinson's best spell?,PLAYER_SPELL,player=James Pattinson (id=141),fact_bowling_spells.csv,PASS,Pattinson best spell
+Who had highest impact?,STAT_QUERY,metric=impact,fact_player_match_impact.csv,PASS,Top match impact player
+Who was the MVP?,STAT_QUERY,metric=mvp,fact_player_match_impact.csv,PASS,Match MVP query
+Why is Peter Siddle rated so high?,PLAYER_RATING,player=Peter Siddle (id=240),fact_player_match_rating.csv,PASS,Siddle rating query
+How did Tim Paine perform?,PLAYER_PERFORMANCE,player=Tim Paine (id=303),fact_player_match.csv,PASS,Paine match performance
+Who dominated the Ashes?,SERIES_SUMMARY,series=Ashes 2019 (id=37),"dim_series.csv, fact_series_story.csv",PASS,Ashes dominance summary
+Who won the Ashes 2019?,SERIES_SUMMARY,series=Ashes 2019 (id=37),"dim_series.csv, fact_series_matches.csv",PASS,Ashes 2019 result (2-2)
+Who won the series?,SERIES_SUMMARY,pronoun: this series->Ashes 2019,"dim_series.csv, fact_series_matches.csv",PASS,Contextual series result
+Summarize Ashes 2019,SERIES_SUMMARY,series=Ashes 2019 (id=37),fact_series_story.csv,PASS,Ashes 2019 recap
+Summarize the 2019 Ashes series,SERIES_SUMMARY,series=Ashes 2019 (id=37),fact_series_story.csv,PASS,Ashes 2019 series recap
+Most runs in Ashes 2019?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=runs",series_batting_rankings.csv,PASS,Top run scorer (Smith 774)
+Most runs in the series?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=runs",series_batting_rankings.csv,PASS,Top run scorer contextual
+Most runs?,SERIES_STATS,metric=runs,series_batting_rankings.csv,PASS,Most runs concise query
+Most wickets in Ashes 2019?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=wickets",series_bowling_rankings.csv,PASS,Top wicket taker (Cummins 29)
+Most wickets in the series?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=wickets",series_bowling_rankings.csv,PASS,Top wicket taker contextual
+Most wickets?,SERIES_STATS,metric=wickets,series_bowling_rankings.csv,PASS,Most wickets concise query
+Best batter in Ashes 2019?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=runs",series_batting_rankings.csv,PASS,Best batter ranking
+Best batter?,SERIES_STATS,metric=runs,series_batting_rankings.csv,PASS,Best batter concise query
+Best bowler in Ashes 2019?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=wickets",series_bowling_rankings.csv,PASS,Best bowler ranking
+Best bowler?,SERIES_STATS,metric=wickets,series_bowling_rankings.csv,PASS,Best bowler concise query
+Who scored the most centuries in Ashes 2019?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=centuries",series_batting_rankings.csv,PASS,Century count ranking
+Who had the highest batting average in Ashes 2019?,SERIES_STATS,"series=Ashes 2019 (id=37), metric=average",series_batting_rankings.csv,PASS,Batting average ranking (Smith 110.57)
+What was the final scoreline of Ashes 2019?,SERIES_SUMMARY,series=Ashes 2019 (id=37),fact_series_matches.csv,PASS,Scoreline details (2-2)
+Did Australia retain the Ashes in 2019?,SERIES_SUMMARY,series=Ashes 2019 (id=37),fact_series_story.csv,PASS,Urn retention query
+Which Tests did Australia win in Ashes 2019?,SERIES_SUMMARY,series=Ashes 2019 (id=37),fact_series_matches.csv,PASS,Australia win breakdown (1st & 4th Test)
+Highest control %?,STAT_QUERY,metric=control,fact_player_match_impact.csv,PASS,Highest control percentage
+Who had the highest control percentage?,STAT_QUERY,metric=control,fact_player_match_impact.csv,PASS,Control % leader query
+Best bowling rating?,STAT_QUERY,metric=bowling_rating,fact_player_match_rating.csv,PASS,Top bowling rating query
+Who had the best bowling rating in the match?,STAT_QUERY,metric=bowling_rating,fact_player_match_rating.csv,PASS,Bowling rating leader
+Most dot balls?,STAT_QUERY,metric=dot_balls,fact_bowling_spells.csv,PASS,Dot ball count leader
+Who bowled the most dot balls in the match?,STAT_QUERY,metric=dot_balls,fact_bowling_spells.csv,PASS,Dot balls bowled leader
+Highest impact rating?,STAT_QUERY,metric=impact,fact_player_match_impact.csv,PASS,Impact rating query
+Who had the highest impact rating?,STAT_QUERY,metric=impact,fact_player_match_impact.csv,PASS,Highest impact player
+Best batting rating?,STAT_QUERY,metric=batting_rating,fact_player_match_rating.csv,PASS,Top batting rating query
+Who had the best batting rating?,STAT_QUERY,metric=batting_rating,fact_player_match_rating.csv,PASS,Batting rating leader
+Best bowling figures in the match?,STAT_QUERY,metric=bowling_figures,fact_bowling_spells.csv,PASS,BBI query (Lyon 6/49)
+Highest individual score in the match?,STAT_QUERY,metric=score,fact_player_match.csv,PASS,Smith 144 / 142
+Who had the lowest economy rate?,STAT_QUERY,metric=economy,fact_bowling_spells.csv,PASS,Best economy rate
+Highest team total in the match?,STAT_QUERY,metric=score,dim_matches.json,PASS,Australia 487/7d in 2nd inn
+Most wickets in a single innings?,STAT_QUERY,metric=wickets,fact_bowling_spells.csv,PASS,Lyon 6 wickets in 4th inn
+Summarize Day 4.,SESSION_SUMMARY,day=4,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Day 4 tactical summary
+Summarize Day 1.,SESSION_SUMMARY,day=1,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Day 1 tactical summary
+Summarize Day 2.,SESSION_SUMMARY,day=2,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Day 2 tactical summary
+Summarize Day 3.,SESSION_SUMMARY,day=3,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Day 3 tactical summary
+Summarize Day 5.,SESSION_SUMMARY,day=5,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Day 5 tactical summary
+Explain Session 2.,SESSION_SUMMARY,session=2,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Session 2 tactical summary
+Explain Session 1.,SESSION_SUMMARY,session=1,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Session 1 tactical summary
+Explain Session 3.,SESSION_SUMMARY,session=3,"fact_match_sessions.csv, fact_session_commentary.csv",PASS,Session 3 tactical summary
+How did England recover?,MATCH_RECOVERY,"team=England, metric=recovery",fact_match_recoveries.csv,PASS,England recovery narrative
+What happened in Day 4 Session 2?,SESSION_SUMMARY,"day=4, session=2",fact_session_commentary.csv,PASS,Day 4 Session 2 detailed recap

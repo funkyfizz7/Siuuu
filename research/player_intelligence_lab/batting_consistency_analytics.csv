@@ -1,0 +1,185 @@
+player_id,innings_count,mean_runs_per_innings,std_runs,coefficient_of_variation,median_runs,iqr_runs,single_digit_failure_pct,milestone_conversion_pct,hundreds,fifties,full_name,country,playing_role,batting_average
+AU Rashid,15,16.33,10.93,0.669,15.0,14.0,26.67,0.0,0,0,Adil Usman Rashid,England,Bowler,20.42
+AY Patel,10,5.3,3.65,0.689,5.5,2.0,90.0,0.0,0,0,Ajaz Yunus Patel,New Zealand,Bowler,7.57
+Mohammad Amir,21,10.19,7.51,0.737,9.0,9.0,52.38,0.0,0,0,Mohammad Amir,Pakistan,Bowler,11.89
+JL Denly,28,29.54,22.26,0.754,25.5,22.2,14.29,0.0,0,6,Joseph Liam Denly,England,Top order Batter,29.54
+AB de Villiers,15,46.07,35.71,0.775,53.0,54.0,26.67,12.5,1,7,Abraham Benjamin de Villiers,South Africa,Wicketkeeper Batter,53.15
+MD Stoneman,20,26.3,20.61,0.784,21.5,34.2,30.0,0.0,0,5,Mark Daniel Stoneman,England,Top order Batter,27.68
+AJ Finch,10,27.8,21.9,0.788,28.0,37.8,30.0,0.0,0,2,Aaron James Finch,Australia,Top order Batter,27.8
+N Dickwella,69,30.93,25.11,0.812,25.0,35.0,26.09,0.0,0,16,Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,Wicketkeeper Batter,32.83
+TD Paine,49,25.45,21.09,0.829,23.0,31.0,30.61,0.0,0,7,Timothy David Paine,Australia,Wicketkeeper Batter,31.97
+Liton Das,33,27.88,23.2,0.832,25.0,26.0,27.27,0.0,0,6,Litton Kumer Das,Bangladesh,Wicketkeeper Batter,27.88
+VD Philander,46,19.02,15.92,0.837,15.5,23.5,30.43,0.0,0,3,Vernon Darryl Philander,South Africa,Allrounder,24.31
+Mohammad Rizwan,17,39.35,32.95,0.837,33.0,50.0,17.65,16.67,1,5,Mohammad Rizwan,Pakistan,Wicketkeeper Batter,44.6
+Faheem Ashraf,13,38.08,32.14,0.844,29.0,49.0,23.08,0.0,0,4,Faheem Ashraf,Pakistan,Bowling Allrounder,41.25
+JK Silva,12,13.42,11.41,0.85,11.5,21.8,41.67,0.0,0,0,Jayan Kaushal Silva,Sri Lanka,Wicketkeeper Batter,13.42
+C de Grandhomme,33,32.94,28.1,0.853,26.0,41.0,24.24,11.11,1,8,Colin de Grandhomme,New Zealand,Allrounder,37.48
+Shadab Khan,11,27.27,23.36,0.856,16.0,45.0,36.36,0.0,0,3,Shadab Khan,Pakistan,Allrounder,33.33
+JD Campbell,28,20.21,17.36,0.859,15.0,25.8,32.14,0.0,0,1,John Dillon Campbell,West Indies,Opening Batter,21.77
+SM Curran,32,23.16,20.19,0.872,17.0,25.0,25.0,0.0,0,3,Samuel Matthew Curran,England,Allrounder,25.55
+Shadman Islam,11,27.09,23.74,0.876,27.0,27.0,36.36,0.0,0,2,Shadman Islam Anik,Bangladesh,Opening Batter,27.09
+PJ Moor,10,32.2,28.22,0.877,29.5,39.5,30.0,0.0,0,3,Peter Joseph Moor,Ireland,Wicketkeeper Batter,35.78
+JC Buttler,56,34.71,30.63,0.882,30.0,37.8,25.0,14.29,2,12,Joseph Charles Buttler,England,Wicketkeeper Batter,36.0
+Shubman Gill,13,29.08,25.71,0.884,29.0,34.0,23.08,0.0,0,3,Shubman Gill,India,Opening Batter,34.36
+MA Starc,41,16.17,14.32,0.886,14.0,20.0,43.9,0.0,0,2,Mitchell Aaron Starc,Australia,Bowler,19.5
+M Labuschagne,31,60.81,53.92,0.887,48.0,55.0,12.9,33.33,5,10,Marnus Labuschagne,Australia,Batter,60.81
+Hasan Ali,18,10.5,9.31,0.887,8.0,15.5,61.11,0.0,0,0,Hasan Ali,Pakistan,Bowler,14.54
+SO Hetmyer,29,28.45,25.35,0.891,20.0,22.0,13.79,0.0,0,5,Shimron Odilon Hetmyer,West Indies,Middle order Batter,28.45
+HE van der Dussen,14,34.64,30.92,0.893,20.5,49.5,21.43,0.0,0,5,Hendrik Erasmus van der Dussen,South Africa,Top order Batter,34.64
+RW Chakabva,16,18.75,16.89,0.901,13.5,17.0,25.0,0.0,0,1,Regis Wiriranai Chakabva,Zimbabwe,Wicketkeeper Batter,20.0
+PSP Handscomb,24,28.54,25.71,0.901,19.0,20.5,12.5,33.33,1,2,Peter Stephen Patrick Handscomb,Australia,Batter,32.62
+T Bavuma,51,28.37,25.74,0.907,20.0,38.5,31.37,0.0,0,11,Temba Bavuma,South Africa,Middle order Batter,31.46
+AM Rahane,67,34.34,31.45,0.916,27.0,40.5,22.39,22.22,4,14,Ajinkya Madhukar Rahane,India,Top order Batter,37.11
+JM Vince,11,30.55,28.01,0.917,18.0,24.0,18.18,0.0,0,3,James Michael Vince,England,Batter,30.55
+PADLR Sandakan,12,7.0,6.52,0.932,6.5,3.8,83.33,0.0,0,0,Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,Bowler,9.33
+Tamim Iqbal,35,33.11,31.0,0.936,25.0,46.5,37.14,10.0,1,9,Tamim Iqbal Khan,Bangladesh,Opening Batter,33.11
+HDRL Thirimanne,28,28.82,27.36,0.949,22.0,33.0,28.57,16.67,1,5,Hettige Don Rumesh Lahiru Thirimanne,Sri Lanka,Top order Batter,28.82
+RAS Lakmal,52,11.48,10.91,0.95,8.5,11.2,51.92,0.0,0,0,Ranasinghe Arachchige Suranga Lakmal,Sri Lanka,Bowler,13.27
+TM Head,31,37.19,35.35,0.95,25.0,39.5,16.13,22.22,2,7,Travis Michael Head,Australia,Top order Batter,39.76
+Asad Shafiq,41,32.32,30.79,0.953,21.0,50.0,31.71,18.18,2,9,Asad Shafiq,Pakistan,Middle order Batter,32.32
+MS Harris,19,22.53,21.54,0.956,14.0,17.5,31.58,0.0,0,2,Marcus Sinclair Harris,Australia,Opening Batter,23.78
+MD Gunathilaka,16,18.69,17.88,0.957,16.5,16.8,37.5,0.0,0,2,Mashtayage Danushka Gunathilaka,Sri Lanka,Allrounder,18.69
+RA Jadeja,34,31.94,30.7,0.961,16.0,52.8,35.29,8.33,1,11,Ravindrasinh Anirudhsinh Jadeja,India,Allrounder,51.71
+KOA Powell,36,26.08,25.08,0.962,21.0,34.5,36.11,0.0,0,4,Kieran Omar Akeem Powell,West Indies,Opening Batter,26.08
+Sikandar Raza,18,36.0,34.74,0.965,27.5,26.8,22.22,25.0,1,3,Sikandar Raza Butt,Zimbabwe,Batting Allrounder,36.0
+RR Pant,33,41.15,39.92,0.97,27.0,46.0,21.21,33.33,3,6,Rishabh Rajendra Pant,India,Wicketkeeper Batter,45.27
+SC Williams,12,33.83,32.83,0.97,21.0,30.0,16.67,33.33,1,2,Sean Colin Williams,Zimbabwe,Allrounder,36.91
+CT Bancroft,18,24.78,24.06,0.971,20.0,19.5,33.33,0.0,0,3,Cameron Timothy Bancroft,Australia,Wicketkeeper Batter,26.24
+BA Stokes,73,37.38,36.34,0.972,26.0,47.0,24.66,27.27,6,16,Benjamin Andrew Stokes,England,Allrounder,39.55
+Nazmul Hossain Shanto,11,21.91,21.37,0.975,13.0,23.5,27.27,0.0,0,1,Najmul Hossain Shanto,Bangladesh,Top order Batter,21.91
+SPD Smith,49,58.59,57.1,0.975,38.0,67.0,22.45,45.45,10,12,Steven Peter Devereux Smith,Australia,Top order Batter,63.8
+DW Lawrence,10,24.8,24.33,0.981,19.5,36.5,40.0,0.0,0,2,Daniel William Lawrence,England,Middle order Batter,27.56
+Imrul Kayes,26,15.46,15.23,0.985,6.5,27.2,53.85,0.0,0,0,Imrul Kayes,Bangladesh,Opening Batter,16.08
+Shaheen Shah Afridi,22,3.86,3.82,0.989,3.0,5.5,90.91,0.0,0,0,Shaheen Shah Afridi,Pakistan,Bowler,4.72
+GH Vihari,21,29.71,29.47,0.992,20.0,33.0,28.57,20.0,1,4,Gade Hanuma Vihari,India,Batting Allrounder,32.84
+Sarfraz Ahmed,30,26.63,26.46,0.993,18.0,37.0,36.67,0.0,0,8,Sarfaraz Ahmed,Pakistan,Wicketkeeper Batter,28.54
+TG Southee,26,15.69,15.82,1.008,11.0,18.2,42.31,0.0,0,2,Timothy Grant Southee,New Zealand,Bowler,18.55
+Sabbir Rahman,18,21.28,21.49,1.01,19.0,36.5,44.44,0.0,0,3,Mohammad Sabbir Rahman,Bangladesh,Batting Allrounder,22.53
+BOP Fernando,16,33.44,34.13,1.021,20.0,47.8,37.5,25.0,1,3,Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,Top order Batter,41.15
+MS Wade,37,26.19,26.78,1.022,20.0,29.0,35.14,50.0,2,2,Matthew Scott Wade,Australia,Wicketkeeper Batter,29.36
+Babar Azam,45,38.38,39.33,1.025,21.0,62.0,40.0,22.22,4,14,Mohammad Babar Azam,Pakistan,Batter,43.17
+RJ Burns,41,31.49,32.31,1.026,20.0,40.0,34.15,20.0,2,8,Rory Joseph Burns,England,Opening Batter,31.49
+Q de Kock,64,32.02,32.89,1.027,19.0,45.2,34.38,17.65,3,14,Quinton de Kock,South Africa,Wicketkeeper Batter,33.05
+J Blackwood,28,29.18,29.99,1.028,19.0,38.0,35.71,16.67,1,5,Jermaine Blackwood,West Indies,Middle order Batter,30.26
+SW Ambris,12,13.83,14.28,1.032,9.5,14.8,50.0,0.0,0,0,Sunil Walford Ambris,West Indies,Opening Batter,13.83
+Taijul Islam,32,8.56,8.86,1.035,6.0,10.5,65.62,0.0,0,0,Taijul Islam,Bangladesh,Bowling Allrounder,9.79
+ARS Silva,23,30.52,31.63,1.036,18.0,46.5,34.78,16.67,1,5,Athege Roshen Shivanka Silva,Sri Lanka,Batter,35.1
+Mehedi Hasan Miraz,40,20.2,21.04,1.041,15.0,19.2,35.0,25.0,1,3,Mehidy Hasan Miraz,Bangladesh,Allrounder,23.76
+JC Archer,20,7.75,8.12,1.048,4.5,8.8,70.0,0.0,0,0,Jofra Chioke Archer,England,Bowler,7.75
+Imam-ul-Haq,21,23.1,24.23,1.049,9.0,29.0,52.38,0.0,0,3,Imam-ul-Haq,Pakistan,Top order Batter,25.53
+JM Bairstow,66,26.7,28.06,1.051,19.5,29.5,30.3,30.0,3,7,Jonathan Marc Bairstow,England,Wicketkeeper Batter,27.53
+BRM Taylor,16,35.12,36.97,1.053,19.0,54.2,25.0,40.0,2,3,Brendan Ross Murray Taylor,Zimbabwe,Wicketkeeper Batter,37.47
+D Bishoo,26,11.58,12.26,1.059,9.5,16.5,50.0,0.0,0,0,Devendra Bishoo,West Indies,Bowler,13.68
+PJ Cummins,48,14.44,15.32,1.061,9.0,22.5,52.08,0.0,0,2,Patrick James Cummins,Australia,Bowler,16.5
+AD Mathews,47,37.72,40.05,1.062,26.0,42.0,21.28,28.57,4,10,Angelo Davis Mathews,Sri Lanka,Allrounder,41.23
+HM Amla,49,33.59,35.81,1.066,24.0,44.0,32.65,23.08,3,10,Hashim Mahomed Amla,South Africa,Top order Batter,35.02
+K Rabada,52,9.79,10.43,1.066,4.0,17.5,57.69,0.0,0,0,Kagiso Rabada,South Africa,Bowler,10.6
+TA Blundell,16,33.62,36.3,1.08,22.0,27.5,25.0,50.0,2,2,Thomas Ackland Blundell,New Zealand,Wicketkeeper Batter,38.43
+LRPL Taylor,41,37.59,40.6,1.08,22.0,41.0,24.39,25.0,3,9,Luteru Ross Poutoa Lote Taylor,New Zealand,Middle order Batter,42.81
+MDK Perera,52,18.38,19.91,1.083,12.0,25.5,46.15,0.0,0,5,Mahawaduge Dilruwan Kamalaneth Perera,Sri Lanka,Allrounder,20.78
+R Ashwin,46,17.87,19.35,1.083,12.5,25.5,43.48,50.0,1,1,Ravichandran Ashwin,India,Bowling Allrounder,19.57
+OJ Pope,27,29.22,31.77,1.087,15.0,21.0,22.22,16.67,1,5,Oliver John Douglas Pope,England,Middle order Batter,32.88
+JR Hazlewood,38,5.05,5.52,1.092,3.0,8.0,78.95,0.0,0,0,Josh Reginald Hazlewood,Australia,Bowler,9.14
+RG Sharma,28,51.11,55.82,1.092,31.5,52.8,17.86,50.0,5,5,Rohit Gurunath Sharma,India,Top order Batter,59.62
+SSJ Brooks,14,22.21,24.34,1.096,12.5,36.2,42.86,0.0,0,3,Shamarh Shaqad Joshua Brooks,West Indies,Top order Batter,22.21
+DM Bess,19,16.79,18.44,1.099,5.0,30.0,52.63,0.0,0,1,Dominic Mark Bess,England,Bowling Allrounder,22.79
+MM Ali,44,20.55,22.6,1.1,13.0,24.8,40.91,0.0,0,5,Moeen Munir Ali,England,Batting Allrounder,21.02
+BT Foakes,16,25.62,28.2,1.101,13.0,29.0,31.25,50.0,1,1,Benjamin Thomas Foakes,England,Wicketkeeper Batter,31.54
+CA Pujara,69,42.8,47.23,1.104,24.0,50.0,27.54,30.77,8,18,Cheteshwar Arvind Pujara,India,Top order Batter,44.07
+JA Raval,35,28.43,31.53,1.109,17.0,38.5,40.0,16.67,1,5,Jeet Ashok Raval,New Zealand,Opening Batter,28.43
+SD Hope,49,27.9,30.99,1.111,17.0,31.0,30.61,28.57,2,5,Shai Diego Hope,West Indies,Wicketkeeper Batter,29.09
+KS Williamson,41,60.17,66.9,1.112,37.0,87.0,31.71,55.56,10,8,Kane Stuart Williamson,New Zealand,Top order Batter,66.68
+DT Tiripano,10,12.6,14.03,1.114,8.0,15.2,60.0,0.0,0,0,Donald Tatenda Tiripano,Zimbabwe,Bowler,15.75
+AK Markram,44,40.0,44.55,1.114,20.5,64.5,29.55,38.46,5,8,Aiden Kyle Markram,South Africa,Allrounder,40.93
+Mohammad Mithun,18,18.5,20.65,1.116,14.0,15.8,38.89,0.0,0,2,Mohammad Mithun,Bangladesh,Top order Batter,18.5
+A Dananjaya,10,13.5,15.09,1.118,8.0,21.8,60.0,0.0,0,0,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Sri Lanka,Bowling Allrounder,16.88
+FDM Karunaratne,69,37.23,41.79,1.122,23.0,46.0,28.99,30.0,6,14,Frank Dimuth Madushanka Karunaratne,Sri Lanka,Opening Batter,38.34
+DJ Malan,26,27.85,31.25,1.122,18.5,40.5,34.62,14.29,1,6,Dawid Johannes Malan,England,Top order Batter,27.85
+H Masakadza,12,35.75,40.13,1.123,22.0,37.5,25.0,33.33,1,2,Hamilton Masakadza,Zimbabwe,Top order Batter,35.75
+RL Chase,55,28.04,31.64,1.128,16.0,34.5,36.36,36.36,4,7,Roston Lamar Chase,West Indies,Allrounder,29.65
+Haris Sohail,27,31.37,35.52,1.132,17.0,31.0,40.74,40.0,2,3,Haris Sohail,Pakistan,Middle order Batter,32.58
+JO Holder,48,30.02,34.02,1.133,20.5,30.0,27.08,25.0,2,6,Jason Omar Holder,West Indies,Bowling Allrounder,36.95
+NM Lyon,53,8.7,9.86,1.134,6.0,11.0,66.04,0.0,0,0,Nathan Michael Lyon,Australia,Bowler,10.72
+JE Root,90,44.6,50.65,1.136,29.0,46.5,23.33,29.03,9,22,Joseph Edward Root,England,Top order Batter,45.1
+HM Nicholls,41,44.8,50.91,1.136,21.0,49.0,29.27,46.67,7,8,Henry Michael Nicholls,New Zealand,Top order Batter,51.03
+KL Rahul,40,28.93,32.89,1.137,13.0,41.8,37.5,10.0,1,9,Kannaur Lokesh Rahul,India,Wicketkeeper Batter,30.45
+LD Chandimal,55,33.87,38.93,1.149,20.0,43.5,34.55,28.57,4,10,Lokuge Dinesh Chandimal,Sri Lanka,Wicketkeeper Batter,37.26
+BJ Watling,36,34.94,40.21,1.151,25.5,41.5,33.33,22.22,2,7,Bradley-John Watling,New Zealand,Wicketkeeper Batter,37.0
+JJ Roy,10,18.7,21.58,1.154,9.5,20.8,50.0,0.0,0,1,Jason Jonathan Roy,England,Opening Batter,18.7
+WU Tharanga,16,26.88,31.2,1.161,18.0,19.8,31.25,33.33,1,2,Warushavithana Upul Tharanga,Sri Lanka,Batter,28.67
+F du Plessis,63,32.22,37.43,1.162,20.0,44.5,36.51,25.0,4,12,Francois du Plessis,South Africa,Middle order Batter,36.25
+Soumya Sarkar,23,30.09,35.11,1.167,15.0,30.0,30.43,20.0,1,4,Soumya Sarkar,Bangladesh,Batting Allrounder,30.09
+D Elgar,70,39.06,45.7,1.17,22.0,48.8,35.71,40.0,8,12,Dean Elgar,South Africa,Opening Batter,41.42
+Azhar Ali,52,33.38,39.09,1.171,16.0,46.2,38.46,35.71,5,9,Azhar Ali,Pakistan,Top order Batter,34.72
+Mushfiqur Rahim,40,44.1,51.72,1.173,25.5,38.8,20.0,36.36,4,7,Mohammad Mushfiqur Rahim,Bangladesh,Wicketkeeper Batter,47.68
+Shan Masood,27,35.0,41.04,1.173,19.0,45.5,33.33,42.86,3,4,Shan Masood Khan,Pakistan,Opening Batter,35.0
+S Dhawan,18,41.33,48.62,1.176,23.0,27.2,16.67,50.0,2,2,Shikhar Dhawan,India,Opening Batter,41.33
+HH Pandya,17,27.12,31.89,1.176,18.0,27.0,35.29,25.0,1,3,Hardik Himanshu Pandya,India,Allrounder,28.81
+DW Steyn,14,6.36,7.5,1.18,2.5,11.5,71.43,0.0,0,0,Dale Willem Steyn,South Africa,Bowler,9.89
+TA Boult,21,9.86,11.68,1.185,6.0,15.0,66.67,0.0,0,0,Trent Alexander Boult,New Zealand,Bowler,17.25
+V Kohli,63,52.08,62.15,1.193,28.0,65.5,26.98,52.17,12,11,Virat Kohli,India,Top order Batter,55.61
+Mahmudullah,37,30.51,36.41,1.193,17.0,32.0,35.14,42.86,3,4,Mohammad Mahmudullah,Bangladesh,Allrounder,33.21
+MJ Santner,17,26.18,31.24,1.193,19.0,21.0,29.41,50.0,1,1,Mitchell Josef Santner,New Zealand,Bowling Allrounder,27.81
+Shakib Al Hasan,22,43.0,51.35,1.194,23.5,57.8,31.82,25.0,2,6,Shakib Al Hasan,Bangladesh,Allrounder,43.0
+KAJ Roach,41,9.98,11.92,1.195,5.0,13.0,63.41,0.0,0,0,Kemar Andre Jamal Roach,West Indies,Bowler,13.63
+Zubayr Hamza,10,18.1,21.7,1.199,7.5,31.2,50.0,0.0,0,1,Zubayr Hamza,South Africa,Batter,18.1
+KC Brathwaite,64,29.38,35.36,1.204,14.0,36.8,37.5,30.77,4,9,Kraigg Clairmonte Brathwaite,West Indies,Opening Batter,30.32
+DP Sibley,30,28.33,34.55,1.219,16.0,38.8,43.33,33.33,2,4,Dominic Peter Sibley,England,Opening Batter,30.36
+MA Wood,16,13.56,16.55,1.22,6.0,18.5,68.75,0.0,0,1,Mark Andrew Wood,England,Bowler,14.47
+HMRKB Herath,29,12.31,15.05,1.223,8.0,16.0,58.62,0.0,0,1,Herath Mudiyanselage Rangana Keerthi Bandara Herath,Sri Lanka,Bowler,14.88
+CR Ervine,14,38.43,46.99,1.223,20.0,33.8,28.57,66.67,2,1,Craig Richard Ervine,Zimbabwe,Middle order Batter,38.43
+ML Cummins,15,5.6,6.86,1.226,1.0,11.5,73.33,0.0,0,0,Miguel Lamar Cummins,West Indies,Bowler,8.4
+Mohammed Shami,36,7.36,9.04,1.228,3.5,10.0,69.44,0.0,0,0,Mohammed Shami Ahmed,India,Bowler,9.46
+UT Khawaja,39,32.13,39.68,1.235,14.0,39.5,35.9,30.0,3,7,Usman Tariq Khawaja,Australia,Top order Batter,34.81
+M Morkel,22,7.68,9.54,1.242,5.0,9.2,72.73,0.0,0,0,Morne Morkel,South Africa,Bowler,12.07
+TB de Bruyn,23,18.61,23.29,1.251,10.0,25.5,43.48,100.0,1,0,Theunis Booysen de Bruyn,South Africa,Middle order Batter,19.45
+L Ngidi,13,3.23,4.04,1.252,2.0,4.0,92.31,0.0,0,0,Lungisani True-man Ngidi,South Africa,Bowler,7.0
+TWM Latham,46,45.46,57.03,1.255,24.0,43.0,26.09,40.0,6,9,Thomas William Maxwell Latham,New Zealand,Wicketkeeper Batter,48.63
+KM Jarvis,10,7.0,8.81,1.258,3.0,7.0,80.0,0.0,0,0,Kyle Malcolm Jarvis,Zimbabwe,Bowler,11.67
+SO Dowrich,46,24.33,30.77,1.265,12.5,30.8,41.3,37.5,3,5,Shane Omari Dowrich,West Indies,Wicketkeeper Batter,27.29
+DA Warner,50,44.36,56.36,1.271,29.0,47.2,26.0,46.67,7,8,David Andrew Warner,Australia,Opening Batter,47.19
+BKG Mendis,66,33.94,43.18,1.272,18.5,35.5,27.27,42.86,6,8,Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,Wicketkeeper Batter,35.56
+DM de Silva,48,27.65,35.16,1.272,15.0,30.2,33.33,33.33,3,6,Dhananjaya Maduranga de Silva,Sri Lanka,Allrounder,28.23
+N Wagner,29,12.14,15.48,1.275,8.0,18.0,58.62,0.0,0,1,Neil Wagner,New Zealand,Bowler,16.76
+Fawad Alam,10,32.0,40.84,1.276,14.0,33.8,40.0,100.0,2,0,Fawad Alam,Pakistan,Top order Batter,40.0
+CR Woakes,32,22.81,29.15,1.278,15.0,29.5,46.88,25.0,1,3,Christopher Roger Woakes,England,Allrounder,26.07
+KK Jennings,28,21.93,28.06,1.28,15.5,18.8,32.14,100.0,1,0,Keaton Kent Jennings,England,Opening Batter,22.74
+SE Marsh,34,27.65,35.49,1.284,16.0,39.0,47.06,28.57,2,5,Shaun Edward Marsh,Australia,Top order Batter,28.48
+DM Bravo,13,10.62,13.66,1.287,6.0,10.0,69.23,0.0,0,1,Darren Michael Bravo,West Indies,Top order Batter,10.62
+Abu Jayed,18,1.56,2.01,1.29,0.5,2.8,100.0,0.0,0,0,Abu Jayed Chowdhury,Bangladesh,Bowler,2.55
+MDKJ Perera,23,26.61,34.56,1.299,20.0,29.5,34.78,20.0,1,4,Mathurage Don Kusal Janith Perera,Sri Lanka,Wicketkeeper Batter,29.14
+UT Yadav,24,6.58,8.59,1.304,3.5,7.2,79.17,0.0,0,0,Umeshkumar Tilak Yadav,India,Bowler,13.17
+Mominul Haque,42,34.36,45.71,1.33,15.0,25.5,33.33,75.0,6,2,Mominul Haque,Bangladesh,Batting Allrounder,34.36
+WP Saha,22,23.55,32.13,1.364,14.0,18.2,45.45,66.67,2,1,Wriddhiman Prasanta Saha,India,Wicketkeeper Batter,30.47
+JM Anderson,52,2.69,3.68,1.367,1.0,4.0,88.46,0.0,0,0,James Michael Anderson,England,Bowler,6.36
+JA Burns,17,33.47,45.82,1.369,15.0,38.0,47.06,25.0,1,3,Joseph Anthony Burns,Italy,Batter,35.56
+KA Maharaj,50,13.26,18.4,1.388,5.5,16.8,64.0,0.0,0,3,Keshav Athmanand Maharaj,South Africa,Bowler,14.73
+MT Renshaw,15,33.67,47.0,1.396,15.0,39.5,46.67,33.33,1,2,Matthew Thomas Renshaw,Australia,Batter,33.67
+ST Gabriel,48,2.19,3.06,1.401,1.0,4.0,93.75,0.0,0,0,Shannon Terry Gabriel,West Indies,Bowler,3.39
+L Embuldeniya,16,7.56,10.66,1.409,5.0,7.8,75.0,0.0,0,0,Lasith Embuldeniya,Sri Lanka,Bowler,8.07
+Taskin Ahmed,10,6.8,9.61,1.414,4.5,5.8,90.0,0.0,0,0,Taskin Ahmed,Bangladesh,Bowler,6.8
+MA Agarwal,23,45.74,64.83,1.417,16.0,49.5,39.13,42.86,3,4,Mayank Anurag Agarawal,India,Batter,45.74
+Yasir Shah,36,14.69,20.86,1.419,7.0,19.2,61.11,100.0,1,0,Yasir Shah,Pakistan,Bowler,16.03
+MD Shanaka,10,13.6,19.71,1.449,6.0,10.8,70.0,0.0,0,1,Madagamagamage Dasun Shanaka,Sri Lanka,Allrounder,17.0
+D Olivier,12,2.17,3.16,1.457,0.5,3.2,91.67,0.0,0,0,Duanne Olivier,South Africa,Bowler,3.71
+M Vijay,24,29.04,43.39,1.494,10.5,14.5,45.83,75.0,3,1,Murali Vijay,India,Opening Batter,29.04
+AS Joseph,23,15.96,23.97,1.502,7.0,20.5,69.57,0.0,0,2,Alzarri Shaheim Joseph,West Indies,Bowler,15.96
+SCJ Broad,68,9.76,14.69,1.505,3.5,12.0,67.65,0.0,0,3,Stuart Christopher John Broad,England,Bowler,13.02
+CAK Rajitha,12,2.92,4.4,1.508,1.0,2.5,83.33,0.0,0,0,Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,Bowler,3.5
+Mustafizur Rahman,19,2.95,4.47,1.515,0.0,4.5,89.47,0.0,0,0,Mustafizur Rahman,Bangladesh,Bowler,4.67
+AN Cook,38,37.24,57.68,1.549,15.0,34.2,28.95,42.86,3,4,Alastair Nathan Cook,England,Opening Batter,38.24
+JJ Bumrah,27,1.59,2.48,1.56,0.0,3.0,96.3,0.0,0,0,Jasprit Jasbirsingh Bumrah,India,Bowler,2.53
+Naseem Shah,11,2.45,3.86,1.571,1.0,3.0,90.91,0.0,0,0,Naseem Shah,Pakistan,Bowler,3.86
+JP Duminy,11,27.82,43.83,1.576,15.0,17.5,27.27,100.0,1,0,Jean-Paul Duminy,South Africa,Batting Allrounder,30.6
+MR Marsh,24,26.42,42.35,1.603,11.0,20.5,45.83,66.67,2,1,Mitchell Ross Marsh,Australia,Allrounder,27.57
+RRS Cornwall,10,16.8,26.98,1.606,3.0,11.8,60.0,0.0,0,2,Rahkeem Rashawn Shane Cornwall,West Indies,Allrounder,21.0
+Abid Ali,15,26.67,42.86,1.607,16.0,20.5,33.33,100.0,1,0,Abid Ali,Pakistan,Opening Batter,26.67
+A Nortje,17,6.12,10.01,1.637,4.0,5.0,82.35,0.0,0,0,Anrich Arno Nortje,South Africa,Bowler,7.43
+Mohammad Abbas,32,3.34,5.69,1.703,1.0,4.0,87.5,0.0,0,0,Mohammad Abbas,Pakistan,Bowler,5.94
+CBRLS Kumara,26,1.73,3.01,1.741,0.0,2.0,96.15,0.0,0,0,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,Bowler,3.21
+Kamrul Islam Rabbi,10,4.4,7.68,1.745,1.5,5.2,90.0,0.0,0,0,Kamrul Islam Rabbi,Bangladesh,Bowler,8.8
+MJ Leach,28,9.75,17.24,1.768,5.5,11.5,71.43,0.0,0,1,Matthew Jack Leach,England,Bowler,13.65
+I Sharma,33,5.7,10.33,1.814,4.0,6.0,81.82,0.0,0,1,Ishant Sharma,India,Bowler,7.23
+Z Crawley,19,33.16,61.08,1.842,10.0,29.5,47.37,25.0,1,3,Zak Crawley,England,Top order Batter,33.16
+N Pradeep,12,1.67,3.14,1.886,0.0,1.8,91.67,0.0,0,0,Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,Bowler,1.82
+MVT Fernando,15,3.87,9.65,2.496,1.0,3.0,93.33,0.0,0,0,Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,Bowler,7.25

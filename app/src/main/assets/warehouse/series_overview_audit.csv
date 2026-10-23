@@ -1,0 +1,70 @@
+series_id,series_name,mvp,mvp_runs,mvp_avg,mvp_wkts,mvp_impact_avg,leading_batter,leading_batter_runs,leading_batter_avg,leading_bowler,leading_bowler_wkts,leading_bowler_bbi,matches_count
+1,Sri Lanka tour of South Africa 2016-17,Kagiso Rabada,8,8.0,15,213.55,Dean Elgar,211,70.33,Kagiso Rabada,15,6/54,2
+2,Pakistan tour of Australia 2016-17,David Warner,168,84.0,0,261.5,Younis Khan,188,188.0,Josh Hazlewood,7,4/55,1
+3,Bangladesh tour of New Zealand 2016-17,Shakib Al Hasan,284,71.0,6,310.25,TWM Latham,302,100.67,TA Boult,12,4/87,2
+4,South Africa tour of New Zealand 2016-17,KA Maharaj,15,5.0,15,145.67,Kane Williamson,309,77.25,KA Maharaj,15,6/40,3
+5,South Africa tour of England 2017,MM Ali,252,36.0,25,252.8,Joe Root,461,57.62,MM Ali,25,6/53,4
+6,West Indies tour of England 2017,Ben Stokes,228,57.0,9,208.73,SD Hope,375,75.0,James Anderson,19,7/42,3
+7,Bangladesh tour of India 2016-17,Virat Kohli,242,121.0,0,346.9,Virat Kohli,242,121.0,Ravichandran Ashwin,6,4/73,1
+8,Australia tour of India 2016-17,Ravindra Jadeja,127,25.4,25,229.5,Steve Smith,499,71.29,Ravindra Jadeja,25,6/63,4
+9,Ashes 2017-18,Steve Smith,687,137.4,0,200.02,Steve Smith,687,137.4,Pat Cummins,23,5/78,5
+10,Bangladesh tour of South Africa 2017-18,Dean Elgar,330,110.0,0,237.65,Dean Elgar,330,110.0,Kagiso Rabada,15,5/30,2
+11,Australia tour of South Africa 2017-18,AK Markram,480,60.0,0,189.88,AK Markram,480,60.0,Kagiso Rabada,23,6/52,4
+12,Pakistan tour of West Indies 2017,RL Chase,403,100.75,6,251.83,RL Chase,403,100.75,Yasir Shah,25,7/94,3
+13,Bangladesh tour of Sri Lanka 2016-17,Shakib Al Hasan,162,40.5,9,246.0,BKG Mendis,254,63.5,HMRKB Herath,16,6/59,2
+14,Australia tour of Bangladesh 2017,NM Lyon,12,4.0,22,332.8,David Warner,251,62.75,NM Lyon,22,8/94,2
+15,Zimbabwe tour of Sri Lanka 2017,HMRKB Herath,22,22.0,11,331.4,CR Ervine,165,82.5,HMRKB Herath,11,6/133,1
+16,India tour of Sri Lanka 2017,Ravichandran Ashwin,132,44.0,17,221.57,Shikhar Dhawan,358,89.5,Ravichandran Ashwin,17,5/69,3
+17,England tour of New Zealand 2017-18,TG Southee,75,37.5,12,223.5,JM Bairstow,163,40.75,TA Boult,15,6/32,2
+18,West Indies tour of New Zealand 2017-18,C de Grandhomme,185,61.67,4,213.15,LRPL Taylor,216,108.0,Neil Wagner,14,7/39,2
+19,Pakistan tour of England 2018,Mohammad Abbas,7,3.5,10,138.6,JC Buttler,161,80.5,Mohammad Abbas,10,4/23,2
+20,India tour of England 2018,Virat Kohli,593,59.3,0,167.86,Virat Kohli,593,59.3,James Anderson,24,6/20,5
+21,Sri Lanka tour of Pakistan 2017-18,HMRKB Herath,48,16.0,16,254.15,FDM Karunaratne,306,76.5,Yasir Shah,16,6/184,2
+22,India tour of South Africa 2017-18,Mohammed Shami,72,14.4,15,187.77,Virat Kohli,286,47.67,Kagiso Rabada,15,3/34,3
+23,Zimbabwe tour of South Africa 2017-18,AK Markram,125,125.0,0,175.3,AK Markram,125,125.0,Morne Morkel,5,5/21,1
+24,Sri Lanka tour of India 2017-18,Virat Kohli,610,152.5,0,315.4,Virat Kohli,610,152.5,Ravichandran Ashwin,12,4/63,3
+25,West Indies tour of Zimbabwe 2017-18,Sikandar Raza,205,51.25,7,243.55,Hamilton Masakadza,251,62.75,Devendra Bishoo,13,5/79,2
+26,Pakistan tour of Ireland 2018,KJ O'Brien,158,79.0,0,248.3,KJ O'Brien,158,79.0,Mohammad Abbas,9,5/65,1
+27,Sri Lanka tour of Bangladesh 2017-18,Mominul Haque,314,78.5,0,220.8,Mominul Haque,314,78.5,Taijul Islam,12,4/76,2
+28,Sri Lanka tour of West Indies 2018,JO Holder,198,39.6,12,204.07,SO Dowrich,288,57.6,ST Gabriel,20,8/58,3
+29,England tour of Sri Lanka 2018-19,MDK Perera,73,12.17,22,225.67,BT Foakes,277,69.25,MDK Perera,22,5/75,3
+30,South Africa tour of Sri Lanka 2018,FDM Karunaratne,356,118.67,0,249.8,FDM Karunaratne,356,118.67,KA Maharaj,16,9/129,2
+31,Pakistan tour of South Africa 2018-19,Duanne Olivier,11,5.5,24,220.2,Quinton de Kock,251,62.75,Duanne Olivier,24,6/37,3
+32,Sri Lanka tour of South Africa 2018-19,MDKJ Perera,224,112.0,0,176.05,MDKJ Perera,224,112.0,MVT Fernando,12,5/62,2
+33,India tour of Australia 2018-19,Cheteshwar Pujara,521,74.43,0,171.35,Cheteshwar Pujara,521,74.43,JJ Bumrah,21,6/33,4
+34,Sri Lanka tour of Australia 2018-19,TM Head,304,152.0,0,214.2,TM Head,304,152.0,Pat Cummins,14,6/23,2
+35,Bangladesh tour of West Indies 2018,JO Holder,67,33.5,16,270.85,KC Brathwaite,239,79.67,JO Holder,16,6/59,2
+36,Ireland tour of England 2019,Stuart Broad,24,24.0,7,219.2,MJ Leach,93,93.0,Stuart Broad,7,4/19,1
+37,Ashes 2019,Steve Smith,774,110.57,0,278.4,Steve Smith,774,110.57,Pat Cummins,29,4/31,5
+38,West Indies tour of Bangladesh 2018-19,Mehedi Hasan Miraz,58,19.33,15,237.35,SO Hetmyer,222,55.5,Mehedi Hasan Miraz,15,7/58,2
+39,Zimbabwe tour of Bangladesh 2018-19,Taijul Islam,12,4.0,18,253.3,Mushfiqur Rahim,270,90.0,Taijul Islam,18,6/108,2
+40,Sri Lanka tour of New Zealand 2018-19,TWM Latham,450,225.0,0,304.05,TWM Latham,450,225.0,TG Southee,13,6/68,2
+41,Bangladesh tour of New Zealand 2018-19,Neil Wagner,47,47.0,16,239.9,Tamim Iqbal,278,69.5,Neil Wagner,16,5/45,2
+42,Australia tour of Pakistan 2018-19,Mohammad Abbas,11,5.5,17,242.15,UT Khawaja,229,76.33,Mohammad Abbas,17,5/33,2
+43,New Zealand tour of Pakistan 2018-19,Yasir Shah,14,3.5,29,258.5,Kane Williamson,386,77.2,Yasir Shah,29,9/41,3
+44,West Indies tour of India 2018-19,UT Yadav,24,12.0,11,183.35,PP Shaw,237,118.5,UT Yadav,11,6/88,2
+45,England tour of West Indies 2018-19,JO Holder,229,114.5,7,282.8,JO Holder,229,114.5,KAJ Roach,18,5/17,3
+46,Pakistan tour of Australia 2019-20,David Warner,489,489.0,0,332.2,David Warner,489,489.0,Mitchell Starc,14,6/66,2
+47,New Zealand tour of Australia 2019-20,Marnus Labuschagne,549,91.5,2,290.97,Marnus Labuschagne,549,91.5,NM Lyon,20,5/50,3
+48,England tour of South Africa 2019-20,Ben Stokes,318,45.43,10,191.0,Quinton de Kock,380,47.5,A Nortje,18,5/107,4
+49,South Africa tour of India 2019-20,Rohit Sharma,529,132.25,0,280.23,Rohit Sharma,529,132.25,Ravichandran Ashwin,15,7/145,3
+50,Bangladesh tour of India 2019-20,UT Yadav,25,25.0,12,214.9,MA Agarwal,257,128.5,Ishant Sharma,12,6/22,2
+51,England tour of New Zealand 2019-20,Neil Wagner,11,11.0,13,206.4,Bradley-John Watling,260,130.0,Neil Wagner,13,6/123,2
+52,India tour of New Zealand 2019-20,TG Southee,6,3.0,14,217.4,TWM Latham,122,40.67,TG Southee,14,5/49,2
+53,India tour of West Indies 2019,GH Vihari,289,96.33,0,227.25,GH Vihari,289,96.33,JJ Bumrah,13,6/27,2
+54,New Zealand tour of Sri Lanka 2019,TG Southee,61,30.5,7,166.65,FDM Karunaratne,247,61.75,AY Patel,9,5/89,2
+55,Pakistan tour of England 2020,Zak Crawley,267,267.0,0,376.6,Zak Crawley,267,267.0,Yasir Shah,10,4/65,2
+56,Sri Lanka tour of Pakistan 2019-20,Abid Ali,212,106.0,0,316.1,Abid Ali,212,106.0,CBRLS Kumara,6,4/49,1
+57,Sri Lanka tour of Zimbabwe 2019-20,Sikandar Raza,164,41.0,11,258.2,AD Mathews,277,138.5,Lasith Embuldeniya,13,5/114,2
+58,Bangladesh tour of Pakistan 2019-20,Babar Azam,143,143.0,0,198.8,Babar Azam,143,143.0,Naseem Shah,5,4/26,1
+59,Zimbabwe tour of Bangladesh 2019-20,Mushfiqur Rahim,203,203.0,0,303.6,Mushfiqur Rahim,203,203.0,Nayeem Hasan,9,5/82,1
+60,India tour of Australia 2020-21,Pat Cummins,61,12.2,21,166.97,Marnus Labuschagne,426,53.25,Pat Cummins,21,5/21,4
+61,West Indies tour of England 2020,Ben Stokes,363,90.75,9,249.73,Ben Stokes,363,90.75,Stuart Broad,16,6/31,3
+62,West Indies tour of New Zealand 2020-21,KA Jamieson,71,71.0,11,199.6,Kane Williamson,251,251.0,TG Southee,12,5/32,2
+63,Pakistan tour of New Zealand 2020-21,Kane Williamson,388,129.33,1,316.15,Kane Williamson,388,129.33,KA Jamieson,16,6/44,2
+64,Sri Lanka tour of South Africa 2020-21,Dean Elgar,253,126.5,0,180.95,Dean Elgar,253,126.5,A Nortje,11,6/56,2
+65,England tour of Sri Lanka 2020-21,Joe Root,426,106.5,2,354.95,Joe Root,426,106.5,Lasith Embuldeniya,15,7/133,2
+66,South Africa tour of Pakistan 2020-21,Hasan Ali,34,11.33,12,213.55,AK Markram,227,56.75,Hasan Ali,12,7/48,2
+67,England tour of India 2020-21,Ravichandran Ashwin,189,31.5,32,272.57,Joe Root,368,46.0,Ravichandran Ashwin,32,6/58,4
+68,West Indies tour of Bangladesh 2020-21,Mehedi Hasan Miraz,198,49.5,10,272.95,KR Mayers,261,87.0,RRS Cornwall,14,5/74,2
+69,Sri Lanka tour of West Indies 2020-21,KR Mayers,201,50.25,4,216.8,HDRL Thirimanne,240,60.0,RAS Lakmal,11,5/44,2

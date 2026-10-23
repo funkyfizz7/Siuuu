@@ -1,0 +1,45 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper: Check if user is authenticated
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // Helper: Check if user is an approved editor in authorized_editors collection
+    function isAuthorizedEditor() {
+      return isAuthenticated() &&
+        exists(/databases/$(database)/documents/authorized_editors/$(request.auth.uid)) &&
+        get(/databases/$(database)/documents/authorized_editors/$(request.auth.uid)).data.isActive == true;
+    }
+
+    // Helper: Check if user is an admin
+    function isAdmin() {
+      return isAuthenticated() &&
+        exists(/databases/$(database)/documents/authorized_editors/$(request.auth.uid)) &&
+        get(/databases/$(database)/documents/authorized_editors/$(request.auth.uid)).data.role == 'admin' &&
+        get(/databases/$(database)/documents/authorized_editors/$(request.auth.uid)).data.isActive == true;
+    }
+
+    // Authorized Editors Allowlist collection
+    match /authorized_editors/{editorId} {
+      // Editors can read their own profile to verify their role/status
+      allow read: if isAuthenticated() && (request.auth.uid == editorId || isAdmin());
+      // Only admins can create, update, or revoke editor permissions
+      allow write: if isAdmin();
+    }
+
+    // Narrative Overrides collection
+    // Document ID format: {matchId}_{narrativeType}_{itemKey}
+    match /match_narrative_overrides/{overrideId} {
+      // Public / Android client read:
+      // Allow reading published overrides without authentication.
+      // Drafts can only be read by authorized editors.
+      allow read: if resource.data.status == 'published' || isAuthorizedEditor();
+
+      // Only authorized editors can write (create, draft, publish, revert) overrides
+      allow write: if isAuthorizedEditor();
+    }
+  }
+}

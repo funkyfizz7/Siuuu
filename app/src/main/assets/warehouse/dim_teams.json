@@ -1,0 +1,46 @@
+[
+    {
+        "team_id": 1,
+        "team_name": "Australia"
+    },
+    {
+        "team_id": 2,
+        "team_name": "Bangladesh"
+    },
+    {
+        "team_id": 3,
+        "team_name": "England"
+    },
+    {
+        "team_id": 4,
+        "team_name": "India"
+    },
+    {
+        "team_id": 5,
+        "team_name": "Ireland"
+    },
+    {
+        "team_id": 6,
+        "team_name": "New Zealand"
+    },
+    {
+        "team_id": 7,
+        "team_name": "Pakistan"
+    },
+    {
+        "team_id": 8,
+        "team_name": "South Africa"
+    },
+    {
+        "team_id": 9,
+        "team_name": "Sri Lanka"
+    },
+    {
+        "team_id": 10,
+        "team_name": "West Indies"
+    },
+    {
+        "team_id": 11,
+        "team_name": "Zimbabwe"
+    }
+]

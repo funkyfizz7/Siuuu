@@ -1,0 +1,70 @@
+series_id,series_name,season,start_date,end_date,team1,team2,total_matches,winner,result_margin,venue_countries
+1,Sri Lanka tour of South Africa 2016-17,2016/17,2017-01-02,2017-01-14,South Africa,Sri Lanka,2,South Africa,2-0,South Africa
+2,Pakistan tour of Australia 2016-17,2016/17,2017-01-03,2017-01-07,Australia,Pakistan,1,Australia,1-0,Australia
+3,Bangladesh tour of New Zealand 2016-17,2016/17,2017-01-12,2017-01-23,New Zealand,Bangladesh,2,New Zealand,2-0,New Zealand
+4,South Africa tour of New Zealand 2016-17,2016/17,2017-03-08,2017-03-29,New Zealand,South Africa,3,South Africa,1-0,New Zealand
+5,South Africa tour of England 2017,2017,2017-07-06,2017-08-07,England,South Africa,4,England,3-1,England
+6,West Indies tour of England 2017,2017,2017-08-17,2017-09-09,England,West Indies,3,England,2-1,England
+7,Bangladesh tour of India 2016-17,2016/17,2017-02-09,2017-02-13,India,Bangladesh,1,India,1-0,India
+8,Australia tour of India 2016-17,2016/17,2017-02-23,2017-03-28,India,Australia,4,India,2-1,India
+9,Ashes 2017-18,2017/18,2017-11-23,2018-01-08,Australia,England,5,Australia,4-0,Australia
+10,Bangladesh tour of South Africa 2017-18,2017/18,2017-09-28,2017-10-08,South Africa,Bangladesh,2,South Africa,2-0,South Africa
+11,Australia tour of South Africa 2017-18,2017/18,2018-03-01,2018-04-03,South Africa,Australia,4,South Africa,3-1,South Africa
+12,Pakistan tour of West Indies 2017,2017,2017-04-21,2017-05-14,West Indies,Pakistan,3,Pakistan,2-1,West Indies
+13,Bangladesh tour of Sri Lanka 2016-17,2016/17,2017-03-07,2017-03-19,Sri Lanka,Bangladesh,2,Drawn,1-1,Sri Lanka
+14,Australia tour of Bangladesh 2017,2017,2017-08-27,2017-09-07,Bangladesh,Australia,2,Drawn,1-1,Bangladesh
+15,Zimbabwe tour of Sri Lanka 2017,2017,2017-07-14,2017-07-18,Sri Lanka,Zimbabwe,1,Sri Lanka,1-0,Sri Lanka
+16,India tour of Sri Lanka 2017,2017,2017-07-26,2017-08-14,Sri Lanka,India,3,India,3-0,Sri Lanka
+17,England tour of New Zealand 2017-18,2017/18,2018-03-22,2018-04-03,New Zealand,England,2,New Zealand,1-0,New Zealand
+18,West Indies tour of New Zealand 2017-18,2017/18,2017-12-01,2017-12-12,New Zealand,West Indies,2,New Zealand,2-0,New Zealand
+19,Pakistan tour of England 2018,2018,2018-05-24,2018-06-03,England,Pakistan,2,Drawn,1-1,England
+20,India tour of England 2018,2018,2018-08-01,2018-09-11,England,India,5,England,4-1,England
+21,Sri Lanka tour of Pakistan 2017-18,2017/18,2017-09-28,2017-10-10,Pakistan,Sri Lanka,2,Sri Lanka,2-0,United Arab Emirates
+22,India tour of South Africa 2017-18,2017/18,2018-01-05,2018-01-27,South Africa,India,3,South Africa,2-1,South Africa
+23,Zimbabwe tour of South Africa 2017-18,2017/18,2017-12-26,2017-12-27,South Africa,Zimbabwe,1,South Africa,1-0,South Africa
+24,Sri Lanka tour of India 2017-18,2017/18,2017-11-16,2017-12-06,India,Sri Lanka,3,India,1-0,India
+25,West Indies tour of Zimbabwe 2017-18,2017/18,2017-10-21,2017-11-02,Zimbabwe,West Indies,2,West Indies,1-0,Zimbabwe
+26,Pakistan tour of Ireland 2018,2018,2018-05-11,2018-05-15,Ireland,Pakistan,1,Pakistan,1-0,Ireland
+27,Sri Lanka tour of Bangladesh 2017-18,2017/18,2018-01-31,2018-02-10,Bangladesh,Sri Lanka,2,Sri Lanka,1-0,Bangladesh
+28,Sri Lanka tour of West Indies 2018,2018,2018-06-06,2018-06-26,West Indies,Sri Lanka,3,Drawn,1-1,West Indies
+29,England tour of Sri Lanka 2018-19,2018/19,2018-11-06,2018-11-26,Sri Lanka,England,3,England,3-0,Sri Lanka
+30,South Africa tour of Sri Lanka 2018,2018,2018-07-12,2018-07-23,Sri Lanka,South Africa,2,Sri Lanka,2-0,Sri Lanka
+31,Pakistan tour of South Africa 2018-19,2018/19,2018-12-26,2019-01-14,South Africa,Pakistan,3,South Africa,3-0,South Africa
+32,Sri Lanka tour of South Africa 2018-19,2018/19,2019-02-13,2019-02-23,South Africa,Sri Lanka,2,Sri Lanka,2-0,South Africa
+33,India tour of Australia 2018-19,2018/19,2018-12-06,2019-01-07,Australia,India,4,India,2-1,Australia
+34,Sri Lanka tour of Australia 2018-19,2018/19,2019-01-24,2019-02-04,Australia,Sri Lanka,2,Australia,2-0,Australia
+35,Bangladesh tour of West Indies 2018,2018,2018-07-04,2018-07-14,West Indies,Bangladesh,2,West Indies,2-0,West Indies
+36,Ireland tour of England 2019,2019,2019-07-24,2019-07-26,England,Ireland,1,England,1-0,England
+37,Ashes 2019,2019,2019-08-01,2019-09-15,England,Australia,5,Drawn,2-2,England
+38,West Indies tour of Bangladesh 2018-19,2018/19,2018-11-22,2018-12-02,Bangladesh,West Indies,2,Bangladesh,2-0,Bangladesh
+39,Zimbabwe tour of Bangladesh 2018-19,2018/19,2018-11-03,2018-11-15,Bangladesh,Zimbabwe,2,Drawn,1-1,Bangladesh
+40,Sri Lanka tour of New Zealand 2018-19,2018/19,2018-12-15,2018-12-30,New Zealand,Sri Lanka,2,New Zealand,1-0,New Zealand
+41,Bangladesh tour of New Zealand 2018-19,2018/19,2019-02-28,2019-03-12,New Zealand,Bangladesh,2,New Zealand,2-0,New Zealand
+42,Australia tour of Pakistan 2018-19,2018/19,2018-10-07,2018-10-19,Pakistan,Australia,2,Pakistan,1-0,United Arab Emirates
+43,New Zealand tour of Pakistan 2018-19,2018/19,2018-11-16,2018-12-07,Pakistan,New Zealand,3,New Zealand,2-1,United Arab Emirates
+44,West Indies tour of India 2018-19,2018/19,2018-10-04,2018-10-14,India,West Indies,2,India,2-0,India
+45,England tour of West Indies 2018-19,2018/19,2019-01-23,2019-02-12,West Indies,England,3,West Indies,2-1,West Indies
+46,Pakistan tour of Australia 2019-20,2019/20,2019-11-21,2019-12-02,Australia,Pakistan,2,Australia,2-0,Australia
+47,New Zealand tour of Australia 2019-20,2019/20,2019-12-12,2020-01-06,Australia,New Zealand,3,Australia,3-0,Australia
+48,England tour of South Africa 2019-20,2019/20,2019-12-26,2020-01-27,South Africa,England,4,England,3-1,South Africa
+49,South Africa tour of India 2019-20,2019/20,2019-10-02,2019-10-22,India,South Africa,3,India,3-0,India
+50,Bangladesh tour of India 2019-20,2019/20,2019-11-14,2019-11-24,India,Bangladesh,2,India,2-0,India
+51,England tour of New Zealand 2019-20,2019/20,2019-11-21,2019-12-03,New Zealand,England,2,New Zealand,1-0,New Zealand
+52,India tour of New Zealand 2019-20,2019/20,2020-02-21,2020-03-02,New Zealand,India,2,New Zealand,2-0,New Zealand
+53,India tour of West Indies 2019,2019,2019-08-22,2019-09-02,West Indies,India,2,India,2-0,West Indies
+54,New Zealand tour of Sri Lanka 2019,2019,2019-08-14,2019-08-26,Sri Lanka,New Zealand,2,Drawn,1-1,Sri Lanka
+55,Pakistan tour of England 2020,2020,2020-08-05,2020-08-25,England,Pakistan,2,England,1-0,England
+56,Sri Lanka tour of Pakistan 2019-20,2019/20,2019-12-19,2019-12-23,Pakistan,Sri Lanka,1,Pakistan,1-0,Pakistan
+57,Sri Lanka tour of Zimbabwe 2019-20,2019/20,2020-01-19,2020-01-31,Zimbabwe,Sri Lanka,2,Sri Lanka,1-0,Zimbabwe
+58,Bangladesh tour of Pakistan 2019-20,2019/20,2020-02-07,2020-02-10,Pakistan,Bangladesh,1,Pakistan,1-0,Pakistan
+59,Zimbabwe tour of Bangladesh 2019-20,2019/20,2020-02-22,2020-02-25,Bangladesh,Zimbabwe,1,Bangladesh,1-0,Bangladesh
+60,India tour of Australia 2020-21,2020/21,2020-12-17,2021-01-19,Australia,India,4,India,2-1,Australia
+61,West Indies tour of England 2020,2020,2020-07-08,2020-07-28,England,West Indies,3,England,2-1,England
+62,West Indies tour of New Zealand 2020-21,2020/21,2020-12-03,2020-12-14,New Zealand,West Indies,2,New Zealand,2-0,New Zealand
+63,Pakistan tour of New Zealand 2020-21,2020/21,2020-12-26,2021-01-06,New Zealand,Pakistan,2,New Zealand,2-0,New Zealand
+64,Sri Lanka tour of South Africa 2020-21,2020/21,2020-12-26,2021-01-05,South Africa,Sri Lanka,2,South Africa,2-0,South Africa
+65,England tour of Sri Lanka 2020-21,2020/21,2021-01-14,2021-01-25,Sri Lanka,England,2,England,2-0,Sri Lanka
+66,South Africa tour of Pakistan 2020-21,2020/21,2021-01-26,2021-02-08,Pakistan,South Africa,2,Pakistan,2-0,Pakistan
+67,England tour of India 2020-21,2020/21,2021-02-05,2021-03-06,India,England,4,India,3-1,India
+68,West Indies tour of Bangladesh 2020-21,2020/21,2021-02-03,2021-02-14,Bangladesh,West Indies,2,West Indies,2-0,Bangladesh
+69,Sri Lanka tour of West Indies 2020-21,2020/21,2021-03-21,2021-04-02,West Indies,Sri Lanka,2,Drawn,0-0,West Indies
